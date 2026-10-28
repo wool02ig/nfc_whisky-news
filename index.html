@@ -1,14 +1,14 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#101417"><title>NFC_ウイスキーニュース</title>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#101417"><title>NFC WHISKY NEWS</title><link rel="icon" href="favicon.svg" type="image/svg+xml">
 <style>
 
 :root{color-scheme:dark;font-family:system-ui,-apple-system,"Yu Gothic",Meiryo,sans-serif;color:#eee7dd;background:#101417}
 *{box-sizing:border-box}
-body{margin:0;min-height:100vh;background:radial-gradient(circle at 50% -12%,#302a21 0,transparent 45%),#101417}
+body{margin:0;min-height:100vh;background:#101417}
 main{max-width:760px;margin:auto;padding:16px 14px 36px}
-.hero{border:1px solid #50402a;border-radius:20px;background:linear-gradient(125deg,#242c30 0%,#26231f 55%,#392916 100%);padding:25px 20px;box-shadow:0 12px 28px #0005}
+.hero{border:0;border-radius:0;background:transparent;padding:16px 3px 12px;box-shadow:none}
 .eyebrow{font-size:10px;letter-spacing:.22em;color:#d4a85f;font-weight:700}
-h1{font-size:25px;margin:9px 0;color:#fff8eb}
+h1{font-size:clamp(18px,4.4vw,25px);margin:9px 0;color:#fff8eb;line-height:1.4;letter-spacing:.015em}.header-star{color:#d0a45d;margin:0 5px}
 p{margin:8px 0;color:#c0b8ad;font-size:12px;line-height:1.65}
 #updated{color:#e2c38a}
 .tools{display:flex;gap:8px;margin:17px 0 10px;align-items:center;flex-wrap:wrap}
@@ -19,8 +19,8 @@ input:focus,select:focus-visible,button:focus-visible{outline:2px solid #cda25b;
 .search{flex:1;min-width:160px}
 .chips{display:flex;gap:7px;overflow-x:auto;padding:6px 0 11px;scrollbar-width:thin}
 button{white-space:nowrap;border:1px solid #4b4a43;background:#212728;border-radius:20px;padding:8px 12px;cursor:pointer;font-size:12px;transition:background-color .15s,border-color .15s}
-button:hover{background:#303735}
-button[aria-pressed=true]{background:#bd9657;color:#171a18;border-color:#bd9657;font-weight:750}
+button:hover{border-color:#b99357}
+button[aria-pressed=true]{background:#212728;color:#e6bf79;border-color:#c29a5c;font-weight:750}
 button:disabled{opacity:.6;cursor:wait}
 #reload{border-color:#766044;color:#efcf93}
 .row{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:7px 0 13px}
@@ -30,30 +30,34 @@ select{border:1px solid #4b4a43;border-radius:10px;background:#212728;padding:8p
 .article:hover .headline{color:#efcc8e;text-decoration:underline}
 .tags{display:flex;align-items:center;gap:7px;margin-bottom:8px;font-size:11px;color:#adb5b2}
 .tag{background:#423624;color:#edc586;padding:3px 8px;border-radius:8px}
-.headline{line-height:1.6;font-size:15px;font-weight:750;margin:0 0 8px;overflow-wrap:anywhere}
+.new-badge{color:#151811;background:#d9ae64;border-radius:5px;padding:2px 5px;font-size:10px;font-weight:800;letter-spacing:.04em}.headline{line-height:1.6;font-size:15px;font-weight:750;margin:0 0 8px;overflow-wrap:anywhere}
 .source{font-size:11px;color:#adb5b2;display:flex;justify-content:space-between;gap:10px}
 .source span:last-child{color:#d2ad6d}
 .status{padding:26px 9px;text-align:center;color:#adb5b2;font-size:13px;line-height:1.8;white-space:pre-line}
 .footer{text-align:center;color:#858f8b;font-size:11px;padding:22px 4px;line-height:1.8}
 a{touch-action:manipulation}
-@media(min-width:700px){main{padding-top:30px}.hero{padding:29px}h1{font-size:30px}}
+@media(min-width:700px){main{padding-top:30px}.hero{padding:18px 3px 14px}h1{font-size:30px}}
 @media(prefers-reduced-motion:reduce){button{transition:none}}
-</style></head><body><main><header class="hero"><div class="eyebrow">NFC WHISKY NEWS</div><h1>🥃 ウイスキーニュース</h1><p>国内・海外の新商品、限定販売、蒸留所、業界情報をまとめてチェック</p><p id="updated">ニュース更新：確認中</p></header>
+</style></head><body><main><header class="hero"><h1>WOOL PRIVATE COLLECTION <span class="header-star">✦</span>WHISKY NEWS</h1><p>国内・海外の新商品、限定販売、蒸留所、業界情報をまとめてチェック</p><p id="updated">ニュース更新：確認中</p></header>
 <div class="tools"><input class="search" id="search" placeholder="銘柄・蒸留所・記事を検索" aria-label="記事を検索"><button id="reload" type="button" aria-label="ニュースを再取得">↻ 更新</button></div>
 <div class="chips" id="categories" aria-label="ニュースカテゴリ"></div>
-<div class="row"><span class="meta" id="count">読み込み中...</span><select id="region" aria-label="地域"><option value="all">国内・海外</option><option value="domestic">国内</option><option value="international">海外</option></select></div>
+<div class="row"><span class="meta" id="count">読み込み中...</span><select id="region" aria-label="地域"><option value="all">国内・海外</option><option value="domestic" selected>国内</option><option value="international">海外</option></select></div>
 <div id="articles" aria-live="polite"></div><div class="footer">記事は各メディアのサイトで閲覧できます<br>取得元や掲載内容の正確性は元記事をご確認ください</div></main>
 <script>
 'use strict';
 const labels={all:'すべて',new:'新商品',limited:'限定・抽選',distillery:'蒸留所',industry:'業界'};
-const state={articles:[],category:'all',region:'all',search:''};
+const state={articles:[],category:'all',region:'domestic',search:''};
+const readKey='nfc-whisky-news-read-v1';
+function getRead(){try{const value=JSON.parse(localStorage.getItem(readKey)||'[]');return new Set(Array.isArray(value)?value:[])}catch{return new Set()}}
+const readArticles=getRead();
+function markRead(url){readArticles.add(url);try{const ids=Array.from(readArticles).slice(-2000);localStorage.setItem(readKey,JSON.stringify(ids))}catch{}}
 const $=id=>document.getElementById(id);
 function el(tag,cls,text){const node=document.createElement(tag);if(cls)node.className=cls;if(text!==undefined)node.textContent=text;return node}
 function fmt(value){if(!value)return '未取得';const date=new Date(value);return Number.isNaN(+date)?'未取得':new Intl.DateTimeFormat('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(date)}
 function renderCategories(){const root=$('categories');root.replaceChildren();Object.entries(labels).forEach(([key,title])=>{const btn=el('button','',title);btn.type='button';btn.setAttribute('aria-pressed',String(state.category===key));btn.onclick=()=>{state.category=key;renderCategories();render()};root.append(btn)})}
 function render(){const root=$('articles');root.replaceChildren();const filtered=state.articles.filter(a=>(state.category==='all'||a.category===state.category)&&(state.region==='all'||a.region===state.region)&&(`${a.title} ${a.source}`).toLocaleLowerCase().includes(state.search));$('count').textContent=`${filtered.length} 件の記事`;
 if(!filtered.length){root.append(el('div','status',state.articles.length?'条件に一致する記事はありません':'現在表示できるニュースはありません。\nGitHub Actionsで初回取得を実行してください。'));return}
-filtered.forEach(a=>{const link=el('a','article');link.href=a.url;link.target='_blank';link.rel='noopener noreferrer';const tags=el('div','tags');tags.append(el('span','tag',labels[a.category]||labels.industry),el('span','',a.region==='domestic'?'国内':'海外'),el('span','',fmt(a.publishedAt)));link.append(tags,el('div','headline',a.title));const footer=el('div','source');footer.append(el('span','',a.source||'出典不明'),el('span','','元記事を開く ↗'));link.append(footer);root.append(link)})}
+filtered.forEach(a=>{const link=el('a','article');link.href=a.url;link.target='_blank';link.rel='noopener noreferrer';const tags=el('div','tags');tags.append(el('span','tag',labels[a.category]||labels.industry),el('span','',a.region==='domestic'?'国内':'海外'),el('span','',fmt(a.publishedAt)));if(!readArticles.has(a.url))tags.append(el('span','new-badge','NEW'));link.addEventListener('click',()=>{markRead(a.url);const badge=tags.querySelector('.new-badge');if(badge)badge.remove()});link.append(tags,el('div','headline',a.title));const footer=el('div','source');footer.append(el('span','',a.source||'出典不明'));link.append(footer);root.append(link)})}
 async function load(){const reload=$('reload');reload.disabled=true;reload.textContent='↻ 取得中';$('updated').textContent='ニュース更新：確認中';try{const response=await fetch(`data/news.json?t=${Date.now()}`,{cache:'no-store'});if(!response.ok)throw Error('HTTP '+response.status);const data=await response.json();if(!Array.isArray(data.articles))throw Error('不正なデータ');state.articles=data.articles.filter(a=>typeof a.title==='string'&&typeof a.url==='string'&&a.url.startsWith('https://'));$('updated').textContent='ニュース更新：'+fmt(data.updatedAt);render()}catch(err){$('updated').textContent='ニュース更新：取得に失敗しました（表示中の記事は前回取得分）';if(!state.articles.length){$('articles').replaceChildren(el('div','status','ニュースの取得に失敗しました。通信環境やデータファイルを確認してください。'));$('count').textContent='取得エラー'}console.error(err)}finally{reload.disabled=false;reload.textContent='↻ 更新'}}
 $('search').addEventListener('input',e=>{state.search=e.target.value.trim().toLocaleLowerCase();render()});$('region').addEventListener('change',e=>{state.region=e.target.value;render()});$('reload').onclick=load;renderCategories();load();
 </script></body></html>
