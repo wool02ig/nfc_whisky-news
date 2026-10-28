@@ -2,6 +2,8 @@
 """Collect whisky news from Japanese/English Google News RSS feeds."""
 import datetime as dt
 import email.utils
+import html
+from html.parser import HTMLParser
 import hashlib
 import json
 import re
@@ -58,6 +60,53 @@ def load_existing():
     except (ValueError, OSError):
         return []
 
+
+MEDIA_NS = '{http://search.yahoo.com/mrss/}'
+
+class ImageMetaParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.image = None
+    def handle_starttag(self, tag, attrs):
+        if tag != 'meta' or self.image:
+            return
+        data = dict(attrs)
+        if data.get('property','').lower() in ('og:image', 'og:image:url') or data.get('name','').lower() == 'twitter:image':
+            self.image = data.get('content')
+
+def is_https_url(url):
+    try:
+        parts = urllib.parse.urlsplit(url)
+        return parts.scheme == 'https' and bool(parts.hostname) and not parts.username and not parts.password
+    except (ValueError, TypeError):
+        return False
+
+def rss_image(entry):
+    for element in entry.iter():
+        if element.tag in (MEDIA_NS + 'thumbnail', MEDIA_NS + 'content', 'enclosure'):
+            candidate = element.get('url','')
+            if is_https_url(candidate) and (element.tag != 'enclosure' or element.get('type','').startswith('image/')):
+                return candidate
+    return None
+
+def article_image(url):
+    # Google News links are intermediate links, not publisher articles.
+    if not is_https_url(url) or urllib.parse.urlsplit(url).hostname == 'news.google.com':
+        return None
+    try:
+        request = urllib.request.Request(url, headers={'User-Agent':'Mozilla/5.0 (NFCWhiskyNews/1.4)'})
+        with urllib.request.urlopen(request, timeout=5) as response:
+            if 'text/html' not in response.headers.get('Content-Type',''):
+                return None
+            final_url = response.geturl()
+            document = response.read(150_000).decode('utf-8', errors='replace')
+        parser = ImageMetaParser()
+        parser.feed(document)
+        image_url = urllib.parse.urljoin(final_url, html.unescape(parser.image or ''))
+        return image_url if parser.image and is_https_url(image_url) else None
+    except Exception:
+        return None
+
 def main():
     items = {}
     successes = 0
@@ -93,6 +142,8 @@ def main():
                       'source': source, 'publishedAt': published.isoformat().replace('+00:00', 'Z'),
                       'category': category(title), 'language': 'ja' if locale == 'ja' else 'en',
                       'region': 'domestic' if locale == 'ja' else 'international'}
+            img = rss_image(entry)
+            if img: record['image'] = img
             previous = items.get(unique)
             if not previous or previous['publishedAt'] < record['publishedAt']:
                 items[unique] = record
@@ -106,6 +157,27 @@ def main():
                 items.setdefault(old['id'], old)
         except (KeyError, ValueError, TypeError):
             continue
+    # Reuse existing article photos across hourly runs.
+    past = {a.get('id'): a for a in load_existing()}
+    for item in items.values():
+        older = past.get(item['id'], {})
+        if not item.get('image') and is_https_url(older.get('image')):
+            item['image'] = older['image']
+        if older.get('imageChecked'):
+            item['imageChecked'] = True
+    tries = 0
+    for item in sorted(items.values(), key=lambda x: x['publishedAt'], reverse=True):
+        if tries >= 12:
+            break
+        if item.get('image') or item.get('imageChecked'):
+            continue
+        item['imageChecked'] = True
+        # Direct publisher links can expose og:image; Google News RSS links generally cannot.
+        if urllib.parse.urlsplit(item['url']).hostname == 'news.google.com':
+            continue
+        tries += 1
+        image = article_image(item['url'])
+        if image: item['image'] = image
     articles = sorted(items.values(), key=lambda x: x['publishedAt'], reverse=True)[:MAX_ITEMS]
     OUTPUT.parent.mkdir(exist_ok=True)
     OUTPUT.write_text(json.dumps({'updatedAt': NOW.isoformat().replace('+00:00', 'Z'),
