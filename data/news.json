@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-28T22:48:20.797051Z",
+  "updatedAt": "2026-10-28T23:44:07.242196Z",
   "count": 120,
   "articles": [
+    {
+      "id": "3b54fb7f4549baf3ab6b",
+      "title": "ウイスキーづくりで原酒と同じくらい重要な「樽」に目を向けた三郎丸蒸留所の挑戦（FRaU） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5c3c0d1Fac3U5Uk9acWt6NVBEV3VhTzU3eldhN3c0aWUtUGZzbHhNZFQzX3RJY3Fnb2xUdWVlT2Y2eHdzTjZ4YU9iWEY1ZkRfY1dLb1dOcFlGdFl2RHdTNDF1SUc1ZUtDQ0VfWlNNSXY1MG5wZEF6OG5VTlUzLTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T23:25:20Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "dcae5f5765493a09d594",
       "title": "ウイスキーづくりで原酒と同じくらい重要な「樽」に目を向けた三郎丸蒸留所の挑戦（FRaU編集部） | FRaU the Earth - 現代ビジネス",
@@ -20,6 +31,17 @@
       "source": "Robb Report",
       "publishedAt": "2026-10-28T21:00:00Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6df8a5e5de072db9a61d",
+      "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
+      "source": "Gear Patrol",
+      "publishedAt": "2026-10-28T20:10:36Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -280,9 +302,9 @@
     },
     {
       "id": "b5d5baa5947d4b2e1417",
-      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg.com",
+      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW1FTU9lTXctZy0zQXhBbl93VXUxVDBtT1BQa05nVE9qeHVmcFBXSFlpM2k1QTVYZFZwSmVGVURYQjJWYXFTdktvZGVwY0tadEIyX2lLd3JocVhZZTNsUVF1R01DNHhjRDU4endrUDdWZVVycUJBcFBSeVBkdEFmQmNFVV9rSWJnYUhRdnhHYnR5Y0IxXzlVQlVQdlVTd3A3QVJBZ1RIcFV5RExXV1VOekd3OFkzdDZB?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-10-28T09:15:01Z",
       "category": "industry",
       "language": "en",
@@ -357,10 +379,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T06:41:00Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-28T06:41:07Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1303,28 +1325,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "9751f87ec4b7d82a200f",
-      "title": "サントリーウイスキー「プレミアム角瓶」が新発売！試飲会で飲んでみた - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42bmdYQ1MwWGZkMVFPdTNTcmE4YWd5ZFh2RHJoR2dYc1lHRDNKZ3JVYXNrZl8xdHY3Nk5uWmRuTVZfekdLOWhaNjJCRU12dUxVbkF30gFYQVVfeXFMUDRpTHRRakE0TER4ZHRTS184bnVBYng3OTZUMVVMQktYVzc1ajRBZElGRFFkUjFSZ3RYbGJaMTBTZllkM3prT0FQSmdVZFpuWkd4VkZzOFc5aQ?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-10-25T07:00:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "bcafa568f91800a3bdf4",
-      "title": "Brown-Forman Targets India as Top 10 Scotch Market in 5 Years - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGJiMDd2eWRkeDNxVDc2YlVNb0RhTzJFcUZfMTNxeXJHNWg5QW91Q3BVTFRGR2lYTWhGa2VWSFpOVm1JbDhTbzhKWEh5RWVFYm9SOTZwSUhXdnlvbkpLcmhWMDMybGxTNHNTRFJXNWRNN0ZVajhONGo3aHJ3VFVjU3JSa0NxSkFRNGN3RFFzWjlCWl9UdnJaUlRJbUhsM3B1V1lqem1iUWlOeDBvMVJMV0Ywa9IBuAFBVV95cUxNX3V6XzRCcTdQNmpXaDladzVjV2FSVFlOQUpLNUhUaVRWM04zZU54ZFhteG9BV1M0SEtVdVAwMzZ0NGRjZ0JUZU9EZzNCMWtaU3FscGZ1amw3Y2I0UWxLaUxjYVVJaFdnZm0teE5pZG5naGNrSUpmbXhVT2RyVm5ld0hkZWpzbEJlcFE0ZDg2M3hhNUNCUjRHV2d2bnZCeGNkZGlJOWdrVHVWNHN5NWI3QzVMWWhJOTlS?oc=5",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-25T05:46:32Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
