@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-10-28T17:53:59.460291Z",
+  "updatedAt": "2026-10-28T18:57:47.647444Z",
   "count": 120,
   "articles": [
+    {
+      "id": "3b4f82a7d2caf59db3de",
+      "title": "Scotch whisky dealt 'disappointing blow' by 2026 UK Budget duty increase - The National Scot",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzBlU3Qyenk3S3R1MDMzeWJWWWstaHlJWHZhX0FYSUtYZ3RQUFB3dVBVN2x2YWVQQXhYTUhmQ2xLZFpqUWhEMlp4a29UTUU0MHEwYmlWSkpNd1dOQm1ZcTA2VDktN2RpVXNOSzhXLW5MbjNsbXZrbHpvcms4dThyQVVYOG1sSDVkN2hkY25IQVFhYkdPbENrc1VTMFhXUXJtQ2p3QnhpVXMtNk0?oc=5",
+      "source": "The National Scot",
+      "publishedAt": "2026-10-28T18:47:14Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "830116b6b8546bfba62b",
+      "title": "Another unfathomable tax hit for whisky - Daily Business Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEUxbGR3X012VWtJY2tveUxaWWV0RHlsalBfSDU3d3hmR2s0a0lRWEdzcDZQandYSnZ5N01RenZ4S1pLeVh2andOd044em1OaWZNUjhHTVR2ci1KRkthV1g1MEQteElELWZTTmlQSWxLNS1weHJmbmhVZ1V6YWhrN0NlMXl1RUhmVG5IbVRYdExORXpzUWZJTA?oc=5",
+      "source": "Daily Business Magazine",
+      "publishedAt": "2026-10-28T18:15:08Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c9096a167b3d7193f0cc",
+      "title": "Andy Burnham launches brutal 'tax raid' on Scotland's whisky industry as north-east battered by Labour budget - Scottish Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXJDSEVhcFBqRG5ESlhKdFBOQUhidFFBQ0o2QU5PSjN2OFF5QXhveVdPV0M4QkVSaXVBWHJUZVU2aEFvZzdUNTdWRWZ5X3ZPYTZLQTJmcDN1X05CLXFMZXVGSm56R0hVTlNMdm8tOHcwRHFkNjVMdFBoa0tEcEV1UktNUzJBVWNQdDFlemtyUUt4X29pNVFWeXNR0gGfAUFVX3lxTFBWenJfdW9DWFc2QTYwcjBkOWN1SVU5MGZSd2FncHlGYmJOaVZpLTZLRC1vVE9iZFVIQlN5NkhoT0dVdnZsTDZwbm05YnlNcjBIOUlCMjRyWU9PNkh0dXRGQjZCMERjSk11eGdkTHB6S2htRFJNWG5xVW1JaGpTYWN3aXJOZm82QWpzMVhVLVB3a19lejA5WW5CaF9Zd1FPVQ?oc=5",
+      "source": "Scottish Daily Express",
+      "publishedAt": "2026-10-28T17:23:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "bee4b40ffa21116a7be6",
       "title": "Barrell Craft Spirits Unveils Sweet Peat Blend With Canadian & Scotch Whiskies",
@@ -12,6 +45,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/barrell-craft-spirits-unveils-sweet-peat-blend-with-canadian-scotch-whiskies-500x256.webp"
+    },
+    {
+      "id": "9da4a3949de14b766390",
+      "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-10-28T16:59:05Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "fdb5e229836de53cd363",
@@ -103,9 +147,9 @@
     },
     {
       "id": "ce64dad5981153a3f29b",
-      "title": "Compass Box’s New 10-Year-Old Whisky Has Nothing To Hide - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2p0QUcydlpQZ0k5elZmSkV2Mk5tWlIwSEJMakwxVGNaSV94WXR3MW9mUjYwTHNCLWdBcFVhUlBaTF92cmRwS2owTmRKMC0xeTBCVzNxOWJmQlE4eERnLU40dlFZdmEzRnh2UHAtOEJJYm1XZmpHMUY3d1JQT3NuVEc2c2pGRTNE?oc=5",
-      "source": "Yahoo",
+      "title": "Compass Box’s New 10-Year-Old Whisky Has Nothing To Hide - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2gxVTY4dzNUUWlfN3dQeEV5bHl6TmVUaGdCYXU3VEs0cU1WUjV1N2wxN3QtNTJTUFVoRkFSYlVqT1RxLVp0Z0RzQkxGOXdheGdMbFFyYU1Yb3I3Si0xWVl0UlVncXdTRmtuSWZqUUMxVDZpV1o1SE04Y2NuRGZQZXFDcUdPcXBOVmhGOWlYZ3ZUTVV6UWZQRFpvZUpIbEh1V3V4anYtS2VKeXZvME9F?oc=5",
+      "source": "Forbes",
       "publishedAt": "2026-10-28T13:41:57Z",
       "category": "industry",
       "language": "en",
@@ -133,17 +177,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792056759-500x256.png",
-      "imageChecked": true
-    },
-    {
-      "id": "600ab6d7eb40b5fa71ca",
-      "title": "「グレンフィディック」とアストンマーティンF1チームが16年熟成ウイスキー発売 世界限定70本の600万超ボトルも登場 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DZUxydWF5YUUyN0EwVDh4UkpHcnRTaFVIcmd0MC1qWm9hRUp0dTRCZ0p1YUtTdGlieUxlV3pya0xXQm1paHRkRld3Wk5yX3hjSkllaUxMTzNYZHpQbUM5bEFHcy1zejM3Q2RVeVU3d0xDclNBQ1pZa2tCNjd3eGM?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T12:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -766,6 +799,17 @@
       "imageChecked": true
     },
     {
+      "id": "5aab14fe85e60f5c41b2",
+      "title": "馬追蒸溜所、初の3年熟成シングルモルト・ジャパニーズウイスキーを12月1日に発売 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81SXNZVGYySkpwQzA5amVGWndKMG5RQzBkNVdsWlFDTmp0QnNZcURVUnFQWGt0NXlQbkhqbjFKeElVVEZ5akM2NHJjLUozeVFQMmlqTjAtQnZBbGE3MnVrM1E2QUtsOE5JOGRCckdsRFJlbmZiQWc?oc=5",
+      "source": "Mantan Web",
+      "publishedAt": "2026-10-27T03:27:43Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "3e0b07c50adf3e99880b",
       "title": "Indian Malt Whisky Association and Scotch Whisky Association Sign Cooperation Agreement in New Delhi - Hotelier Buzz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNS13eWJVeUI0NG94NTZ5QV80VHlsQlU2Y25PZWNGNk1PY2Vpd1VOWGlyYWNKVFVCRE9JbTc4ZHpLckNtTmRSVzIwWFk0M19xTGpVXzI2Y3VrMjFIUXJqWUsyVnhIV1NRcE1ubFh0eFRjY0NpTk1pbUczS3dvbjBOMG5ibk8?oc=5",
@@ -805,17 +849,6 @@
       "source": "Newscast.jp",
       "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "5aab14fe85e60f5c41b2",
-      "title": "馬追蒸溜所、初の3年熟成シングルモルト・ジャパニーズウイスキーを12月1日に発売 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tVEJybjZfbnA4RHNnTG5LTDE0eDJuVTc5TVIxbDJXYzFsOVdiLVNzNDFtM0Z3RVhlS05xNnhFcDFqX1NOSVpuTko0cnpuMFBzVmo3Y2NFNmMybzRpQkRGeVJMWmFwR3RZVTZQT1BIRTA3QQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-26T23:40:00Z",
-      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1130,6 +1163,17 @@
       "imageChecked": true
     },
     {
+      "id": "600ab6d7eb40b5fa71ca",
+      "title": "「グレンフィディック」とアストンマーティンF1チームが16年熟成ウイスキー発売 世界限定70本の600万超ボトルも登場 - WWDJAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wVzlvWEJKVWNrWEdjeVJEQnNQcGlEeWREWXZZa2UySVVUZlFuMGxtWkV3cUsyVmJxaUlPNlJCUFFBM0Q0ZkdrVEp3b1RGcmRBRjMw?oc=5",
+      "source": "WWDJAPAN",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "7a687163d08c5b349db4",
       "title": "England and Scotland are fighting a whisky war - The Spectator",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2hHY2ZGSUhxRzRNSUt6NzFZRlRsNTFCdDd1S0JBQVNqN1hnNHhuRnNDVzlHcEZUV2tTc1lsRExoV3ZVVV8tUmhNZFhqNHFxNXRzMXRwcjhrX0RncldFaWdMNkVPTEY2UG96M3o3X0ZmbTRTR3FHSEc0VGZnVDVHazRUQQ?oc=5",
@@ -1279,50 +1323,6 @@
       "source": "The Whiskey Wash",
       "publishedAt": "2026-10-24T15:42:49Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5e1935dfacb207f4dbd1",
-      "title": "GlenAllachie Scotch Whiskies, Ranked: Which Sherry Bomb Is Best? - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVhIWUhjbndnUno0eU0tZ25iVXZVdGViTlVaRXZjdEVqeUVkVEhBSXQ0ZV9YUDhELWVpMERpRXRFWnJoZjUzY1dzX1NzaEY0WUZuWl9yVndvN1p3dTdQUGxfWkJhWlJNWWRPQ0NoYWZlZVhIdmEybTlkRmFfMWdyWmJneXJtWFNiZDhrY183TW9kS01YY3E1Z2MxbjRLczZsT2xzbGlKTnRzdw?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-24T13:06:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8a1e47bb7f1256541ad3",
-      "title": "How Scotch whisky triggered the first dispute in the India-UK trade deal - The Week",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeC02RFM4VjZBWnJuRVBPY1dUWWRwY3hkcEdwcXI2enZpNG9HejRCckxuTURodmdDSURydHBTSmpHNDhNUjBKOVB6S3BnUUo0UG96NUMxV2pmRml3SDk1UWtUdE1YV29zOE5fUFhCUVl5YkhVOVhXcThFdEdZVWZlbHp4VHdLUUx6UnJhYnh2a1F2Wk15c3pRMUVxV3NaRU5jNEs0Q3hEeVVwcTRXbDRvcFpBdVh3YUQ2RDR0YnRBR3NkbWvSAcgBQVVfeXFMT3Z1NVNxUU9SRVhja1Q5NHI4STRWMkRCT182WUpUelhoZXZyVnhSTWxlVVBMeDZPcmV1SVBBRXg1dkozWDB0NFR1MTF5dUpibWkxZjRNR096X19GSHl2N0I0ajhuOTRralI5b0JzNG9vUkRBNHppS3BxeUhHbXNEal93Mlh3MFhZOGZXYUJqRi1aVmVFMzNRTVZFbGtqQ3M0U3psVTJLMkdDV25fbkI4OXE3YklXdGhaeGlRVzdrZ01pRThVT21oeGg?oc=5",
-      "source": "The Week",
-      "publishedAt": "2026-10-24T10:03:46Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f41e0c3b71f2f40f3db4",
-      "title": "India-UK trade deal faces first big test as whisky tax row draws in Britain - The Statesman",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZLUGh4c2QtQzlyUXNRSVBjQ0wweVNQLTlsWEM0MTgyZEJaUmdBSGVDeDVZTFY0S2xHRDBRanNBX004b09qSEtiSEZ5bTdfbkZJTlB1RFlUc0wzLVNRdUJReW4yYzhfTzdseXllS2gzT290ODFCUUlUNEp1dzUyMDFLM0dGNHNrdXBZa3BZcmkzVUNiZEo0MngxTEFlVGhONVo0TzRIdHhuUFNKakVLem1CZ0hLREpwVk5fcWZzWXdaVDZVemZCRtIBzgFBVV95cUxQanJGQ3VaR05JeWlfS2NtT2xLN3dHRTQ1UUZ3OGV2NmVYMzB6bVN2NGozRWEtUWRZVEpEakhLcUZsQUlWWXFaNDNvOEVhbWN3c3VrWGEzUWt3WTE0SkJpYldzbHExZ1h5UzVfY0dQMkU4UUJuVnRPR3ltN2FBN1N6RVhOclR2cUdvM05pbU5ibmtlTk9OZ1lWdnMyRGZLZ3g2WjhSNkVmWU1HTGx6Rk5LQzdLZUY3eXFQR0FrbEVRVXRnWEFsOFFySEg0dUJWZw?oc=5",
-      "source": "The Statesman",
-      "publishedAt": "2026-10-24T07:45:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4e101242c9cf198983c0",
-      "title": "Scotch Whisky Duty Dispute: Companies Seek 75% Import Duty as India Examines Bulk Whisky Imports - Juris Hour",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmdTc0lKSXBzejRHTndZY2tjLWlVOE9id1plSDJWLUlXRlVldGtpd2ZSQmJ3STZacDBYWU5wallwTk4tem5ZT3Y5MTFFc3c1VEdKQ3kzYUJEU3hfTThPZEpkZl9TcHhtMlY3ZHhxWENRZGE4MHF6MFpEVE1ocVhyMTUycVowektNTWtpUUc5Mm4?oc=5",
-      "source": "Juris Hour",
-      "publishedAt": "2026-10-24T05:40:26Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
