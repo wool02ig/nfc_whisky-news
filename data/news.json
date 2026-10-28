@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:57:47.647444Z",
+  "updatedAt": "2026-10-28T19:53:42.360327Z",
   "count": 120,
   "articles": [
     {
@@ -147,9 +147,9 @@
     },
     {
       "id": "ce64dad5981153a3f29b",
-      "title": "Compass Box’s New 10-Year-Old Whisky Has Nothing To Hide - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2gxVTY4dzNUUWlfN3dQeEV5bHl6TmVUaGdCYXU3VEs0cU1WUjV1N2wxN3QtNTJTUFVoRkFSYlVqT1RxLVp0Z0RzQkxGOXdheGdMbFFyYU1Yb3I3Si0xWVl0UlVncXdTRmtuSWZqUUMxVDZpV1o1SE04Y2NuRGZQZXFDcUdPcXBOVmhGOWlYZ3ZUTVV6UWZQRFpvZUpIbEh1V3V4anYtS2VKeXZvME9F?oc=5",
-      "source": "Forbes",
+      "title": "Compass Box’s New 10-Year-Old Whisky Has Nothing To Hide - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2p0QUcydlpQZ0k5elZmSkV2Mk5tWlIwSEJMakwxVGNaSV94WXR3MW9mUjYwTHNCLWdBcFVhUlBaTF92cmRwS2owTmRKMC0xeTBCVzNxOWJmQlE4eERnLU40dlFZdmEzRnh2UHAtOEJJYm1XZmpHMUY3d1JQT3NuVEc2c2pGRTNE?oc=5",
+      "source": "Yahoo",
       "publishedAt": "2026-10-28T13:41:57Z",
       "category": "industry",
       "language": "en",
@@ -799,17 +799,6 @@
       "imageChecked": true
     },
     {
-      "id": "5aab14fe85e60f5c41b2",
-      "title": "馬追蒸溜所、初の3年熟成シングルモルト・ジャパニーズウイスキーを12月1日に発売 - Mantan Web",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81SXNZVGYySkpwQzA5amVGWndKMG5RQzBkNVdsWlFDTmp0QnNZcURVUnFQWGt0NXlQbkhqbjFKeElVVEZ5akM2NHJjLUozeVFQMmlqTjAtQnZBbGE3MnVrM1E2QUtsOE5JOGRCckdsRFJlbmZiQWc?oc=5",
-      "source": "Mantan Web",
-      "publishedAt": "2026-10-27T03:27:43Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "3e0b07c50adf3e99880b",
       "title": "Indian Malt Whisky Association and Scotch Whisky Association Sign Cooperation Agreement in New Delhi - Hotelier Buzz",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNS13eWJVeUI0NG94NTZ5QV80VHlsQlU2Y25PZWNGNk1PY2Vpd1VOWGlyYWNKVFVCRE9JbTc4ZHpLckNtTmRSVzIwWFk0M19xTGpVXzI2Y3VrMjFIUXJqWUsyVnhIV1NRcE1ubFh0eFRjY0NpTk1pbUczS3dvbjBOMG5ibk8?oc=5",
@@ -849,6 +838,17 @@
       "source": "Newscast.jp",
       "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "5aab14fe85e60f5c41b2",
+      "title": "馬追蒸溜所、初の3年熟成シングルモルト・ジャパニーズウイスキーを12月1日に発売 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tVEJybjZfbnA4RHNnTG5LTDE0eDJuVTc5TVIxbDJXYzFsOVdiLVNzNDFtM0Z3RVhlS05xNnhFcDFqX1NOSVpuTko0cnpuMFBzVmo3Y2NFNmMybzRpQkRGeVJMWmFwR3RZVTZQT1BIRTA3QQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-26T23:40:00Z",
+      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1055,7 +1055,7 @@
     {
       "id": "76af7e7908f6707c79fa",
       "title": "11 Scottish spirits to toast Halloween - including devil’s cask whisky - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHhkSEQ1T0tsdG5Za1o3bkVBb0o0OFUxamRKRFpFc0liT2hTcHd0NUhxQWM2cWN2S2VycVUweEk0VXI3WEYtdC1tWEpfTDVKV2pUd0RyaEQzak5UV1ppenVXS1lHQTNIU1B4UVh6QTNQQnNLa2NXU1NtWXhRVlB1dVBtbXZvdU9GWG1KemFoRmc5cVdiRTZkVS1yOGxMQUUxNWxJMU92SkJfWmMyVU5QaEdhVlktZ1VBX3NlSXZGVVJ5NDYtMUhnM1hrOERoME0yUHdzVjBFekxYWHp4NUpiNndB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYUxKcFI2cEtwN0tzRnEwUUpySUVEYndoaVVMbFctUnItN2tvOEtVUzNQVGxtek9ic2pHT0JSN0F1cllhYlltRWxMbmJBTDVkZC1BS1BtbmdiMGEyYnF3eDRrTmEwcG11VnlkZGw0dUV2X3QzbDBkQWVMLVRpRlpOVU5WbzR1dVg4a0NodTYyV25KYlBTWkdrbmNQODBYMTNBQWxxX2Z4WFNiSkx2SnRMN0kteVpWYWxQNHNrNnp3ejZKSVM1RUJHdWZjNkk1VGx4aDVnbkhn?oc=5",
       "source": "The Scotsman",
       "publishedAt": "2026-10-26T12:19:00Z",
       "category": "industry",
