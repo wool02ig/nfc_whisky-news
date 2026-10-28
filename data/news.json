@@ -1,5 +1,1006 @@
 {
-  "updatedAt": null,
-  "count": 0,
-  "articles": []
+  "updatedAt": "2026-10-28T15:07:57.940311Z",
+  "count": 100,
+  "articles": [
+    {
+      "id": "a70ec9fbd947a3ce6ddf",
+      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-10-28T13:57:50Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "ce64dad5981153a3f29b",
+      "title": "Compass Box’s New 10-Year-Old Whisky Has Nothing To Hide - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2gxVTY4dzNUUWlfN3dQeEV5bHl6TmVUaGdCYXU3VEs0cU1WUjV1N2wxN3QtNTJTUFVoRkFSYlVqT1RxLVp0Z0RzQkxGOXdheGdMbFFyYU1Yb3I3Si0xWVl0UlVncXdTRmtuSWZqUUMxVDZpV1o1SE04Y2NuRGZQZXFDcUdPcXBOVmhGOWlYZ3ZUTVV6UWZQRFpvZUpIbEh1V3V4anYtS2VKeXZvME9F?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-10-28T13:41:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "e7b38224eb2c46033ae7",
+      "title": "Jameson vs. Jack Daniel’s: Which $25 Whiskey Is Actually Worth Buying? - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjEwcVI1c0IybWpZRUJVZjkxaU9yaUFmWWRHVlphMGFzcHlRY0RGYzhQY3NlSUEzVVpwZDBrTWdsM1RVaENKY3pOX1B0ZXJGWlpYT2pmY1hlNHBCekhDTFIwOXN1T2J0R2tHcTBGNXRkckU0djBhU0xGeXB2YV92ekZZanJPaDFqWVNXUVQySzJycVFYOHU3eWV4dEhHRXF0XzlTTTNHbGFpZmp3aHdj?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-28T12:55:26Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "600ab6d7eb40b5fa71ca",
+      "title": "「グレンフィディック」とアストンマーティンF1チームが16年熟成ウイスキー発売 世界限定70本の600万超ボトルも登場 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DZUxydWF5YUUyN0EwVDh4UkpHcnRTaFVIcmd0MC1qWm9hRUp0dTRCZ0p1YUtTdGlieUxlV3pya0xXQm1paHRkRld3Wk5yX3hjSkllaUxMTzNYZHpQbUM5bEFHcy1zejM3Q2RVeVU3d0xDclNBQ1pZa2tCNjd3eGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "2c797fd7ea00cbbe7ced",
+      "title": "Johnnie Walker Scotch Whisky announces pop superstar ROSÉ as its new collaborator - Philstar Life",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEZva3pIUUFycFdMdm1PeUxrd0syMHB1Vm15QjBRb1dnOXFDbVZRTWJuV0wyWDh0ZThoS2dCandLVWpMWFdCNlBjdWFYcHdpTXdfQXpkQTJTY3M5OGdUUUtMR0IxNHM0WFBmYWJaZDhsc2phVEI2d3lmZzJobWsxNmVNLUpaZGhNaG5KXzIwUHZCNEQwNFFpVzdGSk0xUTY1MTdENmRpSTlhaXBUZXc?oc=5",
+      "source": "Philstar Life",
+      "publishedAt": "2026-10-28T10:45:07Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "97e86ef0336a65490843",
+      "title": "「毎日、毎日の我慢」3年熟成“湧き水”のウイスキーついに完成 野沢温泉蒸留所が2300本を製造「甘く濃厚な香り、フルーティーな味わい」 先行販売したジンは最高金賞「世界レベル目指し、野沢温泉の魅力を発信したい」（FNNプライムオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BQks2NUxVeEJhOVlvTS1aZDFSNUt2aExGQWxhUk95VUJHdWV0MDRUakdoUDJrOS1tYWMzUEJCQk1DazZ0UWRCRHRNSnZmazQxeTRmdUlyUW5oUVRaNDJTS2pmdFlLSEN0Q3RDTkdWYXhEcnNrV0h1djVJak1TMlE?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T10:02:20Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "ece57f6986d91f1cd88c",
+      "title": "「毎日、毎日の我慢」3年熟成“湧き水”のウイスキーついに完成 野沢温泉蒸留所が2300本を製造「甘く濃厚な香り、フルーティーな味わい」 先行販売したジンは最高金賞「世界レベル目指し、野沢温泉の魅力を発信したい」 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50cWRXM1dyRnVUZ1h3bFI4ZkhpcFY4QzB2YkM4U2tSYjVmX2hOWExHVnRKSDhKVFVyNDhTTGlydktPTzhvdm9ORlZ5akZJRlo4NTJHTF9yR1BEbldKVFl3?oc=5",
+      "source": "FNNプライムオンライン",
+      "publishedAt": "2026-10-28T10:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "b5d5baa5947d4b2e1417",
+      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW1FTU9lTXctZy0zQXhBbl93VXUxVDBtT1BQa05nVE9qeHVmcFBXSFlpM2k1QTVYZFZwSmVGVURYQjJWYXFTdktvZGVwY0tadEIyX2lLd3JocVhZZTNsUVF1R01DNHhjRDU4endrUDdWZVVycUJBcFBSeVBkdEFmQmNFVV9rSWJnYUhRdnhHYnR5Y0IxXzlVQlVQdlVTd3A3QVJBZ1RIcFV5RExXV1VOekd3OFkzdDZB?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-28T09:15:01Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "b51492e3dcfb9681ddc4",
+      "title": "'Milestone' whisky from North Yorkshire distillery selected by leading UK merchants - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUhFREwwSlJ1eEhlVXRwYTB3R01YUE1RX0xYdVF6SnN5b1haclU5Y0JvSTR1ek14OE9OUHhCeTBUSllkN0o3NjhpYlM5SEh0NTdtZFlfZDZLUWlvWjI5aVlyMVJiVF9GQnU5OEx5cGtJNmxEQ0I1VlZuUVVDMHM1dmlKdTE2T2F6NjhhVQ?oc=5",
+      "source": "Yahoo News UK",
+      "publishedAt": "2026-10-28T08:10:59Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "d1a3c428afe154559296",
+      "title": "ウエルシア薬局、ウイスキー「山崎18年」「白州18年」「響21年」「ザ・ニッカ リミテッド」など抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qdF83eUl2T1FhaVB5Wk9XdzI4YjJMVWF3YlZ3d2ljaDliVXhoLXcxQ09zbUpGc2gwSmNzZVZsdVRROUZUYzJfb01QSS1Qb1lpUjFUUTlHODZrSDhENkstZ1A4YkZDU19xZUE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-28T07:04:53Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "7d8e28c888f56a47674d",
+      "title": "The Glenturret launches new limited edition Nocturne release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUVxVmE3NnlEekdTOUJBZlBKeWpNbG9YYmd5QmU3bGRVY2FnMVg2Z3U1QlQ2bjhCNFprMkVCQmxWV0NxODNXWkdTODNWM3l3dV9UNTRqa2ZmSUZOdFVEYkNycUFVM3lGT1I3blEzbHRmOEZFc09iOFhsSGltaElfUE1FcGNNRGFYbG1xZmVWX3NFMTR0aThRR1hMREhEbW8?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "9f852a3a9ec383716794",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6OXhjYnllUW5BVTFKRkZMSE5GdW51R3Y3QldYZzNlcktpTGpCVEVTRjlMN2xZZlF2OHd2VkpzeDRMenhwckNmQ3ZrT2pySFJtYmlBenpVVVhsRHFRbUxn?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-10-28T06:56:33Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "93fbb242d44f3729612d",
+      "title": "【白州18年リミテッドエディションが当たる】466口限定「黄金の秋ウイスキーみくじ」10月28日予約開始 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbF85bXFZaUZLV3JBdFNmTWp3aG5tSlF6T0hMMmdmZXVrZHR5c09zY1JOZVBicllWci1vTDJGZTZhbDhPcV83Q3JEbXBha3NvX195YUM4R2ZWX3pXaWpTXzZLV2VmVXlNUDZHZm94UW91RTZQeHc?oc=5",
+      "source": "Mantan Web",
+      "publishedAt": "2026-10-28T06:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "090ed6fd8211394d68ca",
+      "title": "ボトラーズウイスキー『オクタブ』シリーズ日本本格上陸！信濃屋グループ会社の信濃屋トレーディングはウイスキーの名門ボトラーであるダンカンテイラー社と輸入代理店契約を締結！プライベートボトリングを販売開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZlFMX0N6NGI0NjJ6ZVFBYmFJR2JmRWg5TVA5cXp2M2M1dlBiTThrNzEyZk1mV0ZnSzhfT2xZNFF2UUY0Z2txOTlEc2VwVzBNYVpHQXNuTDJNa1B2dmlva09QdHppM3RyZFE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-28T03:10:01Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "a91687671986decde236",
+      "title": "Laphroaig 26 Year Old Whiskyland Chapter 39: Decadent Drinks marries two vintages of mature Islay smoke - https://thedailywhisky.com/",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeDczSUt3Z3B6d2JHd2VQNG1UVE9CaXplM1p2eUpaZkpJNUN1a1RHV0xpUldIYVk5aGxSa19NdW0zWTF6UXBZUmFyUnpNOURfMm9Zel9FYXBsWHBYV0psa1R0U0VFSlR1SlM0R2RtVXhFRW9iZlI2NXFHTG84Uk9SaUJuRDE3bTViUTNr?oc=5",
+      "source": "https://thedailywhisky.com/",
+      "publishedAt": "2026-10-27T19:34:09Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "6c5c043b22b72b6fba70",
+      "title": "10月9日（金）より入場チケットを販売開始！長野県でのウイスキー試飲イベント！「ウイスキーフェスティバル2027 in 松本」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVUI0OTlBdkJPYThFZWNTaGN0cUNLWmZMZDM0MU90MDR5RVByNDcya1otUkwySVg3R0g1cWlYc1pGUktiRFhsd1ZwZkZoRDdkMnVma3V5cmpnb0U?oc=5",
+      "source": "朝日新聞",
+      "publishedAt": "2026-10-27T19:17:18Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "92d17f92fd5c9e69f26e",
+      "title": "New to Pot Still Irish Whiskey? Start With These 5 Medal Winners - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFkxS1pGck50R0VubHlJUTBZbVhXWXlFMFk0T2gzaHFfSHNfaGdoQW00eThPZHlVejRJUllDUzk0YTBxcXhfSDh0S1NSeXMxSWVLVVFrYWtIY2xSOC1VU3ZVRkltSEtFUmllRGpJZkY1QXgySVRra2hERVA1Rkx1bVJXX3BTa2JhZ3RfTUF0OVZlMWo0Z3JEckpJNnNxTjlPcTZfczY5RmlrZTVH?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-27T16:40:42Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "20ee359803f9f1aebae0",
+      "title": "East Lothian distillery wins Scotland's leading whisky tour for second year running - East Lothian Courier",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2I5YTJGT084OERYVk10dTJrYWo2Y2dlMVlkTURSbW00bVNxUlU0MnBJMmFIN0hicVB1QkNBUEhfYktjRkx1a2lvRkhfSjBDZmc0dHY1UW9FbWJSemNNMzNGRjFBYk9kOGlfUElmOFZWa0RNRmtoVzBhYXFPdTlXZTF0YjVBaURTTXd3Ym1PeVU2NkZjZERLZ0h3ZTdUUUY1RWd3?oc=5",
+      "source": "East Lothian Courier",
+      "publishedAt": "2026-10-27T16:39:14Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "c89eba2e12ebc3d39b2b",
+      "title": "Indian Malt Whisky Association signs cooperation pact with Scotch Whisky Association - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN1BhejZTVmtsMUxmelA2UG43Y0NqMWI0YVpLaTE5ckNpRVdiWHpqZUpBR2JPU2QwWGxvbTlGZUVpZDFwTkp6YkNTR3BWbmFyREtWOWQ3dDdmSHMtbWVyd2IwZHRpdlVSU0QyOEJwd1dUaXY2Tnh5VUEwaV9MRDYyNDVEUkRXX1FDYzMtdDVReHBmWThqamF6dG5YUk5jZjlZNFdpTmVoV20wOXVHQkEyRkRYUHUyY00tbUdjSjlGTDZJbUNtcUFEZGZvUXRuV3kxRVZEempfN3ZuVHE4eThyT0hURzd4d9IB7AFBVV95cUxNWGF0cUxfbkZUYXBzRFlkZXFiVXpEQm1qV1VzQVFaTmJRVm04V1d5SzZYT1E5QjA4eUdma1p3TTBWNTUybjNhekQ5cHVUNFRZS2s4Ykw3clI2bDdmdUR5ZkF0Vm5mMjhhZExDTl9iNmlTQW5TMGo1dFFiWXNKSEFRaExyUEp4UG8wSGtTMGo5dklPaFdoSWNQTTJsUDFoRWs4NUhqVkdWSHk1Y21RWFhfY2hvYk0yWFk2NkJzME1vdHZSdnhoSi11cTZtTzVnR3cwZ01iNVVKbmV0RXZvS1JjNnN0Zkh5a1Mwc2d4UQ?oc=5",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-27T16:17:43Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "454fcff8e5059943bfdf",
+      "title": "Scotch Malt Whisky Society release first ever blended whisky - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOOWR0YjRBN1RLYXVudExjTzJVMmFvbXVkelRYdDI2SmltYVVyYVVEd2t2NU96ZFhsM1FBb0VEWkFNSHpuRlpEWDZvMVdaVTVGNUVad0kwMGtsZkxLN2JvMWowNEJ1Z3lmRkN4ajB0T3VhRjRrR2g3NnI5Q0liOFhFc2xDQXlHY3gxYjRDc0lmQ0wyMjZPOTVQdVRXU21PQWdnZFZVcldRR2FrMkxhRU1WaXRkUzVMU1dVZlZTb0dHaUJSckZiVTJvZFhTLUo0OWZFc0NtZW1EOWhzcFlkM05rVE5qNUE3MkdKQVM0SFFUWTVCdV94YTEtQXYtNEFfNV9lRnFBejZn?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-10-27T16:16:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "70c62ddeff7b9f25eb1c",
+      "title": "This New Ardbeg Whisky Tastes Like Salted Caramel Vanilla Ice Cream on an Islay Beach - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLU9XS21OazlYOGpObExXOTl3TTNaT2hNY0sxdFhtQ0RTamd6b3lLTDZjTzZHYkxHaDVNcGhmNGRGbnFDZ2dRRmo1bE9Da1FiWV9iSkhIU2p0SUhNSHJacE1jdTFCN2pzQWktUXhfRW1JaXpBbmtwYlRvckxVd1U5YW16YnViN0c0TjRKbA?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-10-27T16:13:59Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "2fd086724e855ad13e5c",
+      "title": "Why This Rare $299 Bourbon’s Scandalous History Makes It One of the Year’s Most Coveted Bottles - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzFhTEh1V0NNOEgyMEVaRHdGMEt3RHM1TDNQNFR3aTRHWHE0UGRueHNOY3F1UWNrNnRGbzRvZmR5Sk1kRnFuSjlrM1lxa0dKbW9MRWt1NUl3SFdheFkxc05iWm1lQnB1TTc3WVhzOVd6cXUwbE1aYmJ6Ujl6TEd2SUwxRnY?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-10-27T15:32:37Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "dbe4ea0aebfd93f4c1bd",
+      "title": "Starlight Distillery 25th Anniversary Indiana Straight Bourbon Whiskey Review - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GVjYydWVGN3ZXYkZlTzVtaGtTQTZRRDQ3RmQxTFMwLUtUcTJwT3IwVHppbF92V3pNU0VoWU9scFRuV0QzckhaRE5ROC0?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-27T15:20:47Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "56ea753354dfe04b39d7",
+      "title": "Heaven Hill Distillery Announces Heaven Hill Phoenix, a Limited-Edition Bourbon Commemorating Three Decades of Resilience - Breaking Bourbon",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX2FMM0dld2gtMFMzZmRraHgwUnBoMEdLUlZ3ZjB5a285eWlibWI0Q0JTbVd3eVN1UGtIQ3NZZ2lLazZaaV9pSmR4TWtJaVMyMng3cGNaSlFjQ2Npc05XLU9yRWZWT3BXbkZqYlRhOVdJVXYyUU5nXzJxMGJET2RhQkNFMEhDWUNpMXlJUDN6VTMxcEt6MUxRSzBET1RYYy1XbF8yNk13dGNNZ1lvRV9pRnNJM3FxTGh6TDA0YXRIcU9qMjBxQUMzUzU5ck41SmlYUkpwS2RObUl2R1ZtOWNvMzhMRUduOUNHTThfUDJ1Qy1xUVBpRF9zVlBmZ0pEOENjb2xvM2dINGxLbXRPMHF2eQ?oc=5",
+      "source": "Breaking Bourbon",
+      "publishedAt": "2026-10-27T14:29:39Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "7888b10ddcce55a4480f",
+      "title": "Heaven Hill Phoenix: 18YO Bourbon Commemorating 1996 Distillery Fire - Beverage Information Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVZ3NnF1UnNra2RER1V3LUlhYTh2cTM3RXZTcUUzMm9aeWM3MW16bWJTM3p6Z3pPNF93RHJMbFdQX2tWVGRnd3JXSGpreV83ODZRR2lyR1liMzkzR0FmMk1VOUp3d25RTzRvMHRRWFRGSDBBMEhBamdQMW9UbmM4dTN4TWZtamQ2RHF5VDVYSk5sSHc?oc=5",
+      "source": "Beverage Information Group",
+      "publishedAt": "2026-10-27T13:45:10Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "e77ef1719e186f0a9185",
+      "title": "The Dalmore launches new 12 Year Old single malt - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUx2OEZFcVpSczNZbnNGYjBaNmJEaUJKbGZPVVFyU2RQMEV0MVFEeVJaT0ctVEpveDIxRGYtTDR5dGNBYkpOaEJMRlgzQm9GWmUta2hmUXJ1M0hTZ1A2WU5IaTlKRV8yV3Q4bDFzRFMwUjBoNTNQM2ppTmhOVVZfcll4V0tFS2dZdlZMSmptaw?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-27T12:50:59Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "d47c26b7a56635749579",
+      "title": "Duncan Taylor Scotch Whisky agrees Japan distribution deal with Shinanoya - Larder Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXJ0NjBSM3lrZGRlellxMUExcDg3Q0ViWWZ1U2lJcDVvZmdZSThIZVB0Q0NsWVh1MDNDVGRtRjlTZEd1WHhTMktSOGVtbXZONzd1RUpHZHdrWndUVTRWdVowUGh5V1hZblB3dkwyMGxid19iY0JFaWEyeEY2WUxNNHFEdG1INnVrQkpLalJ3Vm0tSm5GckxfV05ScVlUbGs?oc=5",
+      "source": "Larder Magazine",
+      "publishedAt": "2026-10-27T12:33:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "5043f8f435cd5c2cbc06",
+      "title": "限定ボトル続々！ウイスキーフェス2026東京の魅力 - Koubo",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5paHNnS0hSdlM3aWRpbEZ3bzl3US1DdEpBVzJsWkl1OGNfZE1xYVkwT1laRm9rZ29wQ0VQY082d3J3SVh5VVE?oc=5",
+      "source": "Koubo",
+      "publishedAt": "2026-10-27T12:05:23Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "7006ba738aba5eff2f65",
+      "title": "Benbecula opens private cask sales ahead of first whisky release - DRAM Scotland",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekh4Wlc0QTdHc1VyZ01vMnZneGowZ2tRbGNFbFZrLUhiQi1qUE9sZzZVTFVKV1loZWFEeTA3czRleHFoc0RUS1h5a3lqa3l4TEF3ei1tTnFaam5IckY1WGticzdXdFpULWo3YlZVYkVVZ1pZNzJ6a3MzbzBrUjExUXp3elYxZUZ3TkdUUl84aktzSDFoS3NkZ3R4Z1JzME8wZWZVSWp3?oc=5",
+      "source": "DRAM Scotland",
+      "publishedAt": "2026-10-27T11:49:34Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "8209861a15590421c721",
+      "title": "【数字は語る：ウイスキー】製造場数は10年で8倍に、世界が愛飲“Made in Japan” - ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZUtkNE0tRzVJQWhMRlR4VXptUmxMUURodDNpMXpHYlRWeXRIQmhxM19CTWYyaFJnYVlpbDdZcTRCRk92YlFlbUxyMjJUZWtXYXpuNGdpWlU5TU56U0FhMg?oc=5",
+      "source": "ニッキンONLINE",
+      "publishedAt": "2026-10-27T11:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "222d842cce3a7216a7b3",
+      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMm1RWGVLTHNBeS1TQjZsV0xqYzM3ZWJDY0xDOXBLV1Ixa2h5cE5EQzBNUUM0WENWaWo1QnpNZjZrb19Ra0tIZFpOcnpnUXdwVkRBS2dfalFSNnV6NlIzWmZOZGVVMjdDTWFGV1hoa19RbnNJRFZtWEU1eERVblc2UDJfTHdmVEhu?oc=5",
+      "source": "Mantan Web",
+      "publishedAt": "2026-10-27T10:37:35Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "c37ebd45286019986e2e",
+      "title": "DWAAR SIPAHI: Globus Spirits’ PX Sherry-Finished Whisky - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlBicmR1OUNfMW0tR3BLY25sZTVPYnR4SjJicVFwaTgxWHR4d1NoeDlwbkJ0TzR4NkxFeFBoZ1hLSTBQdGJid1R0WEg2QUVoY1FEWVctemZramp0QkdxZ1lHZHAweG1TTUd5M3lPbFlxcHA4UXhOQUZJeFVsWXU3RmZGa3l3SWJuRk5hN1pvTXpSVHJ6NkxGd3VR?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-27T10:29:24Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "5af1c8df28b88aa83e2a",
+      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Herald Series",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnFRdVdLdG1faHRXMnZ6YmZod3NUdFdYZl80UVIwczRmUWhGTTVIdkloM1MwQk54SHJXWUR2RnlNN2FCcmhPVkNPWGpxd3pQSGdNOGwyRHNhSDBJRVE1cGxMbTU2R1JUSjBJNDNYdHRpQ0lubDczVGg1aGNhT3ozSmFnQlRhcFNxR3hGM3FfZlNLTk01R1ZKb29XX3RaNGc?oc=5",
+      "source": "Herald Series",
+      "publishedAt": "2026-10-27T10:00:09Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "b2c869742f45fbfd4fb9",
+      "title": "Whisky row deepens after UK Government reveals no Scotch impact assessment - The Scottish Farmer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFhMd3JaYTNtNmg3Yldfek5xWHdlU1E3ZUtPTXhiSzkxY0lHQzdXckFTWVVMYlZTbWNFbUN6WU82ejF5Y0EycHBrLVdycHdyZUpPR3hWbEI5UlF5bkstWDBfb3ExX3NMQTRfUGtxYXZ0TVktMFpWREVmUGtKVUVIanRkNjQyb3hUUUVPNkJ2a3ZQNElmcjJTM083RFpXU0M5akZJajIzNWg?oc=5",
+      "source": "The Scottish Farmer",
+      "publishedAt": "2026-10-27T10:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "613e5c805b4987029503",
+      "title": "ウイスキー「山崎」のハイボール缶に2026年版“ミズナラ薫る”登場。Amazonで予約販売を開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GaDBCNlUyVkZGYVdhSzNyNk5oNnowblJIZ3VJMHRDc0pFVGFlNlROcjUycE9NM2ZRYkN4WXlrdGJLU0lXYTFKbnhaanM2VjFNY3JqWGNWaV9mSlNpenpXYzVzQXVxZFhJTUE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-27T09:37:43Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "ce5648e15c77936bcaad",
+      "title": "Duncan Taylor Scotch Whiskey secures Japanese deal for Octavo portfolio - UK News Group",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZU1nU0xVWGplNUNlREpBMHlYLVNiQ3VnUDF3Yi1PUU1OVUQwSkpMZmNtSVJQNG53cEhCb3ozMGZhOElsVXQ1MGVtZVhLTkdtRXptRnBrTkpHd2dHUUVaUV9oM0R5eExIaG9nVDRNVm1CZHVnX0lVM1E3STRoR1F4ZzhrTTRrQkpZLTExMVRHaHhXYW15Qk83Z2pBM2ZoSmptV3VNaA?oc=5",
+      "source": "UK News Group",
+      "publishedAt": "2026-10-27T09:37:17Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "76048633ce5e95d85cf3",
+      "title": "Johnnie Walker Embraces K-Pop with a New Collaboration - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFpUTWZVV1lFSVlaWkl6eVFRajhaVGVYbzFTb1JJbmljYXowcHFDMnZTeVRkaFhNVDVXaE8ydnlEbmJkZzJFTnZ6OVBMTWxzb204bllBV3JlOHV0X3lndm1MTWpNNWFQeDFaQWN0M3RJcURCUjZGV2p3d1h6RVN1MlZ2QzdIdjl1ellUaDJxanNHdw?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-10-27T09:08:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "99dd1706837be02c00b6",
+      "title": "スコッチウイスキーの最高峰「ザ・マッカラン」大丸東京店に期間限定ホリデーポップアップストアを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZ0xoUzVnUEpreDB5akVqbDZkcXl2VjBuMWlDV3QtWWh3WmVfQW5DdE4zSHprQ0gxNXk3YkhiMzRkaTdCbVV5eGVaMDlIZUNQYUtGUUdmSGNObi1VbHZuNkkyYUhEVTBpT2c?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-27T07:00:02Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "028c6bab950ac97cfcca",
+      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWtCVHVWMlc2NDV4RldfN3BGdGYwc2c1LXR1ZS1seEI0cWhFNjJNZ0drZElsbHI2U2QtNS1XalVfWVRVeDJsNmN1RXZqWU9EeG9CdVRtQ3lDYjZjeWljVDR2QTZPRXpzc3pFblFoeHE4TmZHRVA3a29mNW15WG45Mk5fNE1VNGJWM0HSAYoBQVVfeXFMUE1rQlR1VjJXNjQ1eEZXXzdwRnRmMHNnNS10dWUtbHhCNHFoRTYyTWdHa2RJbGxyNlNkLTUtV2pVX1lUVXgybDZjdUV2allPRHhvQnVUbUN5Q2I2Y3lpY1Q0dkE2T0V6c3N6RW5RaHhxOE5mR0VQN2tvZjVteVhuOTJOXzRNVTRiVjNB?oc=5",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-10-27T06:05:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "ba1579323b7d95058759",
+      "title": "Pinot-Cask Irish Whiskeys: Midleton Finishes Green Spot in Quails' Gate Casks - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQ1lGa1Z4THdvZU04TS1OZ0laMU1rUXp2M0drS1dqZ2EyMGhUWjJGc1ljNXZzTi1lbTI4dGhHdGtSbUZ0Vm55SjQtcXVuZHpmcmFabWJNNVVjeGttdmVWeTlMbGZCVzVsQXhzeQ?oc=5",
+      "source": "Trend Hunter",
+      "publishedAt": "2026-10-27T05:18:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "3e0b07c50adf3e99880b",
+      "title": "Indian Malt Whisky Association and Scotch Whisky Association Sign Cooperation Agreement in New Delhi - Hotelier Buzz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNS13eWJVeUI0NG94NTZ5QV80VHlsQlU2Y25PZWNGNk1PY2Vpd1VOWGlyYWNKVFVCRE9JbTc4ZHpLckNtTmRSVzIwWFk0M19xTGpVXzI2Y3VrMjFIUXJqWUsyVnhIV1NRcE1ubFh0eFRjY0NpTk1pbUczS3dvbjBOMG5ibk8?oc=5",
+      "source": "Hotelier Buzz",
+      "publishedAt": "2026-10-27T03:21:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "5574947b4ec0cc3a7dee",
+      "title": "イトーヨーカドー、ウイスキー「山崎 2026」「白州 2026」をサントリー公式価格＋送料で抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aUxCUDhDS3hkcWFxMlp0TlBXWG5KLWZscDlRZjh5QmQxdE4zSDlJYUEtUURzLXlfdHFHOW5vQjV1MEI0MDUxU1BRdmdncDlyZUxkLWktdXZEY1VhY2F4N0lDa1dRTTFVZGc?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-27T02:28:54Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "32576b18504a2764d62b",
+      "title": "イトーヨーカドー、ウイスキー「山崎 2026」「白州 2026」をサントリー公式価格＋送料で抽選販売 (グルメ Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXhLd3l1a2M1cFJ1SndXem5HWXdLaUdrWjdzQk5NeHBxYmRPOWFXWGNZaE1mbXU0MWpKeTFLYk5kdXZ6cnVEU0FBUFRYRFVLa2U3ZHRlVlZUdzhhUkFadmpIelB1eTNLRmZfRW5mdUlYUU1ISXRGdEZwWjdrTm5rYkpFRVNwV2tva0dMOU1R?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-27T02:28:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "a28683836ac4c7407b71",
+      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-27T01:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "5aab14fe85e60f5c41b2",
+      "title": "馬追蒸溜所、初の3年熟成シングルモルト・ジャパニーズウイスキーを12月1日に発売 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tVEJybjZfbnA4RHNnTG5LTDE0eDJuVTc5TVIxbDJXYzFsOVdiLVNzNDFtM0Z3RVhlS05xNnhFcDFqX1NOSVpuTko0cnpuMFBzVmo3Y2NFNmMybzRpQkRGeVJMWmFwR3RZVTZQT1BIRTA3QQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-26T23:40:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "f8ff65022ed67b2ce275",
+      "title": "Scottish files show officials lacked key tariff details after whisky relief announcement - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVnpGSGNlc0tRVWw2OExaMDBnR0lRYk0yblRfdnB1VTFzcFVtcGtGVVI0VVJfaHBKb25IbEEwdkYta3FOQkswRklJbTZGOENiY0lMRG41TTNvUlQwQTVYYzdwT1I3cmw4aFV2MlhoTWVKV2pSVkJWdlBDSy1HRGk4TGE5X0otTmtrd2d6cUxOcmpmTEdvUlJKQ2hDS0FGUUhMU1BKWm0tNjdRV2pSdDdVcGRIWVl1MWpOM2VzUmExQ2FJMTBFWmRMeWpCbC1KX2Vx0gHWAUFVX3lxTE5OWlRxeFNwQTNOcURmN3dPTGhmTnVKZUZzdmp3SnFYQnBKN2YtOWNzMHczdHIybjJkcUt5cXpuQ2JXQ0xnYmRabUVHR2tGR21ObXhvMnBtX0VIa3Fqbkh1Y3NqU1BoU1IweE5rWlpmWEplbm8wQVdfVlNnY1p4cnFJbTlmMHJrMEx2aERCa3FhMmZpYVdqSmVlWGdWdnRiUEotVnFVTmNCZHJjaHI2a2ZnZTFLNGNJZjE5MnJTOTVMc09qNUJwdEk5U0wxQWFuNG5oZE5xSUE?oc=5",
+      "source": "Vinetur",
+      "publishedAt": "2026-10-26T21:47:33Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "374f66dca5bdbb60ef8b",
+      "title": "Award winning Indian whisky Paul John launches latest Christmas limited edition - The London Economic",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0w1R0xjWmV5Um5ScW9jTkdFTVJfb3VNajRPT19kOTBUUUVPeWNzVC03QnhzRzF5NEZFaVROdzFWSms3dkVTdGs4UnVidlZnTmlUQ2dXOXdGbFFISU1rcl85LXV0TmtwR1hpeF80RkZfNk9LTnQ3ZzJTQzdRVk1WaTYzdEo4Z013Z044Z19ZY1RsemptLW1QdGFlZ3UyZHBFZTVfQWt3TWlZUDJCNmhTQ01hZVpqNnp4RVQ5cmgtM01NTjE0UTc1NEhVT0E?oc=5",
+      "source": "The London Economic",
+      "publishedAt": "2026-10-26T20:52:32Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "b3e33f2d5cbfd73b2c37",
+      "title": "This New $2,500 Whiskey Is so Strong That the Government Forbids Flying With It - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcERkeGdiMGZLczd4WkxNNTlLN3JWU19va0hEN2Q1VWhVSDh2Rk96Z2lVSng2cjlTSmxWdGtCcWlzQjJSUUdZYnJUSUFoMnhjTDloalVJVWdYZVNUTkUzUFd5Tk1SNDhzS0o4cmJPcU55ak10b1g2WjYxdXV1aVR0SzRlZTlybkMxZTd6Rlo2THMtd2VNZEFPQ0I0RHE3SVFLU0VR?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-10-26T20:26:37Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "da3b60ff28eb9ffbc244",
+      "title": "Saltire Rare Malt Unveils 15-Year-Old Inchgower Cigar Malt - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGFHRHlIRHpKbGVnTndwVU9WUzA3bl9FcjJDR3hSUUwtN1ZhOGpxM2ZHRl9ReUJaZWwweklGa0ZrQW5sb0lOSDJraHJCeE53dS03RDBsc2xvT05leVZuX0k0LWhjNHdVQzVtN21ZRG5oSlV2c0F2eGt1RHZYQWNPbmlJT1lJSTZ4Z2FoRUlVTzlDX3RfaGhTTXRXX09VM3lX?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-26T17:31:40Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "ba82875affa0d68694d6",
+      "title": "The Crolly Distillery Unveils Donegal’s First Pot Still Whiskey - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUw0SkxINURGOUdhaWRZemlxdHcxb2ZmQWpVNU5nUDhDbWR5cW5waEY3MWFzZmo0cHJmaFppU3Nvb0RKTjFYUEpvT0pxWHQ2c2gxSWZHX0ItZW1mYVhnNVpLYm5nSU54bjQwa0Q4NWlYdXc4MXhUeWQ3RGJudmlUZHF1d3dJaGhvV3AzY09ZVDlXSmN5bHU2cjNXRnlNWHBkNUdjOVBn?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-26T16:49:19Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "1365b017c73b2d9c7164",
+      "title": "Scotland challenges England’s new single malt whisky rules - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXdFNU1hbUNKdFFORzJmX3dGUFd6eEhfUVNXS2RVRzlJUmJJY3V6SE04VzZLYkstNUdCb2c0ZkJhamJiTm5NOWo3OFYtUUdRaTN1bHJSRFRscVc4d003LTEwal92anhtZkRoeGhNYWFJcUxCYV9BdTRLU3ExR2xmUkFnNHNualFfdFBVRmpvNm1QZk1yRXQyUzFrVnJZRE5LYy1fUDdHWdIBrAFBVV95cUxQdzFwUVpBcm1Vb24yYmFnazNINFhxS2ZzRjc1TzJWNVhseG5ieDBKT1JxbmZIN1NCY1hiODNacV9SU2JSQmVIQTk3QlR0Q05EaF9EcFh0QTNyWjM4UlpYVzBGblN2eGRQNFpBTVlzME12S1BLRi1PQ0JrWWd6aGl6UENGdVAyZV8zNGJuQnI4Vm93RjZIRzJ0MTcyaUhySXV5bFNLS2ZjX1ltbHZX?oc=5",
+      "source": "Vinetur",
+      "publishedAt": "2026-10-26T16:44:28Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "759372c07c67407fb8a3",
+      "title": "SMWS Lauches First Ever Blended Scotch Whisky At 18 Years - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGFZMmNwLXAwX0tZYmpDTDFhTXhMa2NCRlpIMG9aTmJ0XzB3aHNEMGY0TllwWlZtVUtTbVVWN1ZqME81QTBFMFQzUkZIT0VWc3RYNWo0MmdpNTlZZWIyM1JFZ0tTT1A2aWlSOV9yYmRQR0NETWR3SmR6dkRkWTNhUXFkZHpFekVWdFdjS3ZheVdSeV92RWlISjh3NGZYWFU?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-26T16:26:37Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "dbdb872c37e21a34dc05",
+      "title": "Unifree Duty Free hosts Whisky Festival at Istanbul Airport - Global Travel Retail Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTN4X0Zsd3dia0V6Z3pXNkZVeEZ2cGhOQmhpeGlnb2RYYVQ3OUVnMXZnejZJYjZDaDRZRl91VUdsT2IwZjMzdy1lVmJCb1BsMEFSMVlYU2o2NjIxdnhlSk9jUXNXYWZuUU1RelRCbVJtOURkSEhvWVpQeFQ2NlBqQUxQLTV0WGs4SW1qeGREREY?oc=5",
+      "source": "Global Travel Retail Magazine",
+      "publishedAt": "2026-10-26T16:08:21Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "420712f314885c8ec6a6",
+      "title": "SMWS Blender's Notebook: First Blended Scotch 2026 - https://thedailywhisky.com/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XWktOczB5ZzBabHpEVGl3cWRqbjE5Q1lBdlliT0RJNzFsT1lNUG1Pb2QtYnIwdWxYczRfcnBjNW1nS0NscVBPQ29obTN0YXN6SHlhbklQdU9HOWpJaU5WNnlEX3BZRFBucEdIdno4MWdNRE9HME1SbVgwdw?oc=5",
+      "source": "https://thedailywhisky.com/",
+      "publishedAt": "2026-10-26T16:07:34Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "5ab7dbc48a28303913aa",
+      "title": "シングルモルトウイスキー山崎18年、Amazonは“6万7100円”で抽選販売 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83R1hybGdhODZkNnAtaUV4ZzB1QUY0WkdOUE9nbG1ISk5lSW1NM0oyQUF4NFRhbU44LWdzVXdXdkJWS0E0TFMtbnNQZllKQVJ1bkVveG5NSUU3YzFqNVhR?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-10-26T15:11:29Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "a57521b3b80b31d2e982",
+      "title": "Smoke, Spice, and Speyside: Tasting Benriach Whiskies At Portland's Premier Whiskey Club - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmN1bHhtc2pkbUNJUjJpTDdOX0pKcFBJcGZ1RjhjbXd0SjFOc1ZYcVl5VHdIazFrbE1IempkcGtUR0Y2Q2tIRHEzUlI0TWdNSWpXRTAzaXJBUXdhZzlpMkR0T3ZGcTR5c2NxZmFqVWFZcE41TVQzNDR6MkY1TjFTSkdhdHVmRlI3c2RzTkdPVkg3ajRpcTR1UkRoYnVGc1pWbnlsdU5GTXl4dzFFQUpJNGotZEpoSDJPb2ZmNkpmLUN1WUVWQjlBRA?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-26T15:02:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "094ae608644121e37a8f",
+      "title": "Unifree Duty Free brings Whisky Festival to Istanbul Airport - DFNI",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTA2dWpnQW12WkNjaDc2LXhQeTdNVUdQMnFmbVEyN2ROZVFSUjBzVGI2Y0ctWjFpcFA4aDVuakt5X1lSUUt0SWFrU01LR2htTnlfUGdjZkt6SFZRdEM1YlYtRXAxTnpHZnU0VHBnWHN4dkZhM21pZ2pIeFFyOEpaN0E0WFplOUlfNFZ1NkNEdEJXWXFkWkJqSFkwdF9leG5IS09xNzZSRmgtU1VMd2pOUUIxbC1sT2tGX1Z3NDhUOEY?oc=5",
+      "source": "DFNI",
+      "publishedAt": "2026-10-26T14:31:40Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "f636edbc8b792e954443",
+      "title": "Lagavulin 16 Has Priced Itself Out: 5 Whiskies To Buy Instead - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0N5NVVad0xRZmdGNllzYzd1VnNETF9zeHpwMXlhYXdDeFZDbGpvd0J6UTlJX2Jmdy1acjlDbUtnWnlham1NcGpuQURPb3d4eloycDVzUFVqLUNveFZTVllILXE2SFl0RDhpZkctNFRiaU1KMU5RZHZfNzgyUXdlX1plSlpuNDRtcWc2OVpvY0U3TTZkaWpPWmpQRVN4Y25ibldYelRHUzU?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-26T12:53:27Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "124bb83758899f05b95e",
+      "title": "The Scotch Malt Whisky Society launches its first blended Scotch whisky - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW1fWXp4UHZTbXhLUWRiWDNBT0w1QzdKTENaODJNR0RDR2JkUzhOTjV0RmZQNTAxT0lqelRqZDl1elpQdUJaZmk0UkxYbDlNVlRIWHdrcmUwSzRSMC1zNXRkR3RWOTVnTjJpelA5MEJkSTV4YThrTXk2U3NpdC1tNmFGZHVGZ0lESW1xbXhMakdTN18zZFpGX2Z5TlVINHNyVEFPc2dQelJrQ1RTRVE?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-26T12:29:29Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "76af7e7908f6707c79fa",
+      "title": "11 Scottish spirits to toast Halloween - including devil’s cask whisky - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHhkSEQ1T0tsdG5Za1o3bkVBb0o0OFUxamRKRFpFc0liT2hTcHd0NUhxQWM2cWN2S2VycVUweEk0VXI3WEYtdC1tWEpfTDVKV2pUd0RyaEQzak5UV1ppenVXS1lHQTNIU1B4UVh6QTNQQnNLa2NXU1NtWXhRVlB1dVBtbXZvdU9GWG1KemFoRmc5cVdiRTZkVS1yOGxMQUUxNWxJMU92SkJfWmMyVU5QaEdhVlktZ1VBX3NlSXZGVVJ5NDYtMUhnM1hrOERoME0yUHdzVjBFekxYWHp4NUpiNndB?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-10-26T12:19:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "d0f6e9e5d17d36fb959f",
+      "title": "Glenkinchie Distillery named Scotland’s Leading Whisky Distillery Tour for second year - Deadline News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd1RYT2ZSNkh5bTJGQzM1TS1oQVFUWDdmSDZWcHl6QWZrZFgzSldGcExRcm5FWUNCZkNFby1uc3NlUkNfcVlTdW5kN1hNX1hUSGt0UkdUNTRsWjk2Tm9PaFQyTFRSd2s2NTRHQWZCVnhYd1FuTUpnQ2NCcjFhdmtXNGpLOTN6X29DeWZzeV9RcDZVZlpLdUVXY09TZW1TZHdaMmFrZEJwNDFtTEdzekU3Nno3aUJxT0NsakdfRjZJZXpwSFUwSWRn0gHPAUFVX3lxTE90aU5ZZEJydGpVVDdGQ0tCeTdZdXQtakdYNU5IOUJDa0tvVElvOTdVb05lNGZuRHhaZUF2S0tCWkJ3Y1hNcjJGZHhmWjhrOVdQYTl5MHJWc0NmY1VmSjI4Q0JZLXAzaGNVWm9DR1dnZ3pTWnI4NTNWRGlkUUJ3OEtPbnYtM0l5cVZudnU4UDJNRk1ESmVYWWMxTzRPOElmLWszTlBBYTlYQVRfY3B1cWYwUlcxVFBEMlBSV09GZnVRd1hyOUR3U1RRblFmRGNaYw?oc=5",
+      "source": "Deadline News",
+      "publishedAt": "2026-10-26T11:18:57Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "0687c40be9470ceff437",
+      "title": "The Macallan Releases a 1987 Whisky-with a Twist in Its Maturation - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcm90TE9IdFJCeVlhMnJLMG9IU3VxTVpxQzY2NHVJVWprS2ZteTF3NnhVQkRJNU9iNVBNVUs0U2RVeWxMRkNrRnhqTk5ITExLMlJ5NFVHR090bk16cnlUVU5BS3k5U0QtLXlKQjkwSUFYeklFazlhN2liM0lzYWlPV3FkM0Z4VGw3SzFtMXZqRGtQbUkxRWtsZlZiV3k4NHJueWc?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-10-26T11:04:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "2238274fd5304ee2cef8",
+      "title": "Five things you need to know today, and Scotch whisky as an acquired taste - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWNEc3NjaF9lSkhFTDdkX3k0S2hoSlc5eDJVT2hKbXlnajhJc0tmdmpteFZpdkp1Q3dzNi1iR2tpbTJKWG4wRVVxV1hNZVQtVWhGZFpKYmVrSDE4SEhIODhXbXhwRUtaX3ZVbV9JdUdldHVMUU40dHZrQ2pEd2ZWb3hYb3F3djVLbGlDaHZvZ3YxUUoxLUNkZE85dlZaZw?oc=5",
+      "source": "The Business Journals",
+      "publishedAt": "2026-10-26T10:14:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "a166ad7b06e13cee2704",
+      "title": "「ウイスキーみくじ」第162弾発売。山崎18年や12年・白州・響などが抽選で当たる - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QVVFqclFscE1YbHFfazIwVU1fVjQ2SHpNYVhLS1dSUTJ5dDdIWV9hZExtajdpanppczU2ZGdELUtWYUlialI1cU84MjFfbWoyUWJwdWU0NVdWSzBBdGl3?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-10-26T09:56:16Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "ea316d0e8b59b7fcffe1",
+      "title": "「ウイスキーみくじ」第162弾発売。山崎18年や12年・白州・響などが抽選で当たる (グルメ Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeEV6bGphZ0J1TW42RGlfOUdWNF94bGE0YmNFYmQwSlhoR0hOV3lKeU5xVGtmcmdibENONjZPbHpLNXNXandleE1Tc3ZfY095U1NmRF9FWEpLcldsOXFCaDdyVWtjdEtBZDNEMzFOTWx0eUZEVjBra2t1bENZdUUyNkNWcWJ4cVpCMEFsRzFR?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-26T09:48:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "adc0c50bfcda92652464",
+      "title": "Indian Malt Whisky Association signs pact with Scotch Whisky Association - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXJTQXlFZFQxNjc0a3F3V0licS1qMTJfeHlPaGd3YThIUVppcmo4aWcyZUxRNGpjYmt3S0ZaUWxXZHRUN2VicmVQdE0wMzFHX1oydW9fVVJtU0g3WUJET2gzZjhleURIY3FzSmhXQjB0VkdpdlJrUzV6YkZLUU5jdXl2Z3dmd25PZnhoLXo0NnFfOGw4SkNlNndzZW5ab0JRbEpFOVZlRE1BR0NDRUp6bEc3XzRPdTRjVmQweE4tTC1MUVlsUXFrNlgyWjlUOERYUWlEdm5BMNIB3AFBVV95cUxQSVQwUVFKRWdrQnJYbmVsVEdJaXdvVkhma2VHcTIxZnFLaDJHN2xEQWdsajZTTnV2ak5WcU5nMnR2dGxmQTVEUHhuZ2pKZnZTVE5MbTVpTlV2S2JWYk9uZWdrY3FuQ1FidXcxeU81MHR4azlVSjRCVXhKQ3AtLTEzTzQ1dUNLLVU0a3phMjVUaUMxc0pvTmJselYyeXA3MElvbi1VUklGbEMyQnJ0dE5EdlBKWW93azRzdUFITk1sYXlRTk9JbEFISDMyaUh5d1kxVHFjNV9hemsyUVdJ?oc=5",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-26T09:02:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "620fe4490c0ba891d87e",
+      "title": "Monkey Shoulder is winning over a new generation of whisky drinkers - City AM",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0ZVLWZuOVpUcHNhZHUzdmZJUndtelZUclJWY0R6NVpWVGVHUFNzSXpOTlAxbkxXYVRLb0ZGT0NhcWU5ZDdyMmZPQU9pc3lEQk1rMjhQeHNpT3FkNU1WMVZFaWJHTFhZTUEtbi1DTXNCN0k3Q1E4MElLanZkQy1UVDNxRmtDN1NjQVhVTU5lWTRDOW1CQlE?oc=5",
+      "source": "City AM",
+      "publishedAt": "2026-10-26T08:41:20Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "7a687163d08c5b349db4",
+      "title": "England and Scotland are fighting a whisky war - The Spectator",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2hHY2ZGSUhxRzRNSUt6NzFZRlRsNTFCdDd1S0JBQVNqN1hnNHhuRnNDVzlHcEZUV2tTc1lsRExoV3ZVVV8tUmhNZFhqNHFxNXRzMXRwcjhrX0RncldFaWdMNkVPTEY2UG96M3o3X0ZmbTRTR3FHSEc0VGZnVDVHazRUQQ?oc=5",
+      "source": "The Spectator",
+      "publishedAt": "2026-10-26T05:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "9a77428d7724373e3be7",
+      "title": "ウルトラマンシリーズ60周年記念ラベル・ウイスキー登場！ 2026年11月10日(火)より抽選販売受付開始！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlZ0dRdWVaVjI5dlRWMS1PQjB6b0VMYUVhVFYyc2FhMVpTdVdtRjZ3M3lqQVNnel91aGJCWW5JVWx1LTNxWnE2TWRwa3dlVFJuYnlVLU1meWZSSDQxMmQ0Tm5BZGR2b0dOa1E?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-26T03:00:01Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "9dc309c223b5f38d193a",
+      "title": "ウルトラマンシリーズ60周年記念ラベル・ウイスキー登場！抽選販売受付2026年11月10日(火)より開始！ - 円谷プロ公式サイト",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jOTRvSFVuN3dmSjY5cHBjUUtVM19FdEtsVm9vYVlabDVfSGY2UjFuTTJBSnFZamVsOGtFZFdUalFrRzVw?oc=5",
+      "source": "円谷プロ公式サイト",
+      "publishedAt": "2026-10-26T01:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "0400a749006cd9cffde0",
+      "title": "14 Speyside Scotch Whiskies Every Fan Should Try - Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjV1UVgwMGJIZy1INVBoQXhWa1VDbTVxUDlTOHZjU3BkYU96UHNrNXpURUhJcVE5LWxQbDgyLWhTdHJqVTZSaE9DbHUyQ3BGRzliWC1SMjdKSFNmbVpidXZseTJVbzVOTFRycEhxZ2FnMnVBYkNJLUswR3hSYmRVam05LTM?oc=5",
+      "source": "Tasting Table",
+      "publishedAt": "2026-10-25T23:20:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "95d3401e6f6a6c4c0913",
+      "title": "99社が出展する蒸留酒の大規模試飲イベント！ウイスキー文化研究所 ウイスキー＆スピリッツフェスティバル2027 in 横浜 - Dtimes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5Z2dFdnFhcGNKcHdhVHlGcjd1T0R3RXJUb2duVXVYVUt4Vk9xQmtySFp6QVFLUHpvMnFxMkhXemN4RWtOenc?oc=5",
+      "source": "Dtimes",
+      "publishedAt": "2026-10-25T17:43:20Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "fae39c2cb74942a2fda9",
+      "title": "Black Bottle Blended Scotch Whisky Review - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0X3FCcDVWckk2amVlZkwyQ3A1Mnk1MFp5c3NNcmstQlFzN0VUS1l6M3haY2o5eWRWemJXZVYtWG0tWHI3VmdMZENSTkM?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-25T17:31:05Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "b9061993995bb1f41c4a",
+      "title": "ウイスキー「ザ・ニッカ リミテッド」がAmazonで送料込で15万円を切る“14万7800円”に - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxMVk4S1JQX0M5eGFBcWNjQVZKRkVGSWJtN2dqc2RjeVo3T2NFVUxSZlVnc1JnbUxYUVBkcHFEOHlIbUQxTjkyczdiT19IM2dYVXN0ODRlelo0ck9XSGE2eVB3QzZpcW5KSmc?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-25T15:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "6dc2926158d1cbf13343",
+      "title": "F1の空力とウイスキーの熟成が響き合う アストンマーティンF1×グレンフィディック、数量限定の16年 - Esquire",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVA5b1I1MEtFV2NvdEhxQXZ1RmJhQ3BROEl3LUtDNzFhaEZnaTg5RlJzdkl1WEJHNnN4SDBwYnpQNjVUdkxkLTZUVFNKSTRrVDA3NlR6ZnYwQ0pVWEtHZzlrbE03ZzdURE1BTHhNcEZGaWxzWTNDUDRiUmtjaTV3Vw?oc=5",
+      "source": "Esquire",
+      "publishedAt": "2026-10-25T07:09:31Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "af7459b41f243dccfd3b",
+      "title": "富山の自然の恵みと技術を世界へ！ 三郎丸蒸留所が描く「スモーキーウイスキー」の未来（FRaU編集部） | FRaU the Earth - 現代ビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tWTRydTlpc3FxWGJmVzZCSzVRYXBzeVl4TUtDMUVRWUhHRHRBOXhOVUpGUHhtc0FJdGdYZ2xieUQ4THducVdBUUN5aTBDRkE?oc=5",
+      "source": "現代ビジネス",
+      "publishedAt": "2026-10-24T23:33:02Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "c899bdeb90e0d5b9ffa3",
+      "title": "Introducing the Cù Bòcan Experimental Whisky Experience - The Luxe Review",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamlqRTFTcS1WYTF0cjRybGphcF9BV2V5U1pWWXlaZ0FTaEVEd1AxSXkwdGNreGJtSlRwcXgyZEViRDFDbmdsOWdEMVY5c2I2STFfaFc5YWswMUdjcVMzRzIyNzhhV2RneXp5Vm9aLXVBVlE1am5jbldoSXFwNFFTVjFkXzJmbHVha09xYWhUUTdTYzFCcm1HenZhTDNyM1QtZ2piOU1iTTBGUkRGbnJuZlBsc1cxUEJoYlNJeFBSX3NFM28?oc=5",
+      "source": "The Luxe Review",
+      "publishedAt": "2026-10-24T17:38:40Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "e249700009d5c3cd55cf",
+      "title": "Starlight Distillery 25th Anniversary Sakura Reserve Bourbon Review - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xUGI0SDVSOU1kaGlhdGo2ZEtuS2JOM1VwTmtiQXVEMHBUM2wyQkVxejA2XzVmNkoycGJWcjhIMk9FNVR3d05qVktoWGI?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-24T15:42:49Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "5e1935dfacb207f4dbd1",
+      "title": "GlenAllachie Scotch Whiskies, Ranked: Which Sherry Bomb Is Best? - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVhIWUhjbndnUno0eU0tZ25iVXZVdGViTlVaRXZjdEVqeUVkVEhBSXQ0ZV9YUDhELWVpMERpRXRFWnJoZjUzY1dzX1NzaEY0WUZuWl9yVndvN1p3dTdQUGxfWkJhWlJNWWRPQ0NoYWZlZVhIdmEybTlkRmFfMWdyWmJneXJtWFNiZDhrY183TW9kS01YY3E1Z2MxbjRLczZsT2xzbGlKTnRzdw?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-24T13:06:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "8a1e47bb7f1256541ad3",
+      "title": "How Scotch whisky triggered the first dispute in the India-UK trade deal - The Week",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeC02RFM4VjZBWnJuRVBPY1dUWWRwY3hkcEdwcXI2enZpNG9HejRCckxuTURodmdDSURydHBTSmpHNDhNUjBKOVB6S3BnUUo0UG96NUMxV2pmRml3SDk1UWtUdE1YV29zOE5fUFhCUVl5YkhVOVhXcThFdEdZVWZlbHp4VHdLUUx6UnJhYnh2a1F2Wk15c3pRMUVxV3NaRU5jNEs0Q3hEeVVwcTRXbDRvcFpBdVh3YUQ2RDR0YnRBR3NkbWvSAcgBQVVfeXFMT3Z1NVNxUU9SRVhja1Q5NHI4STRWMkRCT182WUpUelhoZXZyVnhSTWxlVVBMeDZPcmV1SVBBRXg1dkozWDB0NFR1MTF5dUpibWkxZjRNR096X19GSHl2N0I0ajhuOTRralI5b0JzNG9vUkRBNHppS3BxeUhHbXNEal93Mlh3MFhZOGZXYUJqRi1aVmVFMzNRTVZFbGtqQ3M0U3psVTJLMkdDV25fbkI4OXE3YklXdGhaeGlRVzdrZ01pRThVT21oeGg?oc=5",
+      "source": "The Week",
+      "publishedAt": "2026-10-24T10:03:46Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "f41e0c3b71f2f40f3db4",
+      "title": "India-UK trade deal faces first big test as whisky tax row draws in Britain - The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYkZLUGh4c2QtQzlyUXNRSVBjQ0wweVNQLTlsWEM0MTgyZEJaUmdBSGVDeDVZTFY0S2xHRDBRanNBX004b09qSEtiSEZ5bTdfbkZJTlB1RFlUc0wzLVNRdUJReW4yYzhfTzdseXllS2gzT290ODFCUUlUNEp1dzUyMDFLM0dGNHNrdXBZa3BZcmkzVUNiZEo0MngxTEFlVGhONVo0TzRIdHhuUFNKakVLem1CZ0hLREpwVk5fcWZzWXdaVDZVemZCRtIBzgFBVV95cUxQanJGQ3VaR05JeWlfS2NtT2xLN3dHRTQ1UUZ3OGV2NmVYMzB6bVN2NGozRWEtUWRZVEpEakhLcUZsQUlWWXFaNDNvOEVhbWN3c3VrWGEzUWt3WTE0SkJpYldzbHExZ1h5UzVfY0dQMkU4UUJuVnRPR3ltN2FBN1N6RVhOclR2cUdvM05pbU5ibmtlTk9OZ1lWdnMyRGZLZ3g2WjhSNkVmWU1HTGx6Rk5LQzdLZUY3eXFQR0FrbEVRVXRnWEFsOFFySEg0dUJWZw?oc=5",
+      "source": "The Statesman",
+      "publishedAt": "2026-10-24T07:45:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "c3a484debc276a09c0fc",
+      "title": "オーケー、ウイスキー「山崎」「白州」「響 JAPANESE HARMONY」を抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHUUotbkJLVzN1SHctOTh1YVoxNjlMQTVwYlFpbmNPZ0RmSHRUM2J5LXdRTFBKSTlHRFdvRHFVRDFXTUhXR2lQRnBSakhvekhqekxBOFZoRWtwNzFCcTRZNnF5YXRrN2tQdkE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-24T03:30:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "ad381b69c9b62a30bd70",
+      "title": "ウイスキー「響 JAPANESE HARMONY」がAmazonで“8800円”の抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pTmdFS21DT0M1TENHNmtlSk9KMVFmVU5ITWhCU2dncGQ0UkgzcnZFMnpSSW1vM1lPT2Znb0V3NVRacHNIRUxlMHh3S3U2Z3pjblQ5azl0eXpaR0huclI4dnJiTHJnN254a0E?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-24T03:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "95a5c340afff0b21523a",
+      "title": "干支シリーズ第6弾、2027年“未（ひつじ）”モチーフの限定ウイスキー2種を発売決定！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IdklJcjRZd1gyZGo5aGdTYWhvalR4WW5vdHhPWFdrYnBfRFVFdVNsdjh1R2hDd2lmeHVvNDdlMDRQVm1uTThZdlRyN0NYVkFfTlBrdg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-23T16:48:21Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "ba687cd95a2cd8ab8d9d",
+      "title": "【第2弾】\"響21年”が登場。ウイスキーくじ最新弾が10月23日より販売開始 - まんたんウェブ",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByZnRzODg1SmUwb1NwWklCOVd2SmFYTGlRa1FGS2JXZHh0UC1CUFNWS0hOOGJIeUFmRlJJeUxMOTB4WmFKRDQ3TmdwQXZuZWt4M3pVNW13anVtRmFiNTN5ZWhmbnhFQ21wdVZoVGVHSEhYcDJSUnc?oc=5",
+      "source": "まんたんウェブ",
+      "publishedAt": "2026-10-23T16:26:46Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "669dfd36901cc428436f",
+      "title": "Hibiki Japanese Harmony x Chiso: Whisky craftsmanship meets kimono artistry - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYm1wTnU4SVBzYkpIQl9tNkd5Q1ZNMEJBbm5RdERZMmdDdlhCanc1dWlVbnBLX2lUSm1uamR6MEhJX3NoMVB6eXJzZHIwUkxmU0E1d0NTYjFoUUE1Z0JkemJaZi1WM09ncTR6eC1PV0pUbjNWVHlzLU9Ua2JRZXVBZU5xVjNaWDZhR1hMWngtNE5lSFEwYkN0TU5rZk5qWnI1QjE1RG1Xb1BscFFsdm44cnBkUdIBuAFBVV95cUxPT3ZWMEh5TFlyUlZBUmUtSDREQVRxem5JcGVJRFR3WWxuWklBZEpXV0FnWFk1NnpKYkhmWWFBOUpUT3dOQ0x0blNzXzZxbk1QWk5xaU94Qm94eXo2OHAtYmJqdVZYS1dVUnZlVkdla2NBVFk0T1FnRXA1NExZdE5Ud3hfREhtaHVRWDl3UUtXbEFvaE80c3AzRVgtWWJyRWJrNXNfTDhJRzAxdFEyZnZzbTNDRFlENWJy?oc=5",
+      "source": "Prestige Online - Singapore",
+      "publishedAt": "2026-10-23T15:04:46Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "69791e6b3183244bd466",
+      "title": "India’s Scotch whisky row as firms seek 75% duty instead of 150% - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUFiaEh1UGF3VlR5NVhLdUZMUkhmVHdQcUJwSnViSkxLVUFOVW5fZWxHelBQQnBXWG1TS056VVBSdnNPbmxDOWNOYWM5cWI0NnNuZ1BMOENmVVNCWk5Pc0NHX0c1UzJEanFWcmtOcjA2aU56NVlfajhmOUJEdUNhRWkyMUtSN09PZ2pzYjd4RGc2OGhjSjJ0djA1dl8tRDkyLTcxQU9uOFBmZ3RpM21QYndBR2l2OGtGaVFsNHpXaTlJTl82OW9ZaTVzVHdQZnNNQ0ZXM0VDZ1FPRnRIMDdTatIB5gFBVV95cUxOYXZzN3hmR3FwSFF4TTlzWVUxQy1QX3p5NXM3WGFYaDF5bjZRTS1Nb0hFN2ZqcTg2ZUdfdUR0ZlhpWjhKM1hTdTlHUVBUSEFrNmFXUU4xdlRiaEtfbXNxYm1FV2NBSWg5dGQtN0NQTTA3VGdUZUhtbEs5bXd5ejJ1MnV6NXEyNXQwTDJFWGduNlZEMHhhd3haQWtLS3NRNFdReTRKb0h6Z0xRMjBFWU9FenpDYllaSGJvcGJQbjA2aUJoWlI4VDRYX2dWSEMtQ2pmZ2twV1drT0hXXzhvU2g2ZlZTcmlFQQ?oc=5",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-23T14:53:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "7a2e9d5bc54f3591f6eb",
+      "title": "Crolly Distillery launches Donegal’s first licensed Single Pot Still Irish Whiskey - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjJBS2FvcDZEQ2FRYmU4bTkyWERPX3g0N3NHd3lXWk9LM1J1U0VobTdmUjVfeGhaTjgyeDhTR1NnNTFsaUp3NERDQS1GeUkzZ2ZubVB1b01uMjA3ODFseHhwRGV0Yml1Y050NkZDQ0lRdkh0eW8wRG5ualVLRWo1ZzNDUUplam1kYVFrQ09jaU8tUnE0ZkZyNmFKNXljaGxrNTJwTTVRZU9fMnVmZXZEUHJkY0RxMU52eWVJ?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-23T14:45:52Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "142a5f8602996fcad271",
+      "title": "EXCLUSIVE: India's Scotch probe of Diageo, Pernod undermining India-UK pact benefits, trade group says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjBQY3BDTHZ4N3UxczhFaWJMRzViZ3BkX3loejc4QUFEdnF1WUREYW5ZT0NhTFgyMTdNWjR1b1l5dncyd2lFOURRVEMtOW9YUVdqN3lfRm5Mb0dkcHZqMDE0VmlPX1hpSUM1SXpzeFR0T095QU9Mb2w4SXZldTZkYWpMLVRQZkFfWGtIbTBxQlJJVjYxWmxHclp0TEtMdHNyVDNwaTBVckFmQVdmRnR6Y1lnWkMySy1mMjRrLXhNTGtweEZ6UWJB?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-23T14:23:00Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "5d7232f54c7e3c4ff508",
+      "title": "Benromach launches new 25 Year Old release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYno2eG1JaS00Nm00VWlMOHZ0bUR4b3kyanQwdHN3dG9RLTAxWEpLcU5jSVEtN3dGT2pGUE5aaUJ2N2NXOXF0aE9Zc1JTRl9vQklyTVFhQVZhOUt4azVYdi1EWURQalEtYmd4QTZKcm5kYzA0ZGF3d0Q0d2hpbVVLQ1Y5SlFJX00?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-23T11:20:48Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "20332fc579a5da6ca223",
+      "title": "Want to get into whiskey? Pioneering Kentucky craft bourbon distillery could be yours - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42MGdVMmxZdGlmQW50eGF1OGhGdThlMWp5OWxhM21iNzl1MXQzMTBsMkIxNHBqX2Ffc1g2VDl2VjVBS21kVTFJR1AtVjNtVmFVeHlMbWFBQzJsR3pVMHdBLXp5RkNwSzh0OHFSa1Q3ZEHSAXBBVV95cUxPeEVKYXZtTkZQRG5ocTRhdWExMmZGdEhXWG5NeU5Hd3JBY19HVU5LcmZlb19iTzlnejR5dU4wTlBZcXdmckZuNnZZbms4VU5qdk9Ycm9oVTdrWDAwcEJabWJ2eVg0eUxlUTFrNGZGMm5H?oc=5",
+      "source": "Lexington Herald Leader",
+      "publishedAt": "2026-10-23T09:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "12d0338b51e17c940add",
+      "title": "Black Dog partners with Manish Malhotra for limited-edition Triple Gold Reserve Scotch Whisky - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMl9fMWc3UlRuQ1A5WEozRmFnTWt0NjAtMkZPRUN6cDBLWWtZUWNtUmZYZF9sRmZFd29EOXZoUTdYV2p1TU5mTFZ1Tk9IcVNiZmJqTVN6cERQNnM2bXc1RkdqRzRTcjF4dDhYX2ZxWDVtQk10ZUpQUnpURDFnTXI2NUhDU0d2Q0JjRXFXbG53LUx1OVIxdlNadml4MFozUWNsWnltRzdFcENyNEhnMVFmZlBaRE50Tm1vN1NHWGdWUQ?oc=5",
+      "source": "MediaNews4U",
+      "publishedAt": "2026-10-23T08:33:54Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "efa533761782b9839af5",
+      "title": "ウイスキーファンに“贅沢なドキドキ”を 人気銘柄がラインアップ「億万みくじ」第2弾発売 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUhGLVRWdi1XOGRxelh6N1BBWkNOSFVvQVJWRWg1WTNmb2pBaDJrSGx6VWxUaVVuM183OGRVT3JyYklweThheGpyZTlRc1BfbXdzVkFPWjJDNE44UFhWN25BMjhLd3hRSzV1cTZnRW9TZFBFQjZZWXdnMHhBbm1DaFdBaDhnRm5QaWhQUjV3cnpQV2tQZkE?oc=5",
+      "source": "イザ！",
+      "publishedAt": "2026-10-23T07:21:19Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "8cd0e272c97b275947c9",
+      "title": "India Could Become World's Largest Scotch Whisky Market: Will It Get Cheaper? - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmIwczdieXZIalRkN25HREFZdzZ4SlBMLWh6b29KajBwRTJ1SUNvc1lobk5LX2dtT2VQb2ZObVdvLUZpVDJVSmRJenNmQ3FBNGtsQkhrZ1VBam0xWWhoemxFcGVGM2k4d2dNRGNYTVg0Zm5nRXlNdTQzcmdpb2xWV3pxSDgzQkRXRWVVMkRjTUowNXlfYTRIcXEwanlpUXI0d05HNEI4QXJIVjRTNXQ3Szh5anVvbzTSAb8BQVVfeXFMTnpMb2xwRHdHTElVSGVXVExOZEg1VmcxQVE5WlREeEE1TVdRYlE4X1pUaTRQMGdkb3RFM2xZMmkzY2k1QnNTNnhjVGR4WFQ2OWx1bTNLTV84aUd5Z05tSjUyN0RFOTN6ODlvcVJLT1RycHBDa0g1VkpsYm5MTzZQSEVVcHFRVmZzTUdXZTRZN2hzUzJ1b3NRRW5wc24zZEJKTFdMcUZ1OG1xRGsyY0E2ZzdwaGFEMDdQSlVzS05rT1U?oc=5",
+      "source": "NDTV",
+      "publishedAt": "2026-10-23T05:14:15Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "e0e8a0b8196101260ce6",
+      "title": "スコットランド・ローランドに所在するアナンデール蒸留所のシングルモルトウイスキーを取扱い開始いたします。 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kdWRrd3U2ZHNMZUQ1V2puSHpUaTJoc1pUVWRGenpzSFk0TWhHb1l6dDFENE1lUjBJa2ZhYlBwUWRPcFZUSy1xbk5xMWpFdFZFLUxZeXo1QWIxSGJkOGF5MUlWM2tkWHJvTnVReU1XZ015Zw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-23T03:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "4f384e100e8ee34d9f62",
+      "title": "富良野市布部：聖地再生と新蒸留所進出を機にサウナ・民泊向け拠点を販売開始！ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OUGV2cVpYTU1ZWmJJQk5yc3k4b3ZYeWljWHJwVERGN3lSRW5tZWVJdE1pYU5xTkRNQlFGTFRFeXhldVZwZEZtMWdNTUx3alk0TGoxMkZRZS1BV0pfM0duU1dOSVppbmpnYm5fSDNqQ2JoUkl5UThYRWt3MA?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-23T01:06:13Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic"
+    },
+    {
+      "id": "3a019c76e88e3d072e8d",
+      "title": "Penelope Bourbon Pledges $250,000 to Cancer Nonprofit With New FCancer Release - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOandBcUxGS0VTNkVOc05FUWJWaDlLc0diNUNaRzVOY1RjZVBaZkUzWXRudDlpUnVzdkw5ZF9SMW44QVAya0ViLXF0SDFKNHktdVJlWEpxbUk5c0IyZzR3U1l3OFNPX3JzS0x2dzVwd2tMeGlwYk9hWVlyTzF6QUM2VHp3?oc=5",
+      "source": "AOL.com",
+      "publishedAt": "2026-10-22T19:28:48Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "e11d389c906e97de83c1",
+      "title": "Scotch Whisky Producers Ask India to Ease Border Testing After Tariff Cuts - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTlvRUt6Y2k1MER1RTk5eG04YW5HVzNnQzNpSElLN0tzWWZOMWVmeUVrRUlYeGZpTnFNdUdnbDBoTC1wSGlHalB6cEp6VklOWDlQZHFic3BQWlZpX0JkZ1NiWWpVUk5Nd2t3REFKU25aSGtYUHd4a0hNZjBqLWRjU0VLTkZJeFQySnYwdlRWaGMxLTVKb21DQUlzYWNKdkRYU0NoS081MUhsOUVnYXpZTGhVcG1DSmpCTlNuazFR0gHDAUFVX3lxTE1kbWhBZ29mTHlyT3ppV3NleWJTeG1oemFsbUhjWk9lRHRQaFhpV3VNWlRKZlVqU3A0Mll5RF8wWFYwUDhqd1FjdkFxU3NoQ3ZYOUYwUmphR28tOFFJQmlob3dhaC1LU0NSMjE4RkFHZkxwcWdUaWxjTldrOFlZX3VzZ1RZWFJ1Zmk0WTZwNVBEdnpDLW54bFFEN0hLTTU0VjVPT3pRbWlFWVpacm13YkJtcmZtWUk1emVEVkJ0VmRYMloyOA?oc=5",
+      "source": "Vinetur",
+      "publishedAt": "2026-10-22T19:28:18Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "439c752591c4b30f8541",
+      "title": "Tobermory Distillery unveils Christmas whisky selection - DRAM Scotland",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTNacTlrd3lHOXRBbTNZbENKM0xfd1JhTHdUM2Y0S1RfcU51YXUwVml6QUZHMS1GYmtKcnNzNHQ0TndBaFpOU094dDBNbWRtdHd2XzV4a0FiV1BrNDlHNEdibGJsQUUxMnlKMVZxdDlEbTEtTURkT053elhrVkZpSGN5YXA3VnFiX2tkbGozRFNibUVUd1FIRjln?oc=5",
+      "source": "DRAM Scotland",
+      "publishedAt": "2026-10-22T16:21:28Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international"
+    },
+    {
+      "id": "4972ef3cceb3706dc7c2",
+      "title": "Old Forester, Johnnie Walker and More Released New Whiskeys You May Have Missed - Gear Patrol",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pbVJJZGNJM3ZMYVRKUzZLSXBHc0s0dlhWSzdFclFSMjZzcjB4VVdoTVJROHhkX3BCRWNRNS1HZUJ3cXJMd2wtaUlZbmxnckFLOEh3cm1FaVlXM29xV2F4U044NjFmdmRvaXhYdTlvWlJ1b3pl?oc=5",
+      "source": "Gear Patrol",
+      "publishedAt": "2026-10-22T15:11:28Z",
+      "category": "new",
+      "language": "en",
+      "region": "international"
+    }
+  ]
 }
