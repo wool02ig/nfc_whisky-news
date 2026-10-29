@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:51:06.312860Z",
+  "updatedAt": "2026-10-29T22:50:06.624225Z",
   "count": 120,
   "articles": [
     {
@@ -33,6 +33,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "3737cf91ab28f27ccd09",
+      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-10-29T17:33:35Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -311,6 +322,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
     },
     {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T07:45:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDlwcDhRY1Z0WE1MWEFlbmVfRWRsMHFUSUVQUFlCZTFDV0ExN1RfbnYzX0ZueVJUMWFjbmgzNzlxN3lUSldvRl9XZ0ZockpZbm9yMG9JQUVmd2djN3UxbWxVMnpPeWVEbFdabE1qUXVaNTI0NWgxOHp5OHBpTkMxUVBwbS1xcTBvaFVuZS1CLTNkeV83Rm44SGZMOGFGaGdzMzRqS0szYm5kMmZ5cVFZd0ZEclMxUQ?oc=5",
@@ -377,6 +399,17 @@
       "imageChecked": true
     },
     {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6Z0VyeG92Q0NaeGpRWGdHdGZkLUhXWEpTZU9vdkxWMEM4dl9GX0ZPWFdFWHJmQjJIUVlhNWF4bGJTQXhwNVpCNktwR3M2Zkk0UElib0pKVQ?oc=5",
+      "source": "CLASSY.[クラッシィ]",
+      "publishedAt": "2026-10-29T05:28:23Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
@@ -394,17 +427,6 @@
       "source": "Dellows News",
       "publishedAt": "2026-10-29T04:39:54Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T04:00:01Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -449,17 +471,6 @@
       "source": "嘉之助蒸溜所",
       "publishedAt": "2026-10-29T02:19:10Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1313,17 +1324,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "2e1a8a9da6711384a331",
-      "title": "ご支援者の皆様へ｜ジャパニーズウイスキー「哲／TETSU」2026年版 発売のお知らせ - クラウドファンディング - READYFOR",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoMEwwRG5vUkhZeU5oWGxXYlJzVGFIV1VUdDRNUy13TXoxbS0xV1BWVUlmVk5KelRTS09vUGZCZWhaOUh6eTVIVXA3UEJFbWNFX1RJeDQ5VWNxTWpWUS1SbmxTUi1BMFdhaHJnQ0NJRVZESGJL?oc=5",
-      "source": "クラウドファンディング - READYFOR",
-      "publishedAt": "2026-10-27T08:59:26Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
