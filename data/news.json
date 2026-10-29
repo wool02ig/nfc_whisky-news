@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T10:55:12.767284Z",
+  "updatedAt": "2026-10-29T11:52:16.189764Z",
   "count": 120,
   "articles": [
+    {
+      "id": "c34830a6039f30e9f308",
+      "title": "The Best Johnnie Walker for Bourbon Drinkers",
+      "url": "https://thewhiskeywash.com/whiskey-articles/the-best-johnnie-walker-for-bourbon-drinkers/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T11:00:31Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792664119-500x256.webp"
+    },
     {
       "id": "62d0e6b0416303f99043",
       "title": "ビックリマン史上初「ぷっくりマンシール」新作シール付の限定ウイスキー発売 - TABI LABO",
@@ -70,9 +81,9 @@
     },
     {
       "id": "7117d2ae28d3f07bbd09",
-      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ma0I4Ql9PNmdqVUFtRFViRG9la0RRQkhBb1pqUGNpRlR0VEdfeVREbTEydUpKOTlXZ1JNVzdGUVBkSVpTUkVIbmRGalZUV0RqQzJRN2lpSWkzSnFLRnNEVDE4eFBNS250Z3Br?oc=5",
-      "source": "時事ドットコム",
+      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNmtCc3ZiU0NocV9fQWswUElZa2NCUXpQUnc3MkNmVHJDVUFmNzhOR3pqb3hjeU85YnBSRHZMYzlCT0NSc0tTVmNEc29VTmRsazhELVJHeHdnUQ?oc=5",
+      "source": "オリコンニュース",
       "publishedAt": "2026-10-29T06:46:00Z",
       "category": "limited",
       "language": "ja",
@@ -124,17 +135,6 @@
       "imageChecked": true
     },
     {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - 沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMC15b2lCY3pIYVd5MFdmenlGTEFKQ2VweENLVmw1MXhaTmNOVW53amp5bGFhNmtGZVdsRWNDMXA3Z2VLdHQ4SUFQcjAySW9FZVBrMEQ2MXpRNVdjbGc?oc=5",
-      "source": "沖縄タイムス社",
-      "publishedAt": "2026-10-29T05:13:09Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "26835e1f1ff5aeb1217c",
       "title": "西堀酒造、ウイスキー哲の2種を2026年11月20日に各1,000本限定発売へ - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GYUZuekMwa3prQ0xlNlpQWTIwbkFYNnd5Q3draXBzWFhIR1l6TUF2SGdrVFRYanR4b0w3SDdUb0NDc0FkSEE?oc=5",
@@ -152,6 +152,17 @@
       "source": "オリコンニュース",
       "publishedAt": "2026-10-29T04:16:00Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T04:00:01Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -609,6 +620,17 @@
       "imageChecked": true
     },
     {
+      "id": "93fbb242d44f3729612d",
+      "title": "【白州18年リミテッドエディションが当たる】466口限定「黄金の秋ウイスキーみくじ」10月28日予約開始 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TY1FyOUJOcUQ3TmtJdXBHanVUam9jeGl3SWhrRW9YY0pmajNrbTV5a3dtVEp5aE0ya3c5ZF94NUFhbTFybnlvcGR6Y2l2OVhKajg1TDRtd2FsMWVycHlCUHJDSjg4YU1UZTFLcWo3OUtEUXp6WXc?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-28T07:45:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "d1a3c428afe154559296",
       "title": "ウエルシア薬局、ウイスキー「山崎18年」「白州18年」「響21年」「ザ・ニッカ リミテッド」など抽選販売 - グルメ Watch",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qdF83eUl2T1FhaVB5Wk9XdzI4YjJMVWF3YlZ3d2ljaDliVXhoLXcxQ09zbUpGc2gwSmNzZVZsdVRROUZUYzJfb01QSS1Qb1lpUjFUUTlHODZrSDhENkstZ1A4YkZDU19xZUE?oc=5",
@@ -632,10 +654,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-28T06:41:07Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T06:41:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -650,17 +672,6 @@
       "category": "new",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "93fbb242d44f3729612d",
-      "title": "【白州18年リミテッドエディションが当たる】466口限定「黄金の秋ウイスキーみくじ」10月28日予約開始 - Mantan Web",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbF85bXFZaUZLV3JBdFNmTWp3aG5tSlF6T0hMMmdmZXVrZHR5c09zY1JOZVBicllWci1vTDJGZTZhbDhPcV83Q3JEbXBha3NvX195YUM4R2ZWX3pXaWpTXzZLV2VmVXlNUDZHZm94UW91RTZQeHc?oc=5",
-      "source": "Mantan Web",
-      "publishedAt": "2026-10-28T06:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1019,6 +1030,17 @@
       "imageChecked": true
     },
     {
+      "id": "2e1a8a9da6711384a331",
+      "title": "ご支援者の皆様へ｜ジャパニーズウイスキー「哲／TETSU」2026年版 発売のお知らせ - クラウドファンディング - READYFOR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IVHdweHI0SG5QUUQtcFNjOGRNTHdQbW5yYl93bTYyRFJvc2drT0h1N0tTUDZQN1NyOWs4aEpxRTdGNDZVZTRKUWJyTFhHdzU2bGh6bjRBOFA1MHFpRnc3STdZN1MzM19GSHlLMVo2blp6d0VO?oc=5",
+      "source": "クラウドファンディング - READYFOR",
+      "publishedAt": "2026-10-27T09:04:21Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "bfaa969c67d9c268ea04",
       "title": "WhistlePig Joins American Whiskey Association as CEO Alex Roberts takes board seat",
       "url": "https://thewhiskeywash.com/whiskey-news/whistlepig-joins-american-whiskey-association-as-ceo-alex-roberts-takes-board-seat/",
@@ -1085,6 +1107,17 @@
       "imageChecked": true
     },
     {
+      "id": "028c6bab950ac97cfcca",
+      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWtCVHVWMlc2NDV4RldfN3BGdGYwc2c1LXR1ZS1seEI0cWhFNjJNZ0drZElsbHI2U2QtNS1XalVfWVRVeDJsNmN1RXZqWU9EeG9CdVRtQ3lDYjZjeWljVDR2QTZPRXpzc3pFblFoeHE4TmZHRVA3a29mNW15WG45Mk5fNE1VNGJWM0HSAYoBQVVfeXFMUE1rQlR1VjJXNjQ1eEZXXzdwRnRmMHNnNS10dWUtbHhCNHFoRTYyTWdHa2RJbGxyNlNkLTUtV2pVX1lUVXgybDZjdUV2allPRHhvQnVUbUN5Q2I2Y3lpY1Q0dkE2T0V6c3N6RW5RaHhxOE5mR0VQN2tvZjVteVhuOTJOXzRNVTRiVjNB?oc=5",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-10-27T06:05:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ba1579323b7d95058759",
       "title": "Pinot-Cask Irish Whiskeys: Midleton Finishes Green Spot in Quails' Gate Casks - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQ1lGa1Z4THdvZU04TS1OZ0laMU1rUXp2M0drS1dqZ2EyMGhUWjJGc1ljNXZzTi1lbTI4dGhHdGtSbUZ0Vm55SjQtcXVuZHpmcmFabWJNNVVjeGttdmVWeTlMbGZCVzVsQXhzeQ?oc=5",
@@ -1129,22 +1162,22 @@
       "imageChecked": true
     },
     {
-      "id": "222d842cce3a7216a7b3",
-      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYTlpdUlwZU92WlJRU1NwOGQtSnlxZ2tadV9oSERFSXh6NG9BYWJNWWJtd2pjLTFVN3prZkxDVGpIQ3BJY3V0NzRPYWZFWE0tTWxPQmF2ZzdLS2FOQW1NdFAwdlg2QXlmSGFIVnh3WnNHUQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-27T01:45:26Z",
+      "id": "a28683836ac4c7407b71",
+      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
     },
     {
-      "id": "a28683836ac4c7407b71",
-      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
+      "id": "222d842cce3a7216a7b3",
+      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTk9wYlFVR1ZPNUVrcUxWYVdhcjBCUFJhM01aUkJJTDd4SUdEVGNnZGYyNjZyZ3ZScGs0R1ItWHY5MjVvSi04WmZMcVhvN3BKSXB6YUZyU3FiWDQ?oc=5",
+      "source": "朝日新聞",
+      "publishedAt": "2026-10-27T00:01:10Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1170,17 +1203,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "028c6bab950ac97cfcca",
-      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - 日刊ゲンダイDIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oV3lXZndRU09uYmdsckVTdXJTWnQ3eGNyS1JHbnNQenplVy1yOFY3TVM1dFRYQzBYeE1yQW05ZUZORGNoUFMwYllaclRKUkRLdTJtVEo3X1hTUnR3Q0EtQmJveGQ2UQ?oc=5",
-      "source": "日刊ゲンダイDIGITAL",
-      "publishedAt": "2026-10-26T21:00:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1303,28 +1325,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792140108-500x256.webp",
-      "imageChecked": true
-    },
-    {
-      "id": "17d2d4a3f62d0884d526",
-      "title": "日本酒蔵の清酒酵母と、ボルドー五大シャトーのワイン樽が出会う。ジャパニーズウイスキー「哲／TETSU」2026年版、1 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zS0tQREVaSzBtN1BPN0dVZkNTb2ozc0oteEFYbFRqN216Z3AtbkZOZEgxVkdaUVpRczdJanZSZFA3SDhTdDJzLWM2VVVBRlI2TFlkSQ?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-26T14:45:30Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "094ae608644121e37a8f",
-      "title": "Unifree Duty Free brings Whisky Festival to Istanbul Airport - DFNI",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTA2dWpnQW12WkNjaDc2LXhQeTdNVUdQMnFmbVEyN2ROZVFSUjBzVGI2Y0ctWjFpcFA4aDVuakt5X1lSUUt0SWFrU01LR2htTnlfUGdjZkt6SFZRdEM1YlYtRXAxTnpHZnU0VHBnWHN4dkZhM21pZ2pIeFFyOEpaN0E0WFplOUlfNFZ1NkNEdEJXWXFkWkJqSFkwdF9leG5IS09xNzZSRmgtU1VMd2pOUUIxbC1sT2tGX1Z3NDhUOEY?oc=5",
-      "source": "DFNI",
-      "publishedAt": "2026-10-26T14:31:40Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
