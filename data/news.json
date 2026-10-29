@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-29T02:54:40.889464Z",
+  "updatedAt": "2026-10-29T03:54:06.121882Z",
   "count": 120,
   "articles": [
+    {
+      "id": "ff9330c49c9265a05d66",
+      "title": "【厚岸ウイスキー】二十四節気シリーズ完結後、初の新作。“葛飾北斎/十二支シリーズ”第一弾「厚岸シングルモルトジャパニーズウイスキー 未/HITSUJI」を2026年11月発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MakY3MEJMdU5XOHpDSnRGQVFRWmdOSUVDWlFfTXRTWEtRQnBoX3VjV3BGX3FudkhfeElkMndWTHBPMFlJOGJoMGU4cjdkcnVpMU0yaE5xbW9IV2ZUOHF2TmNhREtIc1pfWFE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T03:00:02Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtaHB6MWtPSDJYdTQxNVJZdHBRel9SMUFzRDVMVXFqODlLVXFLMnExQ0ZHWGJHYWlmVUNWMjlzRUVVRjFiSzJQZ1lHY291ajRxazNCR3BYZ0ZJVFNfX2pDMkMxdnVxQXhkeUlweFF0aUYzZ0FZc3h2OXZB?oc=5",
+      "source": "イザ！",
+      "publishedAt": "2026-10-29T02:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "342d71a38f04da9e85b3",
       "title": "いよいよ10/30（金）18時オンライン販売開始！注目集まる「シングルモルト長濱 掛け軸シリーズ」160本限定！ - 毎日キレイ",
@@ -401,10 +423,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-28T06:41:07Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T06:41:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -494,6 +516,17 @@
       "source": "朝日新聞",
       "publishedAt": "2026-10-27T19:17:18Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "95a5c340afff0b21523a",
+      "title": "干支シリーズ第6弾、2027年“未（ひつじ）”モチーフの限定ウイスキー2種を発売決定！ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2JvcHhoSEtyZ0FDdDRRanV6YnlwTmsxZ3lHYlk5elRYVEFUS1pHek9KbGo3dkZ2M1RpYzYtR0FuRDBkZmZfb3FJcXNQSzNhMHRiWTNkOERMQUIya2lBYmFISVlYS1Q3QmpRbGhDcXFhbGpBMC1zNTdiV2gzdEs0eEJOdDBJNFBRZlBPajJR?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-10-27T18:11:19Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -854,6 +887,17 @@
       "imageChecked": true
     },
     {
+      "id": "028c6bab950ac97cfcca",
+      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWtCVHVWMlc2NDV4RldfN3BGdGYwc2c1LXR1ZS1seEI0cWhFNjJNZ0drZElsbHI2U2QtNS1XalVfWVRVeDJsNmN1RXZqWU9EeG9CdVRtQ3lDYjZjeWljVDR2QTZPRXpzc3pFblFoeHE4TmZHRVA3a29mNW15WG45Mk5fNE1VNGJWM0HSAYoBQVVfeXFMUE1rQlR1VjJXNjQ1eEZXXzdwRnRmMHNnNS10dWUtbHhCNHFoRTYyTWdHa2RJbGxyNlNkLTUtV2pVX1lUVXgybDZjdUV2allPRHhvQnVUbUN5Q2I2Y3lpY1Q0dkE2T0V6c3N6RW5RaHhxOE5mR0VQN2tvZjVteVhuOTJOXzRNVTRiVjNB?oc=5",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-10-27T06:05:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ba1579323b7d95058759",
       "title": "Pinot-Cask Irish Whiskeys: Midleton Finishes Green Spot in Quails' Gate Casks - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQ1lGa1Z4THdvZU04TS1OZ0laMU1rUXp2M0drS1dqZ2EyMGhUWjJGc1ljNXZzTi1lbTI4dGhHdGtSbUZ0Vm55SjQtcXVuZHpmcmFabWJNNVVjeGttdmVWeTlMbGZCVzVsQXhzeQ?oc=5",
@@ -898,22 +942,22 @@
       "imageChecked": true
     },
     {
-      "id": "222d842cce3a7216a7b3",
-      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYTlpdUlwZU92WlJRU1NwOGQtSnlxZ2tadV9oSERFSXh6NG9BYWJNWWJtd2pjLTFVN3prZkxDVGpIQ3BJY3V0NzRPYWZFWE0tTWxPQmF2ZzdLS2FOQW1NdFAwdlg2QXlmSGFIVnh3WnNHUQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-27T01:45:26Z",
+      "id": "a28683836ac4c7407b71",
+      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
     },
     {
-      "id": "a28683836ac4c7407b71",
-      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
+      "id": "222d842cce3a7216a7b3",
+      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTk9wYlFVR1ZPNUVrcUxWYVdhcjBCUFJhM01aUkJJTDd4SUdEVGNnZGYyNjZyZ3ZScGs0R1ItWHY5MjVvSi04WmZMcVhvN3BKSXB6YUZyU3FiWDQ?oc=5",
+      "source": "朝日新聞",
+      "publishedAt": "2026-10-27T00:01:10Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -939,17 +983,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "028c6bab950ac97cfcca",
-      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - 日刊ゲンダイDIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oV3lXZndRU09uYmdsckVTdXJTWnQ3eGNyS1JHbnNQenplVy1yOFY3TVM1dFRYQzBYeE1yQW05ZUZORGNoUFMwYllaclRKUkRLdTJtVEo3X1hTUnR3Q0EtQmJveGQ2UQ?oc=5",
-      "source": "日刊ゲンダイDIGITAL",
-      "publishedAt": "2026-10-26T21:00:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1132,7 +1165,7 @@
     {
       "id": "76af7e7908f6707c79fa",
       "title": "11 Scottish spirits to toast Halloween - including devil’s cask whisky - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYUxKcFI2cEtwN0tzRnEwUUpySUVEYndoaVVMbFctUnItN2tvOEtVUzNQVGxtek9ic2pHT0JSN0F1cllhYlltRWxMbmJBTDVkZC1BS1BtbmdiMGEyYnF3eDRrTmEwcG11VnlkZGw0dUV2X3QzbDBkQWVMLVRpRlpOVU5WbzR1dVg4a0NodTYyV25KYlBTWkdrbmNQODBYMTNBQWxxX2Z4WFNiSkx2SnRMN0kteVpWYWxQNHNrNnp3ejZKSVM1RUJHdWZjNkk1VGx4aDVnbkhn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHhkSEQ1T0tsdG5Za1o3bkVBb0o0OFUxamRKRFpFc0liT2hTcHd0NUhxQWM2cWN2S2VycVUweEk0VXI3WEYtdC1tWEpfTDVKV2pUd0RyaEQzak5UV1ppenVXS1lHQTNIU1B4UVh6QTNQQnNLa2NXU1NtWXhRVlB1dVBtbXZvdU9GWG1KemFoRmc5cVdiRTZkVS1yOGxMQUUxNWxJMU92SkJfWmMyVU5QaEdhVlktZ1VBX3NlSXZGVVJ5NDYtMUhnM1hrOERoME0yUHdzVjBFekxYWHp4NUpiNndB?oc=5",
       "source": "The Scotsman",
       "publishedAt": "2026-10-26T12:19:00Z",
       "category": "industry",
@@ -1290,39 +1323,6 @@
       "source": "PR TIMES",
       "publishedAt": "2026-10-26T03:00:01Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "9dc309c223b5f38d193a",
-      "title": "ウルトラマンシリーズ60周年記念ラベル・ウイスキー登場！抽選販売受付2026年11月10日(火)より開始！ - 円谷プロ公式サイト",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jOTRvSFVuN3dmSjY5cHBjUUtVM19FdEtsVm9vYVlabDVfSGY2UjFuTTJBSnFZamVsOGtFZFdUalFrRzVw?oc=5",
-      "source": "円谷プロ公式サイト",
-      "publishedAt": "2026-10-26T01:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "0400a749006cd9cffde0",
-      "title": "14 Speyside Scotch Whiskies Every Fan Should Try - Tasting Table",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjV1UVgwMGJIZy1INVBoQXhWa1VDbTVxUDlTOHZjU3BkYU96UHNrNXpURUhJcVE5LWxQbDgyLWhTdHJqVTZSaE9DbHUyQ3BGRzliWC1SMjdKSFNmbVpidXZseTJVbzVOTFRycEhxZ2FnMnVBYkNJLUswR3hSYmRVam05LTM?oc=5",
-      "source": "Tasting Table",
-      "publishedAt": "2026-10-25T23:20:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "95d3401e6f6a6c4c0913",
-      "title": "99社が出展する蒸留酒の大規模試飲イベント！ウイスキー文化研究所 ウイスキー＆スピリッツフェスティバル2027 in 横浜 - Dtimes",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5Z2dFdnFhcGNKcHdhVHlGcjd1T0R3RXJUb2duVXVYVUt4Vk9xQmtySFp6QVFLUHpvMnFxMkhXemN4RWtOenc?oc=5",
-      "source": "Dtimes",
-      "publishedAt": "2026-10-25T17:43:20Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
