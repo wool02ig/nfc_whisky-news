@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:44:07.242196Z",
+  "updatedAt": "2026-10-29T01:03:35.597928Z",
   "count": 120,
   "articles": [
     {
@@ -73,7 +73,7 @@
       "title": "Another unfathomable tax hit for whisky - Daily Business Magazine",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEUxbGR3X012VWtJY2tveUxaWWV0RHlsalBfSDU3d3hmR2s0a0lRWEdzcDZQandYSnZ5N01RenZ4S1pLeVh2andOd044em1OaWZNUjhHTVR2ci1KRkthV1g1MEQteElELWZTTmlQSWxLNS1weHJmbmhVZ1V6YWhrN0NlMXl1RUhmVG5IbVRYdExORXpzUWZJTA?oc=5",
       "source": "Daily Business Magazine",
-      "publishedAt": "2026-10-28T18:15:08Z",
+      "publishedAt": "2026-10-28T18:15:57Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1229,6 +1229,17 @@
       "imageChecked": true
     },
     {
+      "id": "51ea434cf2b9affb3d5c",
+      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
+      "source": "Law Society of Scotland",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "7a687163d08c5b349db4",
       "title": "England and Scotland are fighting a whisky war - The Spectator",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2hHY2ZGSUhxRzRNSUt6NzFZRlRsNTFCdDd1S0JBQVNqN1hnNHhuRnNDVzlHcEZUV2tTc1lsRExoV3ZVVV8tUmhNZFhqNHFxNXRzMXRwcjhrX0RncldFaWdMNkVPTEY2UG96M3o3X0ZmbTRTR3FHSEc0VGZnVDVHazRUQQ?oc=5",
@@ -1314,17 +1325,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "6dc2926158d1cbf13343",
-      "title": "F1の空力とウイスキーの熟成が響き合う アストンマーティンF1×グレンフィディック、数量限定の16年 - Esquire",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVA5b1I1MEtFV2NvdEhxQXZ1RmJhQ3BROEl3LUtDNzFhaEZnaTg5RlJzdkl1WEJHNnN4SDBwYnpQNjVUdkxkLTZUVFNKSTRrVDA3NlR6ZnYwQ0pVWEtHZzlrbE03ZzdURE1BTHhNcEZGaWxzWTNDUDRiUmtjaTV3Vw?oc=5",
-      "source": "Esquire",
-      "publishedAt": "2026-10-25T07:09:31Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
