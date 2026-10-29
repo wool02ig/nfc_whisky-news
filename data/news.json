@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T16:00:44.295877Z",
+  "updatedAt": "2026-10-29T16:59:55.793072Z",
   "count": 120,
   "articles": [
+    {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NR0NZUldMX2poeFc2Z0JMaEFrcWtFc3QtaVU5bkFhNGlaeTZaT3dJLUs2bVB1SVJZaUZsZ3JwSElSYTk2cFYzY3EwLXphM3Y4YTlVakZwMGxjYWV0TDN1c1dHN0FGZUNWLU9XOXpReV9XZHp2ZTAzUVRobw?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T16:48:19Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "dbe685e5340034bbe312",
       "title": "Paul Kopec – Speyside Capital: Investing in Scotch whisky - International Adviser",
@@ -25,6 +36,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-27-500x256.webp"
     },
     {
+      "id": "be3bec417a0e0658625c",
+      "title": "The Whistler Triple Oak Irish Whiskey Launches in the US",
+      "url": "https://thewhiskeywash.com/whiskey-news/the-whistler-triple-oak-irish-whiskey-launches-in-the-us/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T14:51:54Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whistler-triple-oak-irish-whiskey-launches-in-the-us-500x256.png"
+    },
+    {
       "id": "edaa21e00d2f585f543b",
       "title": "Why Jameson Black Barrel Is Worth the Step Up - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbFlLTjJKMkszYnpiWG1LS0NtMUl1ai1TNDNSX0tNSFppTko0OXpaemI1YXUtcHdsZUY1S25QeV9nek44U3lkOGJhMmFIMi15c19VUEloZ2IzMlFER0FaaXoxall0d2VUTHdKajh6Q2FhdndoQ3BzSXM1UWtNcGFiQ0VXc0duTXVZc2Vxc1lIVGhCZ1lf?oc=5",
@@ -37,9 +59,9 @@
     },
     {
       "id": "e006329df745ef4739dd",
-      "title": "A War is Brewing: Why English whisky is causing a stir among the distillers of Scotland - www.shortlist.com",
+      "title": "A War is Brewing: Why English whisky is causing a stir among the distillers of Scotland - Shortlist",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOemVLZzljTXdKTk10Q1V3WWhxVmIyQW1ncVMzMVhDLTh1MlhrNkFOT2wtSmo4M3RsM2pXNTFXTVZrREZnc2F0N2l5RVBOZUU5WWZZV0toX3BhNXhjREdxaEN6MEVzcW9mQkhtVXNIcXVfRFpGbnhCbkVOMTVjRHBCUUdoMFZqTmZJX3VyT1k4S2ZPOG4tcWN4WW9GTGFqSkNOa2I0Q1hvbWlIWlczNjdkS2U4aUdZZjBRSXRBNw?oc=5",
-      "source": "www.shortlist.com",
+      "source": "Shortlist",
       "publishedAt": "2026-10-29T13:00:00Z",
       "category": "industry",
       "language": "en",
@@ -56,6 +78,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "5e7da2cbd17441e57f66",
+      "title": "Woodford Reserve Unveils Double Oaked Rye Whiskey",
+      "url": "https://thewhiskeywash.com/whiskey-news/woodford-reserve-unveils-double-oaked-rye-whiskey/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T12:11:24Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/woodford-reserve-unveils-double-oaked-rye-whiskey-1-500x256.png"
     },
     {
       "id": "a0fde8f83411ab981687",
@@ -84,7 +117,7 @@
       "title": "India’s Malt Whisky Association signs cooperation pact with the Scotch Whisky Association - Vinetur",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhRR0lRRkcwb0tWSUk5b1g2M2hGQkFpYnQ4ZENPdWlPQmppOVExQkhOR1NkWUpSVXZfZ0YtcDM1RXdPczlYUFQtdmhQREp2V1BsSGpOM2NFTXhseEZOLTU0aG1HelVybWRjbFd6U21MTWhBQzRkY2NHZ3BJeE12RDFyZDdHN1VuQnNGa3h4QVhJN29SUXZxSkloYlRNaTJ1TjhKRzdERHZpNVRXU3dZQUZNN3JsOERKVTlubUZlM0NWcG5Gd2M0LUhCSWpueWp30gHWAUFVX3lxTE5oSGN6VjhaSVc2QUtEVmIzRTR3WmZ4RlpQWDFoNF94UDAwLVNOSUloMFJIMjNpdHFOMzNSbS1FNVVZWHhUT2NoNXFIUHFKdERNZlFPZXpvbXNiUXU1YU5kejZlcnN0UV9tSW13b1lZb0dGNkVGRHM0UDVoTWtfbWNYV0x0VW91X04zQzF5VFVZdVM5VGduMG9fbmhRY1M1dkdNbWdFbU1QS3BnZnFYaUtmcUxfUDE4NGxVNm5TV19KejVHZ2xfR3BJbEdOc3lFa3ZpUzZpVXc?oc=5",
       "source": "Vinetur",
-      "publishedAt": "2026-10-29T11:14:09Z",
+      "publishedAt": "2026-10-29T11:14:02Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -124,6 +157,17 @@
       "imageChecked": true
     },
     {
+      "id": "04894a72f7eaede7547c",
+      "title": "Rosebank And MacLean & Bruce Team Up To Offer Rare Whisky Experience to Private Clients",
+      "url": "https://thewhiskeywash.com/whiskey-news/rosebank-and-maclean-bruce-team-up-to-offer-rare-whisky-experience-to-private-clients/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T09:38:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/rosebank-and-maclean-bruce-team-up-to-offer-rare-whisky-experience-to-private-clients-500x256.png"
+    },
+    {
       "id": "6e49696f9cb11ed43862",
       "title": "Cask and you shall receive: Falkirk distillery collaboration serves up whisky offer to private clients - Falkirk Herald",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzZEQl8xNlg3Z2dXVDBYTGsxUzFqd0x6MTBzZ3pNREx5WUkxUklYSVVQT3huVWdzY1JpNlV2SVowaXRqYS1hTzBqRW50OGktVndhY2ZhVU8xT3JYdTMxdGdkVHdxQ0JoQjFoY1JQdmQ2RkFCZV9tU1gzZ3FEWjBibXVpaWNBQXVnMzRhTE9Qa0llODZHSHZkRS1jSkZabVpHZUNYWmluMTBwRU1NMmV4TXlmTG5nZ3dDQ2x5Ql9lWFRENmVUM0REWUpjUUYwVU1lbDgxSjNuREVJR2JfM21ZeUhYQnY?oc=5",
@@ -155,6 +199,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "3685257aafacca0af5c6",
+      "title": "1792 Launches Full Proof Edition of Sweet Wheat Bourbon",
+      "url": "https://thewhiskeywash.com/whiskey-news/1792-launches-full-proof-edition-of-sweet-wheat-bourbon/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T08:14:15Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.png"
     },
     {
       "id": "ea4640df9491408c11ac",
@@ -217,17 +272,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SLTNrQWQ3TWc5UUFsQVhkUHNFYjY4OGdydU5IZC1oZEZOR3c3dzlENnZ6M05NT1JKVEIxTWZ3Y1VVenRuVEpNeGtEN3QyOUVPMmRfVlF4aGtiN0owOGNyNHRxVzBFOG5mWWd3?oc=5",
       "source": "時事ドットコム",
       "publishedAt": "2026-10-29T05:46:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-29T05:45:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -377,6 +421,17 @@
       "imageChecked": true
     },
     {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -449,17 +504,6 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-28T16:59:05Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -884,6 +928,18 @@
       "imageChecked": true
     },
     {
+      "id": "92d17f92fd5c9e69f26e",
+      "title": "New to Pot Still Irish Whiskey? Start With These 5 Medal Winners - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFkxS1pGck50R0VubHlJUTBZbVhXWXlFMFk0T2gzaHFfSHNfaGdoQW00eThPZHlVejRJUllDUzk0YTBxcXhfSDh0S1NSeXMxSWVLVVFrYWtIY2xSOC1VU3ZVRkltSEtFUmllRGpJZkY1QXgySVRra2hERVA1Rkx1bVJXX3BTa2JhZ3RfTUF0OVZlMWo0Z3JEckpJNnNxTjlPcTZfczY5RmlrZTVH?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-27T16:40:42Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/new-to-pot-still-irish-whiskey-start-with-these-5-medal-winners-500x256.webp",
+      "imageChecked": true
+    },
+    {
       "id": "20ee359803f9f1aebae0",
       "title": "East Lothian distillery wins Scotland's leading whisky tour for second year running - East Lothian Courier",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2I5YTJGT084OERYVk10dTJrYWo2Y2dlMVlkTURSbW00bVNxUlU0MnBJMmFIN0hicVB1QkNBUEhfYktjRkx1a2lvRkhfSjBDZmc0dHY1UW9FbWJSemNNMzNGRjFBYk9kOGlfUElmOFZWa0RNRmtoVzBhYXFPdTlXZTF0YjVBaURTTXd3Ym1PeVU2NkZjZERLZ0h3ZTdUUUY1RWd3?oc=5",
@@ -892,18 +948,6 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "92d17f92fd5c9e69f26e",
-      "title": "New to Pot Still Irish Whiskey? Start With These 5 Medal Winners",
-      "url": "https://thewhiskeywash.com/whiskey-articles/new-to-pot-still-irish-whiskey-start-with-these-5-medal-winners/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-27T16:25:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/new-to-pot-still-irish-whiskey-start-with-these-5-medal-winners-500x256.webp",
       "imageChecked": true
     },
     {
@@ -952,10 +996,10 @@
     },
     {
       "id": "dbe4ea0aebfd93f4c1bd",
-      "title": "Starlight Distillery 25th Anniversary Indiana Straight Bourbon Whiskey Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-starlight-distillery-25th-anniversary-indiana-straight-bourbon-whiskey-review-2026/",
+      "title": "Starlight Distillery 25th Anniversary Indiana Straight Bourbon Whiskey Review - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GVjYydWVGN3ZXYkZlTzVtaGtTQTZRRDQ3RmQxTFMwLUtUcTJwT3IwVHppbF92V3pNU0VoWU9scFRuV0QzckhaRE5ROC0?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-27T15:00:29Z",
+      "publishedAt": "2026-10-27T15:20:47Z",
       "category": "distillery",
       "language": "en",
       "region": "international",
@@ -1280,50 +1324,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5574947b4ec0cc3a7dee",
-      "title": "イトーヨーカドー、ウイスキー「山崎 2026」「白州 2026」をサントリー公式価格＋送料で抽選販売 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aUxCUDhDS3hkcWFxMlp0TlBXWG5KLWZscDlRZjh5QmQxdE4zSDlJYUEtUURzLXlfdHFHOW5vQjV1MEI0MDUxU1BRdmdncDlyZUxkLWktdXZEY1VhY2F4N0lDa1dRTTFVZGc?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-27T02:28:54Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "222d842cce3a7216a7b3",
-      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYTlpdUlwZU92WlJRU1NwOGQtSnlxZ2tadV9oSERFSXh6NG9BYWJNWWJtd2pjLTFVN3prZkxDVGpIQ3BJY3V0NzRPYWZFWE0tTWxPQmF2ZzdLS2FOQW1NdFAwdlg2QXlmSGFIVnh3WnNHUQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-27T01:45:26Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a28683836ac4c7407b71",
-      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "5aab14fe85e60f5c41b2",
-      "title": "馬追蒸溜所、初の3年熟成シングルモルト・ジャパニーズウイスキーを12月1日に発売 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tVEJybjZfbnA4RHNnTG5LTDE0eDJuVTc5TVIxbDJXYzFsOVdiLVNzNDFtM0Z3RVhlS05xNnhFcDFqX1NOSVpuTko0cnpuMFBzVmo3Y2NFNmMybzRpQkRGeVJMWmFwR3RZVTZQT1BIRTA3QQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-26T23:40:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
