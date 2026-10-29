@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T09:57:29.973763Z",
+  "updatedAt": "2026-10-29T10:55:12.767284Z",
   "count": 120,
   "articles": [
+    {
+      "id": "62d0e6b0416303f99043",
+      "title": "ビックリマン史上初「ぷっくりマンシール」新作シール付の限定ウイスキー発売 - TABI LABO",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QlBUVjRPUkVPbWlGemxHSkVOVVlGeXZJal8tQzMyTUE3VE1yc2ItS3dXcFRnMWxWamkyQnJ5UEx4X191R1lzMHhpWE9sTlhqMzdqd28wS3lUTl9XbzZWUk1wVFBMVWpWSXFz?oc=5",
+      "source": "TABI LABO",
+      "publishedAt": "2026-10-29T10:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "6e49696f9cb11ed43862",
       "title": "Cask and you shall receive: Falkirk distillery collaboration serves up whisky offer to private clients - Falkirk Herald",
@@ -11,6 +22,17 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "22af3f179fce29419ac9",
+      "title": "1等山崎18年、2等白州18年のほか山崎12年や響が当たるチャンス！「秋の大収穫ウイスキーみくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51OXNpa19hSGdXNVFXb1RaZE5EMERCekhKbnFDcXQ0RjdPa3p2MHl6bHhaR0xPOUU2VDBFNE01VE5VWXUzNjc2YXBhV2tjekw0VTNlNlNfN1RsWE9RTVZsc3pzdzZ4S0xLaHc?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-29T08:50:12Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -223,17 +245,6 @@
       "imageChecked": true
     },
     {
-      "id": "33e6e61c423b02c60053",
-      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
-      "source": "MultiVu",
-      "publishedAt": "2026-10-28T20:19:02Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -311,6 +322,17 @@
       "imageChecked": true
     },
     {
+      "id": "33e6e61c423b02c60053",
+      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "2026-10-28T16:57:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "fdb5e229836de53cd363",
       "title": "UK Budget 2026: Scotch whisky sector hails a 'disappointing blow' - The Scotsman",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3B0WVdSNVBtNXJ4Xy1zM1BiQkEwMkYxQjFvREd4REVIVkg3TGZTQXg5LUdVSF92UU9nbE9kVlJHOHdyNHFkdm1velZwQzRvY3lIS2xPTjRyTFR0bXlHeVJIZ0U3dHFYbkJEQTN3TXJ1bU9EcVBlQjhTSFpZNVZhXzRtUVZFcFJGSnJXV3M1SmZLSzVfU3JsU2dnaDZIQ2cyNUFTbW4xVndROERwSGc?oc=5",
@@ -374,6 +396,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "875c5c9c6fd23de0a56a",
+      "title": "1792 Bourbon Introduces New Wheated Full Proof Bourbon - Breaking Bourbon",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHFQQ2E3WXFxbmpJTmdXMkdSbVhIczF1Nms3aVJBRU96WEc0ZzRpSzNUXy1rUndla1ZEZ1k2RFlhdGFQX2FtX1B5Qk5TV0pUcEdLdmVXWksxa3pvcVo0R2pOWW1nZXp5M0I4T2hDcXh3UFNjVlBacGQwbTNpWVN0T2tCS0FlR3J6dFNXOHNhQTRQOTE3Z2hWMGI5eUZZMzFUNUlnNEt0RDVmQjMzY2YycElBazZRM2o2?oc=5",
+      "source": "Breaking Bourbon",
+      "publishedAt": "2026-10-28T14:29:55Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1290,39 +1323,6 @@
       "source": "DFNI",
       "publishedAt": "2026-10-26T14:31:40Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "79948d6ba3f07c2e0d82",
-      "title": "From Illegal Whisky to Johnnie Walker: The Remarkable Secret Behind Cardhu - Whisky Monkeys",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGFOU0Z0U2tWTU5JektPS0MyeGdob2ZjMGtXa0RuTjJiZmlGb3VJVm1vazdKSTdBU0R6Tnp4Z3lnTFdtVXpjNDdfcm1wdFl3Z3d5c1l5VnBVLUNpZlBPVDJaQWlMZm84WmVWSF9KZzZNR1Y4S0E5U2xWVmxNNmZ4TUZHRjNTdnoxb01ocHRwSTBxcG1rWmNmVHk2X3NEdDI0c0NicXFjMGVvU182ZUNVaQ?oc=5",
-      "source": "Whisky Monkeys",
-      "publishedAt": "2026-10-26T14:01:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f636edbc8b792e954443",
-      "title": "Lagavulin 16 Has Priced Itself Out: 5 Whiskies To Buy Instead - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0N5NVVad0xRZmdGNllzYzd1VnNETF9zeHpwMXlhYXdDeFZDbGpvd0J6UTlJX2Jmdy1acjlDbUtnWnlham1NcGpuQURPb3d4eloycDVzUFVqLUNveFZTVllILXE2SFl0RDhpZkctNFRiaU1KMU5RZHZfNzgyUXdlX1plSlpuNDRtcWc2OVpvY0U3TTZkaWpPWmpQRVN4Y25ibldYelRHUzU?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-26T12:53:27Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "124bb83758899f05b95e",
-      "title": "The Scotch Malt Whisky Society launches its first blended Scotch whisky - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW1fWXp4UHZTbXhLUWRiWDNBT0w1QzdKTENaODJNR0RDR2JkUzhOTjV0RmZQNTAxT0lqelRqZDl1elpQdUJaZmk0UkxYbDlNVlRIWHdrcmUwSzRSMC1zNXRkR3RWOTVnTjJpelA5MEJkSTV4YThrTXk2U3NpdC1tNmFGZHVGZ0lESW1xbXhMakdTN18zZFpGX2Z5TlVINHNyVEFPc2dQelJrQ1RTRVE?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-10-26T12:29:29Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
