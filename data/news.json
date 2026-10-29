@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T02:01:32.067435Z",
+  "updatedAt": "2026-10-29T02:54:40.889464Z",
   "count": 120,
   "articles": [
+    {
+      "id": "342d71a38f04da9e85b3",
+      "title": "いよいよ10/30（金）18時オンライン販売開始！注目集まる「シングルモルト長濱 掛け軸シリーズ」160本限定！ - 毎日キレイ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HVzZSYXJyUkZ4ckpjb2xyMmZPM0RSMDFodVBHQUR2YUVOdHhKSmVuMTRFQ0VhNDdocFVuWFVkU0h1cTBIQXRpcU5JX1JnSEtpUF9YSGpYaVVKMExsS3VfRDQxdUZIR05FVzFqR2lsMF9XLVpmTEc2em5B?oc=5",
+      "source": "毎日キレイ",
+      "publishedAt": "2026-10-29T00:30:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "3b54fb7f4549baf3ab6b",
       "title": "ウイスキーづくりで原酒と同じくらい重要な「樽」に目を向けた三郎丸蒸留所の挑戦（FRaU） - Yahoo!ニュース",
@@ -11,6 +22,17 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "c0de7588a53ae539c64f",
+      "title": "New 123.4-proof whiskey prompts expert warning that stronger isn't always better - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFEwVlFhcEozN2FWUTE4ZGtnZThnVXFnQUpDbERCLXpueWNxUnhQNnBSeTVmUVlrdkRtSUVhTmQyeGRLdFJubnkyekxiaWdqOEx2WHI4VEY1RVlTSHpwY2Q4M2ZNSkZMQk94YkhmXzhsQ1MxT01INW51U3Y4UDhfY2hMZE9iZm5yRUZYd0lnVXNJNEkzempjVGVsa2lsMHcwbW4wMVhRbDZoa0hVckHSAbMBQVVfeXFMUDNiSGpSWEFGV25ycGhzX3N0R3lNME03UjVpTnI0N25LVVVpcEI3VnpKajFYZmlWdHZUbUJ4SS11RlZvd3RadzNlb2ZiMC1EQVdrNTBma2VkLTlKVVQwbmFEcnEyMV9wb01NTnZYREl4NDZhUUlTVFBEd201bDQ0Y19EeTJQeGQ3QVVKejU4MzVfenphZ0lBaGpib2txSF9GYmdNYjVDYk5lbkk4UTZyQWdMdEk?oc=5",
+      "source": "Fox News",
+      "publishedAt": "2026-10-28T21:52:39Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -379,10 +401,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T06:41:00Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-28T06:41:07Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -832,17 +854,6 @@
       "imageChecked": true
     },
     {
-      "id": "028c6bab950ac97cfcca",
-      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWtCVHVWMlc2NDV4RldfN3BGdGYwc2c1LXR1ZS1seEI0cWhFNjJNZ0drZElsbHI2U2QtNS1XalVfWVRVeDJsNmN1RXZqWU9EeG9CdVRtQ3lDYjZjeWljVDR2QTZPRXpzc3pFblFoeHE4TmZHRVA3a29mNW15WG45Mk5fNE1VNGJWM0HSAYoBQVVfeXFMUE1rQlR1VjJXNjQ1eEZXXzdwRnRmMHNnNS10dWUtbHhCNHFoRTYyTWdHa2RJbGxyNlNkLTUtV2pVX1lUVXgybDZjdUV2allPRHhvQnVUbUN5Q2I2Y3lpY1Q0dkE2T0V6c3N6RW5RaHhxOE5mR0VQN2tvZjVteVhuOTJOXzRNVTRiVjNB?oc=5",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-10-27T06:05:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "ba1579323b7d95058759",
       "title": "Pinot-Cask Irish Whiskeys: Midleton Finishes Green Spot in Quails' Gate Casks - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQ1lGa1Z4THdvZU04TS1OZ0laMU1rUXp2M0drS1dqZ2EyMGhUWjJGc1ljNXZzTi1lbTI4dGhHdGtSbUZ0Vm55SjQtcXVuZHpmcmFabWJNNVVjeGttdmVWeTlMbGZCVzVsQXhzeQ?oc=5",
@@ -887,22 +898,22 @@
       "imageChecked": true
     },
     {
-      "id": "a28683836ac4c7407b71",
-      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
+      "id": "222d842cce3a7216a7b3",
+      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYTlpdUlwZU92WlJRU1NwOGQtSnlxZ2tadV9oSERFSXh6NG9BYWJNWWJtd2pjLTFVN3prZkxDVGpIQ3BJY3V0NzRPYWZFWE0tTWxPQmF2ZzdLS2FOQW1NdFAwdlg2QXlmSGFIVnh3WnNHUQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-27T01:45:26Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
     },
     {
-      "id": "222d842cce3a7216a7b3",
-      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTk9wYlFVR1ZPNUVrcUxWYVdhcjBCUFJhM01aUkJJTDd4SUdEVGNnZGYyNjZyZ3ZScGs0R1ItWHY5MjVvSi04WmZMcVhvN3BKSXB6YUZyU3FiWDQ?oc=5",
-      "source": "朝日新聞",
-      "publishedAt": "2026-10-27T00:01:10Z",
+      "id": "a28683836ac4c7407b71",
+      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -928,6 +939,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "028c6bab950ac97cfcca",
+      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - 日刊ゲンダイDIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oV3lXZndRU09uYmdsckVTdXJTWnQ3eGNyS1JHbnNQenplVy1yOFY3TVM1dFRYQzBYeE1yQW05ZUZORGNoUFMwYllaclRKUkRLdTJtVEo3X1hTUnR3Q0EtQmJveGQ2UQ?oc=5",
+      "source": "日刊ゲンダイDIGITAL",
+      "publishedAt": "2026-10-26T21:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1110,7 +1132,7 @@
     {
       "id": "76af7e7908f6707c79fa",
       "title": "11 Scottish spirits to toast Halloween - including devil’s cask whisky - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUHhkSEQ1T0tsdG5Za1o3bkVBb0o0OFUxamRKRFpFc0liT2hTcHd0NUhxQWM2cWN2S2VycVUweEk0VXI3WEYtdC1tWEpfTDVKV2pUd0RyaEQzak5UV1ppenVXS1lHQTNIU1B4UVh6QTNQQnNLa2NXU1NtWXhRVlB1dVBtbXZvdU9GWG1KemFoRmc5cVdiRTZkVS1yOGxMQUUxNWxJMU92SkJfWmMyVU5QaEdhVlktZ1VBX3NlSXZGVVJ5NDYtMUhnM1hrOERoME0yUHdzVjBFekxYWHp4NUpiNndB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYUxKcFI2cEtwN0tzRnEwUUpySUVEYndoaVVMbFctUnItN2tvOEtVUzNQVGxtek9ic2pHT0JSN0F1cllhYlltRWxMbmJBTDVkZC1BS1BtbmdiMGEyYnF3eDRrTmEwcG11VnlkZGw0dUV2X3QzbDBkQWVMLVRpRlpOVU5WbzR1dVg4a0NodTYyV25KYlBTWkdrbmNQODBYMTNBQWxxX2Z4WFNiSkx2SnRMN0kteVpWYWxQNHNrNnp3ejZKSVM1RUJHdWZjNkk1VGx4aDVnbkhn?oc=5",
       "source": "The Scotsman",
       "publishedAt": "2026-10-26T12:19:00Z",
       "category": "industry",
@@ -1240,6 +1262,17 @@
       "imageChecked": true
     },
     {
+      "id": "51ea434cf2b9affb3d5c",
+      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
+      "source": "Law Society of Scotland",
+      "publishedAt": "2026-10-26T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "7a687163d08c5b349db4",
       "title": "England and Scotland are fighting a whisky war - The Spectator",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2hHY2ZGSUhxRzRNSUt6NzFZRlRsNTFCdDd1S0JBQVNqN1hnNHhuRnNDVzlHcEZUV2tTc1lsRExoV3ZVVV8tUmhNZFhqNHFxNXRzMXRwcjhrX0RncldFaWdMNkVPTEY2UG96M3o3X0ZmbTRTR3FHSEc0VGZnVDVHazRUQQ?oc=5",
@@ -1292,39 +1325,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "fae39c2cb74942a2fda9",
-      "title": "Black Bottle Blended Scotch Whisky Review - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0X3FCcDVWckk2amVlZkwyQ3A1Mnk1MFp5c3NNcmstQlFzN0VUS1l6M3haY2o5eWRWemJXZVYtWG0tWHI3VmdMZENSTkM?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-25T17:31:05Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b9061993995bb1f41c4a",
-      "title": "ウイスキー「ザ・ニッカ リミテッド」がAmazonで送料込で15万円を切る“14万7800円”に - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxMVk4S1JQX0M5eGFBcWNjQVZKRkVGSWJtN2dqc2RjeVo3T2NFVUxSZlVnc1JnbUxYUVBkcHFEOHlIbUQxTjkyczdiT19IM2dYVXN0ODRlelo0ck9XSGE2eVB3QzZpcW5KSmc?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-25T15:00:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "c9c0418ca5f63c5b3434",
-      "title": "GlenAllachie’s Latest Whisky Uses Mongolian Oak: Does It Actually Work? - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWNOWm5kOExDSDR4UzY2RFdQS0QwZERMeFp5ODk0bEY4ZXRBR2Ezd19YUXl4eTJOX2FURjBlZUs1eldfTUltdS1Fel9KMUR2dkl3azFmVzVnQTlYNkdwb0M0SnQ5VXJ1bllmclpKSHdUZXVvalhYR2tXUHVnVzBEalppSjI1YnRra0Vrd0dKLU9uRTlvQjNrT1JsbFl2bUtOSDg2VHdjU0ZoeDJrLXZNcmNvSQ?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-25T12:54:29Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
