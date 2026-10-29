@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T08:08:02.579182Z",
+  "updatedAt": "2026-10-29T08:59:44.680050Z",
   "count": 120,
   "articles": [
+    {
+      "id": "31a5e37e8bd6603c9741",
+      "title": "When is scotch worth US$36,000? Take a look at the packaging - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmpKcUJiVVpGa2w0OGYyc3BQUUx6UGVoLWx2SkRrZlJobFMwcnZRRHhaWFhNSDdKbGFQNUpUSEtMQ0lZMGwyNVRieTZkWm90ZGxBYnZrZE5pN1otZ3VZWkJtQ1NEZERYbTBqTDBKZjJSSXBuR09TaHdXYV9hOUVFQjExWmVtYkZ6OFhoYXVaQU9wUQ?oc=5",
+      "source": "The Business Times",
+      "publishedAt": "2026-10-29T08:21:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
@@ -15,9 +26,9 @@
     },
     {
       "id": "7117d2ae28d3f07bbd09",
-      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ma0I4Ql9PNmdqVUFtRFViRG9la0RRQkhBb1pqUGNpRlR0VEdfeVREbTEydUpKOTlXZ1JNVzdGUVBkSVpTUkVIbmRGalZUV0RqQzJRN2lpSWkzSnFLRnNEVDE4eFBNS250Z3Br?oc=5",
-      "source": "時事ドットコム",
+      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNmtCc3ZiU0NocV9fQWswUElZa2NCUXpQUnc3MkNmVHJDVUFmNzhOR3pqb3hjeU85YnBSRHZMYzlCT0NSc0tTVmNEc29VTmRsazhELVJHeHdnUQ?oc=5",
+      "source": "オリコンニュース",
       "publishedAt": "2026-10-29T06:46:00Z",
       "category": "limited",
       "language": "ja",
@@ -69,17 +80,6 @@
       "imageChecked": true
     },
     {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - 沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMC15b2lCY3pIYVd5MFdmenlGTEFKQ2VweENLVmw1MXhaTmNOVW53amp5bGFhNmtGZVdsRWNDMXA3Z2VLdHQ4SUFQcjAySW9FZVBrMEQ2MXpRNVdjbGc?oc=5",
-      "source": "沖縄タイムス社",
-      "publishedAt": "2026-10-29T05:13:09Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "26835e1f1ff5aeb1217c",
       "title": "西堀酒造、ウイスキー哲の2種を2026年11月20日に各1,000本限定発売へ - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GYUZuekMwa3prQ0xlNlpQWTIwbkFYNnd5Q3draXBzWFhIR1l6TUF2SGdrVFRYanR4b0w3SDdUb0NDc0FkSEE?oc=5",
@@ -97,6 +97,17 @@
       "source": "オリコンニュース",
       "publishedAt": "2026-10-29T04:16:00Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T04:00:01Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -190,6 +201,17 @@
       "imageChecked": true
     },
     {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -262,17 +284,6 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-28T16:59:05Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -659,17 +670,6 @@
       "source": "朝日新聞",
       "publishedAt": "2026-10-27T19:17:18Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "95a5c340afff0b21523a",
-      "title": "干支シリーズ第6弾、2027年“未（ひつじ）”モチーフの限定ウイスキー2種を発売決定！ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2JvcHhoSEtyZ0FDdDRRanV6YnlwTmsxZ3lHYlk5elRYVEFUS1pHek9KbGo3dkZ2M1RpYzYtR0FuRDBkZmZfb3FJcXNQSzNhMHRiWTNkOERMQUIya2lBYmFISVlYS1Q3QmpRbGhDcXFhbGpBMC1zNTdiV2gzdEs0eEJOdDBJNFBRZlBPajJR?oc=5",
-      "source": "山陽新聞",
-      "publishedAt": "2026-10-27T18:11:19Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
