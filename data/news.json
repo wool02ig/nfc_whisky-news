@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-29T15:03:52.512309Z",
+  "updatedAt": "2026-10-29T16:00:44.295877Z",
   "count": 120,
   "articles": [
+    {
+      "id": "dbe685e5340034bbe312",
+      "title": "Paul Kopec – Speyside Capital: Investing in Scotch whisky - International Adviser",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGc0LV9QNmYyQ1hEOWVHdTUybC11LVUxT3dWRkE0X2lRaHgwSmtsMnhHNDc0bGRJMnQ0THo2RFZvVFcwWll5VGlpN05zVE5oSGVBSmxqeFBfN0RQcnNtalRjWmtXVGpSOUtPdnAxV2FHdy1XSDY4ZURuWUVfVHhIUUxkY3JFR0w0M0lNM2Yxc1l6OUpCRUhWMg?oc=5",
+      "source": "International Adviser",
+      "publishedAt": "2026-10-29T15:50:46Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a86ec6b4d3b61a2a612e",
+      "title": "Tullamore D.E.W. Blended Irish Whiskey Review",
+      "url": "https://thewhiskeywash.com/whiskey-reviews/review-tullamore-dew-blended-irish-whiskey-review-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T15:00:37Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-27-500x256.webp"
+    },
     {
       "id": "edaa21e00d2f585f543b",
       "title": "Why Jameson Black Barrel Is Worth the Step Up - The Whiskey Wash",
@@ -158,9 +180,9 @@
     },
     {
       "id": "7117d2ae28d3f07bbd09",
-      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNmtCc3ZiU0NocV9fQWswUElZa2NCUXpQUnc3MkNmVHJDVUFmNzhOR3pqb3hjeU85YnBSRHZMYzlCT0NSc0tTVmNEc29VTmRsazhELVJHeHdnUQ?oc=5",
-      "source": "オリコンニュース",
+      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ma0I4Ql9PNmdqVUFtRFViRG9la0RRQkhBb1pqUGNpRlR0VEdfeVREbTEydUpKOTlXZ1JNVzdGUVBkSVpTUkVIbmRGalZUV0RqQzJRN2lpSWkzSnFLRnNEVDE4eFBNS250Z3Br?oc=5",
+      "source": "時事ドットコム",
       "publishedAt": "2026-10-29T06:46:00Z",
       "category": "limited",
       "language": "ja",
@@ -185,6 +207,17 @@
       "source": "Koubo",
       "publishedAt": "2026-10-29T06:04:59Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "268dd5bc0c959858144d",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展：時事ドットコム - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SLTNrQWQ3TWc5UUFsQVhkUHNFYjY4OGdydU5IZC1oZEZOR3c3dzlENnZ6M05NT1JKVEIxTWZ3Y1VVenRuVEpNeGtEN3QyOUVPMmRfVlF4aGtiN0owOGNyNHRxVzBFOG5mWWd3?oc=5",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-29T05:46:00Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -250,6 +283,17 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GRU1RbHdNdUk5MUNjdk5VdjVFZzRWblJmdnAxYXRkMmVxcmtjOXF2SnM3V0ZjTlVITGJmTGktZmRVNVdUX1ZPcEpoUzMxTzM0LV8zSV9iNkZ6S0tDcFdKM3ZjZmNTZlpS?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T02:30:14Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "10e4c09aeac61623949d",
+      "title": "コラボレーションシリーズ第２弾「KANOSUKE × TSUNUKI」を11月20日より数量限定で発売 - 嘉之助蒸溜所",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yN3A4clNiV1MyT3BLYzhKNWFYcEczQUV6U1FiSnV3ZUw0WndfVG1mQWJ1UVlVRHNiREw3TXh2MDZPODctM05QMXpWYmRZcXl2X1VRM01sbG9ldDE5MlprTFZvSnZJY21XanlSYlVCaExhZmFHeTJRUnJyeHo?oc=5",
+      "source": "嘉之助蒸溜所",
+      "publishedAt": "2026-10-29T02:20:58Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -465,6 +509,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/buckhorn-whiskey-launches-smoked-maple-and-buck-hunt-pop-ups-1-500x256.webp"
     },
     {
+      "id": "03d7af823c8058f0d7c3",
+      "title": "Pursuit Spirits Named Top Bourbon Distillery Tour for 2026 - Fred Minnick",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDU4THBOamhsQ2xrTGcwR3B6Mndia2tvUTdONWN2RVdMTU9JSFNINmJzZFhnRjJ1WjNNUWlEc3VMSEhFQTBHQTBmWm1jU2JHeFdva25LTE1WNFJpZnFIR1VUbTVoVjkzUWM3Z1ZfamptR1haeHdyVU9iUEZfQjI1aWxPUlFmT0NOUzNicWdwazRENEZyNUFnUHVkbk1FTW8?oc=5",
+      "source": "Fred Minnick",
+      "publishedAt": "2026-10-28T15:25:35Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "c87aeee3b8c367c56785",
       "title": "Old Grand-Dad 7 Year Bottled-in-Bond Bourbon Review",
       "url": "https://thewhiskeywash.com/whiskey-reviews/review-old-grand-dad-7-year-bottled-in-bond-bourbon-review-2026/",
@@ -509,10 +564,10 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/paul-john-whisky-announces-christmas-edition-2026-1-500x256.webp"
     },
     {
-      "id": "2620d6c7837e197acd7f",
-      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94a2tJR25MclJobTJ4Vk1mYkxiX1ZwU0VTaExIbndmblRfXzBBbnoybmI4R2gtTks1Tklsei05ZmRobHBpVlNwWXVnQng3bHR4UFRkWHIzMVJQenlhRUhyaVVtQzA5cnpMdUg1em50VlJKWFU1V0dPUHN3?oc=5",
-      "source": "AOL.com",
+      "id": "a70ec9fbd947a3ce6ddf",
+      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
+      "source": "Men's Journal",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -520,10 +575,10 @@
       "imageChecked": true
     },
     {
-      "id": "a70ec9fbd947a3ce6ddf",
-      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
-      "source": "Men's Journal",
+      "id": "2620d6c7837e197acd7f",
+      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94a2tJR25MclJobTJ4Vk1mYkxiX1ZwU0VTaExIbndmblRfXzBBbnoybmI4R2gtTks1Tklsei05ZmRobHBpVlNwWXVnQng3bHR4UFRkWHIzMVJQenlhRUhyaVVtQzA5cnpMdUg1em50VlJKWFU1V0dPUHN3?oc=5",
+      "source": "AOL.com",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -731,10 +786,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T06:41:00Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-28T06:41:07Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1195,17 +1250,6 @@
       "imageChecked": true
     },
     {
-      "id": "028c6bab950ac97cfcca",
-      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWtCVHVWMlc2NDV4RldfN3BGdGYwc2c1LXR1ZS1seEI0cWhFNjJNZ0drZElsbHI2U2QtNS1XalVfWVRVeDJsNmN1RXZqWU9EeG9CdVRtQ3lDYjZjeWljVDR2QTZPRXpzc3pFblFoeHE4TmZHRVA3a29mNW15WG45Mk5fNE1VNGJWM0HSAYoBQVVfeXFMUE1rQlR1VjJXNjQ1eEZXXzdwRnRmMHNnNS10dWUtbHhCNHFoRTYyTWdHa2RJbGxyNlNkLTUtV2pVX1lUVXgybDZjdUV2allPRHhvQnVUbUN5Q2I2Y3lpY1Q0dkE2T0V6c3N6RW5RaHhxOE5mR0VQN2tvZjVteVhuOTJOXzRNVTRiVjNB?oc=5",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-10-27T06:05:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "ba1579323b7d95058759",
       "title": "Pinot-Cask Irish Whiskeys: Midleton Finishes Green Spot in Quails' Gate Casks - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQ1lGa1Z4THdvZU04TS1OZ0laMU1rUXp2M0drS1dqZ2EyMGhUWjJGc1ljNXZzTi1lbTI4dGhHdGtSbUZ0Vm55SjQtcXVuZHpmcmFabWJNNVVjeGttdmVWeTlMbGZCVzVsQXhzeQ?oc=5",
@@ -1250,22 +1294,22 @@
       "imageChecked": true
     },
     {
-      "id": "a28683836ac4c7407b71",
-      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
+      "id": "222d842cce3a7216a7b3",
+      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYTlpdUlwZU92WlJRU1NwOGQtSnlxZ2tadV9oSERFSXh6NG9BYWJNWWJtd2pjLTFVN3prZkxDVGpIQ3BJY3V0NzRPYWZFWE0tTWxPQmF2ZzdLS2FOQW1NdFAwdlg2QXlmSGFIVnh3WnNHUQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-27T01:45:26Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
     },
     {
-      "id": "222d842cce3a7216a7b3",
-      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTk9wYlFVR1ZPNUVrcUxWYVdhcjBCUFJhM01aUkJJTDd4SUdEVGNnZGYyNjZyZ3ZScGs0R1ItWHY5MjVvSi04WmZMcVhvN3BKSXB6YUZyU3FiWDQ?oc=5",
-      "source": "朝日新聞",
-      "publishedAt": "2026-10-27T00:01:10Z",
+      "id": "a28683836ac4c7407b71",
+      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1280,50 +1324,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "f8ff65022ed67b2ce275",
-      "title": "Scottish files show officials lacked key tariff details after whisky relief announcement - Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVnpGSGNlc0tRVWw2OExaMDBnR0lRYk0yblRfdnB1VTFzcFVtcGtGVVI0VVJfaHBKb25IbEEwdkYta3FOQkswRklJbTZGOENiY0lMRG41TTNvUlQwQTVYYzdwT1I3cmw4aFV2MlhoTWVKV2pSVkJWdlBDSy1HRGk4TGE5X0otTmtrd2d6cUxOcmpmTEdvUlJKQ2hDS0FGUUhMU1BKWm0tNjdRV2pSdDdVcGRIWVl1MWpOM2VzUmExQ2FJMTBFWmRMeWpCbC1KX2Vx0gHWAUFVX3lxTE5OWlRxeFNwQTNOcURmN3dPTGhmTnVKZUZzdmp3SnFYQnBKN2YtOWNzMHczdHIybjJkcUt5cXpuQ2JXQ0xnYmRabUVHR2tGR21ObXhvMnBtX0VIa3Fqbkh1Y3NqU1BoU1IweE5rWlpmWEplbm8wQVdfVlNnY1p4cnFJbTlmMHJrMEx2aERCa3FhMmZpYVdqSmVlWGdWdnRiUEotVnFVTmNCZHJjaHI2a2ZnZTFLNGNJZjE5MnJTOTVMc09qNUJwdEk5U0wxQWFuNG5oZE5xSUE?oc=5",
-      "source": "Vinetur",
-      "publishedAt": "2026-10-26T21:47:33Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "374f66dca5bdbb60ef8b",
-      "title": "Award winning Indian whisky Paul John launches latest Christmas limited edition - The London Economic",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM0w1R0xjWmV5Um5ScW9jTkdFTVJfb3VNajRPT19kOTBUUUVPeWNzVC03QnhzRzF5NEZFaVROdzFWSms3dkVTdGs4UnVidlZnTmlUQ2dXOXdGbFFISU1rcl85LXV0TmtwR1hpeF80RkZfNk9LTnQ3ZzJTQzdRVk1WaTYzdEo4Z013Z044Z19ZY1RsemptLW1QdGFlZ3UyZHBFZTVfQWt3TWlZUDJCNmhTQ01hZVpqNnp4RVQ5cmgtM01NTjE0UTc1NEhVT0E?oc=5",
-      "source": "The London Economic",
-      "publishedAt": "2026-10-26T20:52:32Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b3e33f2d5cbfd73b2c37",
-      "title": "This New $2,500 Whiskey Is so Strong That the Government Forbids Flying With It - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcERkeGdiMGZLczd4WkxNNTlLN3JWU19va0hEN2Q1VWhVSDh2Rk96Z2lVSng2cjlTSmxWdGtCcWlzQjJSUUdZYnJUSUFoMnhjTDloalVJVWdYZVNUTkUzUFd5Tk1SNDhzS0o4cmJPcU55ak10b1g2WjYxdXV1aVR0SzRlZTlybkMxZTd6Rlo2THMtd2VNZEFPQ0I0RHE3SVFLU0VR?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-10-26T20:26:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "da3b60ff28eb9ffbc244",
-      "title": "Saltire Rare Malt Unveils 15-Year-Old Inchgower Cigar Malt - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGFHRHlIRHpKbGVnTndwVU9WUzA3bl9FcjJDR3hSUUwtN1ZhOGpxM2ZHRl9ReUJaZWwweklGa0ZrQW5sb0lOSDJraHJCeE53dS03RDBsc2xvT05leVZuX0k0LWhjNHdVQzVtN21ZRG5oSlV2c0F2eGt1RHZYQWNPbmlJT1lJSTZ4Z2FoRUlVTzlDX3RfaGhTTXRXX09VM3lX?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-26T17:31:40Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
