@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T08:59:44.680050Z",
+  "updatedAt": "2026-10-29T09:57:29.973763Z",
   "count": 120,
   "articles": [
+    {
+      "id": "6e49696f9cb11ed43862",
+      "title": "Cask and you shall receive: Falkirk distillery collaboration serves up whisky offer to private clients - Falkirk Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzZEQl8xNlg3Z2dXVDBYTGsxUzFqd0x6MTBzZ3pNREx5WUkxUklYSVVQT3huVWdzY1JpNlV2SVowaXRqYS1hTzBqRW50OGktVndhY2ZhVU8xT3JYdTMxdGdkVHdxQ0JoQjFoY1JQdmQ2RkFCZV9tU1gzZ3FEWjBibXVpaWNBQXVnMzRhTE9Qa0llODZHSHZkRS1jSkZabVpHZUNYWmluMTBwRU1NMmV4TXlmTG5nZ3dDQ2x5Ql9lWFRENmVUM0REWUpjUUYwVU1lbDgxSjNuREVJR2JfM21ZeUhYQnY?oc=5",
+      "source": "Falkirk Herald",
+      "publishedAt": "2026-10-29T09:27:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "31a5e37e8bd6603c9741",
       "title": "When is scotch worth US$36,000? Take a look at the packaging - The Business Times",
@@ -25,10 +36,21 @@
       "imageChecked": true
     },
     {
+      "id": "c43a9c67da6e59924798",
+      "title": "Kosher wine promoter becomes a whisky Master - South African Jewish Report",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2Yk9sMDFJY3dLZ2hhcDQwbnRJVG9kaFJYNnNvek1mc3RBSk93bnNvdGRXN1dtbkh1eWRtdXhJcHd2bjNyTHQ0OUJVaFhncHlORFVoWVlyRUMxWGdTMnRmNG1GbEhzTjVnRGNtZ2hTZVpOenl6S0wydmFQNnLSAXxBVV95cUxQNmJPbDAxSWN3S2doYXA0MG50SVRvZGhSWDZzb3pNZnN0QUpPd25zb3RkVzdXbW5IdXlkbXV4SXB3dm4zckx0NDlCVWhYZ3B5TkRVaFlZckVDMVhnUzJ0ZjRtRmxIc041Z0RjbWdoU2VaTnp5ektMMnZhUDZy?oc=5",
+      "source": "South African Jewish Report",
+      "publishedAt": "2026-10-29T07:00:38Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "7117d2ae28d3f07bbd09",
-      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - オリコンニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNmtCc3ZiU0NocV9fQWswUElZa2NCUXpQUnc3MkNmVHJDVUFmNzhOR3pqb3hjeU85YnBSRHZMYzlCT0NSc0tTVmNEc29VTmRsazhELVJHeHdnUQ?oc=5",
-      "source": "オリコンニュース",
+      "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ma0I4Ql9PNmdqVUFtRFViRG9la0RRQkhBb1pqUGNpRlR0VEdfeVREbTEydUpKOTlXZ1JNVzdGUVBkSVpTUkVIbmRGalZUV0RqQzJRN2lpSWkzSnFLRnNEVDE4eFBNS250Z3Br?oc=5",
+      "source": "時事ドットコム",
       "publishedAt": "2026-10-29T06:46:00Z",
       "category": "limited",
       "language": "ja",
@@ -80,6 +102,17 @@
       "imageChecked": true
     },
     {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMC15b2lCY3pIYVd5MFdmenlGTEFKQ2VweENLVmw1MXhaTmNOVW53amp5bGFhNmtGZVdsRWNDMXA3Z2VLdHQ4SUFQcjAySW9FZVBrMEQ2MXpRNVdjbGc?oc=5",
+      "source": "沖縄タイムス社",
+      "publishedAt": "2026-10-29T05:13:09Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "26835e1f1ff5aeb1217c",
       "title": "西堀酒造、ウイスキー哲の2種を2026年11月20日に各1,000本限定発売へ - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GYUZuekMwa3prQ0xlNlpQWTIwbkFYNnd5Q3draXBzWFhIR1l6TUF2SGdrVFRYanR4b0w3SDdUb0NDc0FkSEE?oc=5",
@@ -97,17 +130,6 @@
       "source": "オリコンニュース",
       "publishedAt": "2026-10-29T04:16:00Z",
       "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T04:00:01Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -489,9 +511,9 @@
     },
     {
       "id": "b5d5baa5947d4b2e1417",
-      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg.com",
+      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW1FTU9lTXctZy0zQXhBbl93VXUxVDBtT1BQa05nVE9qeHVmcFBXSFlpM2k1QTVYZFZwSmVGVURYQjJWYXFTdktvZGVwY0tadEIyX2lLd3JocVhZZTNsUVF1R01DNHhjRDU4endrUDdWZVVycUJBcFBSeVBkdEFmQmNFVV9rSWJnYUhRdnhHYnR5Y0IxXzlVQlVQdlVTd3A3QVJBZ1RIcFV5RExXV1VOekd3OFkzdDZB?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-10-28T09:15:01Z",
       "category": "industry",
       "language": "en",
@@ -577,10 +599,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T06:41:00Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-28T06:41:07Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1030,17 +1052,6 @@
       "imageChecked": true
     },
     {
-      "id": "028c6bab950ac97cfcca",
-      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWtCVHVWMlc2NDV4RldfN3BGdGYwc2c1LXR1ZS1seEI0cWhFNjJNZ0drZElsbHI2U2QtNS1XalVfWVRVeDJsNmN1RXZqWU9EeG9CdVRtQ3lDYjZjeWljVDR2QTZPRXpzc3pFblFoeHE4TmZHRVA3a29mNW15WG45Mk5fNE1VNGJWM0HSAYoBQVVfeXFMUE1rQlR1VjJXNjQ1eEZXXzdwRnRmMHNnNS10dWUtbHhCNHFoRTYyTWdHa2RJbGxyNlNkLTUtV2pVX1lUVXgybDZjdUV2allPRHhvQnVUbUN5Q2I2Y3lpY1Q0dkE2T0V6c3N6RW5RaHhxOE5mR0VQN2tvZjVteVhuOTJOXzRNVTRiVjNB?oc=5",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-10-27T06:05:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "ba1579323b7d95058759",
       "title": "Pinot-Cask Irish Whiskeys: Midleton Finishes Green Spot in Quails' Gate Casks - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQ1lGa1Z4THdvZU04TS1OZ0laMU1rUXp2M0drS1dqZ2EyMGhUWjJGc1ljNXZzTi1lbTI4dGhHdGtSbUZ0Vm55SjQtcXVuZHpmcmFabWJNNVVjeGttdmVWeTlMbGZCVzVsQXhzeQ?oc=5",
@@ -1085,22 +1096,22 @@
       "imageChecked": true
     },
     {
-      "id": "a28683836ac4c7407b71",
-      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
-      "source": "Newscast.jp",
-      "publishedAt": "2026-10-27T01:00:00Z",
+      "id": "222d842cce3a7216a7b3",
+      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVYTlpdUlwZU92WlJRU1NwOGQtSnlxZ2tadV9oSERFSXh6NG9BYWJNWWJtd2pjLTFVN3prZkxDVGpIQ3BJY3V0NzRPYWZFWE0tTWxPQmF2ZzdLS2FOQW1NdFAwdlg2QXlmSGFIVnh3WnNHUQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-27T01:45:26Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
     },
     {
-      "id": "222d842cce3a7216a7b3",
-      "title": "イベントロゴ付き、限定商品を会場内で販売！ウイスキーの大規模試飲イベント「ウイスキーフェスティバル2026 in 東京」 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XTk9wYlFVR1ZPNUVrcUxWYVdhcjBCUFJhM01aUkJJTDd4SUdEVGNnZGYyNjZyZ3ZScGs0R1ItWHY5MjVvSi04WmZMcVhvN3BKSXB6YUZyU3FiWDQ?oc=5",
-      "source": "朝日新聞",
-      "publishedAt": "2026-10-27T00:01:10Z",
+      "id": "a28683836ac4c7407b71",
+      "title": "【meito】期間限定 大人の洋酒チョコレートウイスキー２０２６年１１月２日（月） 発売 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FcmVCZWpSZkJIU3dUdXptdTUwZUVBb2hydnFPemhhQVVvZmg1c2FhTFJoZlA4ckJwTV8ydFYxMVZqRmd4ajRTWTh5SzY5dWc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-10-27T01:00:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1126,6 +1137,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "028c6bab950ac97cfcca",
+      "title": "「国産」と信じて買ったのに中身は外国産…ジャパニーズウイスキーの“産地表示”に必要なルールとは？ - 日刊ゲンダイDIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oV3lXZndRU09uYmdsckVTdXJTWnQ3eGNyS1JHbnNQenplVy1yOFY3TVM1dFRYQzBYeE1yQW05ZUZORGNoUFMwYllaclRKUkRLdTJtVEo3X1hTUnR3Q0EtQmJveGQ2UQ?oc=5",
+      "source": "日刊ゲンダイDIGITAL",
+      "publishedAt": "2026-10-26T21:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1301,28 +1323,6 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-10-26T12:29:29Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "76af7e7908f6707c79fa",
-      "title": "11 Scottish spirits to toast Halloween - including devil’s cask whisky - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYUxKcFI2cEtwN0tzRnEwUUpySUVEYndoaVVMbFctUnItN2tvOEtVUzNQVGxtek9ic2pHT0JSN0F1cllhYlltRWxMbmJBTDVkZC1BS1BtbmdiMGEyYnF3eDRrTmEwcG11VnlkZGw0dUV2X3QzbDBkQWVMLVRpRlpOVU5WbzR1dVg4a0NodTYyV25KYlBTWkdrbmNQODBYMTNBQWxxX2Z4WFNiSkx2SnRMN0kteVpWYWxQNHNrNnp3ejZKSVM1RUJHdWZjNkk1VGx4aDVnbkhn?oc=5",
-      "source": "The Scotsman",
-      "publishedAt": "2026-10-26T12:19:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d0f6e9e5d17d36fb959f",
-      "title": "Glenkinchie Distillery named Scotland’s Leading Whisky Distillery Tour for second year - Deadline News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd1RYT2ZSNkh5bTJGQzM1TS1oQVFUWDdmSDZWcHl6QWZrZFgzSldGcExRcm5FWUNCZkNFby1uc3NlUkNfcVlTdW5kN1hNX1hUSGt0UkdUNTRsWjk2Tm9PaFQyTFRSd2s2NTRHQWZCVnhYd1FuTUpnQ2NCcjFhdmtXNGpLOTN6X29DeWZzeV9RcDZVZlpLdUVXY09TZW1TZHdaMmFrZEJwNDFtTEdzekU3Nno3aUJxT0NsakdfRjZJZXpwSFUwSWRn0gHPAUFVX3lxTE90aU5ZZEJydGpVVDdGQ0tCeTdZdXQtakdYNU5IOUJDa0tvVElvOTdVb05lNGZuRHhaZUF2S0tCWkJ3Y1hNcjJGZHhmWjhrOVdQYTl5MHJWc0NmY1VmSjI4Q0JZLXAzaGNVWm9DR1dnZ3pTWnI4NTNWRGlkUUJ3OEtPbnYtM0l5cVZudnU4UDJNRk1ESmVYWWMxTzRPOElmLWszTlBBYTlYQVRfY3B1cWYwUlcxVFBEMlBSV09GZnVRd1hyOUR3U1RRblFmRGNaYw?oc=5",
-      "source": "Deadline News",
-      "publishedAt": "2026-10-26T11:18:57Z",
-      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
