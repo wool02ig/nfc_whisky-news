@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-30T05:53:13.697270Z",
+  "updatedAt": "2026-10-30T07:04:39.762188Z",
   "count": 120,
   "articles": [
+    {
+      "id": "44fc060032bf9a6b83ee",
+      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcTg4dXZ4c29BUG50Vm5kSi1vTnJjeHo0Vl9xcU92NkFRWGxveVRMams4TXpFUjJua3J0RFdRWXJQRmc3LV9wZHRTakdfWTl4QzlVTUxWRkwzNFRvNTVUVWxrdW9NMGZEM1E?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-30T06:00:02Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "bb4dd56b184c151c5cb6",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZU2JnSElZYzdkODhpbV83djY2Q3pWbW52dWZLWmdsRlNtOGtHSW1adWh4VE51enpWMUlVSGVpaVNDb2Z0OHNidkNXYjhDUFJqM19SbDNYNlZYZzdxeTJ5NFVPUm5iN0Y5VEdvelpiTFZJM3ZrSnc?oc=5",
+      "source": "Mantan Web",
+      "publishedAt": "2026-10-30T05:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "44360b7ffadd2afc91bc",
       "title": "セブン-イレブン、ウイスキー「山崎 2026」「白州 2026」「響 2026」を抽選販売。山崎なら送料込みで“1万8150円”（グルメ Watch） - Yahoo!ニュース",
@@ -432,33 +454,11 @@
       "imageChecked": true
     },
     {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "publishedAt": "2026-10-29T05:28:23Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
       "source": "毎日新聞",
       "publishedAt": "2026-10-29T05:23:46Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T05:00:01Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -476,12 +476,34 @@
       "imageChecked": true
     },
     {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T05:00:01Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "26835e1f1ff5aeb1217c",
       "title": "西堀酒造、ウイスキー哲の2種を2026年11月20日に各1,000本限定発売へ - Dellows News",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GYUZuekMwa3prQ0xlNlpQWTIwbkFYNnd5Q3draXBzWFhIR1l6TUF2SGdrVFRYanR4b0w3SDdUb0NDc0FkSEE?oc=5",
       "source": "Dellows News",
       "publishedAt": "2026-10-29T04:39:54Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMC15b2lCY3pIYVd5MFdmenlGTEFKQ2VweENLVmw1MXhaTmNOVW53amp5bGFhNmtGZVdsRWNDMXA3Z2VLdHQ4SUFQcjAySW9FZVBrMEQ2MXpRNVdjbGc?oc=5",
+      "source": "沖縄タイムス社",
+      "publishedAt": "2026-10-29T04:00:00Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1299,28 +1321,6 @@
       "source": "Koubo",
       "publishedAt": "2026-10-27T12:05:23Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7006ba738aba5eff2f65",
-      "title": "Benbecula opens private cask sales ahead of first whisky release - DRAM Scotland",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekh4Wlc0QTdHc1VyZ01vMnZneGowZ2tRbGNFbFZrLUhiQi1qUE9sZzZVTFVKV1loZWFEeTA3czRleHFoc0RUS1h5a3lqa3l4TEF3ei1tTnFaam5IckY1WGticzdXdFpULWo3YlZVYkVVZ1pZNzJ6a3MzbzBrUjExUXp3elYxZUZ3TkdUUl84aktzSDFoS3NkZ3R4Z1JzME8wZWZVSWp3?oc=5",
-      "source": "DRAM Scotland",
-      "publishedAt": "2026-10-27T11:49:34Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8209861a15590421c721",
-      "title": "【数字は語る：ウイスキー】製造場数は10年で8倍に、世界が愛飲“Made in Japan” - ニッキンONLINE",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZUtkNE0tRzVJQWhMRlR4VXptUmxMUURodDNpMXpHYlRWeXRIQmhxM19CTWYyaFJnYVlpbDdZcTRCRk92YlFlbUxyMjJUZWtXYXpuNGdpWlU5TU56U0FhMg?oc=5",
-      "source": "ニッキンONLINE",
-      "publishedAt": "2026-10-27T11:00:00Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
