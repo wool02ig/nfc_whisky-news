@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-30T09:00:03.676041Z",
+  "updatedAt": "2026-10-30T09:57:46.419413Z",
   "count": 120,
   "articles": [
+    {
+      "id": "e577c826a948a92030b0",
+      "title": "Scotch and Indian whisky associations sign coop agreement - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanlzb2c3cXE2b0kwUWx2V2NKcnZfaG16elBaR1l1Y0FuaG9UamszcVJFdXR5eGhJd0h0UWZ3eU9uaVZLTW5mdU9UTHdlMVhyMnJMMmFEaGtzRi03RG15RUFtT0dsMWhmMngxNFJad3gwenpCMWFscVJQX3o0MDhvVzRkQWFHYWY1a1lLSng2TFZsRlZhZHNpNHg1Zk9UblRtVE40?oc=5",
+      "source": "The Spirits Business",
+      "publishedAt": "2026-10-30T09:27:31Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "0bc076f78e2e2bdf758d",
       "title": "Four Roses launches new Chestnut cask finished Bourbon - The Whisky Wire",
@@ -69,6 +80,17 @@
       "imageChecked": true
     },
     {
+      "id": "68afd2c5c5ec89e2edca",
+      "title": "Whisky Advocate - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BREUzVEhrNHh0VzA3aGtNeTkwLWtpckRBMzRHd21kdGlhSllNaFpGREdlenRPU203VFI3VUlGcjZTS1dYYS03WHpSMlo4Zw?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-10-29T21:05:11Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "4dbde2b70c7e2ef402b4",
       "title": "Marvin R. Shanken, Visionary Publisher Who Transformed the Worlds of Wine, Spirits, and Cigars, Dies at 83 - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTF9EYkZTWGotdGdPM0xQbnEzeVNLMkYtaFVsbjlrajhINVZHS3dGQUZmd1gxU215SFp4c2tnLXFqNjBTX005QzdsMGVFMjZWN1lXZG9ZUzRRc2EyZXZxQUg5YVZKTnBGcFp5b09UT0dzaGpMT3JVdzFRcE9jaUVUa2VrLXA5WEtnRHpxZDVfdGVQYndEQkE?oc=5",
@@ -106,7 +128,7 @@
       "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
       "source": "London Evening Standard",
-      "publishedAt": "2026-10-29T17:33:35Z",
+      "publishedAt": "2026-10-29T17:16:46Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1301,28 +1323,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d47c26b7a56635749579",
-      "title": "Duncan Taylor Scotch Whisky agrees Japan distribution deal with Shinanoya - Larder Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXJ0NjBSM3lrZGRlellxMUExcDg3Q0ViWWZ1U2lJcDVvZmdZSThIZVB0Q0NsWVh1MDNDVGRtRjlTZEd1WHhTMktSOGVtbXZONzd1RUpHZHdrWndUVTRWdVowUGh5V1hZblB3dkwyMGxid19iY0JFaWEyeEY2WUxNNHFEdG1INnVrQkpLalJ3Vm0tSm5GckxfV05ScVlUbGs?oc=5",
-      "source": "Larder Magazine",
-      "publishedAt": "2026-10-27T12:33:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5043f8f435cd5c2cbc06",
-      "title": "限定ボトル続々！ウイスキーフェス2026東京の魅力 - Koubo",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5paHNnS0hSdlM3aWRpbEZ3bzl3US1DdEpBVzJsWkl1OGNfZE1xYVkwT1laRm9rZ29wQ0VQY082d3J3SVh5VVE?oc=5",
-      "source": "Koubo",
-      "publishedAt": "2026-10-27T12:05:23Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
