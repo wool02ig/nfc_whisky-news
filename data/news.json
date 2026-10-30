@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-30T14:06:54.067822Z",
+  "updatedAt": "2026-10-30T15:02:00.398754Z",
   "count": 120,
   "articles": [
+    {
+      "id": "6dbac3f768fdcea62d72",
+      "title": "Does Age Actually Matter In Whisky? Why A 12 Year Old Can Beat An 18 Year Old",
+      "url": "https://thewhiskeywash.com/whiskey-articles/does-age-actually-matter-in-whisky-why-a-12-year-old-can-beat-an-18-year-old/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-30T14:30:22Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792058288-500x256.webp"
+    },
     {
       "id": "89d3f1cd51d8b3beda28",
       "title": "Rarity in a Glass: Duncan Taylor and the Art of Octave Whisky - Luxury Lifestyle Magazine",
@@ -19,6 +30,28 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXJJTXlfWGlYQVNxakFCbGNOS1liSzR2TlZMNlF5SG9OMzJ6X0JkSkJsYW9GTVR3cXVoN0Zua2xRR2JqMEE2Tm5IRFE0VC1fcmFENzB4eWtHaU4yOWxLWENiNjFQVl9HS3NVVWpZWk82UlFwc3ptYjFjNEhVQjB1QUZzQzFrU1VQTm1aeElWa0pqYnVYZGU0dFBDdkRwYXJPTldLNllQRG9leFBBUlJ1WkVkTQ?oc=5",
       "source": "The Whisky Wire",
       "publishedAt": "2026-10-30T11:42:19Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "f58120b91991c6b6ec31",
+      "title": "Tasmanian Whisky Week marks a decade of culture, community, and creativity - Whisky Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnRzcW1QTU93cTkwSk90dFdlWGxkNVZWZnpjdTFlZzUxX2lHMWZnQnhfZXoxaHJaQ0RYdFFpYWVpVmJlM3VLMHpQVGVHN1gwS0lJTFlfcDhYRi11dzR5akJPMVlVUTBSMTF4WWVaQTVsX2NFN1ZXZS00bGJESFpzRG9zSlFQZWFya1FWWlVXd2pGaVZnYTVqbS15QVNJMC1JRXBvLU1NTQ?oc=5",
+      "source": "Whisky Magazine",
+      "publishedAt": "2026-10-30T11:05:15Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "655aeb0a367750f0a18c",
+      "title": "Master distiller Kirsty Black on Arbikie's inaugural single malt Scotch whisky - Whisky Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkdWSU1hXzkxbVZJZkswa21qMzE4eGhTNzdzV1JOaVpLTjVhNWFFMzduMDZCUjgzLXN2c2dFQ3NwckMtdTEwQjBfRVFsbHV0U0pFYmJmT3ZjcnM4Wmo0b1lrNXRLOVl5bVhBbjdnbzhYNms2V3NYb2hrWnBfRklXTVYtc082Z1NfUGFNNE5YcGYxZE9QVl9lYThDdzY4MmY3STBXZHVycEVmU3VSQ1E?oc=5",
+      "source": "Whisky Magazine",
+      "publishedAt": "2026-10-30T10:32:35Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -168,28 +201,6 @@
       "imageChecked": true
     },
     {
-      "id": "be3bec417a0e0658625c",
-      "title": "The Whistler Triple Oak Irish Whiskey Launches in the US - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSE11SGFKWllOS2s4UmpkcXVKd2RzQ2Exb0FYX2hXQkh0RklOaEJGV3NER3pZQ2tsTUFSSXVxU2kzN1lERkRpTHRtOHkzMmlXX2VjUU16R2xWaWlsRUk3RmZGZm9relJqSkxBQVc1NVBoLXh0eWJZZHF2SU9Fam91ZFdMTVo0Y0VYVUpkT2lzRTE4b2NyMW13RkU4UlV4QQ?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T17:01:30Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whistler-triple-oak-irish-whiskey-launches-in-the-us-500x256.webp"
-    },
-    {
-      "id": "04894a72f7eaede7547c",
-      "title": "Rosebank And MacLean & Bruce Team Up To Offer Rare Whisky Experience to Private Clients - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEtuMFpZMkQzc1VfOThuSXBMQ3cwZUZCN0o3M1NHNjQ1TVQzNjB3S0lvUWpoSDBldElORE1scDc1a0JtSWxnb0tWSlRCbVVKYm5vMDZPYW9wa3FETExpSFNxWUxvV3FUY2lzdi1Tai0wU3ljWElnbEE3cjF6Q3d6THl0MDM3cE5fSWJ4Tk95QmNZZUJ2ZTN1VXNsM3d5cnptRTBvRnZFeno1RnhValVINEVURTZ4MDg0WFowcFEwcXBxc1RR?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T17:01:29Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/rosebank-and-maclean-bruce-team-up-to-offer-rare-whisky-experience-to-private-clients-500x256.png"
-    },
-    {
       "id": "49ec5f41aa07777be258",
       "title": "Stranahan’s Unveils Its Oldest Whiskey Yet: Mountain Angel 14 Year Old",
       "url": "https://thewhiskeywash.com/whiskey-news/stranahans-unveils-its-oldest-whiskey-yet-mountain-angel-14-year-old/",
@@ -235,14 +246,25 @@
     },
     {
       "id": "a86ec6b4d3b61a2a612e",
-      "title": "Tullamore D.E.W. Blended Irish Whiskey Review - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVNLTGl4M0ZOVWpMOE9NU21nV2dGU3JlTV9NSFltcGFuNzF5SVc2R0M4ZDdrSmpNbEplMlpfdU9zWWg2d1lEVG9iZnM?oc=5",
+      "title": "Tullamore D.E.W. Blended Irish Whiskey Review",
+      "url": "https://thewhiskeywash.com/whiskey-reviews/review-tullamore-dew-blended-irish-whiskey-review-2026/",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T15:31:54Z",
+      "publishedAt": "2026-10-29T15:00:37Z",
       "category": "industry",
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-27-500x256.webp"
+    },
+    {
+      "id": "be3bec417a0e0658625c",
+      "title": "The Whistler Triple Oak Irish Whiskey Launches in the US",
+      "url": "https://thewhiskeywash.com/whiskey-news/the-whistler-triple-oak-irish-whiskey-launches-in-the-us/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T14:51:54Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whistler-triple-oak-irish-whiskey-launches-in-the-us-500x256.webp"
     },
     {
       "id": "edaa21e00d2f585f543b",
@@ -344,22 +366,11 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/milam-greene-rounds-out-2026-wildlife-collection-with-texas-bourbon-500x256.png"
     },
     {
-      "id": "c34830a6039f30e9f308",
-      "title": "The Best Johnnie Walker for Bourbon Drinkers - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFB0MGNqU2FlYzlGYm41UG9laXNNM2RvdGMyVXV6dnI4bjQ4eU92aXFZVXBOb0ZaOC1LemY5bjRvbGRZLWE3VEs5cGloZEk5RnNuOGZhSm5BVlBKcl9zUVZiS1NOUnNIUHBzNlFqWFhMbWEtcTc4SjQ2bEhIa0IzSlh4eDh1Qmd4ME5nRWZoRUctdnM?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T11:25:28Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792664119-500x256.webp"
-    },
-    {
       "id": "f4064a45cb027a9f9b1c",
       "title": "India’s Malt Whisky Association signs cooperation pact with the Scotch Whisky Association - Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUhRR0lRRkcwb0tWSUk5b1g2M2hGQkFpYnQ4ZENPdWlPQmppOVExQkhOR1NkWUpSVXZfZ0YtcDM1RXdPczlYUFQtdmhQREp2V1BsSGpOM2NFTXhseEZOLTU0aG1HelVybWRjbFd6U21MTWhBQzRkY2NHZ3BJeE12RDFyZDdHN1VuQnNGa3h4QVhJN29SUXZxSkloYlRNaTJ1TjhKRzdERHZpNVRXU3dZQUZNN3JsOERKVTlubUZlM0NWcG5Gd2M0LUhCSWpueWp30gHWAUFVX3lxTE5oSGN6VjhaSVc2QUtEVmIzRTR3WmZ4RlpQWDFoNF94UDAwLVNOSUloMFJIMjNpdHFOMzNSbS1FNVVZWHhUT2NoNXFIUHFKdERNZlFPZXpvbXNiUXU1YU5kejZlcnN0UV9tSW13b1lZb0dGNkVGRHM0UDVoTWtfbWNYV0x0VW91X04zQzF5VFVZdVM5VGduMG9fbmhRY1M1dkdNbWdFbU1QS3BnZnFYaUtmcUxfUDE4NGxVNm5TV19KejVHZ2xfR3BJbEdOc3lFa3ZpUzZpVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaEhjelY4WklXNkFLRFZiM0U0d1pmeEZaUFgxaDRfeFAwMC1TTklJaDBSSDIzaXRxTjMzUm0tRTVVWVh4VE9jaDVxSFBxSnRETWZRT2V6b21zYlF1NWFOZHo2ZXJzdFFfbUltd29ZWW9HRjZFRkRzNFA1aE1rX21jWFdMdFVvdV9OM0MxeVRVWXVTOVRnbjBvX25oUWNTNXZHTW1nRW1NUEtwZ2ZxWGlLZnFMX1AxODRsVTZuU1dfSno1R2dsX0dwSWxHTnN5RWt2aVM2aVV30gHWAUFVX3lxTE5oSGN6VjhaSVc2QUtEVmIzRTR3WmZ4RlpQWDFoNF94UDAwLVNOSUloMFJIMjNpdHFOMzNSbS1FNVVZWHhUT2NoNXFIUHFKdERNZlFPZXpvbXNiUXU1YU5kejZlcnN0UV9tSW13b1lZb0dGNkVGRHM0UDVoTWtfbWNYV0x0VW91X04zQzF5VFVZdVM5VGduMG9fbmhRY1M1dkdNbWdFbU1QS3BnZnFYaUtmcUxfUDE4NGxVNm5TV19KejVHZ2xfR3BJbEdOc3lFa3ZpUzZpVXc?oc=5",
       "source": "Vinetur",
-      "publishedAt": "2026-10-29T11:14:02Z",
+      "publishedAt": "2026-10-29T11:14:11Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -377,6 +388,17 @@
       "imageChecked": true
     },
     {
+      "id": "c34830a6039f30e9f308",
+      "title": "The Best Johnnie Walker for Bourbon Drinkers",
+      "url": "https://thewhiskeywash.com/whiskey-articles/the-best-johnnie-walker-for-bourbon-drinkers/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T11:00:31Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792664119-500x256.webp"
+    },
+    {
       "id": "62d0e6b0416303f99043",
       "title": "ビックリマン史上初「ぷっくりマンシール」新作シール付の限定ウイスキー発売 - TABI LABO",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80QlBUVjRPUkVPbWlGemxHSkVOVVlGeXZJal8tQzMyTUE3VE1yc2ItS3dXcFRnMWxWamkyQnJ5UEx4X191R1lzMHhpWE9sTlhqMzdqd28wS3lUTl9XbzZWUk1wVFBMVWpWSXFz?oc=5",
@@ -386,6 +408,17 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
+    },
+    {
+      "id": "04894a72f7eaede7547c",
+      "title": "Rosebank And MacLean & Bruce Team Up To Offer Rare Whisky Experience to Private Clients",
+      "url": "https://thewhiskeywash.com/whiskey-news/rosebank-and-maclean-bruce-team-up-to-offer-rare-whisky-experience-to-private-clients/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T09:38:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/rosebank-and-maclean-bruce-team-up-to-offer-rare-whisky-experience-to-private-clients-500x256.png"
     },
     {
       "id": "6e49696f9cb11ed43862",
@@ -430,6 +463,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
+    },
+    {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T07:45:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "ea4640df9491408c11ac",
@@ -597,17 +641,6 @@
       "imageChecked": true
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -741,10 +774,10 @@
     },
     {
       "id": "bee4b40ffa21116a7be6",
-      "title": "Barrell Craft Spirits Unveils Sweet Peat Blend With Canadian & Scotch Whiskies - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjZQVl9qMEg0d2dpUHhsNXc5QjhsLTNzZWtYd2duc2tpME83ZXFtVlc1ZDl0ZElmVmlmX3RKRVMtRXNqM0xqTVhKVlRHeVN3bUplaW5VYmlOcGUzUFJDVHFZR3RXdlFNaGx0Q0pWYnU2ZnBRMExueUhDQS1UbVNDTUtUS2pBVFhiNHlOTEVvM19TMGhWNG1TRFZqRzBmLTBJSU1oMmN4QW9GQ1ZzMFR0SEVfSW1hTmZw?oc=5",
+      "title": "Barrell Craft Spirits Unveils Sweet Peat Blend With Canadian & Scotch Whiskies",
+      "url": "https://thewhiskeywash.com/whiskey-news/barrell-craft-spirits-unveils-sweet-peat-blend-with-canadian-scotch-whiskies/",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T17:12:22Z",
+      "publishedAt": "2026-10-28T17:02:25Z",
       "category": "new",
       "language": "en",
       "region": "international",
@@ -760,28 +793,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "17dc2d4c24728cbaa5e0",
-      "title": "Paul John Whisky Announces Christmas Edition 2026 - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUxndDZrNDFUTlk5LWdXRUlIem1MdnJHU3A3WWF3dkM5NUJWcnJUYmpwMVowdGpDenVFeVRsajNuM0J0Q2JmNmg2UDhqV0xTVlFpNElqRmxBN1M4S1REYm1YcWV2Ui1PelpjNTVWbkVrWkN6Q0JXOG12dVE2N0lRcXRVdk5kdWE2TDVDQ2drbmphdkw2?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T16:58:16Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/paul-john-whisky-announces-christmas-edition-2026-1-500x256.webp"
-    },
-    {
-      "id": "c0fb100eddf3be76752c",
-      "title": "Heaven Hill Phoenix Bourbon Marks 30 Years Since Distillery Fire - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDVVNjlvN1Q1WmJKcjBfQWJfM3FZeVRSakdVUHZILU1IM1c4NFc3N1REZ2k2czJKeTZqSDdIRDN1dmhqZS1TQWNHTXpHbGlKMFNpOERNODZvVThUY3JNZXc3VWlJbEJTUGItd2lmcmhpbk96czhRSTZTbExfTTdEMEZaUE1OQmk2a1dOcnp5WU1vbGRidS1sRzhKcTZmdkMzaVd2Szl5S2U?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T16:58:15Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire-1-500x256.webp"
     },
     {
       "id": "fdb5e229836de53cd363",
@@ -883,10 +894,21 @@
       "imageChecked": true
     },
     {
-      "id": "a70ec9fbd947a3ce6ddf",
-      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
-      "source": "Men's Journal",
+      "id": "17dc2d4c24728cbaa5e0",
+      "title": "Paul John Whisky Announces Christmas Edition 2026",
+      "url": "https://thewhiskeywash.com/whiskey-news/paul-john-whisky-announces-christmas-edition-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-28T13:59:12Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/paul-john-whisky-announces-christmas-edition-2026-1-500x256.webp"
+    },
+    {
+      "id": "2620d6c7837e197acd7f",
+      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSTR6M0lqZWdTQVBXZElYTGJ6Z3owbGtwa2hReTVjZjVXcUZ1bTNtQ1dtcjFualpUY1JubDVET182eGVHY3AwNTlhN2NWMkt4UVRoVW9KT1ctdkpEUXEyYXJvSVhWTGZ0LWhzLUJtWDZpRWtNM2JzQW1vYWs?oc=5",
+      "source": "AOL.com",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -894,10 +916,10 @@
       "imageChecked": true
     },
     {
-      "id": "2620d6c7837e197acd7f",
-      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSTR6M0lqZWdTQVBXZElYTGJ6Z3owbGtwa2hReTVjZjVXcUZ1bTNtQ1dtcjFualpUY1JubDVET182eGVHY3AwNTlhN2NWMkt4UVRoVW9KT1ctdkpEUXEyYXJvSVhWTGZ0LWhzLUJtWDZpRWtNM2JzQW1vYWs?oc=5",
-      "source": "AOL.com",
+      "id": "a70ec9fbd947a3ce6ddf",
+      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
+      "source": "Men's Journal",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -950,10 +972,10 @@
     },
     {
       "id": "e7b38224eb2c46033ae7",
-      "title": "Jameson vs. Jack Daniel’s: Which $25 Whiskey Is Actually Worth Buying? - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWjEwcVI1c0IybWpZRUJVZjkxaU9yaUFmWWRHVlphMGFzcHlRY0RGYzhQY3NlSUEzVVpwZDBrTWdsM1RVaENKY3pOX1B0ZXJGWlpYT2pmY1hlNHBCekhDTFIwOXN1T2J0R2tHcTBGNXRkckU0djBhU0xGeXB2YV92ekZZanJPaDFqWVNXUVQySzJycVFYOHU3eWV4dEhHRXF0XzlTTTNHbGFpZmp3aHdj?oc=5",
+      "title": "Jameson vs. Jack Daniel’s: Which $25 Whiskey Is Actually Worth Buying?",
+      "url": "https://thewhiskeywash.com/whiskey-articles/jameson-vs-jack-daniels-which-25-whiskey-is-actually-worth-buying/",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T12:55:26Z",
+      "publishedAt": "2026-10-28T12:30:45Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -970,6 +992,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "c0fb100eddf3be76752c",
+      "title": "Heaven Hill Phoenix Bourbon Marks 30 Years Since Distillery Fire",
+      "url": "https://thewhiskeywash.com/whiskey-news/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-28T11:17:23Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire-1-500x256.webp"
     },
     {
       "id": "2c797fd7ea00cbbe7ced",
@@ -1291,39 +1324,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-1792681705-500x256.webp"
-    },
-    {
-      "id": "56ea753354dfe04b39d7",
-      "title": "Heaven Hill Distillery Announces Heaven Hill Phoenix, a Limited-Edition Bourbon Commemorating Three Decades of Resilience - Breaking Bourbon",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX2FMM0dld2gtMFMzZmRraHgwUnBoMEdLUlZ3ZjB5a285eWlibWI0Q0JTbVd3eVN1UGtIQ3NZZ2lLazZaaV9pSmR4TWtJaVMyMng3cGNaSlFjQ2Npc05XLU9yRWZWT3BXbkZqYlRhOVdJVXYyUU5nXzJxMGJET2RhQkNFMEhDWUNpMXlJUDN6VTMxcEt6MUxRSzBET1RYYy1XbF8yNk13dGNNZ1lvRV9pRnNJM3FxTGh6TDA0YXRIcU9qMjBxQUMzUzU5ck41SmlYUkpwS2RObUl2R1ZtOWNvMzhMRUduOUNHTThfUDJ1Qy1xUVBpRF9zVlBmZ0pEOENjb2xvM2dINGxLbXRPMHF2eQ?oc=5",
-      "source": "Breaking Bourbon",
-      "publishedAt": "2026-10-27T14:29:39Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7888b10ddcce55a4480f",
-      "title": "Heaven Hill Phoenix: 18YO Bourbon Commemorating 1996 Distillery Fire - Beverage Information Group",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUVZ3NnF1UnNra2RER1V3LUlhYTh2cTM3RXZTcUUzMm9aeWM3MW16bWJTM3p6Z3pPNF93RHJMbFdQX2tWVGRnd3JXSGpreV83ODZRR2lyR1liMzkzR0FmMk1VOUp3d25RTzRvMHRRWFRGSDBBMEhBamdQMW9UbmM4dTN4TWZtamQ2RHF5VDVYSk5sSHc?oc=5",
-      "source": "Beverage Information Group",
-      "publishedAt": "2026-10-27T13:45:10Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "da6b5193f06166729528",
-      "title": "Orders Open for Ghost in the Shell’s New Official Limited-Edition Whisky Collection - Essential Japan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmJ2ei0zQWpVZzBXc29RS25CVE1DX2l5dmhpdlBMN3Z5N2xEWGhSTkQxSTFELVZqNTlPaVdvOE1ZN0lHVy1sTUxGTWpHSzBTeURZa0RtOERpajJGQXAxQ3NHdFVra1hyS0ZRd0RTekk4SlREMDlOblZ4Sno2U1pxTE1aTjN2aFo1LXlFWllmTHoyRjFPSm9IaXBRVkZJbnRwc1M1TU9yX2NYNDVsT0UtWDZlT1JNSmc?oc=5",
-      "source": "Essential Japan",
-      "publishedAt": "2026-10-27T13:28:42Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
