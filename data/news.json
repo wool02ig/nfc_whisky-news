@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-30T02:55:02.986687Z",
+  "updatedAt": "2026-10-30T03:54:59.739761Z",
   "count": 120,
   "articles": [
+    {
+      "id": "56c316266729043ff899",
+      "title": "Heaven Hill is releasing a bourbon featuring whiskey from before a 1996 fire destroyed its original distillery - The Manual",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVTVzNDdaUHBEWDZ2N1JxWU9rU1lEQ0d3VDlzOTdCRjVMcE9RUTk1dDE2WjJCRndxak1ReUZIZlJiUmxZOVJYdnlOSzNFMGp3M2ZhZ25IOGYxVFBQWXNyeXpKTS12Zm9aQVRXS2YyRENVRWhOT3dzSURyM2VHa1pRTW5VNTlEYXByR2tSSDdWWlRvRjg3Y3E1QkFqcFNQYXZ3c1NnVE12Q3VjcDhtLUxMMjVfOXoySVVWeHMtWU90Q1JVd0paQzIxZ080T0tWRlhtQ1lWNHZiN0VGYTFybW9DMkFrYnNVVWs?oc=5",
+      "source": "The Manual",
+      "publishedAt": "2026-10-30T03:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "adca71822d9f9214956a",
       "title": "ウイスキー「響」の世界を投影した没入型インスタレーションが「六本木アートナイト2026」に1夜限定で出現 - RICHESSE（リシェス）",
@@ -67,17 +78,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/stranahans-unveils-its-oldest-whiskey-yet-mountain-angel-14-year-old-500x256.png"
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tNDlLUTdHSzBFQWxtRndUMFB5LWt0LURIVEtsb1p5YjFMcVZSSkszMHFVaFo3b0lXWDV2SHRRVkMxU09Ib3RYS1RCWU5RamwzNWtYNWZoWThxNmFtRVkxeVFHRUpmbWIzZW5kaTNuaWxGeVh2aXhNS0ZGSQ?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-29T16:48:19Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
     },
     {
       "id": "bbc937088d05e31038ad",
@@ -366,6 +366,17 @@
       "imageChecked": true
     },
     {
+      "id": "cf97338cc289d3ed6396",
+      "title": "Sir Orrick’s Irish Whiskey Makes India Debut with Premium Triple-Distilled Expression - Aabkari Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2RPUkxDZ1l1RkwwZ1E2RFlxRjhRdWlHbmx0MHpra3ZrMXFsczdTR0RwbUJPWjNvNXBIT1oyeEV2b0xEVXpKS0ZucHNwX2daY2FRaWJtWG8xZ1hhblpweWpKMTJ5anlIUDJ4V3FHS2ZnUHZTQ1hLOWw2emw0NXVOcUNLUjBjQmY1ZXc3QS1BekM3MlZLVkZGeG51bnJRRUxyYk9pd0dnZ2dRYms?oc=5",
+      "source": "Aabkari Times",
+      "publishedAt": "2026-10-29T06:59:12Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "f72186d571cc43148a07",
       "title": "74p in every pound goes to tax as Scot whisky industry sounds alarm - The Herald",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0paNjh2NEtiWW1sU05jWVIzSkstOTVIZ0RnNmhDZEhHYXhWMnRpTmJXc0J3RFJlUXMxYnoxMmI2Q2RGZ0FKTVFPc1FTaVBvd2l4MGVBdzVzLWJVc0hUb2drd01uVlFwQzYwM2d3V0o3dDBHS1p4b0psSmJOR0o3Y25PUnpmQkZET1daRmNNR19mSHh4ZDRNT19BYWwzSWt0WFE?oc=5",
@@ -393,6 +404,17 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SLTNrQWQ3TWc5UUFsQVhkUHNFYjY4OGdydU5IZC1oZEZOR3c3dzlENnZ6M05NT1JKVEIxTWZ3Y1VVenRuVEpNeGtEN3QyOUVPMmRfVlF4aGtiN0owOGNyNHRxVzBFOG5mWWd3?oc=5",
       "source": "時事ドットコム",
       "publishedAt": "2026-10-29T05:46:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-29T05:45:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -531,6 +553,17 @@
       "imageChecked": true
     },
     {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -603,17 +636,6 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-28T16:59:05Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1299,28 +1321,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaFhMd3JaYTNtNmg3Yldfek5xWHdlU1E3ZUtPTXhiSzkxY0lHQzdXckFTWVVMYlZTbWNFbUN6WU82ejF5Y0EycHBrLVdycHdyZUpPR3hWbEI5UlF5bkstWDBfb3ExX3NMQTRfUGtxYXZ0TVktMFpWREVmUGtKVUVIanRkNjQyb3hUUUVPNkJ2a3ZQNElmcjJTM083RFpXU0M5akZJajIzNWg?oc=5",
       "source": "The Scottish Farmer",
       "publishedAt": "2026-10-27T10:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "613e5c805b4987029503",
-      "title": "ウイスキー「山崎」のハイボール缶に2026年版“ミズナラ薫る”登場。Amazonで予約販売を開始 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GaDBCNlUyVkZGYVdhSzNyNk5oNnowblJIZ3VJMHRDc0pFVGFlNlROcjUycE9NM2ZRYkN4WXlrdGJLU0lXYTFKbnhaanM2VjFNY3JqWGNWaV9mSlNpenpXYzVzQXVxZFhJTUE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-27T09:37:43Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ce5648e15c77936bcaad",
-      "title": "Duncan Taylor Scotch Whiskey secures Japanese deal for Octavo portfolio - UK News Group",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZU1nU0xVWGplNUNlREpBMHlYLVNiQ3VnUDF3Yi1PUU1OVUQwSkpMZmNtSVJQNG53cEhCb3ozMGZhOElsVXQ1MGVtZVhLTkdtRXptRnBrTkpHd2dHUUVaUV9oM0R5eExIaG9nVDRNVm1CZHVnX0lVM1E3STRoR1F4ZzhrTTRrQkpZLTExMVRHaHhXYW15Qk83Z2pBM2ZoSmptV3VNaA?oc=5",
-      "source": "UK News Group",
-      "publishedAt": "2026-10-27T09:37:17Z",
       "category": "industry",
       "language": "en",
       "region": "international",
