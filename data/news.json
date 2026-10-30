@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:50:02.080762Z",
+  "updatedAt": "2026-10-30T13:02:27.633255Z",
   "count": 120,
   "articles": [
     {
@@ -58,11 +58,22 @@
       "imageChecked": true
     },
     {
+      "id": "3737cf91ab28f27ccd09",
+      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-10-30T05:17:22Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80aGxaQ1JHX3ZnTjZMR1RsbWd2dXNiV1RqYjNSRnh0Y2MxZk9jM1B2Uk1nZ2tEMVRBTUp1VXNLeUVBcEhEdzJVaWRsbzdYTnJoeHllUk1nWXZuQ29UOXd2a1BLOHN5ZWJYUVJqU2FTVnBOOTFP?oc=5",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-30T05:45:00Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZU2JnSElZYzdkODhpbV83djY2Q3pWbW52dWZLWmdsRlNtOGtHSW1adWh4VE51enpWMUlVSGVpaVNDb2Z0OHNidkNXYjhDUFJqM19SbDNYNlZYZzdxeTJ5NFVPUm5iN0Y5VEdvelpiTFZJM3ZrSnc?oc=5",
+      "source": "Mantan Web",
+      "publishedAt": "2026-10-30T05:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -77,17 +88,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "3737cf91ab28f27ccd09",
-      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
-      "source": "London Evening Standard",
-      "publishedAt": "2026-10-30T03:33:35Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     },
     {
@@ -148,7 +148,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -1083,10 +1083,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T06:41:00Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-10-28T06:41:07Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
