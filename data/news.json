@@ -1,13 +1,24 @@
 {
-  "updatedAt": "2026-10-30T07:04:39.762188Z",
+  "updatedAt": "2026-10-30T08:08:45.412980Z",
   "count": 120,
   "articles": [
     {
+      "id": "0bc076f78e2e2bdf758d",
+      "title": "Four Roses launches new Chestnut cask finished Bourbon - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVjVOTTkxVHEtU0JwcnZNZU9kVGp1aUR6WGZWNnlHR3hWYWNmWHJNaVVLbnc4Q3dQNEJFcHoxYlJKV3h4OS1sLVVWTUc4aUw5bVJWLVZNU3B1ZXZ0bjlnMF9jZWxUdkhra04tM0w2YkR2cDl1SFJVZW00RFZPTjBZR0ctMnUtVVpCcEhLajhDVXFjZ2VxeEZr?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-30T07:52:06Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "44fc060032bf9a6b83ee",
-      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcTg4dXZ4c29BUG50Vm5kSi1vTnJjeHo0Vl9xcU92NkFRWGxveVRMams4TXpFUjJua3J0RFdRWXJQRmc3LV9wZHRTakdfWTl4QzlVTUxWRkwzNFRvNTVUVWxrdW9NMGZEM1E?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T06:00:02Z",
+      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - クレアウェブ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZeHVTUmY2b29lODc5WDhjWW5fQUdJd2JZQjFOVG5BTzI4UFN3WTNMWGNqQlgtWVNKTzVxa1VXeVFKTXM5UlVLNm94eHlDMVU3RlkzaTNRai1UejBCUm16V1ZjMzRfVkp0d2VqY3JEZjN3QQ?oc=5",
+      "source": "クレアウェブ",
+      "publishedAt": "2026-10-30T07:17:50Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -58,17 +69,6 @@
       "imageChecked": true
     },
     {
-      "id": "68afd2c5c5ec89e2edca",
-      "title": "Whisky Advocate - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BREUzVEhrNHh0VzA3aGtNeTkwLWtpckRBMzRHd21kdGlhSllNaFpGREdlenRPU203VFI3VUlGcjZTS1dYYS03WHpSMlo4Zw?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-10-29T21:05:11Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "4dbde2b70c7e2ef402b4",
       "title": "Marvin R. Shanken, Visionary Publisher Who Transformed the Worlds of Wine, Spirits, and Cigars, Dies at 83 - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTF9EYkZTWGotdGdPM0xQbnEzeVNLMkYtaFVsbjlrajhINVZHS3dGQUZmd1gxU215SFp4c2tnLXFqNjBTX005QzdsMGVFMjZWN1lXZG9ZUzRRc2EyZXZxQUg5YVZKTnBGcFp5b09UT0dzaGpMT3JVdzFRcE9jaUVUa2VrLXA5WEtnRHpxZDVfdGVQYndEQkE?oc=5",
@@ -93,7 +93,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -388,17 +388,6 @@
       "imageChecked": true
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-29T07:45:27Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDlwcDhRY1Z0WE1MWEFlbmVfRWRsMHFUSUVQUFlCZTFDV0ExN1RfbnYzX0ZueVJUMWFjbmgzNzlxN3lUSldvRl9XZ0ZockpZbm9yMG9JQUVmd2djN3UxbWxVMnpPeWVEbFdabE1qUXVaNTI0NWgxOHp5OHBpTkMxUVBwbS1xcTBvaFVuZS1CLTNkeV83Rm44SGZMOGFGaGdzMzRqS0szYm5kMmZ5cVFZd0ZEclMxUQ?oc=5",
@@ -454,6 +443,17 @@
       "imageChecked": true
     },
     {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-29T05:45:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
@@ -467,17 +467,6 @@
     {
       "id": "788c8ec8e9a13778a7ea",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 | 株式会社ジャパンインポートシステムのプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T05:00:01Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-10-29T05:00:01Z",
@@ -553,6 +542,17 @@
       "imageChecked": true
     },
     {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T02:00:03Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -568,7 +568,7 @@
       "title": "ウイスキーづくりで原酒と同じくらい重要な「樽」に目を向けた三郎丸蒸留所の挑戦（FRaU） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5c3c0d1Fac3U5Uk9acWt6NVBEV3VhTzU3eldhN3c0aWUtUGZzbHhNZFQzX3RJY3Fnb2xUdWVlT2Y2eHdzTjZ4YU9iWEY1ZkRfY1dLb1dOcFlGdFl2RHdTNDF1SUc1ZUtDQ0VfWlNNSXY1MG5wZEF6OG5VTlUzLTA?oc=5",
       "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T23:25:20Z",
+      "publishedAt": "2026-10-28T23:01:36Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -603,6 +603,17 @@
       "source": "Robb Report",
       "publishedAt": "2026-10-28T21:00:00Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -691,17 +702,6 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-28T16:59:05Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -817,10 +817,10 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/paul-john-whisky-announces-christmas-edition-2026-1-500x256.webp"
     },
     {
-      "id": "a70ec9fbd947a3ce6ddf",
-      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
-      "source": "Men's Journal",
+      "id": "2620d6c7837e197acd7f",
+      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSTR6M0lqZWdTQVBXZElYTGJ6Z3owbGtwa2hReTVjZjVXcUZ1bTNtQ1dtcjFualpUY1JubDVET182eGVHY3AwNTlhN2NWMkt4UVRoVW9KT1ctdkpEUXEyYXJvSVhWTGZ0LWhzLUJtWDZpRWtNM2JzQW1vYWs?oc=5",
+      "source": "AOL.com",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -828,10 +828,10 @@
       "imageChecked": true
     },
     {
-      "id": "2620d6c7837e197acd7f",
-      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSTR6M0lqZWdTQVBXZElYTGJ6Z3owbGtwa2hReTVjZjVXcUZ1bTNtQ1dtcjFualpUY1JubDVET182eGVHY3AwNTlhN2NWMkt4UVRoVW9KT1ctdkpEUXEyYXJvSVhWTGZ0LWhzLUJtWDZpRWtNM2JzQW1vYWs?oc=5",
-      "source": "AOL.com",
+      "id": "a70ec9fbd947a3ce6ddf",
+      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
+      "source": "Men's Journal",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -1039,10 +1039,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-28T06:41:07Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T06:41:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
