@@ -1,11 +1,22 @@
 {
-  "updatedAt": "2026-10-30T10:53:37.757452Z",
+  "updatedAt": "2026-10-30T11:50:02.080762Z",
   "count": 120,
   "articles": [
     {
+      "id": "cc052bd184090906b56b",
+      "title": "Duncan Taylor announces Japanese distribution deal for its Octave portfolio - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXJJTXlfWGlYQVNxakFCbGNOS1liSzR2TlZMNlF5SG9OMzJ6X0JkSkJsYW9GTVR3cXVoN0Zua2xRR2JqMEE2Tm5IRFE0VC1fcmFENzB4eWtHaU4yOWxLWENiNjFQVl9HS3NVVWpZWk82UlFwc3ptYjFjNEhVQjB1QUZzQzFrU1VQTm1aeElWa0pqYnVYZGU0dFBDdkRwYXJPTldLNllQRG9leFBBUlJ1WkVkTQ?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-10-30T11:42:19Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "ad9cfd373963a9b03d50",
       "title": "Abingdon Distillery raises a glass to first English whisky release - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmZvaUtHMm5HYnVwTlhPZVN1Y2hBaW5DcVRoaXlDMkpabW05TzZpZkpfZE1kOF9yQTJyWTYxT3RrdjNiQmM5OWZ3X05VX2M0SkxvdUhaQ3hUdFp1ZVpkVVhZcmVfdC1QNnFaQ2tfRzVOZE5lc2xKX3kxYmRYb0Voay1vV1R6TzZkZmg2dlBGWEo5elFlb2ZsRm1zMXNKaHZCSDZMN2lFZlM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODZQaktRVGhaaE42RmlQX2lmNmxoOGdwd3I4X0dDMFVwRGs3T3FPa0REVEVHMF9SaURPdHhTa1JDME0tVU53YzlrTFlWajBzZkNlTXNVMHhTY3FHUmx6TDB3bHNrWHF3VDVuTXl3M3BQTGkzcjlwLXRTMXlfM05mei0tQ1hydFd6c2JENDJ4SDd3dGJVa2tjUHc0bk5VLUtaZFdYTFYwQ3o?oc=5",
       "source": "Oxford Mail",
       "publishedAt": "2026-10-30T10:00:00Z",
       "category": "distillery",
@@ -14,11 +25,11 @@
       "imageChecked": true
     },
     {
-      "id": "e577c826a948a92030b0",
-      "title": "Scotch and Indian whisky associations sign coop agreement - The Spirits Business",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanlzb2c3cXE2b0kwUWx2V2NKcnZfaG16elBaR1l1Y0FuaG9UamszcVJFdXR5eGhJd0h0UWZ3eU9uaVZLTW5mdU9UTHdlMVhyMnJMMmFEaGtzRi03RG15RUFtT0dsMWhmMngxNFJad3gwenpCMWFscVJQX3o0MDhvVzRkQWFHYWY1a1lLSng2TFZsRlZhZHNpNHg1Zk9UblRtVE40?oc=5",
+      "id": "c183d79703bcd2bff0ba",
+      "title": "Scotch and Indian whisky associations pen coop agreement - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUFna1NNNzQxOXBFcElmXzVVVTZZRWdzTVI4a3RSU2QxNkRfS0t3YjZJSnVxaXJ6VTVubUF0LTY2NW5XdU45UDI4cnlOWkxObDRFVmhSTW93cnZhTWlKOVl4T3VfcXE3YWg0ekNHVEtwbXNqOXlkNF9wRmFXVVhKamtwZ0pqX3Z2dGRPeFVBWFNLNFEwazVzaW1uWERfMlFiZnc?oc=5",
       "source": "The Spirits Business",
-      "publishedAt": "2026-10-30T09:27:31Z",
+      "publishedAt": "2026-10-30T09:37:31Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -66,6 +77,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "3737cf91ab28f27ccd09",
+      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-10-30T03:33:35Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -132,17 +154,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "3737cf91ab28f27ccd09",
-      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
-      "source": "London Evening Standard",
-      "publishedAt": "2026-10-29T17:33:35Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     },
     {
@@ -410,6 +421,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
     },
     {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T07:45:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDlwcDhRY1Z0WE1MWEFlbmVfRWRsMHFUSUVQUFlCZTFDV0ExN1RfbnYzX0ZueVJUMWFjbmgzNzlxN3lUSldvRl9XZ0ZockpZbm9yMG9JQUVmd2djN3UxbWxVMnpPeWVEbFdabE1qUXVaNTI0NWgxOHp5OHBpTkMxUVBwbS1xcTBvaFVuZS1CLTNkeV83Rm44SGZMOGFGaGdzMzRqS0szYm5kMmZ5cVFZd0ZEclMxUQ?oc=5",
@@ -575,17 +597,6 @@
       "imageChecked": true
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -636,6 +647,17 @@
       "source": "Robb Report",
       "publishedAt": "2026-10-28T21:00:00Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -724,17 +746,6 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-28T16:59:05Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1313,17 +1324,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/looking-for-cask-strength-bourbon-under-75-these-5-have-the-medals-to-back-them-up-500x256.webp"
-    },
-    {
-      "id": "e77ef1719e186f0a9185",
-      "title": "The Dalmore launches new 12 Year Old single malt - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUx2OEZFcVpSczNZbnNGYjBaNmJEaUJKbGZPVVFyU2RQMEV0MVFEeVJaT0ctVEpveDIxRGYtTDR5dGNBYkpOaEJMRlgzQm9GWmUta2hmUXJ1M0hTZ1A2WU5IaTlKRV8yV3Q4bDFzRFMwUjBoNTNQM2ppTmhOVVZfcll4V0tFS2dZdlZMSmptaw?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-10-27T12:50:59Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
