@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:03:49.203427Z",
+  "updatedAt": "2026-10-30T02:55:02.986687Z",
   "count": 120,
   "articles": [
     {
@@ -38,7 +38,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -71,7 +71,7 @@
     {
       "id": "a90eaceaad2e282b8d1e",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NR0NZUldMX2poeFc2Z0JMaEFrcWtFc3QtaVU5bkFhNGlaeTZaT3dJLUs2bVB1SVJZaUZsZ3JwSElSYTk2cFYzY3EwLXphM3Y4YTlVakZwMGxjYWV0TDN1c1dHN0FGZUNWLU9XOXpReV9XZHp2ZTAzUVRobw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tNDlLUTdHSzBFQWxtRndUMFB5LWt0LURIVEtsb1p5YjFMcVZSSkszMHFVaFo3b0lXWDV2SHRRVkMxU09Ib3RYS1RCWU5RamwzNWtYNWZoWThxNmFtRVkxeVFHRUpmbWIzZW5kaTNuaWxGeVh2aXhNS0ZGSQ?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T16:48:19Z",
       "category": "industry",
@@ -531,17 +531,6 @@
       "imageChecked": true
     },
     {
-      "id": "33e6e61c423b02c60053",
-      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
-      "source": "MultiVu",
-      "publishedAt": "2026-10-28T20:19:02Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -614,6 +603,17 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-28T16:59:05Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "33e6e61c423b02c60053",
+      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "2026-10-28T16:57:00Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -863,9 +863,9 @@
     },
     {
       "id": "b5d5baa5947d4b2e1417",
-      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg.com",
+      "title": "When Is Scotch Worth $36,000? Take a Look at the Packaging - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVW1FTU9lTXctZy0zQXhBbl93VXUxVDBtT1BQa05nVE9qeHVmcFBXSFlpM2k1QTVYZFZwSmVGVURYQjJWYXFTdktvZGVwY0tadEIyX2lLd3JocVhZZTNsUVF1R01DNHhjRDU4endrUDdWZVVycUJBcFBSeVBkdEFmQmNFVV9rSWJnYUhRdnhHYnR5Y0IxXzlVQlVQdlVTd3A3QVJBZ1RIcFV5RExXV1VOekd3OFkzdDZB?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-10-28T09:15:01Z",
       "category": "industry",
       "language": "en",
@@ -928,6 +928,17 @@
       "imageChecked": true
     },
     {
+      "id": "cc3516b33eeb7ffaa703",
+      "title": "Town Branch Distillery Marks a Rare Chapter in Kentucky Whiskey History - Kentucky Distillers' Association",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFRsbVNZcVRKRF96YnR4MC02QS15bVlheFpkQ3J6NUhvTjJqWHpLVHBWSHFRS2E1dDhXRGF6QUNZRE81Z3dzdFBCSXdteG5pWF96Y0U1amZPd2I2NDVvdzlDa290TWs0UE9EYkw1QUVBQzVjd0pyOTNaWjlBZHpIUDBRRWxGbkdidThoSUU2S3JGVmx1NzlIZ3QwaEU5UkZnb2lkNDNjc2tWRDFtVXQ2cjF0WWJhVlktQnc?oc=5",
+      "source": "Kentucky Distillers' Association",
+      "publishedAt": "2026-10-28T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "7d8e28c888f56a47674d",
       "title": "The Glenturret launches new limited edition Nocturne release - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUVxVmE3NnlEekdTOUJBZlBKeWpNbG9YYmd5QmU3bGRVY2FnMVg2Z3U1QlQ2bjhCNFprMkVCQmxWV0NxODNXWkdTODNWM3l3dV9UNTRqa2ZmSUZOdFVEYkNycUFVM3lGT1I3blEzbHRmOEZFc09iOFhsSGltaElfUE1FcGNNRGFYbG1xZmVWX3NFMTR0aThRR1hMREhEbW8?oc=5",
@@ -940,10 +951,10 @@
     },
     {
       "id": "9f852a3a9ec383716794",
-      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTG9zYm5waWZqS2tWalFQVml0OTZFZk5EclkxaWFteEpBejhFWHdNQTVRT19nUXYwUWpPSFBkdndTQUh3YmZoczNZNDBsR2oxVk9RZFgwZ0hlNXg0c1JBMnpDUWc2ekhZSVE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-28T06:41:07Z",
+      "title": "シングルモルトウイスキー白州18年の“限定版”や山崎・マッカランなどが当たる「黄金の秋ウイスキーみくじ」受付開始 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFF1bV9Pd05lZnVxN0JBWUI3cG9tYUE0UVRDYWdKVGtDTGNHeFZ6X2xfUGlxeTVRVldxSUplYm9RdFdMalNUWUs5QVhsV3Q0X0cwZlZXUEdyX3gtRmNOVERWZ1MzcWxOeWxvMW1xelY1UGctNm5RcnFrX1FaUVFmRXluRXFTa2h3bjUyVTNR?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-28T06:41:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1310,17 +1321,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZU1nU0xVWGplNUNlREpBMHlYLVNiQ3VnUDF3Yi1PUU1OVUQwSkpMZmNtSVJQNG53cEhCb3ozMGZhOElsVXQ1MGVtZVhLTkdtRXptRnBrTkpHd2dHUUVaUV9oM0R5eExIaG9nVDRNVm1CZHVnX0lVM1E3STRoR1F4ZzhrTTRrQkpZLTExMVRHaHhXYW15Qk83Z2pBM2ZoSmptV3VNaA?oc=5",
       "source": "UK News Group",
       "publishedAt": "2026-10-27T09:37:17Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "76048633ce5e95d85cf3",
-      "title": "Johnnie Walker Embraces K-Pop with a New Collaboration - Whisky Monkeys",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFpUTWZVV1lFSVlaWkl6eVFRajhaVGVYbzFTb1JJbmljYXowcHFDMnZTeVRkaFhNVDVXaE8ydnlEbmJkZzJFTnZ6OVBMTWxzb204bllBV3JlOHV0X3lndm1MTWpNNWFQeDFaQWN0M3RJcURCUjZGV2p3d1h6RVN1MlZ2QzdIdjl1ellUaDJxanNHdw?oc=5",
-      "source": "Whisky Monkeys",
-      "publishedAt": "2026-10-27T09:08:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
