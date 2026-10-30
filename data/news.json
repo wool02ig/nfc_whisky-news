@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-10-30T18:53:27.351626Z",
+  "updatedAt": "2026-10-30T19:52:47.229444Z",
   "count": 120,
   "articles": [
     {
-      "id": "c1ee4c1b593dd32d9092",
-      "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcHF3QkNtUmhscmpZc2VTVTdDcWcwbllNb0hhMmtsSXFGdE9hMzgwZlJ0NnFjVEE5WGZTelJ3WEZQMnktS05IX2lEZDRhSzQtMzZFUlVMNUJkZFpST1Vta0hPVEFiZFlnTXNndDNxNDJZVHM1dzVDNlFfLWNsWUZJa1FJbUp5S1M4Y05qNXlXZkJaT2gzbV9lS0FiQlI2aHpzMldNVEdieC13QWxSNjhjUjAwX3Zsck5EaU5rbg?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-10-30T16:53:22Z",
-      "category": "industry",
+      "id": "44fc060032bf9a6b83ee",
+      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2cGQ4LUNDREszQ3ZhX1JieVRkYjZjbm1ZTzYwZmdHYXhONG1jbHlEb29zTW5ERy01SU5EXzVvaVVSbzhkM2hhbWhWS2RFN0F0WkNmcklFemNZdjY5TGZTeGxJenlxMkRVQW9DMFhjN3VtenYyZlhyTW5WRQ?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-30T18:48:18Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "1c443b87d172589a7563",
+      "title": "News Notes: Tennessee's Winter Whiskey Doings, Irish Distillery Visits Still Booming & More - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoY29RMFZoY0xGakJTdmhMaV9SU05rOXNCbzFlYWdReFYtMHFJZjlNUmt2Q3FNWlBVeFVQcTZkeVRtV2FvVFJhS1gzT1FKNnhrUkpZMTZsVWo3YUxNNGR3SnU1VnBuQQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-10-30T17:10:40Z",
+      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -19,6 +30,17 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFFMZVpkZ2tkYjRxcG94RE1zM1cxLV96aXVzOW15MlByelFVNVB5MmExNDc4eE1tbHRXcXVGdk91dmRjZ2pOX1ptVHNxOFItaktmOW5JdDU2LUdmRmVubS16U3FCc0liS19lRFd4NVBlTmQ0QjFmcjg4dWgwZmo5bXpIa09UZDU4LWdJamVXcnIxZ3dZZ2hlUWFaeUxWci1vRDNnRVhfV3A0U2lTOTlmdGdGbXFXSnc?oc=5",
       "source": "Euronext Markets: Real-time Stock Market Data | live",
       "publishedAt": "2026-10-30T16:53:08Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c1ee4c1b593dd32d9092",
+      "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip - London South East",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekY1czgxMlFvOXJ4UGpSVUFyRVpIRmhJOG93ZEQ5N0xlQzJRaDVfMnduaC1LQTV3TTNoSUVtZGFjR3Y0MnlGVi1sVnNZTUwwTFRFMzZvZkp3MjBIVmtUWlpvSklraXpBekpNT0lrUUlKc3hMUWthMWRkcmVFU0w2TjRfX3lMNUVkUk1nNS16c1pYN1VHb1MzcmpnS2JIMlIwaG45aGZYeExpYXplOEhwUno2UnJnRmxxNnVMRg?oc=5",
+      "source": "London South East",
+      "publishedAt": "2026-10-30T16:47:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -245,17 +267,6 @@
       "imageChecked": true
     },
     {
-      "id": "44fc060032bf9a6b83ee",
-      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZeHVTUmY2b29lODc5WDhjWW5fQUdJd2JZQjFOVG5BTzI4UFN3WTNMWGNqQlgtWVNKTzVxa1VXeVFKTXM5UlVLNm94eHlDMVU3RlkzaTNRai1UejBCUm16V1ZjMzRfVkp0d2VqY3JEZjN3QQ?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-10-30T07:17:23Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "bb4dd56b184c151c5cb6",
       "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80aGxaQ1JHX3ZnTjZMR1RsbWd2dXNiV1RqYjNSRnh0Y2MxZk9jM1B2Uk1nZ2tEMVRBTUp1VXNLeUVBcEhEdzJVaWRsbzdYTnJoeHllUk1nWXZuQ29UOXd2a1BLOHN5ZWJYUVJqU2FTVnBOOTFP?oc=5",
@@ -344,17 +355,6 @@
       "imageChecked": true
     },
     {
-      "id": "3737cf91ab28f27ccd09",
-      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
-      "source": "London Evening Standard",
-      "publishedAt": "2026-10-29T17:33:35Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "49ec5f41aa07777be258",
       "title": "Stranahan’s Unveils Its Oldest Whiskey Yet: Mountain Angel 14 Year Old",
       "url": "https://thewhiskeywash.com/whiskey-news/stranahans-unveils-its-oldest-whiskey-yet-mountain-angel-14-year-old/",
@@ -364,6 +364,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/stranahans-unveils-its-oldest-whiskey-yet-mountain-angel-14-year-old-500x256.png"
+    },
+    {
+      "id": "3737cf91ab28f27ccd09",
+      "title": "Best sherried whiskies 2026, according to a whisky expert - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTQzUEZCQ2NvQThCR2c2N012TEYwNjZ3bWtYTktDRlYxMllUUnVmSkRmU0JTQ21KVkVrMERPZEhRNmktbU5ZanBBWEhxWE5MbG5Td1FubHFMa1lIUmxxdUQxYkRMdG5zeUk3RERHcXluUDBJbUR0Wk5ZMG5PR081Wnp3ZlVycUVhR3Y0MElibDh4UQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-10-29T16:38:53Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "bbc937088d05e31038ad",
@@ -619,6 +630,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
     },
     {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T07:45:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDlwcDhRY1Z0WE1MWEFlbmVfRWRsMHFUSUVQUFlCZTFDV0ExN1RfbnYzX0ZueVJUMWFjbmgzNzlxN3lUSldvRl9XZ0ZockpZbm9yMG9JQUVmd2djN3UxbWxVMnpPeWVEbFdabE1qUXVaNTI0NWgxOHp5OHBpTkMxUVBwbS1xcTBvaFVuZS1CLTNkeV83Rm44SGZMOGFGaGdzMzRqS0szYm5kMmZ5cVFZd0ZEclMxUQ?oc=5",
@@ -784,17 +806,6 @@
       "imageChecked": true
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -845,17 +856,6 @@
       "source": "Robb Report",
       "publishedAt": "2026-10-28T21:00:00Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
-      "source": "MultiVu",
-      "publishedAt": "2026-10-28T20:19:02Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -958,6 +958,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire-1-500x256.webp"
+    },
+    {
+      "id": "33e6e61c423b02c60053",
+      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "2026-10-28T16:57:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "fdb5e229836de53cd363",
@@ -1307,17 +1318,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LbF85bXFZaUZLV3JBdFNmTWp3aG5tSlF6T0hMMmdmZXVrZHR5c09zY1JOZVBicllWci1vTDJGZTZhbDhPcV83Q3JEbXBha3NvX195YUM4R2ZWX3pXaWpTXzZLV2VmVXlNUDZHZm94UW91RTZQeHc?oc=5",
       "source": "Mantan Web",
       "publishedAt": "2026-10-28T06:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "8b6ee16ded4bad9e771e",
-      "title": "【京都センチュリーホテル】オーセンティックバー×ウイスキー×ジャズが融合する2夜限定イベント『ウイスキーとジャズのブレンディングパーティー』開催 | 京阪ホテルズ＆リゾーツ株式会社のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtdjJZbEJ0ZFF4SmVJUm5zZEc1ZkJha3dfbU93M0d6QTV5X2t6YW5hallEZl9jNDEweDV6cUZGWTdsY2pXX0F4TEp3Yk43TkxvckV4aFNwU1RyRldHczViZDMxRjJMRTA1dnc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-28T05:00:01Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
