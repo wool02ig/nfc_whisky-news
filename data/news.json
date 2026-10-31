@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-31T04:52:01.053809Z",
+  "updatedAt": "2026-10-31T05:48:18.948479Z",
   "count": 120,
   "articles": [
+    {
+      "id": "87e008f5ac942ecd0c0b",
+      "title": "Plum liqueur casks impart fruity sweetness to new single malt whisky at eastern Japan distillery - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52M2taUDdZcEtfSlpZZzZKRUxaX19PVVN3RnV0ZG1JYk9KLWlmVWxzaGFVRXhyZG1meDNPUzMtWU84cFhVTGREZ202VVF2R2pmOHFwNXZpdi1uYjROUkZZQ20zVUN1MWpvYXNUajdEcmMtMjQ?oc=5",
+      "source": "毎日新聞",
+      "publishedAt": "2026-10-31T04:01:41Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "823410ccf7a73ba28258",
       "title": "ウイスキー「響 2026」を抽選なしで。マスターズドリーム24本とのセットがAmazonで“2万1116円” - グルメ Watch",
@@ -38,7 +49,7 @@
     {
       "id": "608f70408e81c583f16a",
       "title": "厚岸ウイスキー 新作は「干支」 第1弾「未」 来月全国発売 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbUtFWERNb2hXLTNDM3dTSC0teDlOLVI3Z0Y4UnpXQUN0TE4xVjY4Vm1KSkp5ak8wYVh2ZHVsQWsyNWs2RVhIOThaRWV4a29ZSWRHOF9VT2tEdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5REFsODlVdmJlN3NzdUM5cFZYTF8yUldMUXM2Q3ZjMU8yTm9vOEsyZkt2WnFjbXRyZHM1NjQxMENYektQbWd5UWQ4SF9Zcm1WYjVPQ2dQTUE?oc=5",
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
@@ -1311,17 +1322,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "db6b83b95a4837753146",
-      "title": "Wigle Smiley Cookie Whiskey Marks Eat’n Park Cookie’s 40th",
-      "url": "https://thewhiskeywash.com/whiskey-news/wigle-smiley-cookie-whiskey-marks-eatn-park-cookies-40th/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T09:04:58Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/wigle-smiley-cookie-whiskey-marks-eatn-park-cookies-40th-500x256.png"
     }
   ]
 }
