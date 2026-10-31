@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-31T06:58:36.291930Z",
+  "updatedAt": "2026-10-31T07:57:05.640652Z",
   "count": 120,
   "articles": [
+    {
+      "id": "9da4a3949de14b766390",
+      "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-10-31T07:25:10Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "87e008f5ac942ecd0c0b",
       "title": "Plum liqueur casks impart fruity sweetness to new single malt whisky at eastern Japan distillery - 毎日新聞",
@@ -740,17 +751,6 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-29T07:45:27Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDlwcDhRY1Z0WE1MWEFlbmVfRWRsMHFUSUVQUFlCZTFDV0ExN1RfbnYzX0ZueVJUMWFjbmgzNzlxN3lUSldvRl9XZ0ZockpZbm9yMG9JQUVmd2djN3UxbWxVMnpPeWVEbFdabE1qUXVaNTI0NWgxOHp5OHBpTkMxUVBwbS1xcTBvaFVuZS1CLTNkeV83Rm44SGZMOGFGaGdzMzRqS0szYm5kMmZ5cVFZd0ZEclMxUQ?oc=5",
@@ -927,6 +927,17 @@
       "imageChecked": true
     },
     {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T02:00:03Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -1057,17 +1068,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/barrell-craft-spirits-unveils-sweet-peat-blend-with-canadian-scotch-whiskies-500x256.webp"
-    },
-    {
-      "id": "9da4a3949de14b766390",
-      "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-10-28T16:59:05Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     },
     {
       "id": "c0fb100eddf3be76752c",
