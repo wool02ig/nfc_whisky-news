@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:57:05.640652Z",
+  "updatedAt": "2026-10-31T08:50:52.914287Z",
   "count": 120,
   "articles": [
     {
@@ -8,6 +8,28 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
       "source": "ScottishNews.com",
       "publishedAt": "2026-10-31T07:25:10Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "1f8676dc8784451699d0",
+      "title": "BLACKPINK’s Rosé plays bartender as Scotch whisky brand’s newest collaborator - ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3pDWTl1bmE1N1Z2dW9iQjY0N2NWaWt2NF9RNHZRNHhjazB5eFFNdHRMR3NROHIya0RXeUY4OWZXcHZwenF2Z0pWY0xCaWd3N3JnUmQ2LVV2UG1FbFRudDZyNnYxaTg0dnpVVjhDNFdDVmx0aDZUNk4xaDh0aEtOLVhQZnJfNDl1NWl2ZlVwcDdYZkdvT0dZS1JYUmlHMHdNQ0ZjZEhuZ1JMUlEzTnNxNWdZSXh3VzdjaVUxOG0yZTA5bEZ0TGZCTXZiRFlHcXBzQXYtSTRRMmMtUV93VnM0?oc=5",
+      "source": "ABS-CBN",
+      "publishedAt": "2026-10-31T06:19:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "79b33f7adcae2f8f4dad",
+      "title": "Scotland raises Scotch whisky tariff dispute with India as trade deal faces first major test - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWk56Sk95RmN1d1RKMmJaOVhmdHVmRWptSEttdlBzSWYwZWFVUWo3NVQtbEd4U1dYRllBZUk0TlNCaDkyNjNBclRvU2pBYlU2RzdFeEd6NTM1VWkwczI0SVYxdmtmV21yVWVkek11ZzdtYktUeF84amZIalJiUzRTemFLQjFNUjFRS0dodEFodGZhR2lQbTR6NGY3eEt1UEhOYXVySzZZYU5tZlpQMjQxbHlBMmRrcEE?oc=5",
+      "source": "Bilyonaryo Business",
+      "publishedAt": "2026-10-31T05:10:26Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -367,10 +389,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Mantan Web",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZU2JnSElZYzdkODhpbV83djY2Q3pWbW52dWZLWmdsRlNtOGtHSW1adWh4VE51enpWMUlVSGVpaVNDb2Z0OHNidkNXYjhDUFJqM19SbDNYNlZYZzdxeTJ5NFVPUm5iN0Y5VEdvelpiTFZJM3ZrSnc?oc=5",
-      "source": "Mantan Web",
-      "publishedAt": "2026-10-30T05:00:00Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80aGxaQ1JHX3ZnTjZMR1RsbWd2dXNiV1RqYjNSRnh0Y2MxZk9jM1B2Uk1nZ2tEMVRBTUp1VXNLeUVBcEhEdzJVaWRsbzdYTnJoeHllUk1nWXZuQ29UOXd2a1BLOHN5ZWJYUVJqU2FTVnBOOTFP?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-30T05:45:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -456,7 +478,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -817,6 +839,17 @@
       "imageChecked": true
     },
     {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-29T05:45:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ced278ed8a7cbb17f98d",
       "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
@@ -844,17 +877,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-10-29T05:00:01Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VOVd4X01zSzhXQzd5Sy05cUpaWU9acC1mMTQ2aUhLdk5ZcTYzOElTT2ZHc19NRVVhbDlMSzdBTGhWT0Y2WnVfRnk0eTZncXhyTWt4SnE1M0NERHNPdzVrcmRiWTJBNHhMSksySFo5akF1QQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-29T05:00:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -1202,10 +1224,10 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/paul-john-whisky-announces-christmas-edition-2026-1-500x256.webp"
     },
     {
-      "id": "2620d6c7837e197acd7f",
-      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSTR6M0lqZWdTQVBXZElYTGJ6Z3owbGtwa2hReTVjZjVXcUZ1bTNtQ1dtcjFualpUY1JubDVET182eGVHY3AwNTlhN2NWMkt4UVRoVW9KT1ctdkpEUXEyYXJvSVhWTGZ0LWhzLUJtWDZpRWtNM2JzQW1vYWs?oc=5",
-      "source": "AOL.co.uk",
+      "id": "a70ec9fbd947a3ce6ddf",
+      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
+      "source": "Men's Journal",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -1213,10 +1235,10 @@
       "imageChecked": true
     },
     {
-      "id": "a70ec9fbd947a3ce6ddf",
-      "title": "I Rode the World’s Most Luxurious Whisky Train. Here’s What $17,900 Buys You in Scotland - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NZDdUVERUMmtkeW5tc2o1M2xFMXRZQ3hQNXgtOVFkWlJEdVEyM0JheUVkMGdMdE1Ed1BOTmZvMjcteHBBMUtLZlRLdW9sZTVjRGREZzVCSURKMzZhRXd1OXQtNTJrcmZMOXZEb2dCM1ZHU1ctczhsbXViaGU?oc=5",
-      "source": "Men's Journal",
+      "id": "2620d6c7837e197acd7f",
+      "title": "I Rode the Royal Scotsman. Here’s What $17,900 Buys You on the World's Most Luxurious Whisky Train - AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pSTR6M0lqZWdTQVBXZElYTGJ6Z3owbGtwa2hReTVjZjVXcUZ1bTNtQ1dtcjFualpUY1JubDVET182eGVHY3AwNTlhN2NWMkt4UVRoVW9KT1ctdkpEUXEyYXJvSVhWTGZ0LWhzLUJtWDZpRWtNM2JzQW1vYWs?oc=5",
+      "source": "AOL.co.uk",
       "publishedAt": "2026-10-28T13:57:50Z",
       "category": "industry",
       "language": "en",
@@ -1299,28 +1321,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4ca61386faef0407a75d",
-      "title": "Duncan Taylor Brings Octave Whisky to Japan via Shinanoya",
-      "url": "https://thewhiskeywash.com/whiskey-news/duncan-taylor-brings-octave-whisky-to-japan-via-shinanoya/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T10:08:46Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/duncan-taylor-brings-octave-whisky-to-japan-via-shinanoya-1-500x256.webp"
-    },
-    {
-      "id": "97e86ef0336a65490843",
-      "title": "「毎日、毎日の我慢」3年熟成“湧き水”のウイスキーついに完成 野沢温泉蒸留所が2300本を製造「甘く濃厚な香り、フルーティーな味わい」 先行販売したジンは最高金賞「世界レベル目指し、野沢温泉の魅力を発信したい」（FNNプライムオンライン） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BQks2NUxVeEJhOVlvTS1aZDFSNUt2aExGQWxhUk95VUJHdWV0MDRUakdoUDJrOS1tYWMzUEJCQk1DazZ0UWRCRHRNSnZmazQxeTRmdUlyUW5oUVRaNDJTS2pmdFlLSEN0Q3RDTkdWYXhEcnNrV0h1djVJak1TMlE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T10:02:20Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
