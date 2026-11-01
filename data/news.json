@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:12:02.912365Z",
+  "updatedAt": "2026-11-01T02:55:20.248274Z",
   "count": 120,
   "articles": [
     {
@@ -163,17 +163,6 @@
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "44fc060032bf9a6b83ee",
-      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2cGQ4LUNDREszQ3ZhX1JieVRkYjZjbm1ZTzYwZmdHYXhONG1jbHlEb29zTW5ERy01SU5EXzVvaVVSbzhkM2hhbWhWS2RFN0F0WkNmcklFemNZdjY5TGZTeGxJenlxMkRVQW9DMFhjN3VtenYyZlhyTW5WRQ?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-30T18:48:18Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -465,6 +454,17 @@
       "imageChecked": true
     },
     {
+      "id": "44fc060032bf9a6b83ee",
+      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - AERA DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZkY1RDZhMkVtdVVvRTNZMXpzTnpGb25nTEdkRHVRbzNpc3FBdDhaem9CeDk0dGlrSWFMRF95MGttZHJRUk5MaDdLQ2tpejNkWnQ0NXJZSk5kdw?oc=5",
+      "source": "AERA DIGITAL",
+      "publishedAt": "2026-10-30T06:01:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "0e4c047abd247ea445e1",
       "title": "KANOSUKE COLLABORATION SERIES 02 KANOSUKE × TSUNUKI - 嘉之助蒸溜所",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVFfSWFCM3FxaEIwNy05MF95VzRjYmpUcXhZYVdudDlucXNqX083UGtidDBvcEM0Sk5QcXN1RnZ5R2hZc21PSzlOeE5YOU83MFQ1QVVueTh5cHNyb1ZGSURJejBhem00TW91X3RLbC1Dci1zYUwxNjkwMmo4S1pRdVdoNEd1VTIzVmFUR1dvVWRUa2tKYnE5WFdIWQ?oc=5",
@@ -477,10 +477,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T05:00:01Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSjUtSkRjeWl4RlhXUjA4eVJDcDVaZTV0bkJCZWVpVkNBOFpFNDZoeXRzMW8tWkNrZ2M4UEV0NU9PTF95aV8wMWhpMkQ4U2R0NktPR1g2d1NaMnQxV215SFpvdThyQklPXzNycXlxWDg4dw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-30T05:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -566,7 +566,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -938,17 +938,6 @@
       "imageChecked": true
     },
     {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "publishedAt": "2026-10-29T05:28:23Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
@@ -999,6 +988,17 @@
       "source": "Infoseek",
       "publishedAt": "2026-10-29T04:15:27Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T04:00:01Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
