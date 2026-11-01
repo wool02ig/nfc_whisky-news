@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:44:31.316670Z",
+  "updatedAt": "2026-11-01T21:43:16.420304Z",
   "count": 120,
   "articles": [
     {
@@ -302,7 +302,7 @@
     {
       "id": "608f70408e81c583f16a",
       "title": "厚岸ウイスキー 新作は「干支」 第1弾「未」 来月全国発売 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbUtFWERNb2hXLTNDM3dTSC0teDlOLVI3Z0Y4UnpXQUN0TE4xVjY4Vm1KSkp5ak8wYVh2ZHVsQWsyNWs2RVhIOThaRWV4a29ZSWRHOF9VT2tEdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5REFsODlVdmJlN3NzdUM5cFZYTF8yUldMUXM2Q3ZjMU8yTm9vOEsyZkt2WnFjbXRyZHM1NjQxMENYektQbWd5UWQ4SF9Zcm1WYjVPQ2dQTUE?oc=5",
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
@@ -1125,17 +1125,6 @@
       "imageChecked": true
     },
     {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "publishedAt": "2026-10-29T05:28:23Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
@@ -1186,6 +1175,17 @@
       "source": "Infoseek",
       "publishedAt": "2026-10-29T04:15:27Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T04:00:01Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
