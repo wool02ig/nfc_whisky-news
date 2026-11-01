@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T23:41:26.663576Z",
+  "updatedAt": "2026-11-01T01:15:58.162269Z",
   "count": 120,
   "articles": [
     {
@@ -477,9 +477,9 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - 産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hY0Nxam5FTG5UMnZ4Mm8xcTVDWXllTW42RXlGaEJRa0RKRzhYMHhxUTJNRFJicHNEd1RiV3NtSW51Wk4xOUFQRGxTSUdnaV9mWGpnUDVqcGVGUlU5Y0tObXM5U1JTdUtBeEZtNHNpdlBmSDlrMndpZEZXOA?oc=5",
-      "source": "産経ニュース",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSjUtSkRjeWl4RlhXUjA4eVJDcDVaZTV0bkJCZWVpVkNBOFpFNDZoeXRzMW8tWkNrZ2M4UEV0NU9PTF95aV8wMWhpMkQ4U2R0NktPR1g2d1NaMnQxV215SFpvdThyQklPXzNycXlxWDg4dw?oc=5",
+      "source": "Infoseek",
       "publishedAt": "2026-10-30T05:00:00Z",
       "category": "distillery",
       "language": "ja",
@@ -927,33 +927,22 @@
       "imageChecked": true
     },
     {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-29T05:45:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "publishedAt": "2026-10-29T05:28:23Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
       "source": "毎日新聞",
       "publishedAt": "2026-10-29T05:23:46Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - AERA DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQnpJY0RLOFJUZHMxRDduYmVOY1F4STV2ZjJaQVVRaFNvYkRrNkRIend3cFJOeHNzZlBmdUkzSTRENkQzQl83YU1GY0o1X29SYVI1VENxLWZ5UQ?oc=5",
+      "source": "AERA DIGITAL",
+      "publishedAt": "2026-10-29T05:01:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -988,6 +977,17 @@
       "source": "Infoseek",
       "publishedAt": "2026-10-29T04:15:27Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T04:00:01Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1114,17 +1114,6 @@
       "imageChecked": true
     },
     {
-      "id": "33e6e61c423b02c60053",
-      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
-      "source": "MultiVu",
-      "publishedAt": "2026-10-28T20:19:02Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -1200,6 +1189,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire-1-500x256.webp"
+    },
+    {
+      "id": "33e6e61c423b02c60053",
+      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "2026-10-28T16:57:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "fdb5e229836de53cd363",
