@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:45:44.650715Z",
+  "updatedAt": "2026-11-01T20:44:31.316670Z",
   "count": 120,
   "articles": [
     {
@@ -454,23 +454,23 @@
       "imageChecked": true
     },
     {
-      "id": "560d06f935a2f5ad360c",
-      "title": "“Our endeavour is to showcase India to the world”: Rampur Distillery on change and legacy - Whisky Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmdwUUpVSVJiMUMyUXhMXzBrMG5ydHAta1dGNkZYS2NVYmF1VUZaZnFnaldYQXEyb2YxalM0MzUxU2VhWU5wZlU5cUgxZ0xaVUk3Zm92ZGpPNExBN1JXMXdPcXpXY0h5NHZOVERaYlJrZ2g1UjZwYWgwSVhiMFdOaWIxcUR6clQwLTV6bGxJT1RMT1hFaEtDNklBT0p6alktbGl0MThrdEgwRkgySXlFX25XS3pFMS1zdXc?oc=5",
-      "source": "Whisky Magazine",
-      "publishedAt": "2026-10-30T11:05:15Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "f58120b91991c6b6ec31",
       "title": "Tasmanian Whisky Week marks a decade of culture, community, and creativity - Whisky Magazine",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnRzcW1QTU93cTkwSk90dFdlWGxkNVZWZnpjdTFlZzUxX2lHMWZnQnhfZXoxaHJaQ0RYdFFpYWVpVmJlM3VLMHpQVGVHN1gwS0lJTFlfcDhYRi11dzR5akJPMVlVUTBSMTF4WWVaQTVsX2NFN1ZXZS00bGJESFpzRG9zSlFQZWFya1FWWlVXd2pGaVZnYTVqbS15QVNJMC1JRXBvLU1NTQ?oc=5",
       "source": "Whisky Magazine",
       "publishedAt": "2026-10-30T11:05:15Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "560d06f935a2f5ad360c",
+      "title": "“Our endeavour is to showcase India to the world”: Rampur Distillery on change and legacy - Whisky Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmdwUUpVSVJiMUMyUXhMXzBrMG5ydHAta1dGNkZYS2NVYmF1VUZaZnFnaldYQXEyb2YxalM0MzUxU2VhWU5wZlU5cUgxZ0xaVUk3Zm92ZGpPNExBN1JXMXdPcXpXY0h5NHZOVERaYlJrZ2g1UjZwYWgwSVhiMFdOaWIxcUR6clQwLTV6bGxJT1RMT1hFaEtDNklBT0p6alktbGl0MThrdEgwRkgySXlFX25XS3pFMS1zdXc?oc=5",
+      "source": "Whisky Magazine",
+      "publishedAt": "2026-10-30T11:05:15Z",
+      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1125,6 +1125,17 @@
       "imageChecked": true
     },
     {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
+      "source": "CLASSY.[クラッシィ]",
+      "publishedAt": "2026-10-29T05:28:23Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "7a1ddd45bac52195e9af",
       "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
@@ -1175,17 +1186,6 @@
       "source": "Infoseek",
       "publishedAt": "2026-10-29T04:15:27Z",
       "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13T0tJdXRIeTBHVmdPY09Ib293eGR3UHRPSjh2SjdTTVhYYjFmSnd6aVJvVjdKUTg3aklBd3UwdUpicTFua0hmUE9uRDFlMmlreUl4Zlc5ZmpFNzV4SDFfN29PT2NveWlPZVE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T04:00:01Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
