@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-01T11:42:58.310992Z",
+  "updatedAt": "2026-11-01T12:56:26.572195Z",
   "count": 120,
   "articles": [
+    {
+      "id": "73f8f396c6d6ceba1e91",
+      "title": "The Ultimate Islay Whisky? Why Laphroaig 10 Remains the Benchmark",
+      "url": "https://thewhiskeywash.com/partner-content/the-ultimate-islay-whisky-why-laphroaig-10-remains-the-benchmark/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-01T12:30:25Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/featured-image-1792145676-500x256.png"
+    },
     {
       "id": "f91df423fc01e6437f62",
       "title": "ウルトラマンシリーズ60周年記念ラベル・ウイスキー、11月10日より抽選販売の受付開始！ - @DIME アットダイム",
@@ -251,6 +262,17 @@
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "44fc060032bf9a6b83ee",
+      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2cGQ4LUNDREszQ3ZhX1JieVRkYjZjbm1ZTzYwZmdHYXhONG1jbHlEb29zTW5ERy01SU5EXzVvaVVSbzhkM2hhbWhWS2RFN0F0WkNmcklFemNZdjY5TGZTeGxJenlxMkRVQW9DMFhjN3VtenYyZlhyTW5WRQ?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-30T18:48:18Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -553,17 +575,6 @@
       "imageChecked": true
     },
     {
-      "id": "44fc060032bf9a6b83ee",
-      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - AERA DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZkY1RDZhMkVtdVVvRTNZMXpzTnpGb25nTEdkRHVRbzNpc3FBdDhaem9CeDk0dGlrSWFMRF95MGttZHJRUk5MaDdLQ2tpejNkWnQ0NXJZSk5kdw?oc=5",
-      "source": "AERA DIGITAL",
-      "publishedAt": "2026-10-30T06:01:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "0e4c047abd247ea445e1",
       "title": "KANOSUKE COLLABORATION SERIES 02 KANOSUKE × TSUNUKI - 嘉之助蒸溜所",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVFfSWFCM3FxaEIwNy05MF95VzRjYmpUcXhZYVdudDlucXNqX083UGtidDBvcEM0Sk5QcXN1RnZ5R2hZc21PSzlOeE5YOU83MFQ1QVVueTh5cHNyb1ZGSURJejBhem00TW91X3RLbC1Dci1zYUwxNjkwMmo4S1pRdVdoNEd1VTIzVmFUR1dvVWRUa2tKYnE5WFdIWQ?oc=5",
@@ -576,10 +587,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSjUtSkRjeWl4RlhXUjA4eVJDcDVaZTV0bkJCZWVpVkNBOFpFNDZoeXRzMW8tWkNrZ2M4UEV0NU9PTF95aV8wMWhpMkQ4U2R0NktPR1g2d1NaMnQxV215SFpvdThyQklPXzNycXlxWDg4dw?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-30T05:00:00Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-30T05:00:01Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -665,7 +676,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -850,17 +861,6 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/woodford-reserve-unveils-double-oaked-rye-whiskey-1-500x256.png"
     },
     {
-      "id": "39acfe060e059708ba7b",
-      "title": "New KY bourbon releases: Heaven Hill, 1792, Woodford Reserve, Blade & Bow 30 Cask Strength - Lexington Herald Leader",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTSnpTS3hjS00yNTVmeXNkLTQ5N0U3SEJrdnFfTl9kMEstNGlicUVXZGpZcGpRdVF4Sm9MMF9McWJjTktSSWZyOGVGdlZBRS14bkxfRFowRF9uRTNyejhnN0RFQmNSNVNtMWVoS016QTTSAXBBVV95cUxQOVFINDkyVUtTczM1bWY3TGdXRmFndVE3MXZqLXp1RmE4WlllczNmUUF6YXlTaEdlYWdKM2Fyby1hLTE0Yi14NklxbW1KSFQ5VXhzeDJzVmlHdUthVzVIbFBxZ0tJTU5ubFZYY3dLQzU0?oc=5",
-      "source": "Lexington Herald Leader",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "a0fde8f83411ab981687",
       "title": "厚岸ウイスキーから“葛飾北斎/十二支シリーズ”第一弾「厚岸シングルモルトジャパニーズウイスキー 未/HITSUJI」が2026年11月発売！ - 札幌速報",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTHdxUkIxaXBfUHo0eGl1NUcxaTNsV1FVQk8zWFJ4c2NoalNrU2U0aDB3N2pyV2NWNmhjMUF3MTZPMTg4WWI5blduY05oT0N5eThWcVVFS2xpZWdNb1NGMWZ3?oc=5",
@@ -869,6 +869,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "39acfe060e059708ba7b",
+      "title": "New KY bourbon releases: Heaven Hill, 1792, Woodford Reserve, Blade & Bow 30 Cask Strength - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTSnpTS3hjS00yNTVmeXNkLTQ5N0U3SEJrdnFfTl9kMEstNGlicUVXZGpZcGpRdVF4Sm9MMF9McWJjTktSSWZyOGVGdlZBRS14bkxfRFowRF9uRTNyejhnN0RFQmNSNVNtMWVoS016QTTSAXBBVV95cUxQOVFINDkyVUtTczM1bWY3TGdXRmFndVE3MXZqLXp1RmE4WlllczNmUUF6YXlTaEdlYWdKM2Fyby1hLTE0Yi14NklxbW1KSFQ5VXhzeDJzVmlHdUthVzVIbFBxZ0tJTU5ubFZYY3dLQzU0?oc=5",
+      "source": "Lexington Herald Leader",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -991,6 +1002,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
+    },
+    {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T07:45:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "ea4640df9491408c11ac",
@@ -1158,17 +1180,6 @@
       "imageChecked": true
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -1230,6 +1241,17 @@
       "source": "Aabkari Times",
       "publishedAt": "2026-10-28T20:46:49Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/barrell-craft-spirits-unveils-sweet-peat-blend-with-canadian-scotch-whiskies-500x256.webp"
-    },
-    {
-      "id": "c0fb100eddf3be76752c",
-      "title": "Heaven Hill Phoenix Bourbon Marks 30 Years Since Distillery Fire - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDVVNjlvN1Q1WmJKcjBfQWJfM3FZeVRSakdVUHZILU1IM1c4NFc3N1REZ2k2czJKeTZqSDdIRDN1dmhqZS1TQWNHTXpHbGlKMFNpOERNODZvVThUY3JNZXc3VWlJbEJTUGItd2lmcmhpbk96czhRSTZTbExfTTdEMEZaUE1OQmk2a1dOcnp5WU1vbGRidS1sRzhKcTZmdkMzaVd2Szl5S2U?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T16:58:15Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire-1-500x256.webp"
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
