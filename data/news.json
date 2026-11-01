@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:05:49.623679Z",
+  "updatedAt": "2026-11-01T08:04:09.402761Z",
   "count": 120,
   "articles": [
     {
@@ -25,23 +25,23 @@
       "imageChecked": true
     },
     {
+      "id": "25a884324b0e6b62a591",
+      "title": "イオン、ウイスキー「山崎」「白州」「響」「マッカラン12年」「バランタイン17年」「フロム・ザ・バレル」など抽選販売 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyQXNwTkFyQ1hVcmVxT1MzNHdTdm1GMDAxdU4tV29DcFVrQmV4dTl5VXl1ZXNxVU1veThReElVU3VwdkJ3MC1CYldCT1FXVWtQUFh1ckU1SkV0NFVxeDdB?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-11-01T04:11:31Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "f74e9a7cc6b19e1ec8a7",
       "title": "本坊酒造、モルトデュオ・シリーズ第3弾「マルスウイスキー モルトデュオ 津貫×KANOSUKE」を11月下旬より発売 - https://kagoshima-news.jp/",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUzd0dFF5RTJKOUtXM0pZZU9fc0loY3VXaUllSHJtTnVwNXU4VV9fVTFvZ21qWjQ4NEcxZFdDYTR2MVdYTDJ3dHpUOXFUZmY5cC1wMWc5X0QtcHI2OU9YTDNvaE0wWV9BeDdxWUpveUg2cG03U1dDcUN1LVItRUc2UG1MTFNOc2NEQUN5ZDRlOTVwQmZjeVpFVlEtWjVwNS1iQURTZWYzNE5keTBWdmpfZHNUQV8tc011NXhYaXp5cFlFOElOTV93emQ5bVVYNFFJMnNxSUZ0NjdZR0lPbnhBSUwtMGhpS1Y0T0lOVXhHY016WDZCZXFra1R3M0x6OEkxOThzd2ZkV0tVX3c3MF9pMU5ad1M1ekFWUVA4bXhGdHNlRHpGM3VCeUFudFpJd05kclZZaXFCREhYUHFZMmNmbTNObjVwbWxyZzNqU1A4a0UzNE5ic0R3LQ?oc=5",
       "source": "https://kagoshima-news.jp/",
       "publishedAt": "2026-11-01T04:01:00Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "25a884324b0e6b62a591",
-      "title": "イオン、ウイスキー「山崎」「白州」「響」「マッカラン12年」「バランタイン17年」「フロム・ザ・バレル」など抽選販売 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZ3Z6NDdzcWRpYVJxbC1vakRMaDBKVTNfMHVoajJQZE5FcUZPYzJiQThlRHJBS1dmQkd5bkQybjdkdFh1OFNkdGFvQ3BzRFpDVlNSVVItNGlzWjFhM2dDc0EwUmlUY3ZFbWc?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-11-01T04:00:00Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1213,6 +1213,17 @@
       "imageChecked": true
     },
     {
+      "id": "33e6e61c423b02c60053",
+      "title": "Blade and Bow Unveils Rare Cask Strength Bottling of its 30-Year-Old Kentucky Straight Bourbon Whiskey - MultiVu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2lxS2gtX3oxeDhraFNfOVZBWHBfcnA4STNMWUd4NjdmOFdHcUs4ZnlnNW1BZWMwby1uS1Vtc3F2Sk5xQU5OVnR5TmVBWVBfbHZJelZ3Z25HX1ZXQ0tXaWlXdW5objZqdlBkcW1tTFFwNHVib0QxNkFSOEExcUs4Tl9lTWN4aU02UWJWNFV0eHF3Q25kWFV0dUpXbVpuMTFiSGVWczVxZDM2UGxfLW9KNlpMTQ?oc=5",
+      "source": "MultiVu",
+      "publishedAt": "2026-10-28T20:19:02Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "6df8a5e5de072db9a61d",
       "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
@@ -1288,17 +1299,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/heaven-hill-phoenix-bourbon-marks-30-years-since-distillery-fire-1-500x256.webp"
-    },
-    {
-      "id": "33e6e61c423b02c60053",
-      "title": "BLADE AND BOW UNVEILS RARE CASK STRENGTH BOTTLING OF ITS 30-YEAR-OLD KENTUCKY STRAIGHT BOURBON WHISKEY - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdC1BRjRjOTBJX09pM25UaG9ua29fREt5XzMtSjdqT3JwelZwN0VfSVhEYnlNMzJxRkpHX2JDdDJ6RGx3UDFBU1B4eDdBZGlqRFZFZjdaeXdPRjQ4Sm9QWnRTemFiTVJFZkZXczA4ZDZCNmhrWmltVGZiYTVONnBoZjY3WW9ZZmtzbmZaTGdLRzRaN1JpODdRSlJZUXpUOVRyaTU3U1h0MERuaVNnUUZaOWMwVDlJOTZjbG1oZDlhcFZ5dTZpZ3B6MWJHVE5uaERRb2VRM3FYSEtnSnprbEVmWE1LZU9qVE1jSzAxN18xcw?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-10-28T16:57:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     },
     {
       "id": "fdb5e229836de53cd363",
