@@ -1,13 +1,35 @@
 {
-  "updatedAt": "2026-11-01T03:57:20.478736Z",
+  "updatedAt": "2026-11-01T04:56:30.200437Z",
   "count": 120,
   "articles": [
     {
+      "id": "1f8676dc8784451699d0",
+      "title": "BLACKPINK’s Rosé plays bartender as Scotch whisky brand’s newest collaborator - ABS-CBN",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmdBa3BkQXNWNGVDcHJJYzBIT0RLOHVLVE1YRUozTjBqMms3dGpNZ0VtX0Q5T01YRFhUN0JqWmJpRldReWI5OHQwZmpwWjhYNk9rWTIxTy1palFreXAwdkZvWGZrSHZZR05MRWFLWkZETmkwM3RXOEZILUtaRTZtaUtXbnpLeHRhVksxU0V2MWpmSTZFRkJXTmwxcEViLVpzcmFxaVllN0w4dnRaaTNqNjVBeGtfSWxlNDV3MTQ3b2pXdFEtd3Z1X2tFVlNJNEo3SHdlSmJrak40bGM4M2c?oc=5",
+      "source": "ABS-CBN",
+      "publishedAt": "2026-11-01T04:41:15Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6b8f03b13fe264e23cde",
+      "title": "イオン、ウイスキー「山崎」「白州」「響」「マッカラン12年」「バランタイン17年」「フロム・ザ・バレル」など抽選販売（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05RjY5TENvNHpPMVhiVlA5aUdSYjFLMnFoTjY5SkQxV3BMV2doT2VhcWdhSkVrS1JDSHBPZ3Nmak94Nk9zcG5ZUFpZWG4xSkxSUzVFYXpZYzd1YmdOSlI0dEtydlI0dTU3MFd4Wmlla25OT1JFSXFBcVV5NDlnU00?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-01T04:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "e39a3ba5eb6ad7775ab0",
-      "title": "シングルモルトウイスキー「山崎 2026」Amazonは“1万7600円”で抽選販売 - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rdGRyalVXZ1R0WVBSY0pJdVl0cUFFOTBhSXMwOTFrR0JhSGhZblhoUDlyQlF0dWFDSjBuMmV5UEFGZUp1NTB6ZW9Tb0g1YXlXTEQyempoR1l3V2lET0FZ?oc=5",
-      "source": "千葉テレビ放送株式会社",
-      "publishedAt": "2026-11-01T02:41:24Z",
+      "title": "シングルモルトウイスキー「山崎 2026」Amazonは“1万7600円”で抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MNjZkUk9JcldVQmhaYzY4X1QwMGhhaXNzeEZBMmxZazBrd21MOUVyY3VWR3RMVzdIc3JtVlBIdVpkN2V5X2E3OFNERDVnVDJqTDA5U0FqSzB2R3VuNEFBMkFrM2o2WW1pbHc?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-01T02:30:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -69,11 +91,11 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-29-500x256.webp"
     },
     {
-      "id": "1f8676dc8784451699d0",
-      "title": "BLACKPINK’s Rosé plays bartender as Scotch whisky brand’s newest collaborator - ABS-CBN",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmdBa3BkQXNWNGVDcHJJYzBIT0RLOHVLVE1YRUozTjBqMms3dGpNZ0VtX0Q5T01YRFhUN0JqWmJpRldReWI5OHQwZmpwWjhYNk9rWTIxTy1palFreXAwdkZvWGZrSHZZR05MRWFLWkZETmkwM3RXOEZILUtaRTZtaUtXbnpLeHRhVksxU0V2MWpmSTZFRkJXTmwxcEViLVpzcmFxaVllN0w4dnRaaTNqNjVBeGtfSWxlNDV3MTQ3b2pXdFEtd3Z1X2tFVlNJNEo3SHdlSmJrak40bGM4M2c?oc=5",
-      "source": "ABS-CBN",
-      "publishedAt": "2026-10-31T12:18:04Z",
+      "id": "96696a9e870e5399f2a2",
+      "title": "Blade And Bow’s Latest Bourbon Is 30 Years Old—And It Comes Straight From The Barrel - Southern Living",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2hQT0xfX3o5dUh2R3otZFFZVVlrV2FtWTZ0VGlYamk0d21FQlpsb2doV21JNmZ2RnpIakl4NVJTdGZnandPNXJ5MHJlOC1xOTh2Z3VPYnVPMHo3bEp2MGhyY1JST1ZUcm5jcS1xQ1lxU2JGU3pKUEpPQkR4N0xRZWxsQ1h3a0xOZ3dxOFp6Rnk?oc=5",
+      "source": "Southern Living",
+      "publishedAt": "2026-10-31T12:55:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -499,10 +521,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T05:00:01Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSjUtSkRjeWl4RlhXUjA4eVJDcDVaZTV0bkJCZWVpVkNBOFpFNDZoeXRzMW8tWkNrZ2M4UEV0NU9PTF95aV8wMWhpMkQ4U2R0NktPR1g2d1NaMnQxV215SFpvdThyQklPXzNycXlxWDg4dw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-30T05:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -836,6 +858,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "1a28657c3d500b56ac93",
+      "title": "ウイスキー文化研究所、コニサー倶楽部vol.14を2026年10月に発売へ - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wQm5QTENJY2FZakw2LUlSMTJGcXZzV3ZFZnlYMHFqYmQ1SldHMTNpQWFiRHY2MHN3V21HYTdRS3owc0RIQXdFOUxOUnFVaHFlWHZpUjdHWi1kOTkxalNrT2ZKYlE?oc=5",
+      "source": "Dellows News",
+      "publishedAt": "2026-10-29T10:47:03Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1285,39 +1318,6 @@
       "source": "Fred Minnick",
       "publishedAt": "2026-10-28T15:25:35Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c87aeee3b8c367c56785",
-      "title": "Old Grand-Dad 7 Year Bottled-in-Bond Bourbon Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-old-grand-dad-7-year-bottled-in-bond-bourbon-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-28T15:00:14Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-26-500x256.webp"
-    },
-    {
-      "id": "9fb84f75b0e1d622f4b9",
-      "title": "ウイスキー「白州 2026」が抽選なし・サントリー公式より安い“1万7424円”で販売中 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iNW1iTmJnM1JqQmNLTHBUamNTaWNZd1BkMVZvUnp1ZXhFOTh4X2RQQVpXMWlMSTc2NlBoMnVqbjNEZkV0NWtXa3dQNWhjd0ZNNVJLSkN5TVVBT3Z0cUJlWnNzN2J6bXI3MFE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-10-28T15:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "875c5c9c6fd23de0a56a",
-      "title": "1792 Bourbon Introduces New Wheated Full Proof Bourbon - Breaking Bourbon",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHFQQ2E3WXFxbmpJTmdXMkdSbVhIczF1Nms3aVJBRU96WEc0ZzRpSzNUXy1rUndla1ZEZ1k2RFlhdGFQX2FtX1B5Qk5TV0pUcEdLdmVXWksxa3pvcVo0R2pOWW1nZXp5M0I4T2hDcXh3UFNjVlBacGQwbTNpWVN0T2tCS0FlR3J6dFNXOHNhQTRQOTE3Z2hWMGI5eUZZMzFUNUlnNEt0RDVmQjMzY2YycElBazZRM2o2?oc=5",
-      "source": "Breaking Bourbon",
-      "publishedAt": "2026-10-28T14:29:55Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
