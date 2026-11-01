@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:52:20.375255Z",
+  "updatedAt": "2026-11-01T14:45:34.275939Z",
   "count": 120,
   "articles": [
     {
@@ -729,6 +729,17 @@
       "imageChecked": true
     },
     {
+      "id": "e9e2d43f8afaae9692b3",
+      "title": "Stronger whisky fermentation 'could cut distillery emissions by up to 16 per cent' - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2FwcHp0enJQUi1wbG8zcGp5bEhYaEdGRDZ1RmJHWmVpTEY1WF9QSjJrVlRlRS1vam1oUHF0SDFSUXNQOWxWWkh3STlxREJxVU1WRTllUkROMjdxQU9jMEhXbjJkM29IazlSSUVXRnFpY1c5eWg0ZzF0TmN5eWNDN1JkZ2U3ZE0tdy05ZG55WjE5ZnZWdEoxdXc4MDIxcVI3bXVzeEZsTFlfS1E?oc=5",
+      "source": "The Herald",
+      "publishedAt": "2026-10-29T16:06:46Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "ee501eade44ad26de7a9",
       "title": "Blade and Bow Releases New 30-Year Bourbon - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGhiRkZHUXBPOV9nSmhIZXJpT2FJWGR4b2dzTFdNWW5fRnZQaURrZWE1X0hFT25RNnZEY1NQRnk0d3NUaFgzd0M1WDk1RllJUHJXelJ1YU9BUEhna0ZaTTBiQy1udEJfeHd6UVZSd0RFYUtXc01PVU04MmtaU3VMa3lGQ1RLNjE4MWc?oc=5",
@@ -746,17 +757,6 @@
       "source": "International Adviser",
       "publishedAt": "2026-10-29T15:50:46Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "e9e2d43f8afaae9692b3",
-      "title": "Stronger whisky fermentation 'could cut distillery emissions by up to 16 per cent' - Yahoo News UK",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTBKVXc4ZXRabnFjbWNoLWpJcVJncFU1Y1A3T2lhS0hlYXZrME1HaU0tWU9NSUN1WWpHdlZDUWgxcTBBV3FkYUo5Q2FQQVZQVnFMVFVKMmZ1akFfY3NqQzBOcHN2a19hSDR5NWE1WTJzMDFaUHBBLVdDdHFsVEMyWm5DTkkwZw?oc=5",
-      "source": "Yahoo News UK",
-      "publishedAt": "2026-10-29T15:40:45Z",
-      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
