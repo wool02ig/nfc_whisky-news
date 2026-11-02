@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-02T07:33:47.564303Z",
+  "updatedAt": "2026-11-02T09:12:10.268709Z",
   "count": 120,
   "articles": [
+    {
+      "id": "ca8a55a6ab10ddf0da7f",
+      "title": "Explainer: Why is India's probe of Scotch imports from Britain rattling liquor majors? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHhVRFNuYmtRRWdHMTBNVjdKVzRzS1d6OUFJT0V1NldiWUkzUWxnazJvRFAtckJPZ3d0TFpleU9jNHJtdHdQTWJ1bUhhSUg2QmdKR3dkV0p4ODNOeWcwU2l6clVXZWNYemlKZ3RNSFpYd0Z4SEZQZjdtUHlIRmF3VVFTQk1XNERIM2lJNFBYSVJWX3RDbGVaUkh1dHp2dUdkYUQ0Zzh3ZXM4QU9zSnM5bjVyNA?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-02T08:57:32Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c8b13ccb6fc25ac6bf6e",
+      "title": "India-UK trade deal cut Scotch whisky tariffs to 75%: Why are companies facing a 150% duty dispute? - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlFGTlB1UnlDUklYZ1J4WDhjZ2VtUFQyUlBKbGdTME40SDdEcHlibjA2ZEdJS2U0MGNYMzRsdEVpS29ROU93QzB1cVNBNFhYX0ZSVlYwZDVQYTVGSk5TS0V2Tmt2WDVacUVicVRFeVpybzlUc0NDVkhuV25rUlAtQWdKMDVNOVgwWDVldHl0dGJCT1FkcjZZaHBpWGRxTlVMTDByN1U0bTFsUE1pZVk3OG5XbXdZRklZTlVsX1E0OFVESjN3UkdGWjc5SDl5RHNfU2RDNXhLWk5ncm5wTF8zVlZncDNtcFXSAewBQVVfeXFMUFR0ekJGOUU5TmV3TWo0S2FQQXdReVdYVmFSOTFsUUw4TTd6TVBfUHFBOFkzU0RnVHdXRDk1UFdrSFA2eUhiVWllRGlRa0dyclBlLTZUX24zcXNNYkJXQWVCQ3Z1MnpOOXhncG5VVVlyUmJzWGxQU2RHX3h1QjFMSGNYaFN1WVF1UnpfTENOUGRRdXlMd0JHTVhkUERzczA4Y1U1RUE0dTJ1NjBUNnpzRkZaZ2R5R3NPRm8zdm83NmVWNFhmRHZYUzdiNUJqT0F2X0ZETVhjVFZNa3AzdjI2Q3dIOGpVNkh1aXQ0T08?oc=5",
+      "source": "Moneycontrol.com",
+      "publishedAt": "2026-11-02T08:24:39Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "254d131c9ddeafd058d7",
+      "title": "Garrison Brothers launches its second Bottled-in-Bond Bourbon release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORUdQYzBGR2o1N1VRVTlreWdFaWlWNzhzQk1FbkxFS0x2RVhOeEhzUEhISUJiZ1FlVUgtUXRKcnpGQ3k1Rmw5VXVTY0lDUVEweWd5NUtuR192S3hCMHBnY2lpMGczZTk0N2Z0VVBTZFEzenF0NVFQaEFYUVRvbV9OcjZwVFV2MDVwRjNMbXNwRHNwWU1kYnJMTUhFa1BhdmYxMnZON3J1ck1FbU0?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-02T07:56:39Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "33feb24d4d78a424e914",
+      "title": "栃木・西堀酒造、ウイスキー2種販売 日光杉で日本酒造りの技生かす - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RHBMUlFYUkJVd3pVUVl0SW5STktHZmloeXRTR045Rkx0RTF3bXFqYzFkdkdydVVGZGx2eml2a2VjeG9hOThjRXhQS0YzdkJzdFZQVG9nd0R6aEEtQ3lhQjNZaVdlWGRacUtUMw?oc=5",
+      "source": "日本経済新聞",
+      "publishedAt": "2026-11-02T04:54:34Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "f8beb5f546217c5c1ca2",
       "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
@@ -223,6 +267,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-29-500x256.webp"
     },
     {
+      "id": "994a5185de8525b20f8a",
+      "title": "Two renowned whisky writers joined forces for one last great whisky book—and it’s out now - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkV1MUtZSWQyckswWkhhVTRVM3g1ZFBzdTd6dENYRTFURTNyUExfdUx1a1Nxc0RPLTliYlp1akZSVEtRU1JWYWNPM25MUHJ6eEpSWm5zZWNoeFhVUXk4ZFY1bjBjWVY3bWtfa1BQYkJjTTN1T0FseDNsbmN2ejBRcm5wTzBINnNwbTlSdm1aWlVEMVBpOVFrNGpSM1MyMzkwN3BQREtuNFFNalJ3TVItY3ZZcndGM09RdkhINjVzYw?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-10-31T13:18:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "96696a9e870e5399f2a2",
       "title": "Blade And Bow’s Latest Bourbon Is 30 Years Old—And It Comes Straight From The Barrel - Southern Living",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2hQT0xfX3o5dUh2R3otZFFZVVlrV2FtWTZ0VGlYamk0d21FQlpsb2doV21JNmZ2RnpIakl4NVJTdGZnandPNXJ5MHJlOC1xOTh2Z3VPYnVPMHo3bEp2MGhyY1JST1ZUcm5jcS1xQ1lxU2JGU3pKUEpPQkR4N0xRZWxsQ1h3a0xOZ3dxOFp6Rnk?oc=5",
@@ -273,6 +328,17 @@
       "source": "The Times of India",
       "publishedAt": "2026-10-31T09:52:00Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "fab50f5cb1fdee046b68",
+      "title": "Monkey Shoulder Targets a New Generation of Whisky Drinkers with Global Brand Relaunch - Aabkari Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWZIVW9UMEJ6RFd2WENhSG5EcGdvQjBJNFZQRExxaUtNN29XdG1QYU5PUVRueVk3clBtaUxleDZaWUhwSi1EZjRrUk9qT3BVQmdSWWwzV0tKaWVzVlRzSkJua0RoOGQ5YktkSjdLR3JOVDZSWm9sbnlHdXd2VU41WDZJbmFsQUNZMU04VG9NbVRLc3pOU1ZBenV1X2xFRHJYLXY2RHNkV0o?oc=5",
+      "source": "Aabkari Times",
+      "publishedAt": "2026-10-31T09:36:40Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -708,10 +774,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T05:00:01Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hY0Nxam5FTG5UMnZ4Mm8xcTVDWXllTW42RXlGaEJRa0RKRzhYMHhxUTJNRFJicHNEd1RiV3NtSW51Wk4xOUFQRGxTSUdnaV9mWGpnUDVqcGVGUlU5Y0tObXM5U1JTdUtBeEZtNHNpdlBmSDlrMndpZEZXOA?oc=5",
+      "source": "産経ニュース",
+      "publishedAt": "2026-10-30T05:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -1254,72 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "10e4c09aeac61623949d",
-      "title": "コラボレーションシリーズ第２弾「KANOSUKE × TSUNUKI」を11月20日より数量限定で発売 - 嘉之助蒸溜所",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yN3A4clNiV1MyT3BLYzhKNWFYcEczQUV6U1FiSnV3ZUw0WndfVG1mQWJ1UVlVRHNiREw3TXh2MDZPODctM05QMXpWYmRZcXl2X1VRM01sbG9ldDE5MlprTFZvSnZJY21XanlSYlVCaExhZmFHeTJRUnJyeHo?oc=5",
-      "source": "嘉之助蒸溜所",
-      "publishedAt": "2026-10-29T02:20:58Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "48606c1b5f1099dc975b",
-      "title": "＜数量限定＞嘉之助コラボレーションシリーズ 02 KANOSUKE × TSUNUKI - 嘉之助蒸溜所",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjdEY2E4cWJXMC0tTHc5c1VIWHgycUV3Yi1HaGZUWEZPUzhtQlV6YmM3VW1Da2UxTEZTal95TUx4bmRYS1dvbEFJbHp5dmJtdFRuTzgtc1hqbFh3MXhmVXRaVElqUnZJa2YzMGZnRVBCOTdCaWdPcUt3bkE3WWRzT1NGZHdVR3JJ?oc=5",
-      "source": "嘉之助蒸溜所",
-      "publishedAt": "2026-10-29T02:19:10Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "822718dc59dadcf37e9a",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "3b54fb7f4549baf3ab6b",
-      "title": "ウイスキーづくりで原酒と同じくらい重要な「樽」に目を向けた三郎丸蒸留所の挑戦（FRaU） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5c3c0d1Fac3U5Uk9acWt6NVBEV3VhTzU3eldhN3c0aWUtUGZzbHhNZFQzX3RJY3Fnb2xUdWVlT2Y2eHdzTjZ4YU9iWEY1ZkRfY1dLb1dOcFlGdFl2RHdTNDF1SUc1ZUtDQ0VfWlNNSXY1MG5wZEF6OG5VTlUzLTA?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-28T23:01:36Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "c0de7588a53ae539c64f",
-      "title": "New 123.4-proof whiskey prompts expert warning that stronger isn't always better - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFEwVlFhcEozN2FWUTE4ZGtnZThnVXFnQUpDbERCLXpueWNxUnhQNnBSeTVmUVlrdkRtSUVhTmQyeGRLdFJubnkyekxiaWdqOEx2WHI4VEY1RVlTSHpwY2Q4M2ZNSkZMQk94YkhmXzhsQ1MxT01INW51U3Y4UDhfY2hMZE9iZm5yRUZYd0lnVXNJNEkzempjVGVsa2lsMHcwbW4wMVhRbDZoa0hVckHSAbMBQVVfeXFMUDNiSGpSWEFGV25ycGhzX3N0R3lNME03UjVpTnI0N25LVVVpcEI3VnpKajFYZmlWdHZUbUJ4SS11RlZvd3RadzNlb2ZiMC1EQVdrNTBma2VkLTlKVVQwbmFEcnEyMV9wb01NTnZYREl4NDZhUUlTVFBEd201bDQ0Y19EeTJQeGQ3QVVKejU4MzVfenphZ0lBaGpib2txSF9GYmdNYjVDYk5lbkk4UTZyQWdMdEk?oc=5",
-      "source": "Fox News",
-      "publishedAt": "2026-10-28T21:52:39Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
