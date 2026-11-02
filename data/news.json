@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-02T10:14:47.330046Z",
+  "updatedAt": "2026-11-02T11:11:20.622241Z",
   "count": 120,
   "articles": [
+    {
+      "id": "21641038d83f1ff27860",
+      "title": "Indian Distillers Up In Arms Over 150% Tariff On Imported Bulk Scotch - StratNews Global",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2FjZUpwcjA1MmZDbGRjeHE5cnRubGc0UjNQSGRxNm5RVTlzLUNuSHZCTXBXZFFNaFZGeXY1YTUwVlJncWlma2RFTjRycUJ5ZkRIYUhLa1JXaVhiSHgzZ192aEVqS1hLQnQ0akEwT2l4Q1ZkMHktZ0VLZjFCbHFwVGxYSE4xYUk2RlhFWmpTbWFkS3JMWW1SM05xU0dvbUlHdDMyS0NZdGNEbVNL?oc=5",
+      "source": "StratNews Global",
+      "publishedAt": "2026-11-02T10:53:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "56454a29bd5a372ae9dc",
       "title": "9 gift ideas for the whiskey, bourbon lover this Christmas - The Courier-Journal",
@@ -19,6 +30,17 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGdXSDMtcUtRUGlpazBkRkJYZ19IbUNJTkxVbi1FZko4SWhfcHdhMnYtN01sVlIwMnFObUlRbFlFbl9FeWQzQjZoM0l4ZG1VWFgwWmJzWm5HQzhUdnhmSkc2dlYwMFVEQUpFQmJ2VExqc0JsaUQxektad3ZIM21ISWVIWWJEbXEzQWIwc0Y0VHlEc2FnSWh2WXp4bXVtUTkxQWZvLVEzbWo0VEJrbmxQdVJaRDZ6Q24yZTRaUU1sOXpJSVNMYzdqMW1ySWdXU0N4N1E?oc=5",
       "source": "Oherald",
       "publishedAt": "2026-11-02T09:54:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "e82f1afed442bf005be6",
+      "title": "Liquor Industry Worried As India Probes UK's Scotch Whisky Import - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmVWOEdjMXV6T0RxS01VRXkxUmliODRDMEFLZ25GMFA0dnBIMnRlWkdSdFpPOW1JNDJVMVRmY0lIVFhVNDNBSHRtaEQ1WnVUM19hSy1DU3VKMnRyS1hlTFprWGFqbEFsa3ZkX0VRYnp4ckRfLTRmanNTc2RhMVlydHVPWXNJeW5fQ3VsSFZ2alM5SmYxMnl6aEpzbkg1ei03bElHNmRRLVDSAbABQVVfeXFMUGRYY0JRX3NSc1JfZXNYVzc5YWlUbVdwYTRyWER0QkdJcGJ1UDY1NndkRHZiUVd1cHZDWDQ5eEJOdUFyOVp0LVhnTTFqOGo0Vm00cFU5V24xYm12UFE0SzdZZWxUcU9PYVJEbTJBT0pUeTRIdlV6MmI2UmVBOS1FV0ExaTVqQ0hob3hUUlFhUnJMY3dDemRtOUx4R1JwbXA0dU85TEI3S2dReEtTWGxEZmI?oc=5",
+      "source": "NDTV",
+      "publishedAt": "2026-11-02T09:49:04Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -685,6 +707,17 @@
       "imageChecked": true
     },
     {
+      "id": "5af1c8df28b88aa83e2a",
+      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Oxford Mail",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM080NkNHTW10OW1IS3dOa2ZTU29LWnZmRDZJU2hOeWdqTjdNSXk2bUhxWkZMUDRoUGFUYzQyRnVMdzJPZ1ZjSlpJRnQ5QlZGUmFWYzhtWnB5TzlUMlEtY1VtcXFqd2VudjlHeGdWMjVSbE1sMi1kWnpVYS02LTNKc2l2VUx0Z0lKRTEyZVVSdnFxd3ozYVJrV3RRZVBhWkRxbUE?oc=5",
+      "source": "Oxford Mail",
+      "publishedAt": "2026-10-30T10:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "80af274f2e81adde7377",
       "title": "Blade and Bow 30-Year-Old Cask Strength Bourbon Debuts",
       "url": "https://thewhiskeywash.com/whiskey-news/blade-and-bow-30-year-old-cask-strength-bourbon-debuts/",
@@ -907,7 +940,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -1285,39 +1318,6 @@
       "source": "Koubo",
       "publishedAt": "2026-10-29T06:04:59Z",
       "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "268dd5bc0c959858144d",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展：時事ドットコム - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SLTNrQWQ3TWc5UUFsQVhkUHNFYjY4OGdydU5IZC1oZEZOR3c3dzlENnZ6M05NT1JKVEIxTWZ3Y1VVenRuVEpNeGtEN3QyOUVPMmRfVlF4aGtiN0owOGNyNHRxVzBFOG5mWWd3?oc=5",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-29T05:46:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-10-29T05:45:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "publishedAt": "2026-10-29T05:28:23Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
