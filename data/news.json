@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:01:56.658496Z",
+  "updatedAt": "2026-11-02T19:57:47.422955Z",
   "count": 120,
   "articles": [
     {
@@ -330,6 +330,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a635bae27466d5f59b6b",
+      "title": "＜画像9 / 9＞サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HQ3NDQUZOdTN1a2draE0xdk1jVDZkZjZsMFNiNV9aMnBiRENScVZYVEtfTnYtWm9rVkdjdTBkWUJ2Y3FEVEZ5RTE5Z3ZuQ0tRZTFMX1lsN1c2Z3NKSkU2VURvYm5wSmlBSUZ2LWhB?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-02T08:32:08Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -753,7 +764,7 @@
     {
       "id": "608f70408e81c583f16a",
       "title": "厚岸ウイスキー 新作は「干支」 第1弾「未」 来月全国発売 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbUtFWERNb2hXLTNDM3dTSC0teDlOLVI3Z0Y4UnpXQUN0TE4xVjY4Vm1KSkp5ak8wYVh2ZHVsQWsyNWs2RVhIOThaRWV4a29ZSWRHOF9VT2tEdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5REFsODlVdmJlN3NzdUM5cFZYTF8yUldMUXM2Q3ZjMU8yTm9vOEsyZkt2WnFjbXRyZHM1NjQxMENYektQbWd5UWQ4SF9Zcm1WYjVPQ2dQTUE?oc=5",
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
@@ -1306,17 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbFlLTjJKMkszYnpiWG1LS0NtMUl1ai1TNDNSX0tNSFppTko0OXpaemI1YXUtcHdsZUY1S25QeV9nek44U3lkOGJhMmFIMi15c19VUEloZ2IzMlFER0FaaXoxall0d2VUTHdKajh6Q2FhdndoQ3BzSXM1UWtNcGFiQ0VXc0duTXVZc2Vxc1lIVGhCZ1lf?oc=5",
       "source": "The Whiskey Wash",
       "publishedAt": "2026-10-29T14:42:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4afefd0ac768ad0b1c23",
-      "title": "Barton 1792 Adds New Wheated Full Proof Bourbon - Fred Minnick",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUNiUlVEUGtSUGRzQWxtM01UM05fakhaUHlXb3c0MVZxem1GV21BVkRQN0x1SEtKSW9pNlM5WjZlOVJFV0wzM3A4TXJEemNGVUZ2cmw5Wk5HRUpULWFka2hYTUYtSjdLNjh2dk00SHlpR1FoTl9WVXA0M2ZGenhuck50aWNvaGZyMGJHUXpSamk?oc=5",
-      "source": "Fred Minnick",
-      "publishedAt": "2026-10-29T14:00:45Z",
       "category": "industry",
       "language": "en",
       "region": "international",
