@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-02T20:51:44.428919Z",
+  "updatedAt": "2026-11-02T21:50:08.038504Z",
   "count": 120,
   "articles": [
+    {
+      "id": "9da4a3949de14b766390",
+      "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-02T21:13:31Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "d5e572de56e197c53f56",
       "title": "India’s Own Whisky Makers Join the Fight Over the Bulk Scotch Tariff",
@@ -33,6 +44,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "a5598f7c9382729015de",
+      "title": "Yamazaki Refill Spanish Oak Review 2026: Figs & Cocoa - https://thedailywhisky.com/",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTJFMGo3b3ZiNzRaRE9UcExSRUNLaXVuREc0b1RwbC1KZTREZVpaeDhTdWZGLXh5a3gyTkpWN3BlWTg0Mm9sY1h5Si1TOGViOFJTNzhSSDNxaENzOXdMU1JiVUZyZjN4SGx6NWdOc2RHS0lfMU1EZUVXNTc3bGhfWjE4dw?oc=5",
+      "source": "https://thedailywhisky.com/",
+      "publishedAt": "2026-11-02T17:32:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -696,17 +718,6 @@
       "imageChecked": true
     },
     {
-      "id": "9da4a3949de14b766390",
-      "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-10-31T07:25:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "1f8676dc8784451699d0",
       "title": "BLACKPINK’s Rosé plays bartender as Scotch whisky brand’s newest collaborator - ABS-CBN",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdmdBa3BkQXNWNGVDcHJJYzBIT0RLOHVLVE1YRUozTjBqMms3dGpNZ0VtX0Q5T01YRFhUN0JqWmJpRldReWI5OHQwZmpwWjhYNk9rWTIxTy1palFreXAwdkZvWGZrSHZZR05MRWFLWkZETmkwM3RXOEZILUtaRTZtaUtXbnpLeHRhVksxU0V2MWpmSTZFRkJXTmwxcEViLVpzcmFxaVllN0w4dnRaaTNqNjVBeGtfSWxlNDV3MTQ3b2pXdFEtd3Z1X2tFVlNJNEo3SHdlSmJrak40bGM4M2c?oc=5",
@@ -1015,6 +1026,17 @@
       "imageChecked": true
     },
     {
+      "id": "5af1c8df28b88aa83e2a",
+      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Oxford Mail",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM080NkNHTW10OW1IS3dOa2ZTU29LWnZmRDZJU2hOeWdqTjdNSXk2bUhxWkZMUDRoUGFUYzQyRnVMdzJPZ1ZjSlpJRnQ5QlZGUmFWYzhtWnB5TzlUMlEtY1VtcXFqd2VudjlHeGdWMjVSbE1sMi1kWnpVYS02LTNKc2l2VUx0Z0lKRTEyZVVSdnFxd3ozYVJrV3RRZVBhWkRxbUE?oc=5",
+      "source": "Oxford Mail",
+      "publishedAt": "2026-10-30T10:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "80af274f2e81adde7377",
       "title": "Blade and Bow 30-Year-Old Cask Strength Bourbon Debuts",
       "url": "https://thewhiskeywash.com/whiskey-news/blade-and-bow-30-year-old-cask-strength-bourbon-debuts/",
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "dbe685e5340034bbe312",
-      "title": "Paul Kopec – Speyside Capital: Investing in Scotch whisky - International Adviser",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGc0LV9QNmYyQ1hEOWVHdTUybC11LVUxT3dWRkE0X2lRaHgwSmtsMnhHNDc0bGRJMnQ0THo2RFZvVFcwWll5VGlpN05zVE5oSGVBSmxqeFBfN0RQcnNtalRjWmtXVGpSOUtPdnAxV2FHdy1XSDY4ZURuWUVfVHhIUUxkY3JFR0w0M0lNM2Yxc1l6OUpCRUhWMg?oc=5",
-      "source": "International Adviser",
-      "publishedAt": "2026-10-29T15:50:46Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a86ec6b4d3b61a2a612e",
-      "title": "Tullamore D.E.W. Blended Irish Whiskey Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-tullamore-dew-blended-irish-whiskey-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T15:00:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-27-500x256.webp"
     }
   ]
 }
