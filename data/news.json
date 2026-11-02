@@ -1,13 +1,57 @@
 {
-  "updatedAt": "2026-11-02T09:12:10.268709Z",
+  "updatedAt": "2026-11-02T10:14:47.330046Z",
   "count": 120,
   "articles": [
     {
-      "id": "ca8a55a6ab10ddf0da7f",
-      "title": "Explainer: Why is India's probe of Scotch imports from Britain rattling liquor majors? - Reuters",
+      "id": "56454a29bd5a372ae9dc",
+      "title": "9 gift ideas for the whiskey, bourbon lover this Christmas - The Courier-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObW5TLWVrd0NndlpEdVE4Rm55VWNObDRGWWx3UVJDRXRTWHN6LVlTX2NEbktxVlU3Nm5WVEd1M1gyZXd1aG5UeHhiaXNaZk9fTHVYMkEtUDNYVGVTTjR6YkZsSk1Tc2Y0Y0g1RlFGRDVCakJjOG0wNjJhbmlIUzB5Mkhkc1dPak1jalVubkJoVTdmNTZJdVZCd0FScG5nOU5GV284cnBtc19IbXJPZkNBcXQ0VjZMRDdDOXc2Wk12ejcwLTVial9UTkN2OE5JeUNJ?oc=5",
+      "source": "The Courier-Journal",
+      "publishedAt": "2026-11-02T10:03:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "ced7b3c150191e950437",
+      "title": "India-UK Scotch Whisky Tariff Dispute Raises Concerns Over Prices Of Popular Indian Brands - Oherald",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGdXSDMtcUtRUGlpazBkRkJYZ19IbUNJTkxVbi1FZko4SWhfcHdhMnYtN01sVlIwMnFObUlRbFlFbl9FeWQzQjZoM0l4ZG1VWFgwWmJzWm5HQzhUdnhmSkc2dlYwMFVEQUpFQmJ2VExqc0JsaUQxektad3ZIM21ISWVIWWJEbXEzQWIwc0Y0VHlEc2FnSWh2WXp4bXVtUTkxQWZvLVEzbWo0VEJrbmxQdVJaRDZ6Q24yZTRaUU1sOXpJSVNMYzdqMW1ySWdXU0N4N1E?oc=5",
+      "source": "Oherald",
+      "publishedAt": "2026-11-02T09:54:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6b5895f2994ec425b926",
+      "title": "India's New Scotch Whisky Trade Dispute With UK: Will Your Favourite Brands Get Costlier? - News18",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTUtX25SQnFkYlY1aWlnMWI4V01nU3dxbU5zQndiSEpPZjd1YUw1blE0MTdlaEgySEtVNkNOTDhNQVNHZ3E4MGhWeWNsSkFRS0duNVRTTGk2Nl92RWdsaFhKRkRLZjlPRkd2Ul9LVEdZdmhWSTI5b0RxTzQzOWxxSkFpQTdmOTAzVlFLUUV3LWJjRkRDZ3dXRjBLeGY0MkpFNzNrZnlJV2pFbXhXamNPOHRhdEg1aWxOZ293ZWVFREFiTzhoS2JlWtIBzgFBVV95cUxPLUpmVGZIeWpkMUp5X3hobW44b1ZaVjNrd3pkYWtKbXJySjhpQjJPOXVJM0l0N3lJOXFoMVpHU3BQaWR0RFExb2FMd2dRajN5RTdjRktjSUh5ZFBzV2FhOUw0dmtYbHJxZGo3WWdya0gxdGpBSlJKU3BZRG05U3Z2ckJCYWNSc0szX0dkS05td0U1QTM1WGdhQ2RCS05fVDdaOGxoZG9OODdQampVYXBnTEw0cVc2cWZwd1BEa3hEWGFBSWp3Z3dES1NUaXc3QQ?oc=5",
+      "source": "News18",
+      "publishedAt": "2026-11-02T09:45:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "dd75cef45ec6cde1720c",
+      "title": "What the Scotch whisky industry wants from government - City AM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOERTSmFDdEVZNXhpSC16SU5lR1BLZDU4MW9Tem40VnBueFg0ZnBibW54am5ocU5Vdmg3RFlHTHBPek5iQUN1WGE3RURWSVBVVDBXVF9XcUZ2R0tyNUV2Yk5yYVdRdV9CTU5XUW8xYlN3MEd0V1BSaEtMblVONnQ1U2k5SQ?oc=5",
+      "source": "City AM",
+      "publishedAt": "2026-11-02T09:29:04Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "73abfd6d9aa1edaef632",
+      "title": "Why is India's probe of Scotch imports from Britain rattling liquor majors? - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHhVRFNuYmtRRWdHMTBNVjdKVzRzS1d6OUFJT0V1NldiWUkzUWxnazJvRFAtckJPZ3d0TFpleU9jNHJtdHdQTWJ1bUhhSUg2QmdKR3dkV0p4ODNOeWcwU2l6clVXZWNYemlKZ3RNSFpYd0Z4SEZQZjdtUHlIRmF3VVFTQk1XNERIM2lJNFBYSVJWX3RDbGVaUkh1dHp2dUdkYUQ0Zzh3ZXM4QU9zSnM5bjVyNA?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-02T08:57:32Z",
+      "publishedAt": "2026-11-02T09:21:51Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -66,17 +110,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7bcfba1c2cd10b3b395d",
-      "title": "ウイスキーの副産物を活用したサステナブルな紙素材「ウイスキーペーパー」誕生、「モルト粕」に見出した新たな価値とは？ - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yc2tMVEZsZzdSSlBHa3loZ09PSDlZdk1tNEF3MWFmbDNtOEtUak91ZTlHSjl5MmV4MzRnTVlodG5LUHZwSTF0RVp2LXA2TnU1TU0tUnJB0gFbQVVfeXFMUHcxVXlLZzQzUFlwZ2FaOGFHMGIyLUNieENZWFRXY2tXRzRNYkR6dzNZWGQ0V3lzX0xZbVV1eU8zUnhQZy1lcm5mOXF4U3FiYlFZVVJZNkxFTlBLVQ?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-11-01T16:12:01Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -421,6 +454,17 @@
       "imageChecked": true
     },
     {
+      "id": "6454966632fb95681069",
+      "title": "Whiskey Thief to open new event space in NuLu called The Guild House - The Courier-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEk4Vl9QNzNoenY3N21iWUlTang5N1kyel9aOEFjMy1CVzVUMUJiNXk1NmM1cnkyTklGOTBPSF9qWWQ1TUNHRlZMcmFiS2o2QTdLOHhCX0h4VC00OHBaS3pxcElPT3lZTnNmS3c3bDNvczd3bUVJSktpMHpZdk91c2M4S3p4cDhPMEdQUWhERWdydDR1bTI2VTdza0ZjNTJOamRkU2ZjVEZ0c1JQWXZBRE5HTHh3dDBIdDktZUJJRWdvdlFJLVZoRWVjakpHM050NkhCZ3R4WjlKRFJmdzZZeGJoT08xY1E?oc=5",
+      "source": "The Courier-Journal",
+      "publishedAt": "2026-10-30T20:30:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "608f70408e81c583f16a",
       "title": "厚岸ウイスキー 新作は「干支」 第1弾「未」 来月全国発売 - 北海道新聞デジタル",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbUtFWERNb2hXLTNDM3dTSC0teDlOLVI3Z0Y4UnpXQUN0TE4xVjY4Vm1KSkp5ak8wYVh2ZHVsQWsyNWs2RVhIOThaRWV4a29ZSWRHOF9VT2tEdw?oc=5",
@@ -652,6 +696,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/blade-and-bow-30-year-old-cask-strength-bourbon-debuts-1-500x256.webp"
     },
     {
+      "id": "7bcfba1c2cd10b3b395d",
+      "title": "ウイスキーの副産物を活用したサステナブルな紙素材「ウイスキーペーパー」誕生、「モルト粕」に見出した新たな価値とは？ - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yc2tMVEZsZzdSSlBHa3loZ09PSDlZdk1tNEF3MWFmbDNtOEtUak91ZTlHSjl5MmV4MzRnTVlodG5LUHZwSTF0RVp2LXA2TnU1TU0tUnJB0gFbQVVfeXFMUHcxVXlLZzQzUFlwZ2FaOGFHMGIyLUNieENZWFRXY2tXRzRNYkR6dzNZWGQ0V3lzX0xZbVV1eU8zUnhQZy1lcm5mOXF4U3FiYlFZVVJZNkxFTlBLVQ?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-10-30T09:43:07Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "c183d79703bcd2bff0ba",
       "title": "Scotch and Indian whisky associations pen coop agreement - The Spirits Business",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUFna1NNNzQxOXBFcElmXzVVVTZZRWdzTVI4a3RSU2QxNkRfS0t3YjZJSnVxaXJ6VTVubUF0LTY2NW5XdU45UDI4cnlOWkxObDRFVmhSTW93cnZhTWlKOVl4T3VfcXE3YWg0ekNHVEtwbXNqOXlkNF9wRmFXVVhKamtwZ0pqX3Z2dGRPeFVBWFNLNFEwazVzaW1uWERfMlFiZnc?oc=5",
@@ -718,17 +773,6 @@
       "imageChecked": true
     },
     {
-      "id": "51ea434cf2b9affb3d5c",
-      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
-      "source": "Law Society of Scotland",
-      "publishedAt": "2026-10-30T07:00:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "a65a231bdf9db35d9440",
       "title": "広島の潮風を感じる蒸留所へ！廿日市市桜尾の「SAKURAO DISTILLERY」でウイスキーやジンが生まれる現場を見学してきた - ウォーカープラス",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oenFBZ1B5d1ZWTXM4OVJrc2c2Uko2MEluZzNpOWZJUlZadmNyc3NuSG9McW5ZcG9IMXZkUll4ZUItQXo5SmhIcHRmTmRIY2RvOU1iOGJn0gFbQVVfeXFMTXJMTDl4aUU2UGZmdDdPbnZYdDBSQ2lXTGxOX2R4NnBibkVwVGxMdlZ5OXVQRUkyVWw1RzZsdUo5SnlOY0V0dWQ4R2hTTDV4clEwbEN0ZGVjTFJGOA?oc=5",
@@ -737,6 +781,17 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "51ea434cf2b9affb3d5c",
+      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
+      "source": "Law Society of Scotland",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -774,10 +829,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - 産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hY0Nxam5FTG5UMnZ4Mm8xcTVDWXllTW42RXlGaEJRa0RKRzhYMHhxUTJNRFJicHNEd1RiV3NtSW51Wk4xOUFQRGxTSUdnaV9mWGpnUDVqcGVGUlU5Y0tObXM5U1JTdUtBeEZtNHNpdlBmSDlrMndpZEZXOA?oc=5",
-      "source": "産経ニュース",
-      "publishedAt": "2026-10-30T05:00:00Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-30T05:00:01Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -852,7 +907,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -1136,6 +1191,17 @@
       "imageChecked": true
     },
     {
+      "id": "84718223bf765538ba5f",
+      "title": "【PHOTO】イ・ジョンソク、ウイスキーブランド「The Glenlivet」のイベントに出席 - Kstyle",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhT1JfQWsyZjh5bFRsN1hHanp3NTJ6bU9ENmdaRjlrN1kxNFdZUGlQbEhoRnViaV95NjVEQ0ZaX01LRGE3Y09OR1BTb1lyMFVWVzR0N1l1c2pGckow?oc=5",
+      "source": "Kstyle",
+      "publishedAt": "2026-10-29T09:42:50Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "6e49696f9cb11ed43862",
       "title": "Cask and you shall receive: Falkirk distillery collaboration serves up whisky offer to private clients - Falkirk Herald",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzZEQl8xNlg3Z2dXVDBYTGsxUzFqd0x6MTBzZ3pNREx5WUkxUklYSVVQT3huVWdzY1JpNlV2SVowaXRqYS1hTzBqRW50OGktVndhY2ZhVU8xT3JYdTMxdGdkVHdxQ0JoQjFoY1JQdmQ2RkFCZV9tU1gzZ3FEWjBibXVpaWNBQXVnMzRhTE9Qa0llODZHSHZkRS1jSkZabVpHZUNYWmluMTBwRU1NMmV4TXlmTG5nZ3dDQ2x5Ql9lWFRENmVUM0REWUpjUUYwVU1lbDgxSjNuREVJR2JfM21ZeUhYQnY?oc=5",
@@ -1252,72 +1318,6 @@
       "source": "CLASSY.[クラッシィ]",
       "publishedAt": "2026-10-29T05:28:23Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7a1ddd45bac52195e9af",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展（PR TIMES） - 毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
-      "source": "毎日新聞",
-      "publishedAt": "2026-10-29T05:23:46Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "788c8ec8e9a13778a7ea",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 | 株式会社ジャパンインポートシステムのプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T05:00:01Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "26835e1f1ff5aeb1217c",
-      "title": "西堀酒造、ウイスキー哲の2種を2026年11月20日に各1,000本限定発売へ - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GYUZuekMwa3prQ0xlNlpQWTIwbkFYNnd5Q3draXBzWFhIR1l6TUF2SGdrVFRYanR4b0w3SDdUb0NDc0FkSEE?oc=5",
-      "source": "Dellows News",
-      "publishedAt": "2026-10-29T04:39:54Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ff9330c49c9265a05d66",
-      "title": "【厚岸ウイスキー】二十四節気シリーズ完結後、初の新作。“葛飾北斎/十二支シリーズ”第一弾「厚岸シングルモルトジャパニーズウイスキー 未/HITSUJI」を2026年11月発売 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWjYwSE4tQXVDRk8zM2tRQlZoU0ZQTWkyNEp5Nm5OeXFGVVN3TlN4VVlaczhKZUZ1bXBKTDFrbU5yUEZoVTU3clZrSTNQRVQwTmJoZ0U3N2xaVmlYdkczWlJjNXA1LUppWGl3cUl2emloQQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-10-29T04:15:27Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "c60970383ea6e4a41683",
-      "title": "厚岸蒸溜所、葛飾北斎/十二支シリーズ第一弾未/HITSUJIを11月下旬発売へ - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41dEV3V1ZGZDBNNlJEWmhGTnFvN0ZSZDNFNGphYmVrZ2tTbHNrUkp5aWtScEROcWRGNXNPNTFMNVNEeWJrREE?oc=5",
-      "source": "Dellows News",
-      "publishedAt": "2026-10-29T03:00:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "342d71a38f04da9e85b3",
-      "title": "いよいよ10/30（金）18時オンライン販売開始！注目集まる「シングルモルト長濱 掛け軸シリーズ」160本限定！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GRU1RbHdNdUk5MUNjdk5VdjVFZzRWblJmdnAxYXRkMmVxcmtjOXF2SnM3V0ZjTlVITGJmTGktZmRVNVdUX1ZPcEpoUzMxTzM0LV8zSV9iNkZ6S0tDcFdKM3ZjZmNTZlpS?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-10-29T02:30:14Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
