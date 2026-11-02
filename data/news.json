@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:13:15.681810Z",
+  "updatedAt": "2026-11-02T02:12:53.625682Z",
   "count": 120,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
+    },
+    {
+      "id": "73f8f396c6d6ceba1e91",
+      "title": "The Ultimate Islay Whisky? Why Laphroaig 10 Remains the Benchmark - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCdnRRSGV5R2ZjWjVpbmlPYUNOLXRlVFg5TWJVemJ0U2J2VUoxNzJvaTBmVmw0aE5SWlhxU0l5VHlYbXJrYjY0TjZPaDk?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-01T17:37:53Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/featured-image-1792145676-500x256.png"
     },
     {
       "id": "7bcfba1c2cd10b3b395d",
@@ -67,17 +78,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "73f8f396c6d6ceba1e91",
-      "title": "The Ultimate Islay Whisky? Why Laphroaig 10 Remains the Benchmark",
-      "url": "https://thewhiskeywash.com/partner-content/the-ultimate-islay-whisky-why-laphroaig-10-remains-the-benchmark/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-01T12:30:25Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/featured-image-1792145676-500x256.png"
     },
     {
       "id": "f91df423fc01e6437f62",
@@ -152,6 +152,17 @@
       "source": "Whisky Advocate",
       "publishedAt": "2026-10-31T21:43:30Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "0fc9b23a8d4c6e6454ab",
+      "title": "Maven Distillery's Decade-Long Kentucky Bourbon Debut - NewsBreak: Local News & Alerts",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0RaX0dDTjdsMU5ZWHYzVFJReFNLMUwzaGVaNlNNd1g2b2sycVM3d1FNbXZQNDZ3VW9raUhaS25PNElsbzFTd05RaFBpbkdKR1dPeU9zR3RoT3J4VzFJeWdETG1wMEZzN185VjVsM0dPNHZoRUpvWWlzQVNYemJKbTR4TldfeEpUWkpGaHlZYUR0R0o1bXBtZFhhOTktRENFaE9GS1lKRmlJdUlXUTFJb0Q2ZWZNQjQ?oc=5",
+      "source": "NewsBreak: Local News & Alerts",
+      "publishedAt": "2026-10-31T20:49:47Z",
+      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -388,6 +399,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whisky-exchange-names-new-buying-director-auction-head-500x256.webp"
     },
     {
+      "id": "8f95b00a5112512ec3fa",
+      "title": "D’YAVOL Spirits Brings Inception Scotch and Single Estate Vodka to the US - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXhaOG9VbXNWblZuQ3UwR0RJS0lxWS13dGVUWUlHOWJieEQ1bUcwRFJJclVFZ3FEZURjdFpzSlA0YjNfTThqU1hkTTlUUzlHMFJmZjJ5aWJZVlVuTk8xenY2YW9ST0MxM2s4QmZzQlB5MXYzZHhqNnladkRTNWJtSTVvcUhrdDBkbnl3YTByOTliakY4QmRkblZfbzBQcUZ2VXpITzVsam1mbHFlbUczZl9xOA?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-30T16:36:53Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/dyavol-spirits-brings-inception-scotch-and-single-estate-vodka-to-the-us-500x256.webp"
+    },
+    {
       "id": "19f92d291f147e83d59b",
       "title": "Whisky Watch: Woodford Double Oaked Rye, Barrell Sweet Peat, Garrison Brothers BIB & More - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUR3WGVHTGNXXzJpZTdKMExYMzJJWmxKc1VTM0pWZU0xSUxtWHRXRFYxczl6ZWZzbkhCa1libFFLUnlKYkdhdkhuZVppUWw5RV9Vc3ZyWEpSVE14V2RYZW5uOEh5QWlMSWhneWZXWFJmeG9xMVh4bC0ydUcxZFVjWVBKYU43cjZFeHlDVzRXZ0ZDNUk4TGc?oc=5",
@@ -399,6 +421,17 @@
       "imageChecked": true
     },
     {
+      "id": "a430785227f9027d0aa1",
+      "title": "Indian Malt Whisky Association and Scotch Whisky Association Sign Cooperation Pact - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXl2MW00QWllbGxhOTRPVWJYOUQ0QnVhdS1YeEVSZnNUUGo0emdSY2xJdVhRUEtMMEY0T0RGcEFYbXFkZDJtbmJ4aktRc2pQNW5IUl95V28tUkZBUE84S0thX2ZrUUZfSjhTWno5QkhsNHpvMGFCdXprSnlMZ3hTd3NtTHZBaWpVVll5RVptcUhER1BqT2xmOVZUN2JySHctYUZvNDBnZ3Ytc1ZJV1dpS2l3aFp3Q1RtckFjbTRESEE?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-30T15:52:21Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/indian-malt-whisky-association-and-scotch-whisky-association-sign-cooperation-pact-1-500x256.png"
+    },
+    {
       "id": "87a17102c5be05a2f7e6",
       "title": "Cutty Sark Blended Scotch Whisky Review: Light & Fruity - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KV2pjVlZEckpmUVZqem5TVkc4ZXFZVHlucUg4RjROMXpoMmFEYzJGRGtpTHZwSzc5aGhiZ3Q5MC1fbWdRVFhSdjZKLUI?oc=5",
@@ -408,6 +441,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "2ac49109773a65a7603f",
+      "title": "Four Roses Uses Chestnut Casks In New Experimental Series Bourbon - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3hHU1Z5T0lfeTR0ckZHdFctQXdVNzlEZTZBVnNybVVpS0xLZ21WRmNONzNyVzhpellTZl9wS2kzQ0lfRjZBS0R4Uk9LQWF3eUZPbU1MR1NaWGFHNjdscUxBb3ZxREZvZS1jRVJNamdnNGtENjVPTUhuR3B6MlQ1RzBUVE1SQkp4MWIyY1kyTzJ4TTJ6ZjlLTnllZW1MUjBHa2FVRUkxcHo5QQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-30T15:16:17Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/four-roses-uses-chestnut-casks-in-new-experimental-series-bourbon-1-500x256.webp"
     },
     {
       "id": "ad4e6863344042aefdc0",
@@ -454,17 +498,6 @@
       "imageChecked": true
     },
     {
-      "id": "a430785227f9027d0aa1",
-      "title": "Indian Malt Whisky Association and Scotch Whisky Association Sign Cooperation Pact",
-      "url": "https://thewhiskeywash.com/whiskey-news/indian-malt-whisky-association-and-scotch-whisky-association-sign-cooperation-pact/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-30T12:37:39Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/indian-malt-whisky-association-and-scotch-whisky-association-sign-cooperation-pact-1-500x256.png"
-    },
-    {
       "id": "cc052bd184090906b56b",
       "title": "Duncan Taylor announces Japanese distribution deal for its Octave portfolio - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXJJTXlfWGlYQVNxakFCbGNOS1liSzR2TlZMNlF5SG9OMzJ6X0JkSkJsYW9GTVR3cXVoN0Zua2xRR2JqMEE2Tm5IRFE0VC1fcmFENzB4eWtHaU4yOWxLWENiNjFQVl9HS3NVVWpZWk82UlFwc3ptYjFjNEhVQjB1QUZzQzFrU1VQTm1aeElWa0pqYnVYZGU0dFBDdkRwYXJPTldLNllQRG9leFBBUlJ1WkVkTQ?oc=5",
@@ -496,17 +529,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "8f95b00a5112512ec3fa",
-      "title": "D’YAVOL Spirits Brings Inception Scotch and Single Estate Vodka to the US",
-      "url": "https://thewhiskeywash.com/whiskey-news/dyavol-spirits-brings-inception-scotch-and-single-estate-vodka-to-the-us/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-30T11:03:01Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/dyavol-spirits-brings-inception-scotch-and-single-estate-vodka-to-the-us-500x256.webp"
     },
     {
       "id": "9026351a0f35db9450a6",
@@ -595,17 +617,6 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "2ac49109773a65a7603f",
-      "title": "Four Roses Uses Chestnut Casks In New Experimental Series Bourbon",
-      "url": "https://thewhiskeywash.com/whiskey-news/four-roses-uses-chestnut-casks-in-new-experimental-series-bourbon/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-30T08:44:42Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/four-roses-uses-chestnut-casks-in-new-experimental-series-bourbon-1-500x256.webp"
     },
     {
       "id": "0bc076f78e2e2bdf758d",
@@ -751,6 +762,17 @@
       "imageChecked": true
     },
     {
+      "id": "be3bec417a0e0658625c",
+      "title": "The Whistler Triple Oak Irish Whiskey Launches in the US - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSE11SGFKWllOS2s4UmpkcXVKd2RzQ2Exb0FYX2hXQkh0RklOaEJGV3NER3pZQ2tsTUFSSXVxU2kzN1lERkRpTHRtOHkzMmlXX2VjUU16R2xWaWlsRUk3RmZGZm9relJqSkxBQVc1NVBoLXh0eWJZZHF2SU9Fam91ZFdMTVo0Y0VYVUpkT2lzRTE4b2NyMW13RkU4UlV4QQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-10-29T17:01:30Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whistler-triple-oak-irish-whiskey-launches-in-the-us-500x256.webp"
+    },
+    {
       "id": "04894a72f7eaede7547c",
       "title": "Rosebank And MacLean & Bruce Team Up To Offer Rare Whisky Experience to Private Clients - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEtuMFpZMkQzc1VfOThuSXBMQ3cwZUZCN0o3M1NHNjQ1TVQzNjB3S0lvUWpoSDBldElORE1scDc1a0JtSWxnb0tWSlRCbVVKYm5vMDZPYW9wa3FETExpSFNxWUxvV3FUY2lzdi1Tai0wU3ljWElnbEE3cjF6Q3d6THl0MDM3cE5fSWJ4Tk95QmNZZUJ2ZTN1VXNsM3d5cnptRTBvRnZFeno1RnhValVINEVURTZ4MDg0WFowcFEwcXBxc1RR?oc=5",
@@ -829,25 +851,14 @@
     },
     {
       "id": "a86ec6b4d3b61a2a612e",
-      "title": "Tullamore D.E.W. Blended Irish Whiskey Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-tullamore-dew-blended-irish-whiskey-review-2026/",
+      "title": "Tullamore D.E.W. Blended Irish Whiskey Review - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVNLTGl4M0ZOVWpMOE9NU21nV2dGU3JlTV9NSFltcGFuNzF5SVc2R0M4ZDdrSmpNbEplMlpfdU9zWWg2d1lEVG9iZnM?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T15:00:37Z",
+      "publishedAt": "2026-10-29T15:31:54Z",
       "category": "industry",
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-27-500x256.webp"
-    },
-    {
-      "id": "be3bec417a0e0658625c",
-      "title": "The Whistler Triple Oak Irish Whiskey Launches in the US",
-      "url": "https://thewhiskeywash.com/whiskey-news/the-whistler-triple-oak-irish-whiskey-launches-in-the-us/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-29T14:51:54Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whistler-triple-oak-irish-whiskey-launches-in-the-us-500x256.webp"
     },
     {
       "id": "edaa21e00d2f585f543b",
@@ -1148,10 +1159,10 @@
     },
     {
       "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - AERA DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QQnpJY0RLOFJUZHMxRDduYmVOY1F4STV2ZjJaQVVRaFNvYkRrNkRIend3cFJOeHNzZlBmdUkzSTRENkQzQl83YU1GY0o1X29SYVI1VENxLWZ5UQ?oc=5",
-      "source": "AERA DIGITAL",
-      "publishedAt": "2026-10-29T05:01:00Z",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-10-29T05:00:01Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -1306,17 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFNveTVpNTctMlNvOC1BU3dCdXJ4YWo2OU9pVmJKOUdSWG13ZlVhcy1KZGJtNDFqWHZkNTFiU1dCTm91UTZrak4yRzNpSGtZTm5GWTBGc3R6ckJEZGcyU245MzU5YzVvQTRDQ2ZxNDUtaGZkM2U2UklZN0xLNDN0bjdzal9xbUR5ek1YRWM4cmg1eXJQVERLS3pMTktpVTNCemFoNW1HVm5VQ0E?oc=5",
       "source": "Aabkari Times",
       "publishedAt": "2026-10-28T20:46:49Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "6df8a5e5de072db9a61d",
-      "title": "This New Kentucky Bourbon Contains Whiskey Distilled Over 30 Years Ago - Gear Patrol",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbmtpamRmWlFPS3RCbXZuamJFM3FtY0xCd3IzeFgwNlFZaDl0NF9jbFZDUjNYcm5VeldSNHpNMXdDRC1SWjMzSVNQdEJSemFodVE3X01tdHV5UmplVXQ4U2Iza1JOX08xU3RIOQ?oc=5",
-      "source": "Gear Patrol",
-      "publishedAt": "2026-10-28T20:10:36Z",
       "category": "industry",
       "language": "en",
       "region": "international",
