@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:02:02.436294Z",
+  "updatedAt": "2026-11-02T05:08:25.991902Z",
   "count": 120,
   "articles": [
     {
@@ -346,12 +346,23 @@
     {
       "id": "608f70408e81c583f16a",
       "title": "厚岸ウイスキー 新作は「干支」 第1弾「未」 来月全国発売 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5REFsODlVdmJlN3NzdUM5cFZYTF8yUldMUXM2Q3ZjMU8yTm9vOEsyZkt2WnFjbXRyZHM1NjQxMENYektQbWd5UWQ4SF9Zcm1WYjVPQ2dQTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbUtFWERNb2hXLTNDM3dTSC0teDlOLVI3Z0Y4UnpXQUN0TE4xVjY4Vm1KSkp5ak8wYVh2ZHVsQWsyNWs2RVhIOThaRWV4a29ZSWRHOF9VT2tEdw?oc=5",
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "c1ee4c1b593dd32d9092",
+      "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcHF3QkNtUmhscmpZc2VTVTdDcWcwbllNb0hhMmtsSXFGdE9hMzgwZlJ0NnFjVEE5WGZTelJ3WEZQMnktS05IX2lEZDRhSzQtMzZFUlVMNUJkZFpST1Vta0hPVEFiZFlnTXNndDNxNDJZVHM1dzVDNlFfLWNsWUZJa1FJbUp5S1M4Y05qNXlXZkJaT2gzbV9lS0FiQlI2aHpzMldNVEdieC13QWxSNjhjUjAwX3Zsck5EaU5rbg?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-30T18:43:43Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -383,17 +394,6 @@
       "source": "Whisky Advocate",
       "publishedAt": "2026-10-30T17:10:40Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c1ee4c1b593dd32d9092",
-      "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip - www.marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1B0M01iajR6aF8wSngwQ0hFZ1ptbHRpNHdWQlpETk9UX1JFUGlsanpHaVdrNHlVN0NEc0E4bGEzekRxOG8zSEo2RnJhX1BpVWt5bWxtbV8wVnowVWxCaDBPQ3VrUkhHZGx1OW9wTG1RYmZXQ0NCMDIyZUt3bm10Vy1qRkkxbE91UE1SSWVORWJ4djF1anI1QjY2LVJZRG1RMm5HNVo1dnQ0UURqQmNVejZtdDE0MElFdVNTR09RVDF4Qk9M?oc=5",
-      "source": "www.marketscreener.com",
-      "publishedAt": "2026-10-30T16:50:57Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -652,6 +652,17 @@
       "imageChecked": true
     },
     {
+      "id": "51ea434cf2b9affb3d5c",
+      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
+      "source": "Law Society of Scotland",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "a65a231bdf9db35d9440",
       "title": "広島の潮風を感じる蒸留所へ！廿日市市桜尾の「SAKURAO DISTILLERY」でウイスキーやジンが生まれる現場を見学してきた - ウォーカープラス",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oenFBZ1B5d1ZWTXM4OVJrc2c2Uko2MEluZzNpOWZJUlZadmNyc3NuSG9McW5ZcG9IMXZkUll4ZUItQXo5SmhIcHRmTmRIY2RvOU1iOGJn0gFbQVVfeXFMTXJMTDl4aUU2UGZmdDdPbnZYdDBSQ2lXTGxOX2R4NnBibkVwVGxMdlZ5OXVQRUkyVWw1RzZsdUo5SnlOY0V0dWQ4R2hTTDV4clEwbEN0ZGVjTFJGOA?oc=5",
@@ -697,10 +708,10 @@
     },
     {
       "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T05:00:01Z",
+      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSjUtSkRjeWl4RlhXUjA4eVJDcDVaZTV0bkJCZWVpVkNBOFpFNDZoeXRzMW8tWkNrZ2M4UEV0NU9PTF95aV8wMWhpMkQ4U2R0NktPR1g2d1NaMnQxV215SFpvdThyQklPXzNycXlxWDg4dw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-10-30T05:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -775,7 +786,7 @@
     {
       "id": "7117d2ae28d3f07bbd09",
       "title": "【山崎18年・白州18年が当たる】495口限定「秋の大収穫ウイスキーみくじ」10月29日予約開始。 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YclctNE1QLWVBSFFHRGF3Ry1iVlJxUkc0b3o5cXJ4elBTemVudXRIejlyczNmMnlXY0l6LVRYN0N6MFd0UDBqcndyelJHcmtqWnJDS1prbTJCQVA2VGRoZUE5R29QaENu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WjNUckYyQmtFeVZ2QWdVU0JabFp1SUlQLXRiRG1WV3J2TzUwOVNKai1ubS1IOFhKZ0RXdjBGUGJiRGU1ZkpXX1NyUUQyRWFmSWh1RA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-10-29T19:15:14Z",
       "category": "limited",
@@ -960,17 +971,6 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/woodford-reserve-unveils-double-oaked-rye-whiskey-1-500x256.png"
     },
     {
-      "id": "39acfe060e059708ba7b",
-      "title": "New KY bourbon releases: Heaven Hill, 1792, Woodford Reserve, Blade & Bow 30 Cask Strength - Lexington Herald Leader",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTSnpTS3hjS00yNTVmeXNkLTQ5N0U3SEJrdnFfTl9kMEstNGlicUVXZGpZcGpRdVF4Sm9MMF9McWJjTktSSWZyOGVGdlZBRS14bkxfRFowRF9uRTNyejhnN0RFQmNSNVNtMWVoS016QTTSAXBBVV95cUxQOVFINDkyVUtTczM1bWY3TGdXRmFndVE3MXZqLXp1RmE4WlllczNmUUF6YXlTaEdlYWdKM2Fyby1hLTE0Yi14NklxbW1KSFQ5VXhzeDJzVmlHdUthVzVIbFBxZ0tJTU5ubFZYY3dLQzU0?oc=5",
-      "source": "Lexington Herald Leader",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "a0fde8f83411ab981687",
       "title": "厚岸ウイスキーから“葛飾北斎/十二支シリーズ”第一弾「厚岸シングルモルトジャパニーズウイスキー 未/HITSUJI」が2026年11月発売！ - 札幌速報",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTHdxUkIxaXBfUHo0eGl1NUcxaTNsV1FVQk8zWFJ4c2NoalNrU2U0aDB3N2pyV2NWNmhjMUF3MTZPMTg4WWI5blduY05oT0N5eThWcVVFS2xpZWdNb1NGMWZ3?oc=5",
@@ -979,6 +979,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "39acfe060e059708ba7b",
+      "title": "New KY bourbon releases: Heaven Hill, 1792, Woodford Reserve, Blade & Bow 30 Cask Strength - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTSnpTS3hjS00yNTVmeXNkLTQ5N0U3SEJrdnFfTl9kMEstNGlicUVXZGpZcGpRdVF4Sm9MMF9McWJjTktSSWZyOGVGdlZBRS14bkxfRFowRF9uRTNyejhnN0RFQmNSNVNtMWVoS016QTTSAXBBVV95cUxQOVFINDkyVUtTczM1bWY3TGdXRmFndVE3MXZqLXp1RmE4WlllczNmUUF6YXlTaEdlYWdKM2Fyby1hLTE0Yi14NklxbW1KSFQ5VXhzeDJzVmlHdUthVzVIbFBxZ0tJTU5ubFZYY3dLQzU0?oc=5",
+      "source": "Lexington Herald Leader",
+      "publishedAt": "2026-10-29T12:00:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1103,6 +1114,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/1792-launches-full-proof-edition-of-sweet-wheat-bourbon-1-500x256.webp"
     },
     {
+      "id": "dd91653f0e5433df4a45",
+      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sOTNCNHFuTElzaVRxWmtxMXV4RHl5bDRBc1F4R1RsaHF6QmF6ZktreVJuNHNwV05FQkFZVUR0ZjF1UDRrQU5RUVZQSW54TlVqUk1hSg?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-10-29T07:45:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ea4640df9491408c11ac",
       "title": "Heaven Hill Distillery launches limited edition release honouring its history - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMDlwcDhRY1Z0WE1MWEFlbmVfRWRsMHFUSUVQUFlCZTFDV0ExN1RfbnYzX0ZueVJUMWFjbmgzNzlxN3lUSldvRl9XZ0ZockpZbm9yMG9JQUVmd2djN3UxbWxVMnpPeWVEbFdabE1qUXVaNTI0NWgxOHp5OHBpTkMxUVBwbS1xcTBvaFVuZS1CLTNkeV83Rm44SGZMOGFGaGdzMzRqS0szYm5kMmZ5cVFZd0ZEclMxUQ?oc=5",
@@ -1158,6 +1180,17 @@
       "imageChecked": true
     },
     {
+      "id": "a90eaceaad2e282b8d1e",
+      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX2NVMnJZWmExTGxiUmw0MmJjV1g2bmRzMXROUldFQmFVVEkySU9Kdy10cm1MSnRwTVZwcG9ReVZyYU5yczlvV0lXVHByU2hOTTRmX1dOd25WN05ESjVabUdWbU1KWXE2VEVwejNnNU5zdEhU?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-10-29T05:45:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "ced278ed8a7cbb17f98d",
       "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - CLASSY.[クラッシィ]",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pQTNSQ0JLQkdkVUw3MFJmZkJFTzV1b0pPd3BwSXhSOUFOSjNCTndIRjlEa2R2eFFFWHhmTWJremg5TW0xMjRzSkFIbFlENXNIc2pWbnI1OVg?oc=5",
@@ -1174,17 +1207,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMGxRQmdPQW1tSEM3eTdtdmdud2thX2hTa3N0MUtteFBQYzczSU9tZk94TllNeFJSNUw5TmRseE41OXdwNndSWmNNTmZXRHJoVEZIYnhMYlVHYV9XX0M2NnpLaUtFcVJ5?oc=5",
       "source": "毎日新聞",
       "publishedAt": "2026-10-29T05:23:46Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a90eaceaad2e282b8d1e",
-      "title": "「ビッグピート」ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dlg4ZEVELTJaOUg4MWpFcE1TOGJvVDRENWI5c2k3d2drM3RlN2hESHUtSkRmay1GYTFlRDBxNENFMzFrTWVnTXJEU3d3OUJQQ2FSX3hCUkI3Vjl1U01CcWtSVEtGMlRTMmc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T05:00:01Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -1268,17 +1290,6 @@
       "imageChecked": true
     },
     {
-      "id": "dd91653f0e5433df4a45",
-      "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-29T02:00:03Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "822718dc59dadcf37e9a",
       "title": "「 マルスウイスキー モルトデュオ 津貫×KANOSUKE 」11月下旬より発売 | 本坊酒造株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMW5zcjNsNXM1d0VwX2txTzlYWmdYWndEczl1ekdXSjVad0FDald1NnZVRGdaMjU0bEhoOHRnSjNjYlVYWVlLVHlvckEtQ2pOcWQ5c2RBTi1zVmNnSkppVkg1dGpNTEd6ZUE?oc=5",
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "dcae5f5765493a09d594",
-      "title": "ウイスキーづくりで原酒と同じくらい重要な「樽」に目を向けた三郎丸蒸留所の挑戦（FRaU編集部） | FRaU the Earth - 現代ビジネス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLQ0E4QktTUXRvQzVodHNmdlFCNEQ4ZEtraU5FVnM5b3E2RlFUYWZkeF9uZTZDdVVmR0JoTEpUNUJUYzk1Ymg4WWdQdkRtdTA?oc=5",
-      "source": "現代ビジネス",
-      "publishedAt": "2026-10-28T21:06:44Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
