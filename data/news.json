@@ -1,13 +1,35 @@
 {
-  "updatedAt": "2026-11-02T21:50:08.038504Z",
+  "updatedAt": "2026-11-02T22:50:33.314144Z",
   "count": 120,
   "articles": [
+    {
+      "id": "09bc656ca514b8c5ccf3",
+      "title": "Woodford Reserve’s Popular Double Oaked Lineup Just Got a New Rye Whiskey - Robb Report",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanV4Nk51QTg3WldIaDBOWllDbUNYd1BTcDB0WTBCbGtrMldhWG05R2JfRjktUEJuZTMzNFZWUGdSbjhMWm1mSU9Kd0QxVVdYMmJOdy1FWXhnMUhDbGVtRm40LTJrbklUWkRQb2ZIRWtMc3NFNy1hLTRxVlRaUm1oblhmanN2a2pHQk55N1F0S25EeUEzUnBpWFdIUQ?oc=5",
+      "source": "Robb Report",
+      "publishedAt": "2026-11-02T22:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "9da4a3949de14b766390",
       "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
       "source": "ScottishNews.com",
       "publishedAt": "2026-11-02T21:13:31Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7b1f8bb2e385f5c9a762",
+      "title": "Diageo Canceled a 25-Year Whisky Tradition. The Reason Isn’t Falling Demand - Inc.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1F6SnhEcDZzUUpWZUw5ODJYYWEzMzJCODBxOGVoZlZoUkJVbk5jY3FKRnB3Q2k1TDJSNUNkOFkyUC1FQ3diNW5JUzF2NTN5WVpiZnVzWFZMN29HX2xET3NrNVRsLVVUQzdmZEJ6bDVTQTI2VkRidDItaFlXMXFBZFA4TGFTQ2ZZNWxBdEZwN3RCWlg5UklocmZBeGg0VDBhSk5FNW1vRHJ0ZllHLUlIUQ?oc=5",
+      "source": "Inc.com",
+      "publishedAt": "2026-11-02T20:39:19Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -84,7 +106,7 @@
       "title": "India Takes Steps to Resolve the Scotch Whisky Tariff Dispute - EasternEye",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11UndHX3BYR0xzVDU1OWNnN3Y2WUFFOGQyTVNfUzNpWjdTR0licnZJOWI0aTkyOUIxTGZWM0p5aFE1ZC1xN0xMX2NKM1JQUUdmcXBnTGExZFdPTFh1ak9FeDN5MFI5WE1OTThRbXBhUHlMeDQtM2JHRlhSUmU?oc=5",
       "source": "EasternEye",
-      "publishedAt": "2026-11-02T17:02:44Z",
+      "publishedAt": "2026-11-02T17:07:07Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1026,17 +1048,6 @@
       "imageChecked": true
     },
     {
-      "id": "5af1c8df28b88aa83e2a",
-      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM080NkNHTW10OW1IS3dOa2ZTU29LWnZmRDZJU2hOeWdqTjdNSXk2bUhxWkZMUDRoUGFUYzQyRnVMdzJPZ1ZjSlpJRnQ5QlZGUmFWYzhtWnB5TzlUMlEtY1VtcXFqd2VudjlHeGdWMjVSbE1sMi1kWnpVYS02LTNKc2l2VUx0Z0lKRTEyZVVSdnFxd3ozYVJrV3RRZVBhWkRxbUE?oc=5",
-      "source": "Oxford Mail",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "80af274f2e81adde7377",
       "title": "Blade and Bow 30-Year-Old Cask Strength Bourbon Debuts",
       "url": "https://thewhiskeywash.com/whiskey-news/blade-and-bow-30-year-old-cask-strength-bourbon-debuts/",
@@ -1307,17 +1318,6 @@
       "source": "The Herald",
       "publishedAt": "2026-10-29T16:06:46Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ee501eade44ad26de7a9",
-      "title": "Blade and Bow Releases New 30-Year Bourbon - Fred Minnick",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGhiRkZHUXBPOV9nSmhIZXJpT2FJWGR4b2dzTFdNWW5fRnZQaURrZWE1X0hFT25RNnZEY1NQRnk0d3NUaFgzd0M1WDk1RllJUHJXelJ1YU9BUEhna0ZaTTBiQy1udEJfeHd6UVZSd0RFYUtXc01PVU04MmtaU3VMa3lGQ1RLNjE4MWc?oc=5",
-      "source": "Fred Minnick",
-      "publishedAt": "2026-10-29T16:05:47Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
