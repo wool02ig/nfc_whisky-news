@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:58:41.512943Z",
+  "updatedAt": "2026-11-03T20:55:37.210792Z",
   "count": 120,
   "articles": [
     {
@@ -29,7 +29,7 @@
       "title": "Scotch whisky producers demand tax changes after Britain confirms a 4.55% duty rise - Vinetur",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1dVNTc4bUJMaVpvczAzUmNESHVZeWIzMkhtekZla1M5N1VZXzE4U2xtVW1nNFQxeVBWX2NKd3BfSGtQdWlncmhiMWZHZllqcGtiV0JOaWxERTVldGxIb25YclZPMlk4Znc4SkQ1QVhfU3FWbHhNMlNRbU1LMVBfWDBja0JFTGY4OC15V29ZNkxQb3BfcjcyQ01NS2czazdfeWlPMVRiSEpSWENKcGdqeUdKMlUtenFTRWQwWXpOa0FxRjRiTW9Z0gHMAUFVX3lxTE9QcjJNczIyZVh0UzdOQ0FrS0RXSWR6MHV6c1RSZTFzQlhQbVV5UTV5SFhtVkdLbzRBSW42UHY1ekltV1NRM0RGVzRLV0R1RmEyWjA0SUl5SmhuMGo5OF9ZWDJlQ21MWmNtamtVbU1rLXdBdlVMU1lBYmEyN3UtalBkYm4waVJIU1lNZE40dGdZUzBsdjVVcWRMVW5jTVlPZ2p2dDA0N19Qb2dMT1pXN09CNEpveF96a1E5OU1aUFg5blljaHI3NzNPcGFVUg?oc=5",
       "source": "Vinetur",
-      "publishedAt": "2026-11-03T16:06:59Z",
+      "publishedAt": "2026-11-03T16:06:35Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -366,6 +366,17 @@
       "imageChecked": true
     },
     {
+      "id": "3c8b65b4ee5f650ff838",
+      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdFBVYTZUV1VkWUtWY2stMDFUNi1zQ0tvMXgxeW1zM1JGTkFGZGI4VDRBQ3JzQjQ3T0ltcnlJcGZ5YnZjTThwSHBpX0thSjc4SmdMV0JlV3k2Z0V1cmFlVHQ0ZnRrME9QR2V5SWgtUWdJSm5nYWxoYnA1UDJUeTlYdVlibnhvOGYwNE14VldrdDZrd0dJTW5hY05yd2RHV0x4d1Z0Y1YyWExveXR2RHc3MnNhbXBuNnlrYlFQUGRPZ25lZHlGUlM0clBJN0ZhWUJsMkNYcUF5VVlmeTZwcF9EM0RieGtLXzNwYkVQTEdmY2RKNUwtb0R30gH3AUFVX3lxTE90UFVhNlRXVWRZS1Zjay0wMVQ2LXNDS28xeDF5bXMzUkZOQUZkYjhUNEFDcnNCNDdPSW1yeUlwZnlidmNNOHBIcGlfS2FKNzhKZ0xXQmVXeTZnRXVyYWVUdDRmdGswT1BHZXlJaC1RZ0lKbmdhbGhicDVQMlR5OVh1WWJueG84ZjA0TXhWV2t0Nmt3R0lNbmFjTnJ3ZEdXTHh3VnRjVjJYTG95dHZEdzcyc2FtcG42eWtiUVBQZE9nbmVkeUZSUzRyUEk3RmFZQmwyQ1hxQXlVWWZ5NnBwX0QzRGJ4a0tfM3BiRVBMR2ZjZEo1TC1vRHc?oc=5",
+      "source": "ET Retail",
+      "publishedAt": "2026-11-03T02:37:06Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "09bc656ca514b8c5ccf3",
       "title": "Woodford Reserve’s Popular Double Oaked Lineup Just Got a New Rye Whiskey - Robb Report",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanV4Nk51QTg3WldIaDBOWllDbUNYd1BTcDB0WTBCbGtrMldhWG05R2JfRjktUEJuZTMzNFZWUGdSbjhMWm1mSU9Kd0QxVVdYMmJOdy1FWXhnMUhDbGVtRm40LTJrbklUWkRQb2ZIRWtMc3NFNy1hLTRxVlRaUm1oblhmanN2a2pHQk55N1F0S25EeUEzUnBpWFdIUQ?oc=5",
@@ -624,17 +635,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUk13X1NyNjJvazdSNmdBLTY3bERoOHhsOGE2ZWk3WVlMYnhfaHV1QVZCSmNmNkhIam1iMm9RdUxkNTdjN1dZRlRzWk1GUXd0eFBRWWF2dklCZ08tYThCRGlxbnhWdmV6LUVzenpjei01TkpsbVpVZFhiYjNzVUpIekpuNk1BV3NRMlNwN3BGZm9Hek9vSGhjOTQzZlNDNl9tNzBoQXE0aGhrU2lrdm9nZU5ySDhxUFBfNVZ1Sk5tSUxHZzdRR2hPZjEzOXQxZmpfZ0hlZ01aeU42dHQ2cjJCNVlBd0RTSFZ3ZER6RmhmaTRLNHlObzRxS2dVNVBkQ2FDdWhRWHQ2NWVTU2NROHo2OG52YTRVQm9ZSWc?oc=5",
       "source": "Inventiva",
       "publishedAt": "2026-11-02T13:29:20Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3c8b65b4ee5f650ff838",
-      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY1JHZHRjWnpnY29GZGpyRlNJTXJ2Z2pET3FsNk9PUW5kbVJjYmgybVJHMXBnLWZjb0VGRV9XcGFETHJ1X1F2Y2NMUWdJd1U1cElNbG52U3JOa1BXZUdNSURaWXVzb0tKdk93Zm9KZUhiX1pjOXhsWEk1bVpwa2p6S0M0UU1PR3FXQml0azNCdHA1cUE1ZmVMNmRfYThjY3pkbU1ha2VQT2ZKTWhtMC1uaDMwdERTY2FDaHFpZEFtUFNVS2Y3TFRMaWY3SktDazFrZjlSalhGTW8wZG01UmtWV0xJaUNQS3NEWjB3WkkyX1FGSjDSAfgBQVVfeXFMTkN6VDdTRnBiVlJqRTZsdmJuUHR4c244czk4ODZLaTBTY3haVE5tbUo4M0VRakwwYzl3M0YxbUhaY2dGZmhBT2hzVHpTd3R2NVdNdlhYUS1IaWw3bjJhRk56NVN3bnNSYjBjOGwtZnVlYV9VVjVVZlpOd29oOU1mLWplbFBfLW5MNXYzb0xkeXppUkpiREZENkpUbTQ1OHBBd203UjFPQndBUVBXWlBkYnl3NFlvWEE5dzI4c0s5V0dTd2RiTHlMNGZLODRvSHdpRzNfblhac21YSHpaX3U3UTg4d1AwSnFmNzVINlpCbVQwbWxYelYzNFY?oc=5",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-02T13:17:42Z",
       "category": "industry",
       "language": "en",
       "region": "international",
