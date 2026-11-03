@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-03T14:22:35.961470Z",
+  "updatedAt": "2026-11-03T15:58:55.542935Z",
   "count": 120,
   "articles": [
+    {
+      "id": "4d69e526bc2b960180ab",
+      "title": "Barrel Global Unveils John Wick Kentucky Straight Bourbon",
+      "url": "https://thewhiskeywash.com/whiskey-news/barrel-global-unveils-john-wick-kentucky-straight-bourbon/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T15:12:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/barrel-global-unveils-john-wick-kentucky-straight-bourbon-1-500x256.png"
+    },
+    {
+      "id": "691cc32d6b60bdc2df06",
+      "title": "6 Award-Winning 18 Year Old Scotch Whiskies Under $180",
+      "url": "https://thewhiskeywash.com/whiskey-articles/6-award-winning-18-year-old-scotch-whiskies-under-180/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T15:02:22Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/6-award-winning-18-year-old-scotch-whiskies-under-180-500x256.webp"
+    },
+    {
+      "id": "f8beb5f546217c5c1ca2",
+      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-03T14:33:13Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "f8287ed9806149cf4863",
       "title": "Penelope Bourbon Introduces Madagascar, the Latest Release in Its Cooper Series - Business Wire",
@@ -36,6 +69,28 @@
       "imageChecked": true
     },
     {
+      "id": "caeef2a004bde5584c9f",
+      "title": "Highland Park’s Liquid History: 10 Ultra-Rare Vintages Every Collector Should Know - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEROQWRwU0tFd3JsYVZ1UW81dFNSMUVDSXFlc3pDQ25fMGM3QldVUjZKYzRzZGZZamlaeDloSV9uQVkydGlScUhxb0ZhZXZRejhVWWdsY2hCR1gybGdpOHZsSGFlVVRKY0l2eEt3dWFqSUtjMDZma3lFYXV4UHJ6dkRhamdWa2ZLbzM1NklWdThjRndNWm44RnVHUlk3U0lOWUdPZ2JVNndvYjJHSkw4SC1nX1NyVWVrU1J1d3ZUVDVmdw?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T12:58:04Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "9548c6964f57bb33de9f",
+      "title": "An Elevated Malt Whiskey Cocktail for Late Fall - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kTVFzZDh1LXhoOHRkdUpiV0ppWDBfLUE5cjlXQ3BVSEF4c3BkLWdpa0FkaUptNnlncFR1YU9JMlR2Rm5CZjdVbmpENzFZRUFVVkkzZkVkREVHOHFKS2pqMTg1RmxJWlJPTnV2UGg2eDA?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-03T12:39:49Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "1938f239c2e520611637",
       "title": "India-UK Trade Deal: Govt Assures Liquor Companies Of Scotch Whisky Tariff Relief Amid Import Duty Dispute - Free Press Journal",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVFoeDl2QmhnQWN0SWtZMUY3V2Nsc3dJbnl3LS15UWhvd2xmM0J3bUdVVUc4SzhnVi12UThnWFBJYlNwQUZpMVFBS1ViUzRBNGktb3RnN2lqUHU3bXZScGJEYUZ2Yl9Hdzk0QUZHcDlUUXlWSFJrM1BkYjN4M2ZxSWdkVHR0aWo1ODZJbEl4S0JQYnRnellmOWVHbExWeDU2MFVUS09TeE5McERlalUwMkd5NktpUndKOUlqbnA2eUZUT3BHbU9LT3gySWJwNWNGQ0RvSUJaOW9nczk2U3o40gHkAUFVX3lxTFBaWGFXa3hMMFVxTHdrbjdTU2NtVVNfYlRwV25ScDFVSE5ZVVdyM0VUMnlqNkpzdXEyZm9OSmhac3E1aWRUcFc0NUtLOTBLMHp1and0a1EyRDFYRkp3N1NMNVlmREl5bDNMaGRVY000V2RRbFlobGhJV2tLMU1sMkF6cnVXWmpHVFJBZWJjVndweFRLZHc4VXdXNm96bGllaU11NG1SQUEwQTNFcjJORU0ySE9XUk1NLXlHNDhhUHVEUWRMajQ1TXE4WmFFNjBKUWhFaTJnbno2VEtHMTlKY3ZhdXhWUg?oc=5",
@@ -53,6 +108,17 @@
       "source": "The Drinks Business",
       "publishedAt": "2026-11-03T12:23:00Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "810f02cee597791d6be0",
+      "title": "Midleton Very Rare 2026 Vintage Launches in US at $240 - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlRLT0t5WGJKUVctZkUtQ05xOHBSaEdVODN0aWgyaDNEXzdwMXRUSkpyMHZTcE9RYU1lYnByMVBtdDhEY1ZKb0hqc0lBS2ZJeVd5RXRRaXJWTGl1X1ZRVS1LSDRpdVJ4Vk5WMGZHaUVTM0hjWTdxUHFqLWRORmwwNlZ4REtZZFJrYmRQYzhZNGNPY01QN3lmSmJn?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T12:22:39Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -86,17 +152,6 @@
       "source": "グノシー",
       "publishedAt": "2026-11-03T11:34:35Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "f8beb5f546217c5c1ca2",
-      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-03T11:30:24Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -155,6 +210,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/emberstone-irish-whiskey-launches-diwali-gift-box-in-india-1-500x256.webp"
+    },
+    {
+      "id": "10e7f77daa9d1919648a",
+      "title": "Meikle Tòir opens ballot for fourth Turbo whisky release - Larder Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemZvWm92eFF2ZGdxY2RiRXF6T0s5OEhjNlVYX0V4UUtfMlA5SURoajlPRnRJc25CaUUzNVAybXMzLWsyLXRtU21tZU0tZldEay1oQkJ6WGhQZWtBTUwzVmFTR1dQazJJbXNBcHR1S3M0UmY1UEtTWC1zNHpRLXkzS1dVTnFnaGNu?oc=5",
+      "source": "Larder Magazine",
+      "publishedAt": "2026-11-03T08:50:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "48444a91d0608afb17ef",
@@ -487,17 +553,6 @@
       "imageChecked": true
     },
     {
-      "id": "078f14588e6e839299ed",
-      "title": "EXCLUSIVE-India moves to resolve Scotch tariff dispute under UK trade pact, sources say - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLTVON1d3SzFQaFNob0w0b2tMNFJxcXRtcHlYZlNIOEk3TXBSX050c1JScV9sajlRcHhuVGtlaXUwcVozcnRhNVRaY0c2SHhyOENyR1doUndXT2xzZGdKUENMVXh3cnViRkItdXpkdFdxMTBQN1l6UThLTnNpTWpXM2tzbVRiUm5YSUVGNEo2dEozTE16SDg1SUd5UjBjUWZxczNTZnU3NlhKbUI5bHVOeVJ1SUIwa0dYaHpUcDR2U291UERzV1JWOHozZUNsWUQ1SHVFU3BtcUJnU0hNRzJ2TFVGRdIB4wFBVV95cUxOLTVON1d3SzFQaFNob0w0b2tMNFJxcXRtcHlYZlNIOEk3TXBSX050c1JScV9sajlRcHhuVGtlaXUwcVozcnRhNVRaY0c2SHhyOENyR1doUndXT2xzZGdKUENMVXh3cnViRkItdXpkdFdxMTBQN1l6UThLTnNpTWpXM2tzbVRiUm5YSUVGNEo2dEozTE16SDg1SUd5UjBjUWZxczNTZnU3NlhKbUI5bHVOeVJ1SUIwa0dYaHpUcDR2U291UERzV1JWOHozZUNsWUQ1SHVFU3BtcUJnU0hNRzJ2TFVGRQ?oc=5",
-      "source": "Devdiscourse",
-      "publishedAt": "2026-11-02T13:52:25Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "56454a29bd5a372ae9dc",
       "title": "9 gift ideas for the whiskey, bourbon lover this Christmas - The Courier-Journal",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObW5TLWVrd0NndlpEdVE4Rm55VWNObDRGWWx3UVJDRXRTWHN6LVlTX2NEbktxVlU3Nm5WVEd1M1gyZXd1aG5UeHhiaXNaZk9fTHVYMkEtUDNYVGVTTjR6YkZsSk1Tc2Y0Y0g1RlFGRDVCakJjOG0wNjJhbmlIUzB5Mkhkc1dPak1jalVubkJoVTdmNTZJdVZCd0FScG5nOU5GV284cnBtc19IbXJPZkNBcXQ0VjZMRDdDOXc2Wk12ejcwLTVial9UTkN2OE5JeUNJ?oc=5",
@@ -515,6 +570,17 @@
       "source": "Inventiva",
       "publishedAt": "2026-11-02T13:29:20Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "078f14588e6e839299ed",
+      "title": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-02T13:15:00Z",
+      "category": "limited",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1094,7 +1160,7 @@
     {
       "id": "608f70408e81c583f16a",
       "title": "厚岸ウイスキー 新作は「干支」 第1弾「未」 来月全国発売 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5REFsODlVdmJlN3NzdUM5cFZYTF8yUldMUXM2Q3ZjMU8yTm9vOEsyZkt2WnFjbXRyZHM1NjQxMENYektQbWd5UWQ4SF9Zcm1WYjVPQ2dQTUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwbUtFWERNb2hXLTNDM3dTSC0teDlOLVI3Z0Y4UnpXQUN0TE4xVjY4Vm1KSkp5ak8wYVh2ZHVsQWsyNWs2RVhIOThaRWV4a29ZSWRHOF9VT2tEdw?oc=5",
       "source": "北海道新聞デジタル",
       "publishedAt": "2026-10-30T19:00:00Z",
       "category": "new",
@@ -1255,72 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/garrison-brothers-unveils-second-bottled-in-bond-bourbon-1-500x256.png"
-    },
-    {
-      "id": "89d3f1cd51d8b3beda28",
-      "title": "Rarity in a Glass: Duncan Taylor and the Art of Octave Whisky - Luxury Lifestyle Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1NNWmVXaERvVk54R3hMbzhheGExNlYyOF81bXUtblR6dXVWVk43YWF6XzBzZzNSdkMxQlo2eDZWbjJsNGhIZ2xpUnQ3VkFPc2tNXzlLR1RMeWUza3VHMXJTMnd6VEdGc2NuMld1ckkxeW9Dc1gxRk5BUHM0QnU0Zm1hamZXRWNJTG41T0cwdEIzRWpHS3VHc19HWFpRcXpoREJiZEVIQ2lINmFKU3JpYkRrVQ?oc=5",
-      "source": "Luxury Lifestyle Magazine",
-      "publishedAt": "2026-10-30T12:47:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "cc052bd184090906b56b",
-      "title": "Duncan Taylor announces Japanese distribution deal for its Octave portfolio - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUXJJTXlfWGlYQVNxakFCbGNOS1liSzR2TlZMNlF5SG9OMzJ6X0JkSkJsYW9GTVR3cXVoN0Zua2xRR2JqMEE2Tm5IRFE0VC1fcmFENzB4eWtHaU4yOWxLWENiNjFQVl9HS3NVVWpZWk82UlFwc3ptYjFjNEhVQjB1QUZzQzFrU1VQTm1aeElWa0pqYnVYZGU0dFBDdkRwYXJPTldLNllQRG9leFBBUlJ1WkVkTQ?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-10-30T11:42:19Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f58120b91991c6b6ec31",
-      "title": "Tasmanian Whisky Week marks a decade of culture, community, and creativity - Whisky Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnRzcW1QTU93cTkwSk90dFdlWGxkNVZWZnpjdTFlZzUxX2lHMWZnQnhfZXoxaHJaQ0RYdFFpYWVpVmJlM3VLMHpQVGVHN1gwS0lJTFlfcDhYRi11dzR5akJPMVlVUTBSMTF4WWVaQTVsX2NFN1ZXZS00bGJESFpzRG9zSlFQZWFya1FWWlVXd2pGaVZnYTVqbS15QVNJMC1JRXBvLU1NTQ?oc=5",
-      "source": "Whisky Magazine",
-      "publishedAt": "2026-10-30T11:05:15Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "560d06f935a2f5ad360c",
-      "title": "“Our endeavour is to showcase India to the world”: Rampur Distillery on change and legacy - Whisky Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmdwUUpVSVJiMUMyUXhMXzBrMG5ydHAta1dGNkZYS2NVYmF1VUZaZnFnaldYQXEyb2YxalM0MzUxU2VhWU5wZlU5cUgxZ0xaVUk3Zm92ZGpPNExBN1JXMXdPcXpXY0h5NHZOVERaYlJrZ2g1UjZwYWgwSVhiMFdOaWIxcUR6clQwLTV6bGxJT1RMT1hFaEtDNklBT0p6alktbGl0MThrdEgwRkgySXlFX25XS3pFMS1zdXc?oc=5",
-      "source": "Whisky Magazine",
-      "publishedAt": "2026-10-30T11:05:15Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9026351a0f35db9450a6",
-      "title": "Orphan Barrel’s New Whiskey Hypes Up Avengers: Doomsday",
-      "url": "https://thewhiskeywash.com/whiskey-news/orphan-barrels-new-whiskey-hypes-up-avengers-doomsday/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-30T10:52:32Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/orphan-barrels-new-whiskey-hypes-up-avengers-doomsday-500x256.png"
-    },
-    {
-      "id": "655aeb0a367750f0a18c",
-      "title": "Master distiller Kirsty Black on Arbikie's inaugural single malt Scotch whisky - Whisky Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkdWSU1hXzkxbVZJZkswa21qMzE4eGhTNzdzV1JOaVpLTjVhNWFFMzduMDZCUjgzLXN2c2dFQ3NwckMtdTEwQjBfRVFsbHV0U0pFYmJmT3ZjcnM4Wmo0b1lrNXRLOVl5bVhBbjdnbzhYNms2V3NYb2hrWnBfRklXTVYtc082Z1NfUGFNNE5YcGYxZE9QVl9lYThDdzY4MmY3STBXZHVycEVmU3VSQ1E?oc=5",
-      "source": "Whisky Magazine",
-      "publishedAt": "2026-10-30T10:32:35Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
