@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-03T22:52:23.185680Z",
+  "updatedAt": "2026-11-03T23:46:56.330820Z",
   "count": 120,
   "articles": [
+    {
+      "id": "e3ada7a2b620395c3e4c",
+      "title": "The Macallan’s Final ‘A Night on Earth’ Whisky Is Inspired by New Orleans - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUVKRzBlVktjMVg2NmJ5UEM1Rk42NUtzNFR5QzRRc0h2eWlBTGtEaDR4cXFEVkgyTFJYWlExSU44a2dUQ3hsc1VyTUlTYWVsNHRfVENyblcwek1WclM2VWlUdHNzSEYtb2VmMnZ1WFQtWkhhc1ctdUlKN3IwNjFnQ1BLR3Q5elFCQW9BZ1d3SVVjajIzRHdZ?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-03T23:16:46Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7828915e705c70ae708c",
+      "title": "Diageo Cancels 2026 Special Releases Scotch Whisky Collection - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDgwVmxha01WX3lSLUljZzlRTXRud0VEWW5SSGZkWWFwY1ExVEV1amJBbVF0STI4RWJoUHBBdGR2NDVSdUk4R3ViUXp4WUE1SDU1QVBaWXBNTW91QVBwZFVSdm9WX25jYVBhR2c1T0J4UDU1NjZRREp6SDRmWml0dFNHTUFldW8?oc=5",
+      "source": "AOL.com",
+      "publishedAt": "2026-11-03T22:57:55Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "ce3aee8124c807e35351",
+      "title": "CaskID estimates U.K. Scotch whisky cask prices fell 28% from 2020-23 levels - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSjV2Ql9XeG14ckZURDlGSGNHMm5QLVhYcUF2bGE3clk2NnpXSE9KOGxoTUE4OVRZdVhoZHRPWHo5aUVzbVZQM2RtRlhyR2ZLaXdrYkkzNDRTS0hGZGVoSl9QdVhVSkdWbW9jbWxjMElHYlU4QVozYU9FcnU1MUUzRHUwX2MwWW9Ya2pvMTZHckJmS1U3YS1hUk5NenB0QnZUcTBuLUdPWFZOY3ppLXR4ejlfNHVGbWJGbTAtNFpIYVV1Z9IBwgFBVV95cUxNSjV2Ql9XeG14ckZURDlGSGNHMm5QLVhYcUF2bGE3clk2NnpXSE9KOGxoTUE4OVRZdVhoZHRPWHo5aUVzbVZQM2RtRlhyR2ZLaXdrYkkzNDRTS0hGZGVoSl9QdVhVSkdWbW9jbWxjMElHYlU4QVozYU9FcnU1MUUzRHUwX2MwWW9Ya2pvMTZHckJmS1U3YS1hUk5NenB0QnZUcTBuLUdPWFZOY3ppLXR4ejlfNHVGbWJGbTAtNFpIYVV1Zw?oc=5",
+      "source": "Vinetur",
+      "publishedAt": "2026-11-03T22:13:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "78cc6f443644edd30b16",
       "title": "Milam & Greene Releases New Wildlife Desert Marigold Bourbon - Fred Minnick",
@@ -19,6 +52,17 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGZJRWxGdWtLNzFJU1hHdnNuakNYWXJneGJaaG1pMDZ0YVp1RzUtZTRuTHN1NzJzLUswakJHUDZ0V3ZmTktBX2pWLTNla3RNYU4ycHp6THlNNXJUZ2VwdDdhdXhvcm5jQ3lTdF9tT1lhc29tWFdJT1ZINDhhZGVkZDlPZm9YeC1LWG1lZkZmSV83WnJwN3R4dEJkM3hFSlU2bUZZU1FZSDdUeS1TZFA3aXhUX07SAboBQVVfeXFMT21XYVkwbU11VV9VZ3F5WllmMmhZRDJacjN2LW1aeG5EUTI1cU51YXNheWptQnc5ZURyY1AtVFM4Qy1OUE1ETm91UWRtUEdlckNVc0dGVDdvdUJJRU5fZ3NZSXR0UkVVdkhoSmRqYzNYcDNHMi0yYUt6TXJ0Mi02UXV2WVh2TlNWaGRxN1lnN3h3aFhYdl9xc3lTb1RRZHVHWnRuc1hRZzNpaHQ5X0xXb0tLQlh3OTZrNkln?oc=5",
       "source": "The Times of India",
       "publishedAt": "2026-11-03T17:37:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c082c0a783f031698ed2",
+      "title": "From Skye to the skies – the Torabhaig whisky that flew the Atlantic sells for £1700 at auction - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSXFRVGFseW1pakRPbEJVYVF1THlja2ZJbkt0NlI3amNVZ2lBcllwcENGemhrZ0twbUZJTHhadlJ5bEZ2STZxTU1VN25fNkh1YkJpQmlHaXcyeTVvUHVXaEs5eENDWklvdDdHbW5hbUJyZGROTk96RGRPSUxWZFpCNGtTbTdaNUJJaFNMcU5tdmw1SnJtVG5aNWd2ZDJ4eFRjXzhsUWx2YTloSWNOdk1NS1ROcHU0WVZHd0FBZkUtTnVCZkJlVVpTelhLTjZERTBjYWFoOWZNV2lyV0p5R3VKZmdWS0tnTC1FRHEyRHp1VHc?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-03T17:13:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1277,50 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "3c42b296ea53de08d223",
-      "title": "Scotland's Swinney raised Scotch whisky tariff concerns during India trip - Euronext Markets: Real-time Stock Market Data | live",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFFMZVpkZ2tkYjRxcG94RE1zM1cxLV96aXVzOW15MlByelFVNVB5MmExNDc4eE1tbHRXcXVGdk91dmRjZ2pOX1ptVHNxOFItaktmOW5JdDU2LUdmRmVubS16U3FCc0liS19lRFd4NVBlTmQ0QjFmcjg4dWgwZmo5bXpIa09UZDU4LWdJamVXcnIxZ3dZZ2hlUWFaeUxWci1vRDNnRVhfV3A0U2lTOTlmdGdGbXFXSnc?oc=5",
-      "source": "Euronext Markets: Real-time Stock Market Data | live",
-      "publishedAt": "2026-10-30T18:41:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "70a149bf4f7350430534",
-      "title": "Scotland raises India tariff issue over bulk Scotch whisky exports - Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkhoUEVKRUpzLTdXTUJzeEFjY2RtQUtOaGlXMDN1cE9wdzdmVlpDVENGbkFlMTlPQ3ItcTZGMzZxUzAxcUVSZ0FNb29rYVVlZVpKQVRXSk4zWjJaTy04Ylo3YXNEZzQ0RkVKUTZ0X3Y3czlwdFZka0NiZEdUc2NCd09VMGRELXNzNGtmMkEtSWptYW5xakxjZUQyeWg?oc=5",
-      "source": "Traders Union",
-      "publishedAt": "2026-10-30T17:10:53Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1c443b87d172589a7563",
-      "title": "News Notes: Tennessee's Winter Whiskey Doings, Irish Distillery Visits Still Booming & More - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoY29RMFZoY0xGakJTdmhMaV9SU05rOXNCbzFlYWdReFYtMHFJZjlNUmt2Q3FNWlBVeFVQcTZkeVRtV2FvVFJhS1gzT1FKNnhrUkpZMTZsVWo3YUxNNGR3SnU1VnBuQQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-10-30T17:10:40Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "282f749fd2c48435cf1a",
-      "title": "The Whisky Exchange Names New Buying Director & Auction Head - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalJna0tIQmplcG56dFREVVk2UWltXzh0bWF0TFYzZWwtSmRRN1FaMExWNjd6Y3dzU3ZoelZTLW5uQ2dwWnV4NWhzemZaV0FHN3UtZGZqZ3BkanBzaVZSZ3BwWmlHYktpcGdsV1A2Z0twcndBUUM3OEVMdk90LU9vZjhFcnJpOE4tRnpyVkE5NVNtYW1IaFZFczFzX0dRMFhX?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-30T16:50:52Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/the-whisky-exchange-names-new-buying-director-auction-head-500x256.webp"
     }
   ]
 }
