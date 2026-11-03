@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-11-03T08:59:04.049114Z",
+  "updatedAt": "2026-11-03T09:59:56.698847Z",
   "count": 120,
   "articles": [
     {
-      "id": "48444a91d0608afb17ef",
-      "title": "Labour 'would not hike taxes on Scotch whisky if it was English', SNP say - Yahoo News UK",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0X3VOam9uSFllNnJpcVVHeHJjbnJFdnA4aXdtMVVWdUg0NWZFc3lfUmFXb21LMlVISDRwVmVqaVVzLWpReVZNQmRmVVIzNzl5c2xtd0lyLXpyVEN2SFNuWXh3My1KNWI0bjF0d0JOSDU2LTd1REZWWg?oc=5",
-      "source": "Yahoo News UK",
-      "publishedAt": "2026-11-03T08:23:02Z",
+      "id": "c45f6c0b02fde93bca73",
+      "title": "Labour 'would not hike taxes on Scotch whisky if it was English', SNP claim - The National Scot",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWliWXlNY0NBWFdFS29URHctR1RaczlWYmxNZ09mVExMMlNFVThLYkpKc1ZwNDBRd0RYc2YzZ1p2OXR4Y0x4SVExNk5yRkNvVThYMHhkSi1LUktIRDBqQWp4V1FjWWhQWkhBdmF6MlNsOHNPMHRjNnZzRVdWNFNvdGxjWEFVZC1WT0lZM0FrVnlaNlJkUTRDdmlSLXE?oc=5",
+      "source": "The National Scot",
+      "publishedAt": "2026-11-03T08:32:38Z",
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "f8beb5f546217c5c1ca2",
+      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-03T08:28:19Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -80,14 +91,14 @@
       "imageChecked": true
     },
     {
-      "id": "f8beb5f546217c5c1ca2",
-      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-03T02:19:19Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
+      "id": "3c8b65b4ee5f650ff838",
+      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdFBVYTZUV1VkWUtWY2stMDFUNi1zQ0tvMXgxeW1zM1JGTkFGZGI4VDRBQ3JzQjQ3T0ltcnlJcGZ5YnZjTThwSHBpX0thSjc4SmdMV0JlV3k2Z0V1cmFlVHQ0ZnRrME9QR2V5SWgtUWdJSm5nYWxoYnA1UDJUeTlYdVlibnhvOGYwNE14VldrdDZrd0dJTW5hY05yd2RHV0x4d1Z0Y1YyWExveXR2RHc3MnNhbXBuNnlrYlFQUGRPZ25lZHlGUlM0clBJN0ZhWUJsMkNYcUF5VVlmeTZwcF9EM0RieGtLXzNwYkVQTEdmY2RKNUwtb0R30gH3AUFVX3lxTE90UFVhNlRXVWRZS1Zjay0wMVQ2LXNDS28xeDF5bXMzUkZOQUZkYjhUNEFDcnNCNDdPSW1yeUlwZnlidmNNOHBIcGlfS2FKNzhKZ0xXQmVXeTZnRXVyYWVUdDRmdGswT1BHZXlJaC1RZ0lKbmdhbGhicDVQMlR5OVh1WWJueG84ZjA0TXhWV2t0Nmt3R0lNbmFjTnJ3ZEdXTHh3VnRjVjJYTG95dHZEdzcyc2FtcG42eWtiUVBQZE9nbmVkeUZSUzRyUEk3RmFZQmwyQ1hxQXlVWWZ5NnBwX0QzRGJ4a0tfM3BiRVBMR2ZjZEo1TC1vRHc?oc=5",
+      "source": "ET Retail",
+      "publishedAt": "2026-11-03T02:37:06Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -154,6 +165,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "803bea959e1cb3656048",
+      "title": "New shipping service set to boost Scotch whisky exports - Drinks International",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOG5lVWJIR2pUdHRkSkdYSTJ2RlZVbkZjLUxoM0xFNlVHMzF4TjhTNTFoV3hhTHFuNHlxRGM2SGdJaUxGOF9USVdvSmRkaGRHSWw1cGRiTEhPS2dTbERaTWNuMmREaFVib3NXQzR5MjRxOTNSRkYwcGxwNE43bU1KQTJRa1U?oc=5",
+      "source": "Drinks International",
+      "publishedAt": "2026-11-02T18:28:28Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -344,17 +366,6 @@
       "imageChecked": true
     },
     {
-      "id": "3c8b65b4ee5f650ff838",
-      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY1JHZHRjWnpnY29GZGpyRlNJTXJ2Z2pET3FsNk9PUW5kbVJjYmgybVJHMXBnLWZjb0VGRV9XcGFETHJ1X1F2Y2NMUWdJd1U1cElNbG52U3JOa1BXZUdNSURaWXVzb0tKdk93Zm9KZUhiX1pjOXhsWEk1bVpwa2p6S0M0UU1PR3FXQml0azNCdHA1cUE1ZmVMNmRfYThjY3pkbU1ha2VQT2ZKTWhtMC1uaDMwdERTY2FDaHFpZEFtUFNVS2Y3TFRMaWY3SktDazFrZjlSalhGTW8wZG01UmtWV0xJaUNQS3NEWjB3WkkyX1FGSjDSAfgBQVVfeXFMTkN6VDdTRnBiVlJqRTZsdmJuUHR4c244czk4ODZLaTBTY3haVE5tbUo4M0VRakwwYzl3M0YxbUhaY2dGZmhBT2hzVHpTd3R2NVdNdlhYUS1IaWw3bjJhRk56NVN3bnNSYjBjOGwtZnVlYV9VVjVVZlpOd29oOU1mLWplbFBfLW5MNXYzb0xkeXppUkpiREZENkpUbTQ1OHBBd203UjFPQndBUVBXWlBkYnl3NFlvWEE5dzI4c0s5V0dTd2RiTHlMNGZLODRvSHdpRzNfblhac21YSHpaX3U3UTg4d1AwSnFmNzVINlpCbVQwbWxYelYzNFY?oc=5",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-02T13:17:42Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "0b9a100f833a1d759e0f",
       "title": "India to meet spirits producers over Scotch whisky tariff dispute - The Drinks Business",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnVualkxRnFlb0JVZm9GUVFvZEp3SkV6T095ZmZQcjBhd3BQeHFGZDhEWURLY1YtMGFHcUlTRHdZbnF4Y1Y2NU9qS2dZTXcyMGlYTEEwckdBN0Z2eVgxd2xUTmFyZHE4bHpsdGtiX05ueXdUYkt0VHNJSDBvd01WMGY3TlJfT2UtRkg2THBoZkpTLXhoaFlORWtaUzdlaHBDRzV3cWVQb0hwUWoz?oc=5",
@@ -491,7 +502,7 @@
       "title": "What the Scotch whisky industry wants from government - City AM",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOERTSmFDdEVZNXhpSC16SU5lR1BLZDU4MW9Tem40VnBueFg0ZnBibW54am5ocU5Vdmg3RFlHTHBPek5iQUN1WGE3RURWSVBVVDBXVF9XcUZ2R0tyNUV2Yk5yYVdRdV9CTU5XUW8xYlN3MEd0V1BSaEtMblVONnQ1U2k5SQ?oc=5",
       "source": "City AM",
-      "publishedAt": "2026-11-02T09:29:04Z",
+      "publishedAt": "2026-11-02T09:30:16Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1169,17 +1180,6 @@
       "imageChecked": true
     },
     {
-      "id": "5af1c8df28b88aa83e2a",
-      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM080NkNHTW10OW1IS3dOa2ZTU29LWnZmRDZJU2hOeWdqTjdNSXk2bUhxWkZMUDRoUGFUYzQyRnVMdzJPZ1ZjSlpJRnQ5QlZGUmFWYzhtWnB5TzlUMlEtY1VtcXFqd2VudjlHeGdWMjVSbE1sMi1kWnpVYS02LTNKc2l2VUx0Z0lKRTEyZVVSdnFxd3ozYVJrV3RRZVBhWkRxbUE?oc=5",
-      "source": "Oxford Mail",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "c183d79703bcd2bff0ba",
       "title": "Scotch and Indian whisky associations pen coop agreement - The Spirits Business",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUFna1NNNzQxOXBFcElmXzVVVTZZRWdzTVI4a3RSU2QxNkRfS0t3YjZJSnVxaXJ6VTVubUF0LTY2NW5XdU45UDI4cnlOWkxObDRFVmhSTW93cnZhTWlKOVl4T3VfcXE3YWg0ekNHVEtwbXNqOXlkNF9wRmFXVVhKamtwZ0pqX3Z2dGRPeFVBWFNLNFEwazVzaW1uWERfMlFiZnc?oc=5",
@@ -1246,6 +1246,17 @@
       "imageChecked": true
     },
     {
+      "id": "5af1c8df28b88aa83e2a",
+      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Herald Series",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcnFRdVdLdG1faHRXMnZ6YmZod3NUdFdYZl80UVIwczRmUWhGTTVIdkloM1MwQk54SHJXWUR2RnlNN2FCcmhPVkNPWGpxd3pQSGdNOGwyRHNhSDBJRVE1cGxMbTU2R1JUSjBJNDNYdHRpQ0lubDczVGg1aGNhT3ozSmFnQlRhcFNxR3hGM3FfZlNLTk01R1ZKb29XX3RaNGc?oc=5",
+      "source": "Herald Series",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "51ea434cf2b9affb3d5c",
       "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
@@ -1309,17 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "56c316266729043ff899",
-      "title": "Heaven Hill is releasing a bourbon featuring whiskey from before a 1996 fire destroyed its original distillery - The Manual",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVTVzNDdaUHBEWDZ2N1JxWU9rU1lEQ0d3VDlzOTdCRjVMcE9RUTk1dDE2WjJCRndxak1ReUZIZlJiUmxZOVJYdnlOSzNFMGp3M2ZhZ25IOGYxVFBQWXNyeXpKTS12Zm9aQVRXS2YyRENVRWhOT3dzSURyM2VHa1pRTW5VNTlEYXByR2tSSDdWWlRvRjg3Y3E1QkFqcFNQYXZ3c1NnVE12Q3VjcDhtLUxMMjVfOXoySVVWeHMtWU90Q1JVd0paQzIxZ080T0tWRlhtQ1lWNHZiN0VGYTFybW9DMkFrYnNVVWs?oc=5",
-      "source": "The Manual",
-      "publishedAt": "2026-10-30T03:00:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
