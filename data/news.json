@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-03T20:55:37.210792Z",
+  "updatedAt": "2026-11-03T21:54:01.869421Z",
   "count": 120,
   "articles": [
+    {
+      "id": "78cc6f443644edd30b16",
+      "title": "Milam & Greene Releases New Wildlife Desert Marigold Bourbon - Fred Minnick",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWG1xcm5LWG05X09POXBmTk1NSFE4ekp0czFXc2h3a0t4cG5fblVxQzlzUXBQbUlFZjdkcF9zWVdKVmQ3cmdqckNxR3d4cFV5aGlCOGw3ZW4waFBxdDlFLXlDcDBwR1JDeVdqVGdfNDJ6T3ppSVJXVFJCLXh2YzBEdV9hSjhsUndfWkJWUVBPeDRxNTVwVXpndTRKVVZSZDA?oc=5",
+      "source": "Fred Minnick",
+      "publishedAt": "2026-11-03T21:08:14Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "ef04a01f2f53e56fc3ed",
       "title": "Scotch whisky set to get cheaper in Delhi - The Times of India",
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/dyavol-spirits-brings-inception-scotch-and-single-estate-vodka-to-the-us-500x256.webp"
-    },
-    {
-      "id": "80af274f2e81adde7377",
-      "title": "Blade and Bow 30-Year-Old Cask Strength Bourbon Debuts - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeHZvRURKdTJjOGd5SXhpaF8tLVp6TUNUSzBQTjRtYkxqMk5KWlZLV1lILVpjcDA1blA4RklIN0ROMkEtV0IwVFRtY0Vvam85NEhZMXNiWEhnQVJDZXhQR1g5ME14MlljOUZGNVNnX1dtbHdVVDFCWEtpRV9TUjY4bDBBZ2Y4dkVETjZrbGVQcGNETzhzMExwVzEtZw?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-30T16:36:50Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/blade-and-bow-30-year-old-cask-strength-bourbon-debuts-1-500x256.webp"
     }
   ]
 }
