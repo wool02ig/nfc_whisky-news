@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T23:44:45.638700Z",
+  "updatedAt": "2026-11-03T01:11:10.165206Z",
   "count": 120,
   "articles": [
     {
@@ -195,6 +195,17 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMm95SUxFZUhPSkxKem9CQXc3cG5fdzY2YUZfc3JKX3A1eEdyLTJ6VFNNd1l6TjlObHVINzNNTWFMU2o3R2dZOXg0UWFQQXp1ZGVJbEpGVGVXM1hNRTRSdnlaekpOOEVScXJIby0ya2VUR3ViLUdzemdvU0M4NnNBUV8yNXdDTlY4R2VHMjE3R3RVdC1vVWtRR1pHT2pKMWdSRjNGdHIwM01qUXR5aXJzVHRubFZfNkcwQ0pDdFNxdzBsQTlZYVRjbEJQTdIB0AFBVV95cUxNUmtBejhwREtnMW9BOHVLNzNJZUVXREVzWXcwdVdsbnctdVpzNXZ3ZEgtQVE3T2MyYmg4TVN4ZnJLM0l0aC1hODczSThqUEg4UGttOGdTeFNPT0w1Vnd1OWFnRGMtUTgyQktPSXNTbTAwQU1JRHYtVGRPYVZPMXlSU2gtb3B3MHA5T1BMbDljaUhVVlJ4bTNoNjZPZHB2TzBBNklJSTN6WkJsOFM4MDBnOFh3aE53TXNTdVhBT0M3MEMzSl9VU09Hd0dTbGtOOFlI?oc=5",
       "source": "Firstpost",
       "publishedAt": "2026-11-02T14:38:29Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "d3ff76c76cfda55ad939",
+      "title": "India assures liquor firms of UK trade deal commitments amid Scotch tariff dispute: Report - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVmpsaTZGVW11N25xREVjY3hGZkIySUR5b2p1anFSQXB4eFNhLW43WXJXaWdDenlraE9NMXF0S3NHdWNNa3VKamtJdlpFUFY4T0FBUl9xd0FRX215dUFNYmFuZDM3Y1Y5TC1oMjd5akF2emtPNmtDUWJFS0d0VG1SeHJfR2JZSndFeFRKazNFaGxHZl9lY0FKR19aS1NxRkN1akdNbF94d3JKTzJoOHlwcHV1V19GQzNZZ2lXRnduZ1cxSTNnM3JXY2JmSzZqaTN1RmxBeVhqX0tTYXhRc0HSAd4BQVVfeXFMTlZqbGk2RlVtdTducURFY2N4RmZCMklEeW9qdWpxUkFweHhTYS1uN1lyV2lnQ3p5a2hPTTFxdEtzR3VjTWt1SmprSXZaRVBWOE9BQVJfcXdBUV9teXVBTWJhbmQzN2NWOUwtaDI3eWpBdnprTzZrQ1FiRUtHdFRtUnhyX0diWUp3RXhUSmszRWhsR2ZfZWNBSkdfWktTcUZDdWpHTWxfeHdySk8yaDh5cHB1dVdfRkMzWWdpV0Z3bmdXMUkzZzNyV2NiZks2amkzdUZsQXlYal9LU2F4UXNB?oc=5",
+      "source": "Telegraph India",
+      "publishedAt": "2026-11-02T14:20:01Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1040,17 +1051,6 @@
       "id": "ad9cfd373963a9b03d50",
       "title": "Abingdon Distillery raises a glass to first English whisky release - Oxford Mail",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmZvaUtHMm5HYnVwTlhPZVN1Y2hBaW5DcVRoaXlDMkpabW05TzZpZkpfZE1kOF9yQTJyWTYxT3RrdjNiQmM5OWZ3X05VX2M0SkxvdUhaQ3hUdFp1ZVpkVVhZcmVfdC1QNnFaQ2tfRzVOZE5lc2xKX3kxYmRYb0Voay1vV1R6TzZkZmg2dlBGWEo5elFlb2ZsRm1zMXNKaHZCSDZMN2lFZlM?oc=5",
-      "source": "Oxford Mail",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5af1c8df28b88aa83e2a",
-      "title": "Abingdon Distillery pours gin, rum and whisky from an Oxfordshire town centre - Oxford Mail",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM080NkNHTW10OW1IS3dOa2ZTU29LWnZmRDZJU2hOeWdqTjdNSXk2bUhxWkZMUDRoUGFUYzQyRnVMdzJPZ1ZjSlpJRnQ5QlZGUmFWYzhtWnB5TzlUMlEtY1VtcXFqd2VudjlHeGdWMjVSbE1sMi1kWnpVYS02LTNKc2l2VUx0Z0lKRTEyZVVSdnFxd3ozYVJrV3RRZVBhWkRxbUE?oc=5",
       "source": "Oxford Mail",
       "publishedAt": "2026-10-30T10:00:00Z",
       "category": "distillery",
