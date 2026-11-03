@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-03T10:59:57.707440Z",
+  "updatedAt": "2026-11-03T11:55:11.849042Z",
   "count": 120,
   "articles": [
+    {
+      "id": "f8beb5f546217c5c1ca2",
+      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-03T11:30:24Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "0beedd7982624a61b446",
+      "title": "Sotheby’s beats its own record for a Japanese whisky at auction - The Drinks Business",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0h3QWhXbnI5OENUMm1CSEtpVFRlenFxMDNXZ1VUYy1SM2RHNzlJMi1TUFpuc3hWTENGYzVfVW9DWXdOUXRrZk1sU0NCam1GZTZ4REJMazJ1WnhGb2NaLThSVzhDU25VWkNJZ2Z6UFBJNEI4Rjk2MTFrejNHQUtKWkIydkk0SHpiOWZQT0RwWQ?oc=5",
+      "source": "The Drinks Business",
+      "publishedAt": "2026-11-03T11:17:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "5c64fdc6ade62b5eebe5",
       "title": "A bigger pour: India's bulk Scotch imports from UK soar nearly 1,000% after trade deal - Moneycontrol.com",
@@ -14,25 +36,36 @@
       "imageChecked": true
     },
     {
-      "id": "c45f6c0b02fde93bca73",
-      "title": "Labour 'would not hike taxes on Scotch whisky if it was English', SNP claim - The National Scot",
+      "id": "8d1a374670bddca83ff5",
+      "title": "Extinct Spirits Debuts Dodo-Themed Single-Cask Whiskey",
+      "url": "https://thewhiskeywash.com/whiskey-news/extinct-spirits-debuts-dodo-themed-single-cask-whiskey/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T09:39:45Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/extinct-spirits-debuts-dodo-themed-single-cask-whiskey-1-500x256.webp"
+    },
+    {
+      "id": "c8a2f656b48e73f906bb",
+      "title": "Emberstone Irish Whiskey Launches Diwali Gift Box in India",
+      "url": "https://thewhiskeywash.com/whiskey-news/emberstone-irish-whiskey-launches-diwali-gift-box-in-india/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T09:34:38Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/emberstone-irish-whiskey-launches-diwali-gift-box-in-india-1-500x256.webp"
+    },
+    {
+      "id": "48444a91d0608afb17ef",
+      "title": "Labour 'would not hike taxes on Scotch whisky if it was English', SNP say - The National Scot",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWliWXlNY0NBWFdFS29URHctR1RaczlWYmxNZ09mVExMMlNFVThLYkpKc1ZwNDBRd0RYc2YzZ1p2OXR4Y0x4SVExNk5yRkNvVThYMHhkSi1LUktIRDBqQWp4V1FjWWhQWkhBdmF6MlNsOHNPMHRjNnZzRVdWNFNvdGxjWEFVZC1WT0lZM0FrVnlaNlJkUTRDdmlSLXE?oc=5",
       "source": "The National Scot",
       "publishedAt": "2026-11-03T08:32:38Z",
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f8beb5f546217c5c1ca2",
-      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-03T08:28:19Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -84,7 +117,7 @@
       "title": "United Spirits: Centre Acts To Safeguard Bulk Scotch Duty Benefits Amid Classification Dispute - Sahi",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHFEcTBETFNoRlZGbk1NS1F3Zm9zc1ZneTRpWWZEdXFwazRJeFJ0TmxST2I2UkxPMDM1V211S3F5TEVpRDRWVG5pamg2Z2s1WlV0anFycklQY2tWZHAydDVHcHJPdWlLaGVYZUlGVWNFQXI0ZDM1TDNfS2ExMnFfV2RUTzkwUmJxcDctT3V1eXVJNWQ2eENtWDVybUl6ZFRQQlJYaU8zSkh6VHk2MmV6WDl3ejVSY2hMNzl3?oc=5",
       "source": "Sahi",
-      "publishedAt": "2026-11-03T05:27:56Z",
+      "publishedAt": "2026-11-03T05:43:09Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1257,17 +1290,6 @@
       "imageChecked": true
     },
     {
-      "id": "51ea434cf2b9affb3d5c",
-      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
-      "source": "Law Society of Scotland",
-      "publishedAt": "2026-10-30T07:00:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "a65a231bdf9db35d9440",
       "title": "広島の潮風を感じる蒸留所へ！廿日市市桜尾の「SAKURAO DISTILLERY」でウイスキーやジンが生まれる現場を見学してきた - ウォーカープラス",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oenFBZ1B5d1ZWTXM4OVJrc2c2Uko2MEluZzNpOWZJUlZadmNyc3NuSG9McW5ZcG9IMXZkUll4ZUItQXo5SmhIcHRmTmRIY2RvOU1iOGJn0gFbQVVfeXFMTXJMTDl4aUU2UGZmdDdPbnZYdDBSQ2lXTGxOX2R4NnBibkVwVGxMdlZ5OXVQRUkyVWw1RzZsdUo5SnlOY0V0dWQ4R2hTTDV4clEwbEN0ZGVjTFJGOA?oc=5",
@@ -1279,6 +1301,17 @@
       "imageChecked": true
     },
     {
+      "id": "51ea434cf2b9affb3d5c",
+      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
+      "source": "Law Society of Scotland",
+      "publishedAt": "2026-10-30T07:00:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "583241af0db326484d2b",
       "title": "Scotch Malt Whisky Society Launches First Blended Scotch Whisky, The Blender’s Notebook - Aabkari Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTdkdnpYZk9ib1pfREIxcC1wR1plaGNNWjJBUkpQUFNBRTBQMTBIdmVKTE9YS2czWGQ4anktZU5SbVJzVzQxUDVQS3pYUnpKY3gyaHZzX2pIakZfT0lhdnpSb19CUGtYWkd3UnpTQ3pKZ0lqZGh3OVJUaHhTVGxNMFhTYzJBUlZkM0FpUzlBRFVYdkdoNm5NN3FzU205QQ?oc=5",
@@ -1287,39 +1320,6 @@
       "category": "new",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "44fc060032bf9a6b83ee",
-      "title": "【響30年が当たる！】100本限定「一攫千金 竹の道 第3弾」販売中。響21年も登場、“1％の頂へ”挑むウイスキーくじ - AERA DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZkY1RDZhMkVtdVVvRTNZMXpzTnpGb25nTEdkRHVRbzNpc3FBdDhaem9CeDk0dGlrSWFMRF95MGttZHJRUk5MaDdLQ2tpejNkWnQ0NXJZSk5kdw?oc=5",
-      "source": "AERA DIGITAL",
-      "publishedAt": "2026-10-30T06:01:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "0e4c047abd247ea445e1",
-      "title": "KANOSUKE COLLABORATION SERIES 02 KANOSUKE × TSUNUKI - 嘉之助蒸溜所",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVFfSWFCM3FxaEIwNy05MF95VzRjYmpUcXhZYVdudDlucXNqX083UGtidDBvcEM0Sk5QcXN1RnZ5R2hZc21PSzlOeE5YOU83MFQ1QVVueTh5cHNyb1ZGSURJejBhem00TW91X3RLbC1Dci1zYUwxNjkwMmo4S1pRdVdoNEd1VTIzVmFUR1dvVWRUa2tKYnE5WFdIWQ?oc=5",
-      "source": "嘉之助蒸溜所",
-      "publishedAt": "2026-10-30T05:37:46Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "bb4dd56b184c151c5cb6",
-      "title": "ベンロマック蒸留所 ウイスキーフェスティバル2026 in 東京に出展 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZGhBVm1KOW5GR0pXRktITTNVOVB0d3RwaDhFZ05XRF9HNEdSc2xvVHVwUC1ZZU5MczNSWW5xM3BJY2xwVTYtYWtlcUJ3blFDUEttWjFjMjlWWmRSRkplLUVxM3dkNndkdEE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-10-30T05:00:01Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
