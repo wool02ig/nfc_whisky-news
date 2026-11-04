@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:01:52.952149Z",
+  "updatedAt": "2026-11-04T17:58:33.760623Z",
   "count": 120,
   "articles": [
     {
@@ -96,6 +96,17 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalNiYklCRzRrUzFQN1lXMGlHb00wQTdEUWNwUkw2OG10ZHVxbEktNFFBYjA0ZGpQYnlid0FENTFZR1QzVUxZREw5VkZWajRPQ3gwOGZqLVRiSTRhYkdyZDJDeUg0Szd2aFZ5bFlfS0p0dDNScnVkdXFWSkdTSkQzZE9vZEwzbjRBR1kxRk1TUDFMcXFvRWVWdzVST2JaeklucXF0aXRCUnFjYTBTdnRXa3hnelJwTFVvWHZRN0lGNGUzbEMyUGlyVlJWRk5iQURqV3czVXZ0c2VoQdIB3wFBVV95cUxPdkhWVEl6SDZYN3RGYThVcmREWFBYN0RORU5nQ19McU4zSGxPQzY1YjNYNklxWm5PZjdIVWJXaEtlWFNmdXlwMUJnTHhBM1BMWVNfVGFSZV91Mmo3U1k1VE45YXpXNng3ZTFLNDAxQ1l0MjZNbTZuWnJUdXVPNjhsY0pib3hlbFNXTVNDdkM1a095bVBTVzBMUG9PdURWVTNNeThGc2hpNGZpcVNFTTVRekpBMWVreGVWZDFadE41SjNlOFg4UWFqVmV5cmk1Vk81UUlzRFZLT0ZWR1lnY3Nr?oc=5",
       "source": "Telegraph India",
       "publishedAt": "2026-11-04T13:37:20Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "91c93a123baec0fae8ac",
+      "title": "Prices of premium Scotch set to fall in Delhi after customs duty cut on British spirits - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeWpFMjhOWVRjdVNVZ2M1WHU4NGFraFVzaFJRWmh3LXlWVTBUNWpzVXZMaWYxZjVUV3M1aHB6LXh0RVM5dnI3RzFaUVlXREg5RjE5Z1dVY1o3Zmw5ZjJ4LWJqTlh0M0lkQ1BabU1yNG9TOFFpbzVOb2xLYUZMQTE0bGI3SWZndV96YkJKOU5uODROcElKby14QkRIdUh2THNMSF8zdW5WYVowYXpNcmVDVGV5bU9PQjI3dFRnMVVwbHB6RFVheTMwSGxvWlBRQUlESHR1Wk1ET0pCUFFxOGE3bTltbF9YWHlsSFM4LWFYN1dIT3Z3TmY4N0gzNlF3S2tM0gGGAkFVX3lxTE5Dam5hS1pzNi0yM25Cb1NkZWFPS000cjR4RWNPeHAtMXEwY3NUSmFPa1RYUFFFSzBzaGYzZG4xWjM3YVBsMkxuMHROQkVtbEZjdmZ0M1lVUXNKS1VRVnROLXdXMEhmbVlwTkk4bU9pbTVYdUVpYXhCOHhZeG9XVlFaNXBIemJUSlVvRDVUdHpuWFY3am5uOTBsM3h6UkxBZWZ0VThidUNlRjNLdHJNVUt2OWVnZlctU0RQaWdZc2RsbTlfU2MyNzhzUDJrOFRkYXdUUldmUDBnUnJKLVpMLXc1Rmx5YnUtYUJOcm9XQmE0Snpoel9QaHNDSEZULUk4ZnNlQmVNWHc?oc=5",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-04T13:23:26Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -404,6 +415,17 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUVKRzBlVktjMVg2NmJ5UEM1Rk42NUtzNFR5QzRRc0h2eWlBTGtEaDR4cXFEVkgyTFJYWlExSU44a2dUQ3hsc1VyTUlTYWVsNHRfVENyblcwek1WclM2VWlUdHNzSEYtb2VmMnZ1WFQtWkhhc1ctdUlKN3IwNjFnQ1BLR3Q5elFCQW9BZ1d3SVVjajIzRHdZ?oc=5",
       "source": "Yahoo",
       "publishedAt": "2026-11-03T23:16:46Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3fb49f1f504cceb1117b",
+      "title": "Stranahan’s Is Proving American Single Malt Can Rival Scotch and Bourbon - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzhjNmFrb3kwTll4RkozZkVBWmNWZXlrdE96R1hZS3dRYTB4Z3Z1UEN1bUdQUERTbUNyMk5tOS1UeDYxZFBEM1Y5RG1oUDRldTh1VXd2YUwtekZtVmJOb1FfbGsydlQ3UE5PNDVKNGQ4V1BhYUM0MU9JRVc3b2had2VGMDFud1RvM29MamFSRHdMVTVSbEM0ZXNMOThZM09tSExYd0YtaFduNUVRSkp3TXZNWkQ?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-11-03T23:08:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1298,28 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "73abfd6d9aa1edaef632",
-      "title": "Why is India's probe of Scotch imports from Britain rattling liquor majors? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMHhVRFNuYmtRRWdHMTBNVjdKVzRzS1d6OUFJT0V1NldiWUkzUWxnazJvRFAtckJPZ3d0TFpleU9jNHJtdHdQTWJ1bUhhSUg2QmdKR3dkV0p4ODNOeWcwU2l6clVXZWNYemlKZ3RNSFpYd0Z4SEZQZjdtUHlIRmF3VVFTQk1XNERIM2lJNFBYSVJWX3RDbGVaUkh1dHp2dUdkYUQ0Zzh3ZXM4QU9zSnM5bjVyNA?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-02T09:21:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a635bae27466d5f59b6b",
-      "title": "＜画像9 / 9＞サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HQ3NDQUZOdTN1a2draE0xdk1jVDZkZjZsMFNiNV9aMnBiRENScVZYVEtfTnYtWm9rVkdjdTBkWUJ2Y3FEVEZ5RTE5Z3ZuQ0tRZTFMX1lsN1c2Z3NKSkU2VURvYm5wSmlBSUZ2LWhB?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-11-02T08:32:08Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
