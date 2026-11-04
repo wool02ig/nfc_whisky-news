@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-04T07:25:30.531353Z",
+  "updatedAt": "2026-11-04T09:02:54.992951Z",
   "count": 120,
   "articles": [
+    {
+      "id": "503e59ebf3c1f0245d7d",
+      "title": "Penelope Bourbon launches its latest Cooper Series release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGo3Y2dfTk11QVFoVW04dGNsT3oxT2hDSGQteTNPcl9tcnE4NkZsZ3NWSGdJZkVVOUhkMDNTcWJWdnhpZHNFbDlLWUw1eVo2MHYzeEctZ3VsWlFfVFU1REtwOW0yVktIUGwyb0JpWlpoTTF1clZpZTRjNVpzR0lPTUpXNkVuWmMzNVNvTGszMzZ2dHY4T3hMX3o2UDE?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-04T07:57:36Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6221c6fcf24220862cb9",
+      "title": "Scotch whisky in Delhi may get cheaper after Diwali as excise department begins price revision - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOQWxIQ0ZvRVdFNVBfcG5wQVNjb1VEREtFdTIyNWhlMGFKZmhYemFwTTNjLVVMY1hnRFh1R1ZlVlc2UlRkYWhJeGJxdXh3ekppNi1pdm5sTW8wOFd5OGtkTDBjcG44WkhJamxrWGR3XzJDcUdvMjJQeDVHalJFMHV3SDh1X21ZRkVyY3FNbTE4d0dHcDVDdjV0OU5LNERoWkM4Yk9hNHkwS243eUJjcE9jWFhNZmlyR3FhY0U4bHhHTkctUFI3a3pRRXVJWmNlVHdZbUR3RFNyelN5aHNfajNxSFhneXlTVnltbHA5V3NubmRrU1FhZEVZME0wTmlSQUJvX0g3QkxmVXZqZ9IBjwJBVV95cUxPYWFadlJoREdGNTFabUtuVko4RjBPX1JodFJ6WDN5SG0tNEJDRjV0Y0hyWHdQRUVrN1U2cmVuQ19iMGlFTTlrTWNFQktnT1hvOF95TDdXb0c2WkJySmJnTkdIeUhQMm9kck8yM3FhQllORVZHRXVBTWFsb0RENXp5V2c4SXNTQlJwWnFlQXBYVnducC11VWNYNTh4N3JoSUxLek1TcENobkFmSzYzZVFFN0d4c0FaalhUSDNPQ0xvRThKcG8tWnJQRXdQaWVVQ0dxRjJJVEdLOThQbnZ1bEVHLVctS2pkcFFNSm5BR0kxc0RwSkc4REF5OWpXREM0bjl0azFpYWhlcklnM1M0RUh3?oc=5",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-04T07:48:50Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "f8beb5f546217c5c1ca2",
+      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-04T07:48:38Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "f8a9de0c25c60bc7d4f5",
       "title": "Multi-Award-Winning Crazy Cock Indian Single Malt Whisky Receives International Acclaim in the UK, Showcasing 104 Years of South Seas Distilleries’ Distilling Heritage - Dainik Jagran MP CG",
@@ -80,22 +113,22 @@
       "imageChecked": true
     },
     {
-      "id": "f8beb5f546217c5c1ca2",
-      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-04T03:31:06Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "e505e5fc2a4200fae1c9",
       "title": "イオンnews｜トップバリュのこだわりウイスキー5品目11/3発売 - 流通スーパーニュース",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FNU5YNW5NM1dldkdEU2ZLWnV3ZW9Bajd1di1EZ2RaaW5tYlA4Y2ZtelZxUnpod0dMR1VEN1RFRzlTdGxqSUh6WWljNUVITUNjMk9oNXpJTWtrSmRQdVE?oc=5",
       "source": "流通スーパーニュース",
       "publishedAt": "2026-11-04T01:45:12Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ced278ed8a7cbb17f98d",
+      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxUTg4VWVyVmNGWWJZWHFGaExiUVVDSVBjT2FWdGVVbTQ2OVFLUmZmMWdERWx4Vjk1eWtMSnJhbUZndFBMRnRtanl1WUdiXzg0UHQ3eG1DRXl4cHBiRU1fUWJReWRyb0ozd3Vj?oc=5",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-04T01:16:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -499,10 +532,10 @@
     },
     {
       "id": "3eaf6a87c6c95b0f611f",
-      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MXdkZUxZOEI0UkREM3ptSjNmYUVsdkoxMlVidndPUnVKcS1rMU1OU0xWZFlTWjFXS0NxMzVHd01mdVNrdm1UYmdaY0JxbXh4a1pTYWZPRFJzV09iUFl6TnE5VUFUZmdSX1NDQzlveVJiWFBzRFJGb1JR?oc=5",
-      "source": "イザ！",
-      "publishedAt": "2026-11-03T06:00:00Z",
+      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vQWZ1ckhBNl9STXl6NlJodC1oa3lhdExOWk5kWEdkajhzNjNBZlZsaThDOVRuV2hsYzFITW1rWnlsRU01MGVJcnFibVhid3FuNEFGbTJ0WWVELVVXSS1KX18ycVpCeHBpeGc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-03T06:00:02Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -1284,39 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkV1MUtZSWQyckswWkhhVTRVM3g1ZFBzdTd6dENYRTFURTNyUExfdUx1a1Nxc0RPLTliYlp1akZSVEtRU1JWYWNPM25MUHJ6eEpSWm5zZWNoeFhVUXk4ZFY1bjBjWVY3bWtfa1BQYkJjTTN1T0FseDNsbmN2ejBRcm5wTzBINnNwbTlSdm1aWlVEMVBpOVFrNGpSM1MyMzkwN3BQREtuNFFNalJ3TVItY3ZZcndGM09RdkhINjVzYw?oc=5",
       "source": "Whisky Monkeys",
       "publishedAt": "2026-10-31T13:18:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "96696a9e870e5399f2a2",
-      "title": "Blade And Bow’s Latest Bourbon Is 30 Years Old—And It Comes Straight From The Barrel - Southern Living",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2hQT0xfX3o5dUh2R3otZFFZVVlrV2FtWTZ0VGlYamk0d21FQlpsb2doV21JNmZ2RnpIakl4NVJTdGZnandPNXJ5MHJlOC1xOTh2Z3VPYnVPMHo3bEp2MGhyY1JST1ZUcm5jcS1xQ1lxU2JGU3pKUEpPQkR4N0xRZWxsQ1h3a0xOZ3dxOFp6Rnk?oc=5",
-      "source": "Southern Living",
-      "publishedAt": "2026-10-31T12:55:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "db015d619dbf85279f00",
-      "title": "Scotch whisky row: India-UK trade deal hits a snag as liquor companies oppose tariff ruling - DhanamOnline",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzhZR1hsQXppZkJadGItT2pPYVR1Q3ZwVXlHVEdPeVBsMmtra1N6QTRsSGpudFV1TWxWMWhoanNwcGxYZDhUZk96Qjd2RmVoWHhFZmdNbl9mVUdSZmIxMmhtaDYxalJaS0lHYnlBLWFoOWhCb05DTjRva0tBT3lYTkNiYmFlczh2NjlFLXpzSjBrQlFXcWUzWDFBTS1lcE9laThPYjlZMEJXOXRGUVN2MUVyaFNHcUlmNXRJUWRWMXRjeUVvSENSWnVwYXBhUW5nSUHSAd8BQVVfeXFMUDE3ZlpwOG10OXQzOVRFM01lbTRsUXFJcW91WnZ5RmdHTnJBcVZKY0dxNFZIVVNJV1ZGMEhkN0pqRzNLQmJSd3ZNQ29oTUF4LXdjaUxqNDVWT003ZWlJRDFCZnZGVEU1bWFTUW5xcmxjejgxU3hTdHJudWlWQ01VTi1WZTZMTjdkdkdmcW5GQXUyeXJ3UV9ZS29wZnFDUU9ZWXFZMkxEa1pkazR2bkdyeEYxSjZ1b3NQVlJxcTNzZDYwSWtEdXQ3TFlwSFlZNXVzWXFsOGlSeW5LeC11endlbw?oc=5",
-      "source": "DhanamOnline",
-      "publishedAt": "2026-10-31T11:59:36Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "19ecac6c12887a3db3a8",
-      "title": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2oxcDRRdU5wY29yLUs2dnNEdktFR2hpQUFfeVJnRlNsU3p2R0s5WFo2MFpxMnJaYlNrTXB3T2doVldGY3VIMzZEWTJpMi1SRUhRc1hHSDgtMFFxN0lqT2g5ZXlrUnpnak1rMHNfaU9OT0xzY1Q0c3RHbzhKZjBuNlVGU3VqaEtBNi1qejlKZmN3bzBNdTJRRnpJQk8xS25wLTZPZzVFVQ?oc=5",
-      "source": "WIRED",
-      "publishedAt": "2026-10-31T11:00:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
