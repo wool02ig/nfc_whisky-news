@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-04T09:02:54.992951Z",
+  "updatedAt": "2026-11-04T10:11:26.697757Z",
   "count": 120,
   "articles": [
+    {
+      "id": "92a5204918db2965dffc",
+      "title": "Glenfiddich and Aston Martin Are Releasing a 28-Year-Old Scotch With an $899 Price Tag - Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2pvQXFjdlVXSVZpNzl2UkJOd1hqLUVqZDc2WHJ5U2h0NE1ZN3pfekFhOWxpd2YwMkRYMWgtOGNfZVlXUVlGaXRwU1JGeEJyOXNtWU9JeVQwWEJBTXY4RDBiaWZIcnloTVhIVy11UVZRbnk4czVKTzk4UHpJS1hsaTR4SjFFajQwZF9wdlR5T0VEa0k0UHE5bGJ6WDBaUHNO?oc=5",
+      "source": "Food & Wine",
+      "publishedAt": "2026-11-04T10:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "886c47788113722d7797",
+      "title": "ロイズ、ブルックラディ蒸留所のウイスキーを使用したチョコ2種を期間･数量限定で発売（食品産業新聞社ニュースWEB） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zYUdILWNsRkF3V0pSSVlBbWhJU0VWUzB1dlZ1SmU0RUVqMGhXRGdQR2ZzREFQUkdkUl9uOGFHWHpxWTFoZXVsbnZSSUhNTE5oOTlrdTJYbThYd0NLVU5XNGt4R2xvQ3UyV0xDdDFILS1EdEhyVHo2N2VFWHZValk?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-04T09:05:57Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "f031468bc845a0a95600",
+      "title": "ジャパニーズウイスキーの”二大レジェンド”による夢の共演！「福島ウイスキーテイスティングセミナー＆トークイベント」 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aU1hxNXliOE9ZaEpIOGE5SmpQOVB1VnlNb2xrTWNVSFNVNnlvSzV6MWZLLUszRjEzNFhCVnZFazBzdnV1U0g0SzVBbmhGbGNZazJPTURQNHF0cjVFOV9ZZGRFeV9nd2VvM0E?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-04T08:20:21Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "503e59ebf3c1f0245d7d",
       "title": "Penelope Bourbon launches its latest Cooper Series release - The Whisky Wire",
@@ -532,10 +565,10 @@
     },
     {
       "id": "3eaf6a87c6c95b0f611f",
-      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vQWZ1ckhBNl9STXl6NlJodC1oa3lhdExOWk5kWEdkajhzNjNBZlZsaThDOVRuV2hsYzFITW1rWnlsRU01MGVJcnFibVhid3FuNEFGbTJ0WWVELVVXSS1KX18ycVpCeHBpeGc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-03T06:00:02Z",
+      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MXdkZUxZOEI0UkREM3ptSjNmYUVsdkoxMlVidndPUnVKcS1rMU1OU0xWZFlTWjFXS0NxMzVHd01mdVNrdm1UYmdaY0JxbXh4a1pTYWZPRFJzV09iUFl6TnE5VUFUZmdSX1NDQzlveVJiWFBzRFJGb1JR?oc=5",
+      "source": "イザ！",
+      "publishedAt": "2026-11-03T06:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -594,6 +627,17 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "3c8b65b4ee5f650ff838",
+      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdFBVYTZUV1VkWUtWY2stMDFUNi1zQ0tvMXgxeW1zM1JGTkFGZGI4VDRBQ3JzQjQ3T0ltcnlJcGZ5YnZjTThwSHBpX0thSjc4SmdMV0JlV3k2Z0V1cmFlVHQ0ZnRrME9QR2V5SWgtUWdJSm5nYWxoYnA1UDJUeTlYdVlibnhvOGYwNE14VldrdDZrd0dJTW5hY05yd2RHV0x4d1Z0Y1YyWExveXR2RHc3MnNhbXBuNnlrYlFQUGRPZ25lZHlGUlM0clBJN0ZhWUJsMkNYcUF5VVlmeTZwcF9EM0RieGtLXzNwYkVQTEdmY2RKNUwtb0R30gH3AUFVX3lxTE90UFVhNlRXVWRZS1Zjay0wMVQ2LXNDS28xeDF5bXMzUkZOQUZkYjhUNEFDcnNCNDdPSW1yeUlwZnlidmNNOHBIcGlfS2FKNzhKZ0xXQmVXeTZnRXVyYWVUdDRmdGswT1BHZXlJaC1RZ0lKbmdhbGhicDVQMlR5OVh1WWJueG84ZjA0TXhWV2t0Nmt3R0lNbmFjTnJ3ZEdXTHh3VnRjVjJYTG95dHZEdzcyc2FtcG42eWtiUVBQZE9nbmVkeUZSUzRyUEk3RmFZQmwyQ1hxQXlVWWZ5NnBwX0QzRGJ4a0tfM3BiRVBMR2ZjZEo1TC1vRHc?oc=5",
+      "source": "ET Retail",
+      "publishedAt": "2026-11-03T02:37:06Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -861,17 +905,6 @@
       "imageChecked": true
     },
     {
-      "id": "3c8b65b4ee5f650ff838",
-      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY1JHZHRjWnpnY29GZGpyRlNJTXJ2Z2pET3FsNk9PUW5kbVJjYmgybVJHMXBnLWZjb0VGRV9XcGFETHJ1X1F2Y2NMUWdJd1U1cElNbG52U3JOa1BXZUdNSURaWXVzb0tKdk93Zm9KZUhiX1pjOXhsWEk1bVpwa2p6S0M0UU1PR3FXQml0azNCdHA1cUE1ZmVMNmRfYThjY3pkbU1ha2VQT2ZKTWhtMC1uaDMwdERTY2FDaHFpZEFtUFNVS2Y3TFRMaWY3SktDazFrZjlSalhGTW8wZG01UmtWV0xJaUNQS3NEWjB3WkkyX1FGSjDSAfgBQVVfeXFMTkN6VDdTRnBiVlJqRTZsdmJuUHR4c244czk4ODZLaTBTY3haVE5tbUo4M0VRakwwYzl3M0YxbUhaY2dGZmhBT2hzVHpTd3R2NVdNdlhYUS1IaWw3bjJhRk56NVN3bnNSYjBjOGwtZnVlYV9VVjVVZlpOd29oOU1mLWplbFBfLW5MNXYzb0xkeXppUkpiREZENkpUbTQ1OHBBd203UjFPQndBUVBXWlBkYnl3NFlvWEE5dzI4c0s5V0dTd2RiTHlMNGZLODRvSHdpRzNfblhac21YSHpaX3U3UTg4d1AwSnFmNzVINlpCbVQwbWxYelYzNFY?oc=5",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-02T13:17:42Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "078f14588e6e839299ed",
       "title": "EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5",
@@ -995,7 +1028,7 @@
     {
       "id": "e82f1afed442bf005be6",
       "title": "Liquor Industry Worried As India Probes UK's Scotch Whisky Import - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmVWOEdjMXV6T0RxS01VRXkxUmliODRDMEFLZ25GMFA0dnBIMnRlWkdSdFpPOW1JNDJVMVRmY0lIVFhVNDNBSHRtaEQ1WnVUM19hSy1DU3VKMnRyS1hlTFprWGFqbEFsa3ZkX0VRYnp4ckRfLTRmanNTc2RhMVlydHVPWXNJeW5fQ3VsSFZ2alM5SmYxMnl6aEpzbkg1ei03bElHNmRRLVDSAbABQVVfeXFMUGRYY0JRX3NSc1JfZXNYVzc5YWlUbVdwYTRyWER0QkdJcGJ1UDY1NndkRHZiUVd1cHZDWDQ5eEJOdUFyOVp0LVhnTTFqOGo0Vm00cFU5V24xYm12UFE0SzdZZWxUcU9PYVJEbTJBT0pUeTRIdlV6MmI2UmVBOS1FV0ExaTVqQ0hob3hUUlFhUnJMY3dDemRtOUx4R1JwbXA0dU85TEI3S2dReEtTWGxEZmI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFhjQlFfc1JzUl9lc1hXNzlhaVRtV3BhNHJYRHRCR0lwYnVQNjU2d2REdmJRV3VwdkNYNDl4Qk51QXI5WnQtWGdNMWo4ajRWbTRwVTlXbjFibXZQUTRLN1llbFRxT09hUkRtMkFPSlR5NEh2VXoyYjZSZUE5LUVXQTFpNWpDSGhveFRSUWFSckxjd0N6ZG05THhHUnBtcDR1TzlMQjdLZ1F4S1NYbERmYtIBsAFBVV95cUxQZFhjQlFfc1JzUl9lc1hXNzlhaVRtV3BhNHJYRHRCR0lwYnVQNjU2d2REdmJRV3VwdkNYNDl4Qk51QXI5WnQtWGdNMWo4ajRWbTRwVTlXbjFibXZQUTRLN1llbFRxT09hUkRtMkFPSlR5NEh2VXoyYjZSZUE5LUVXQTFpNWpDSGhveFRSUWFSckxjd0N6ZG05THhHUnBtcDR1TzlMQjdLZ1F4S1NYbERmYg?oc=5",
       "source": "NDTV",
       "publishedAt": "2026-11-02T09:49:04Z",
       "category": "industry",
@@ -1284,39 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSC1FSjNockJubEJFSXFhcC1vd2JPVjZ2ZkZMcmo1ZE9PQUtUNjUwNUJiSzVmdmhPNlMyU1BwWnRSb0hZMlVzNzFRWHBUcU4yU1k4N2UzcUpuM0s3R3VJYUpPSWdfVFY3UFB6bU1ZN1B1aEE2VS1uZXRwRk93VEotS3ZIb1dkMlJGVGhHTA?oc=5",
       "source": "The Times",
       "publishedAt": "2026-10-31T15:46:08Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3cc9750b80c13807ff06",
-      "title": "Over a barrel? Russians raise a glass to home-produced Scotch whisky - The Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSC1FSjNockJubEJFSXFhcC1vd2JPVjZ2ZkZMcmo1ZE9PQUtUNjUwNUJiSzVmdmhPNlMyU1BwWnRSb0hZMlVzNzFRWHBUcU4yU1k4N2UzcUpuM0s3R3VJYUpPSWdfVFY3UFB6bU1ZN1B1aEE2VS1uZXRwRk93VEotS3ZIb1dkMlJGVGhHTA?oc=5",
-      "source": "The Times",
-      "publishedAt": "2026-10-31T15:46:08Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f29fe560378b0c3191df",
-      "title": "Lost Lantern Single Cask Copperworks Distilling Washington Single Malt Whiskey Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-lost-lantern-single-cask-copperworks-distilling-washington-single-malt-whiskey-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-10-31T15:00:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/10/featured-image-29-500x256.webp"
-    },
-    {
-      "id": "994a5185de8525b20f8a",
-      "title": "Two renowned whisky writers joined forces for one last great whisky book—and it’s out now - Whisky Monkeys",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkV1MUtZSWQyckswWkhhVTRVM3g1ZFBzdTd6dENYRTFURTNyUExfdUx1a1Nxc0RPLTliYlp1akZSVEtRU1JWYWNPM25MUHJ6eEpSWm5zZWNoeFhVUXk4ZFY1bjBjWVY3bWtfa1BQYkJjTTN1T0FseDNsbmN2ejBRcm5wTzBINnNwbTlSdm1aWlVEMVBpOVFrNGpSM1MyMzkwN3BQREtuNFFNalJ3TVItY3ZZcndGM09RdkhINjVzYw?oc=5",
-      "source": "Whisky Monkeys",
-      "publishedAt": "2026-10-31T13:18:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
