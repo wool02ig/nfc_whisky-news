@@ -1,13 +1,46 @@
 {
-  "updatedAt": "2026-11-04T17:58:33.760623Z",
+  "updatedAt": "2026-11-04T19:04:09.905204Z",
   "count": 120,
   "articles": [
+    {
+      "id": "193adba9898a06d3c96a",
+      "title": "Canadian whisky distillery wins big at international spirits competition - Daily Hive",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZHRocTJMX0U0RG5wVGhFSXZFaE54UzNNZmpfdV9ZUTg1aGN2REt0YzNCamhNT0FkV3NqSFBoUk5yajBCeWcxN1pKeXdsNTQzWkQwMXRsSmt5MVNTWVhN?oc=5",
+      "source": "Daily Hive",
+      "publishedAt": "2026-11-04T18:08:03Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "7284e237e539cefaaee7",
       "title": "Clapton Craft launches exclusive Isle of Raasay Single Cask Whisky - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFNaMF9TbUtKa24ya2tmZ3ZId0dRTUdUaEVTSXZhZVNNS2ZyaGpwMTBTS1V0NGVaQ01Rc3RyVUpVOW5fQlBQd2FncXFUSC0waVVUZmxTWERiUm5hNURJMzl0cHBqc2VTaE9FQWduaG52V1VrZVZWR1JQSEJCa3lMdE9Sbll1c05vNUxpdEJZT1JhOEpkNl8wbg?oc=5",
       "source": "Retail Times",
       "publishedAt": "2026-11-04T16:59:12Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "0d7e38327b1504c6d266",
+      "title": "Oxford Artisan Distillery Returns to Oxford with New Board - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVc3MWhYelU5bkl1MkVreVNycW1NMVo3M3ctOVUtWEVNZHZWQWFDaUFsdXJmMFFLdGROdEZZU2M3aFFNVkd2VkxxbjRpQlVyQVVBVUJvbnRWdnNZRXhydURKdGdRNGduQVhleUNnZ0xfNW54c1p3R0VwOXRVU1A5djN1LVJBcWhSb2pZd3JhVVozc3hmY0dmbzhwQWs3U2g5?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-04T16:16:11Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "137f8b4ab395ba85029b",
+      "title": "Glenfiddich 28 Year Old: Aston Martin Limited Edition - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSS1Pc0dZR2dXZ0ctWkxtb0JTOGFHZm5nenowTlJPVHl3eS1EQUVHNjlMbFR5MnU1ZHRDQW8yNTVPSjBaVmhLbXJlU0tyLU1haHItaDZLdlNxeEd3ZndiOWxKSzY1QWFxMktXRWV0YXl2RkExY3NXUGRMdFRCUVlVTjlwMkhVLXg3dkRINVM5dGZZZ1N1S2VtSw?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-04T15:47:18Z",
       "category": "limited",
       "language": "en",
       "region": "international",
@@ -1284,39 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGdXSDMtcUtRUGlpazBkRkJYZ19IbUNJTkxVbi1FZko4SWhfcHdhMnYtN01sVlIwMnFObUlRbFlFbl9FeWQzQjZoM0l4ZG1VWFgwWmJzWm5HQzhUdnhmSkc2dlYwMFVEQUpFQmJ2VExqc0JsaUQxektad3ZIM21ISWVIWWJEbXEzQWIwc0Y0VHlEc2FnSWh2WXp4bXVtUTkxQWZvLVEzbWo0VEJrbmxQdVJaRDZ6Q24yZTRaUU1sOXpJSVNMYzdqMW1ySWdXU0N4N1E?oc=5",
       "source": "Oherald",
       "publishedAt": "2026-11-02T09:54:12Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "e82f1afed442bf005be6",
-      "title": "Liquor Industry Worried As India Probes UK's Scotch Whisky Import - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFhjQlFfc1JzUl9lc1hXNzlhaVRtV3BhNHJYRHRCR0lwYnVQNjU2d2REdmJRV3VwdkNYNDl4Qk51QXI5WnQtWGdNMWo4ajRWbTRwVTlXbjFibXZQUTRLN1llbFRxT09hUkRtMkFPSlR5NEh2VXoyYjZSZUE5LUVXQTFpNWpDSGhveFRSUWFSckxjd0N6ZG05THhHUnBtcDR1TzlMQjdLZ1F4S1NYbERmYtIBsAFBVV95cUxQZFhjQlFfc1JzUl9lc1hXNzlhaVRtV3BhNHJYRHRCR0lwYnVQNjU2d2REdmJRV3VwdkNYNDl4Qk51QXI5WnQtWGdNMWo4ajRWbTRwVTlXbjFibXZQUTRLN1llbFRxT09hUkRtMkFPSlR5NEh2VXoyYjZSZUE5LUVXQTFpNWpDSGhveFRSUWFSckxjd0N6ZG05THhHUnBtcDR1TzlMQjdLZ1F4S1NYbERmYg?oc=5",
-      "source": "NDTV",
-      "publishedAt": "2026-11-02T09:49:04Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "6b5895f2994ec425b926",
-      "title": "India's New Scotch Whisky Trade Dispute With UK: Will Your Favourite Brands Get Costlier? - News18",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTUtX25SQnFkYlY1aWlnMWI4V01nU3dxbU5zQndiSEpPZjd1YUw1blE0MTdlaEgySEtVNkNOTDhNQVNHZ3E4MGhWeWNsSkFRS0duNVRTTGk2Nl92RWdsaFhKRkRLZjlPRkd2Ul9LVEdZdmhWSTI5b0RxTzQzOWxxSkFpQTdmOTAzVlFLUUV3LWJjRkRDZ3dXRjBLeGY0MkpFNzNrZnlJV2pFbXhXamNPOHRhdEg1aWxOZ293ZWVFREFiTzhoS2JlWtIBzgFBVV95cUxPLUpmVGZIeWpkMUp5X3hobW44b1ZaVjNrd3pkYWtKbXJySjhpQjJPOXVJM0l0N3lJOXFoMVpHU3BQaWR0RFExb2FMd2dRajN5RTdjRktjSUh5ZFBzV2FhOUw0dmtYbHJxZGo3WWdya0gxdGpBSlJKU3BZRG05U3Z2ckJCYWNSc0szX0dkS05td0U1QTM1WGdhQ2RCS05fVDdaOGxoZG9OODdQampVYXBnTEw0cVc2cWZwd1BEa3hEWGFBSWp3Z3dES1NUaXc3QQ?oc=5",
-      "source": "News18",
-      "publishedAt": "2026-11-02T09:45:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "dd75cef45ec6cde1720c",
-      "title": "What the Scotch whisky industry wants from government - City AM",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOERTSmFDdEVZNXhpSC16SU5lR1BLZDU4MW9Tem40VnBueFg0ZnBibW54am5ocU5Vdmg3RFlHTHBPek5iQUN1WGE3RURWSVBVVDBXVF9XcUZ2R0tyNUV2Yk5yYVdRdV9CTU5XUW8xYlN3MEd0V1BSaEtMblVONnQ1U2k5SQ?oc=5",
-      "source": "City AM",
-      "publishedAt": "2026-11-02T09:30:16Z",
       "category": "industry",
       "language": "en",
       "region": "international",
