@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T20:03:34.110571Z",
+  "updatedAt": "2026-11-04T20:58:20.553348Z",
   "count": 120,
   "articles": [
     {
@@ -7,7 +7,7 @@
       "title": "Canadian whisky distillery wins big at international spirits competition - Daily Hive",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZHRocTJMX0U0RG5wVGhFSXZFaE54UzNNZmpfdV9ZUTg1aGN2REt0YzNCamhNT0FkV3NqSFBoUk5yajBCeWcxN1pKeXdsNTQzWkQwMXRsSmt5MVNTWVhN?oc=5",
       "source": "Daily Hive",
-      "publishedAt": "2026-11-04T18:05:28Z",
+      "publishedAt": "2026-11-04T19:04:00Z",
       "category": "distillery",
       "language": "en",
       "region": "international",
@@ -53,6 +53,17 @@
       "source": "The Whiskey Wash",
       "publishedAt": "2026-11-04T15:47:18Z",
       "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "293ffdcef89c52add856",
+      "title": "Penelope Bourbon Releases Cognac-Finished Madagascar - Fred Minnick",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUJXSDhsNzVqRWFvUVh5b2JPMG5UaWl3d2hEYmVHdWhHSFpYWHVldDBxbGpoUFdSVzBrX013MnN0WDNZYlB5VGRMZWVKajVFdUotN1hfdVNOZlJBemVFMGlpMUk2TDJZYlktc25CdWRxVHhGenVUdVhySEZ5TURPY1Mwdjg0eGxWaVZmSmE3cW4zZWI1T1F3?oc=5",
+      "source": "Fred Minnick",
+      "publishedAt": "2026-11-04T15:04:49Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -163,6 +174,17 @@
       "source": "The Spirits Business",
       "publishedAt": "2026-11-04T12:46:17Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "550779354446578be2c0",
+      "title": "Chivas Unveils a Remarkable 21-Year-Old Whisky from the Heart of Speyside - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnZ3ckg0ZnZaM3M1NTdtcGxKN2Z6anRLUVpOS3gzLXlxbE1UQlRPLUM1Qkdzei1NYmNyNjdSMjVDVUc5dUxSZVpDSGFaM2VvT2thUU9fZFNUTEZWWEhNdlFHWm5HSV9SeGxpMzNOWEdwVE9rRF9rOGVVMWF3N0FJdXE1N3FWeVd2U3p2NE9MbGtZakZXR0x5d1VmUjIyYzRpX216Q0lyRmVFbWs?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-11-04T12:32:00Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1296,28 +1318,6 @@
       "source": "openPR.com",
       "publishedAt": "2026-11-02T11:14:39Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "21641038d83f1ff27860",
-      "title": "Indian Distillers Up In Arms Over 150% Tariff On Imported Bulk Scotch - StratNews Global",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2FjZUpwcjA1MmZDbGRjeHE5cnRubGc0UjNQSGRxNm5RVTlzLUNuSHZCTXBXZFFNaFZGeXY1YTUwVlJncWlma2RFTjRycUJ5ZkRIYUhLa1JXaVhiSHgzZ192aEVqS1hLQnQ0akEwT2l4Q1ZkMHktZ0VLZjFCbHFwVGxYSE4xYUk2RlhFWmpTbWFkS3JMWW1SM05xU0dvbUlHdDMyS0NZdGNEbVNL?oc=5",
-      "source": "StratNews Global",
-      "publishedAt": "2026-11-02T10:53:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c005d0ba07f33a56799f",
-      "title": "6.18 Lakh Crore Scotch Whisky Market in Focus as India’s Tariff Probe Rattles Global Liquor Giants - The 420.in",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2pQZFpBU3d3T0pSZ1FTN0VtaVhqYmh5V3ktQnFiWXVraUxHb3U5UnFXc2tNVnZFazdsQy1rMmV6ck43ejV4Vm9pVFpXbjgxdG5kREV6eXg4VUhKVVRYTFdSTUJGWWFHWW1CcVRnZDA1SnpTMm1KVWZteDhoRXV2ZFFLLVFUVVpLa3p6SXU2c3lEak1yTnJHczNoVVVaNWVCWS16RVhYNjBDaE1VQ1pkU1hReUhMWWJ4ZlA2NDNoblFvdk0?oc=5",
-      "source": "The 420.in",
-      "publishedAt": "2026-11-02T10:41:53Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
