@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-04T13:12:49.852292Z",
+  "updatedAt": "2026-11-04T14:25:53.326569Z",
   "count": 120,
   "articles": [
+    {
+      "id": "26712d45313068c696d1",
+      "title": "Labour accused of 'choosing Westminster over Scotland' after whisky tax vote - The National Scot",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmZrTU0tY1ZjbDF3VjlneEhWMjhLVFpvOW11RWtEeUEzWHpmWnVBaHhwZnY2U3lScS1JWjR5N1FFZjJHVXpEalA3aE5jcnFTMnNqV01CQ3EySkZJUTFFSTdZdHN0d0pTOGx0dnFubGwxUWk0cFZlMFpLREQ0bHBUYWJxSmEzWkpyQzJDa0hsNHFiSjJQQ1pES2RxUnhJOUNzcDN6Q3BQTmRfQQ?oc=5",
+      "source": "The National Scot",
+      "publishedAt": "2026-11-04T13:49:04Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "e769f2c3ee4445f89629",
       "title": "India to honour reduced tariff on bulk Scotch imports - The Spirits Business",
@@ -239,17 +250,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FNU5YNW5NM1dldkdEU2ZLWnV3ZW9Bajd1di1EZ2RaaW5tYlA4Y2ZtelZxUnpod0dMR1VEN1RFRzlTdGxqSUh6WWljNUVITUNjMk9oNXpJTWtrSmRQdVE?oc=5",
       "source": "流通スーパーニュース",
       "publishedAt": "2026-11-04T01:45:12Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ced278ed8a7cbb17f98d",
-      "title": "久米仙酒造、沖縄のウイスキーを手軽に楽しめる「沖縄 ISLAND BLUE ハイボール缶」を11月3日より発売！ - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxUTg4VWVyVmNGWWJZWHFGaExiUVVDSVBjT2FWdGVVbTQ2OVFLUmZmMWdERWx4Vjk1eWtMSnJhbUZndFBMRnRtanl1WUdiXzg0UHQ3eG1DRXl4cHBiRU1fUWJReWRyb0ozd3Vj?oc=5",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-04T01:16:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -606,6 +606,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/emberstone-irish-whiskey-launches-diwali-gift-box-in-india-1-500x256.webp"
+    },
+    {
+      "id": "5a869818f9ab8f337dad",
+      "title": "India’s liquor industry seeks clarity on bulk Scotch tariffs under the U.K. trade pact - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkVSTUl0a0Z6YzR5VG5ZODRUZWtNS1ZqZjRPM0ZEa0VjQjJsaEZSOFFaaHlmMmJHR0l6VGM5NHhjOE5RWXFjazdTZE5OWDhOVWc2MEJ2MnJHZktGVE96RGpSQ3NkZnNvNmRRek9jWFR3R0J1dHdaNVFJWGlxdm9HQnRwVnVZbmhHaWRuY0s3T2t2czJwTGtoN2pBZW1fblJUZ1NIRGw4WUhRTHd0WEpFejRCUEhlSDlrbUFNMERMcFcyT1lYQlVGYlBn0gHPAUFVX3lxTE5yV3Y4RVc5aG5Lb1RMeWRkVmNIS1EzQ2RFSmdJTlNxbXc1M1FodEl0VGFnNDNJeXBBQ0F0clRZTHVVRThiSlhuclE2blFiVnV2NlhBQzBHZXB4NzhkX3ZueFNGOTNqOTFCVWIwUTh5ZDljQnZqcmxqbnhad1ZKSFc5NWNvaUJxYkdpYTcxNjU3WWluQWt2UzZlVDJ4azNXOHc4RFRSeE1ZUzVvNklLc1hOODVBOU5HWVZnLUNyZkI4ZGFJa3M2aG9RRXFVVnBkdw?oc=5",
+      "source": "Vinetur",
+      "publishedAt": "2026-11-03T09:28:48Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "10e7f77daa9d1919648a",
@@ -1307,17 +1318,6 @@
       "source": "下野新聞社",
       "publishedAt": "2026-11-01T05:00:00Z",
       "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "f74e9a7cc6b19e1ec8a7",
-      "title": "本坊酒造、モルトデュオ・シリーズ第3弾「マルスウイスキー モルトデュオ 津貫×KANOSUKE」を11月下旬より発売 - https://kagoshima-news.jp/",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUzd0dFF5RTJKOUtXM0pZZU9fc0loY3VXaUllSHJtTnVwNXU4VV9fVTFvZ21qWjQ4NEcxZFdDYTR2MVdYTDJ3dHpUOXFUZmY5cC1wMWc5X0QtcHI2OU9YTDNvaE0wWV9BeDdxWUpveUg2cG03U1dDcUN1LVItRUc2UG1MTFNOc2NEQUN5ZDRlOTVwQmZjeVpFVlEtWjVwNS1iQURTZWYzNE5keTBWdmpfZHNUQV8tc011NXhYaXp5cFlFOElOTV93emQ5bVVYNFFJMnNxSUZ0NjdZR0lPbnhBSUwtMGhpS1Y0T0lOVXhHY016WDZCZXFra1R3M0x6OEkxOThzd2ZkV0tVX3c3MF9pMU5ad1M1ekFWUVA4bXhGdHNlRHpGM3VCeUFudFpJd05kclZZaXFCREhYUHFZMmNmbTNObjVwbWxyZzNqU1A4a0UzNE5ic0R3LQ?oc=5",
-      "source": "https://kagoshima-news.jp/",
-      "publishedAt": "2026-11-01T04:01:00Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
