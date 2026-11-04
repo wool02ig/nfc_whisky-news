@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:04:09.905204Z",
+  "updatedAt": "2026-11-04T20:03:34.110571Z",
   "count": 120,
   "articles": [
     {
@@ -7,8 +7,19 @@
       "title": "Canadian whisky distillery wins big at international spirits competition - Daily Hive",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZHRocTJMX0U0RG5wVGhFSXZFaE54UzNNZmpfdV9ZUTg1aGN2REt0YzNCamhNT0FkV3NqSFBoUk5yajBCeWcxN1pKeXdsNTQzWkQwMXRsSmt5MVNTWVhN?oc=5",
       "source": "Daily Hive",
-      "publishedAt": "2026-11-04T18:08:03Z",
+      "publishedAt": "2026-11-04T18:05:28Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "12882be0da854e1b1722",
+      "title": "10 Best Whiskeys Of 2026 (So Far) - Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sSUFNRVU0b3ZCcWNKSEVmS1NLLVF6emtGVUdRRHNnMW50MTZxVmNVQkNjT0xXZEw5VWZWWUYyQXFsUGY5djYwTTNvYkJCZnVWMmdLQnFuSVZRalAwOE9JZmUwZnFjU2s?oc=5",
+      "source": "Tasting Table",
+      "publishedAt": "2026-11-04T17:20:00Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -506,6 +517,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c84a20abe8e0494715bd",
+      "title": "野沢温泉蒸留所、初のシングルモルトウイスキーの一般発売を延期へ - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16RnJibk9hSF81TmtCSXNGSlJrOU4zZDNZY2J4SzFSb2tYMWFtQXlqYzUycUROTjNZbUFmRnYtRURBNjFrYmIw?oc=5",
+      "source": "Dellows News",
+      "publishedAt": "2026-11-03T17:46:15Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2pQZFpBU3d3T0pSZ1FTN0VtaVhqYmh5V3ktQnFiWXVraUxHb3U5UnFXc2tNVnZFazdsQy1rMmV6ck43ejV4Vm9pVFpXbjgxdG5kREV6eXg4VUhKVVRYTFdSTUJGWWFHWW1CcVRnZDA1SnpTMm1KVWZteDhoRXV2ZFFLLVFUVVpLa3p6SXU2c3lEak1yTnJHczNoVVVaNWVCWS16RVhYNjBDaE1VQ1pkU1hReUhMWWJ4ZlA2NDNoblFvdk0?oc=5",
       "source": "The 420.in",
       "publishedAt": "2026-11-02T10:41:53Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "92ffa72958b996bc0e5a",
-      "title": "8 Best American Whiskeys That Aren't Bourbon - Tasting Table",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rMHdVRG9MRmk5VDJaQTA1bmtXUk1LVmVOdWNLNzFVemZTNFFRUDdUM3p1YnhiVy12ek9hV19nS3RrcG45M0FiZGZmWk1pSV94MGxLR1JlT2UtMXlaeGhiQm5DbXppS0dyaWZNQlUyRzBSMWFWWWNZbi1KMkQ?oc=5",
-      "source": "Tasting Table",
-      "publishedAt": "2026-11-02T10:20:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ced7b3c150191e950437",
-      "title": "India-UK Scotch Whisky Tariff Dispute Raises Concerns Over Prices Of Popular Indian Brands - Oherald",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGdXSDMtcUtRUGlpazBkRkJYZ19IbUNJTkxVbi1FZko4SWhfcHdhMnYtN01sVlIwMnFObUlRbFlFbl9FeWQzQjZoM0l4ZG1VWFgwWmJzWm5HQzhUdnhmSkc2dlYwMFVEQUpFQmJ2VExqc0JsaUQxektad3ZIM21ISWVIWWJEbXEzQWIwc0Y0VHlEc2FnSWh2WXp4bXVtUTkxQWZvLVEzbWo0VEJrbmxQdVJaRDZ6Q24yZTRaUU1sOXpJSVNMYzdqMW1ySWdXU0N4N1E?oc=5",
-      "source": "Oherald",
-      "publishedAt": "2026-11-02T09:54:12Z",
       "category": "industry",
       "language": "en",
       "region": "international",
