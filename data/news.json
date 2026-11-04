@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-04T01:12:48.098281Z",
+  "updatedAt": "2026-11-04T02:07:45.822164Z",
   "count": 120,
   "articles": [
+    {
+      "id": "e505e5fc2a4200fae1c9",
+      "title": "イオンnews｜トップバリュのこだわりウイスキー5品目11/3発売 - 流通スーパーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FNU5YNW5NM1dldkdEU2ZLWnV3ZW9Bajd1di1EZ2RaaW5tYlA4Y2ZtelZxUnpod0dMR1VEN1RFRzlTdGxqSUh6WWljNUVITUNjMk9oNXpJTWtrSmRQdVE?oc=5",
+      "source": "流通スーパーニュース",
+      "publishedAt": "2026-11-04T01:45:12Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "e791a869aa13cc1c381f",
       "title": "約20種のウイスキーとジャズに浸る2夜限定のバー体験！京都センチュリーホテル『ウイスキーとジャズのブレンディングパーティー』 - Dtimes",
@@ -404,6 +415,17 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vQWZ1ckhBNl9STXl6NlJodC1oa3lhdExOWk5kWEdkajhzNjNBZlZsaThDOVRuV2hsYzFITW1rWnlsRU01MGVJcnFibVhid3FuNEFGbTJ0WWVELVVXSS1KX18ycVpCeHBpeGc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-03T06:00:02Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "fb6d288077ae5130c469",
+      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 (2026年11月3日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpczNEMXRMQmFEXy0zMEVmcEtRVzNwZnhqc05hOE9BZUtDZENWOXdOSkdhSEIyM2wxOTBDN3NYWnhBZ1lYZng3eDF3ZmJjNGZFRzcxeFhJaDRkREVoajZWQmZ3?oc=5",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-11-03T06:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzJxNG9QeC1yZFFyaFJpbWFWZHNiUW9POVBVYVQ2UmtMSXZGZF9zRFp3dnd1Q3FUcGE1TFZTSUNpaHhEaFc0cmtlOWp6aFFrTmJKeVE2cXZWNHVjQWJFaGFmS3Y3WV9PZnZUNGlyaW1nOFMzMmhjZ3YxbFpRLTF4WTlNTHZkSDVFYndpVTZGb090Zw?oc=5",
       "source": "Unique Times Magazine",
       "publishedAt": "2026-10-31T00:56:16Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "05a3d094cba1545fe5db",
-      "title": "Glenmorangie’s Superb 50-Year-Old Whisky Is Its Oldest to Date - Robb Report",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0M2bG80dTNnRVR4S0FqcG5EZ0tqeHMxSmhTMlhXZGhIVXdjbHozTUZnWnVpSFhaTGZUby1GX0dmRUROTEJ1R2VrNFNCNjk0ZmJRNHc5ZWkzeEU5WDhHdDFuUVNYN3ZiVTRqVHltVUNQUklxQTVLeEU4Q0hXdXl2S2kxTldEd3pnaGE5emFaM2RCU0w4UU4wSWgyd0t4UQ?oc=5",
-      "source": "Robb Report",
-      "publishedAt": "2026-10-30T23:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "6454966632fb95681069",
-      "title": "Whiskey Thief to open new event space in NuLu called The Guild House - The Courier-Journal",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEk4Vl9QNzNoenY3N21iWUlTang5N1kyel9aOEFjMy1CVzVUMUJiNXk1NmM1cnkyTklGOTBPSF9qWWQ1TUNHRlZMcmFiS2o2QTdLOHhCX0h4VC00OHBaS3pxcElPT3lZTnNmS3c3bDNvczd3bUVJSktpMHpZdk91c2M4S3p4cDhPMEdQUWhERWdydDR1bTI2VTdza0ZjNTJOamRkU2ZjVEZ0c1JQWXZBRE5HTHh3dDBIdDktZUJJRWdvdlFJLVZoRWVjakpHM050NkhCZ3R4WjlKRFJmdzZZeGJoT08xY1E?oc=5",
-      "source": "The Courier-Journal",
-      "publishedAt": "2026-10-30T20:30:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
