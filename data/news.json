@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-05T16:11:10.120128Z",
+  "updatedAt": "2026-11-05T17:22:35.204238Z",
   "count": 120,
   "articles": [
+    {
+      "id": "db681a0cc6bb18dd4fe1",
+      "title": "Whisky entrepreneurs partner to launch Scottish spirits group - TheBusinessDesk.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWlMd0dXeGJDN3J4aTRCUnpUMERKc1lVWEswMzZRcDRUQmFiTWJNMU5Cb2FWanc0b0lYWThJb3dhWVV0T05ObFZRcnA2amtlcExZVDdYUkt0QmMtREFRYzZFSjB3c0t4OFNxNlVQLWtfTzdzV1d1bUg3SFowWHR6ZkRFTklPcWE1dlp1OWh5TVVDNEhYekJhUDFiZkYwZEVVeGtJYnRTNzdjQ29TQkhRdkh3?oc=5",
+      "source": "TheBusinessDesk.com",
+      "publishedAt": "2026-11-05T17:05:34Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6a7b15bd0ea7d6f59f8c",
+      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ - クレアウェブ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KRkxMeUUwRmVjTHkxR3hrNVd0NXpJZ0ZQYnZQV3BnV1VXWHJGX2JGc0VoUWdoc2U1cGJ2YWdNMk83T2VPMWlWUk12YlBWeHVHSXVoSUhMVkR4UUl2ODNtNUNXYjIxaGFmLWdmTmt4UFV5dw?oc=5",
+      "source": "クレアウェブ",
+      "publishedAt": "2026-11-05T16:05:04Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "9415fa7650b4c542bb27",
+      "title": "Black Velvet's New 20 Year Old Whisky Costs Just $50 - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HM1lHMjVWQVd3UDJqSUplT1VGTmRGSzNCbnY5c01JRGY1MmpRdnBhWElLR0dkbzNIek1zblZaZmw4amtfYlViWFBkVmtFeWx2OU1tV0pwaTRWeXF2SnYxdHAxUGxlVk44Y2xVRGNlTWFhNHphZVRF?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-05T15:31:10Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "32bc44ed0915031f44e9",
       "title": "WhistlePig Unveils New Limited-Edition Creme Brulee Rye Whiskey - Parade Magazine",
@@ -45,6 +78,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass-500x256.webp"
+    },
+    {
+      "id": "2ae910b8cb5f4fcad9ea",
+      "title": "CAPCOM ANNOUNCES EXCLUSIVE RESIDENT EVIL 30TH ANNIVERSARY SINGLE CASK SCOTCH WHISKY COLLECTION IN PARTNERSHIP WITH DCASKS - Enduins",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3pEMG1MT2RyZXNIRWcwSHpkLXZjbWFiZS1Xc0VydWtudnRxSlhaR0hmOHc5dUVwUXdjSmFmS054cTZ1RmVWaElQM0d5UkdhRUdiTUJaTFFYWmpwRW03d0hEdWw1VE8zd0ZVSG1xcWpITFNRUzN2QlFSZWt2S19SNE9meGY4NDV0YmhzYkdDbDUwTG9yOV95Q3VUWHJlNDNKcURKTWZKZ2V0V3ZPOWdKMFdYeVI4UzN6djRDejdUa21rSW1IcFd4WDcyR0ZkaHFXUVd4a0tKTGd6bndPZlkybXJZVEM?oc=5",
+      "source": "Enduins",
+      "publishedAt": "2026-11-05T13:29:17Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "2d0e9afff130315782f2",
@@ -102,14 +146,14 @@
       "imageChecked": true
     },
     {
-      "id": "2ae910b8cb5f4fcad9ea",
-      "title": "CAPCOM ANNOUNCES EXCLUSIVE RESIDENT EVIL 30TH ANNIVERSARY SINGLE CASK SCOTCH WHISKY COLLECTION IN PARTNERSHIP WITH DCASKS - Enduins",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3pEMG1MT2RyZXNIRWcwSHpkLXZjbWFiZS1Xc0VydWtudnRxSlhaR0hmOHc5dUVwUXdjSmFmS054cTZ1RmVWaElQM0d5UkdhRUdiTUJaTFFYWmpwRW03d0hEdWw1VE8zd0ZVSG1xcWpITFNRUzN2QlFSZWt2S19SNE9meGY4NDV0YmhzYkdDbDUwTG9yOV95Q3VUWHJlNDNKcURKTWZKZ2V0V3ZPOWdKMFdYeVI4UzN6djRDejdUa21rSW1IcFd4WDcyR0ZkaHFXUVd4a0tKTGd6bndPZlkybXJZVEM?oc=5",
-      "source": "Enduins",
-      "publishedAt": "2026-11-05T11:07:06Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
+      "id": "8a2b232563b2d6239f80",
+      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWWxSNmstRXNXNFc0ZXkwaHhWT3ZzdDJMVnQ0ajYyRjhvdjl3NFEzRlBYWHFSUDdUeUI4YlJnb2g0TjNFOVhNbzNxU1dOQ3VmU29XMEZ5cHNXQldac1NBWHRFcnJVdXh6Rmc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-05T11:06:01Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -168,17 +212,6 @@
       "imageChecked": true
     },
     {
-      "id": "6a7b15bd0ea7d6f59f8c",
-      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KRkxMeUUwRmVjTHkxR3hrNVd0NXpJZ0ZQYnZQV3BnV1VXWHJGX2JGc0VoUWdoc2U1cGJ2YWdNMk83T2VPMWlWUk12YlBWeHVHSXVoSUhMVkR4UUl2ODNtNUNXYjIxaGFmLWdmTmt4UFV5dw?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-11-05T10:22:28Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "48fd88cf895aad1bf6db",
       "title": "Five whisky veterans form MBH to consolidate Scotch sector - Larder Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWV4M1l5YlVFQ1RWQmxYS2V3dE04REZOaDRjV3FCRVctRm1TWDBlcFg4VjBoaDNLSkZVQ2g1UTg3WG5NcnBMQ3Nyc1RSMWYwcWxuN2tKTXVBNEFxSzJjamdwS0hTRXpYd0pnZWpqaE9wSjFrY01ZcmJqRllydnBidnZKRmpqTWJnRWlz?oc=5",
@@ -207,17 +240,6 @@
       "source": "The Scotsman",
       "publishedAt": "2026-11-05T09:40:00Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "db681a0cc6bb18dd4fe1",
-      "title": "Whisky entrepreneurs partner to launch Scottish spirits group - TheBusinessDesk.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWlMd0dXeGJDN3J4aTRCUnpUMERKc1lVWEswMzZRcDRUQmFiTWJNMU5Cb2FWanc0b0lYWThJb3dhWVV0T05ObFZRcnA2amtlcExZVDdYUkt0QmMtREFRYzZFSjB3c0t4OFNxNlVQLWtfTzdzV1d1bUg3SFowWHR6ZkRFTklPcWE1dlp1OWh5TVVDNEhYekJhUDFiZkYwZEVVeGtJYnRTNzdjQ29TQkhRdkh3?oc=5",
-      "source": "TheBusinessDesk.com",
-      "publishedAt": "2026-11-05T09:36:04Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yQ05tTC1SUml4ZzhhWWtwa2RvalA0NnMxWjgySTc1WGVpQmk0TFZwYjRnWjR6cnlHTm5ya3IxVDhybW80OFZjTURmRGxGQQ?oc=5",
       "source": "静岡新聞DIGITAL",
       "publishedAt": "2026-11-03T07:28:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "68558959749bce21b0de",
-      "title": "プレスリリース：野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期（PR TIMES） - 毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ycXBUdlh6c1VpSTdoSURKMUV4djhHUVp4R2IwMm9RelE5MlBxd09nemJMd3J6NWo2WUdrMGpYWVRicHJLOG9Mc1pfQ21DVllEMV9SOWN5WHppczlJd1U3akVEVlc5RXUt?oc=5",
-      "source": "毎日新聞",
-      "publishedAt": "2026-11-03T07:22:48Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "3eaf6a87c6c95b0f611f",
-      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MXdkZUxZOEI0UkREM3ptSjNmYUVsdkoxMlVidndPUnVKcS1rMU1OU0xWZFlTWjFXS0NxMzVHd01mdVNrdm1UYmdaY0JxbXh4a1pTYWZPRFJzV09iUFl6TnE5VUFUZmdSX1NDQzlveVJiWFBzRFJGb1JR?oc=5",
-      "source": "イザ！",
-      "publishedAt": "2026-11-03T06:00:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
