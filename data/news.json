@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T20:56:59.554662Z",
+  "updatedAt": "2026-11-05T21:53:41.846081Z",
   "count": 120,
   "articles": [
     {
@@ -19,6 +19,17 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2FCSDdNYWpqTGtJeXJFZWFyVERUalVVemFtTThvNEhtWXh6Yi1PWTJKUS00ZTZ5X2xtSU5ldXM1VlA0QmpMYzhNY0t0eXpUYXh2a3hhVGpIZUpMa2l5cjRiSlJGRGdjc3IySUxkbUUyRlFjWkNWT2lhYlpyZ3ZIZXdNQ2tESlNFb1BrbnppSVFGaU5ac3dqRkdNWnhpN3d3dTdlay03U0Fqa2swYm9xaHNxMFdxbXVNWk52TUIyWXllRHRyaWxyLTU2ZmY1QVA1X1hKMkZZNlI0Y2U0MUZB?oc=5",
       "source": "PR Newswire",
       "publishedAt": "2026-11-05T18:28:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "058b219a1e32d749a6b5",
+      "title": "Capcom teams up with DCasks for Resident Evil 30th Anniversary Scotch whisky collection - UnGeek",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnlKSHZCT2Y3NkNMWGhSVnphUG1vdHk0bUFZYnYtZld5bVl2SGpWYXFzUjhyOElVZzFubmdhWkswb0ItOU1JQUJhSzA4S0NMV245WVRPX0J4SVh1amRjeDNlRTVvNllRWlM1empYUGpMVzVJd3k3MTAyTkVBV3JkYTN4UUl1T0hRQ2hDMEtENnlsdUJjUTcyYTZMd3dEdzI0cmN5ZUVsVUh3Q3ZvLUdxMmFxdXhEWGdPOUE?oc=5",
+      "source": "UnGeek",
+      "publishedAt": "2026-11-05T18:20:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1202,17 +1213,6 @@
       "imageChecked": true
     },
     {
-      "id": "810f02cee597791d6be0",
-      "title": "Midleton Very Rare 2026 Vintage Launches in US at $240 - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlRLT0t5WGJKUVctZkUtQ05xOHBSaEdVODN0aWgyaDNEXzdwMXRUSkpyMHZTcE9RYU1lYnByMVBtdDhEY1ZKb0hqc0lBS2ZJeVd5RXRRaXJWTGl1X1ZRVS1LSDRpdVJ4Vk5WMGZHaUVTM0hjWTdxUHFqLWRORmwwNlZ4REtZZFJrYmRQYzhZNGNPY01QN3lmSmJn?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T12:22:39Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "c8a2f656b48e73f906bb",
       "title": "Emberstone Irish Whiskey Launches Diwali Gift Box in India - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjBaSG42Qk9jbEt5cTFpTkdrODNEVndHSHowRUgtZG5zSUdOY0diWEVNXzl5REVKRVhDSlpZdVJLb0xiN1RCcnYyYUFfS3E2ZGRGV1A3LW5heGZKdFlLSjczTmFWWWdIcUQ1TTgxV3ZkdF9YM0dpYkdGclBDZVVXaV9wRERjMC1DdFh5SC1YR2xiaUF6MllkNEZldEFiNk1O?oc=5",
@@ -1222,6 +1222,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/emberstone-irish-whiskey-launches-diwali-gift-box-in-india-1-500x256.webp"
+    },
+    {
+      "id": "810f02cee597791d6be0",
+      "title": "Midleton Very Rare 2026 Vintage Launches in US at $240 - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlRLT0t5WGJKUVctZkUtQ05xOHBSaEdVODN0aWgyaDNEXzdwMXRUSkpyMHZTcE9RYU1lYnByMVBtdDhEY1ZKb0hqc0lBS2ZJeVd5RXRRaXJWTGl1X1ZRVS1LSDRpdVJ4Vk5WMGZHaUVTM0hjWTdxUHFqLWRORmwwNlZ4REtZZFJrYmRQYzhZNGNPY01QN3lmSmJn?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-03T12:22:39Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "d96cb54caf4d1028e36e",
@@ -1307,17 +1318,6 @@
       "source": "AugustMan Singapore",
       "publishedAt": "2026-11-03T09:02:08Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "10e7f77daa9d1919648a",
-      "title": "Meikle Tòir opens ballot for fourth Turbo whisky release - Larder Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemZvWm92eFF2ZGdxY2RiRXF6T0s5OEhjNlVYX0V4UUtfMlA5SURoajlPRnRJc25CaUUzNVAybXMzLWsyLXRtU21tZU0tZldEay1oQkJ6WGhQZWtBTUwzVmFTR1dQazJJbXNBcHR1S3M0UmY1UEtTWC1zNHpRLXkzS1dVTnFnaGNu?oc=5",
-      "source": "Larder Magazine",
-      "publishedAt": "2026-11-03T08:50:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
