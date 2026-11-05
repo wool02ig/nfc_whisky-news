@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-05T21:53:41.846081Z",
+  "updatedAt": "2026-11-05T22:54:57.834191Z",
   "count": 120,
   "articles": [
+    {
+      "id": "cd76e6068817f2af6a43",
+      "title": "世界三大珍味の創作フレンチと一夜限りのウイスキーイベント！シェラトン都ホテル大阪 クリスマス限定メニューと「ザ・マッカラン コラボレーションナイト」 - Dtimes",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnXy1Cb2JDcHhyb0NoeXYwNVN5em9XaVB5cVdFMnlfVjR1MzBZZTFqeFBvSFljSGdCcEQ5aEw5R21vUTVFREE?oc=5",
+      "source": "Dtimes",
+      "publishedAt": "2026-11-05T22:51:57Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "504206b2501baae4b7da",
+      "title": "The Macallan unveils ‘exceptional’ limited edition 20-year-old whisky - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnMzTDJPRXdOakR3T0p1eVpxd1d5dmlHOUFCLXYtaXNBalI3aGhlaHFFWDBEX1dEVEpaM3RUWnFBMG1DWk1HWC1laWkyS3BDalFOODg0d1RWRFRQQ2xubmY2dDdiUDhnMENqNzVJZVBUNUZIRjZRS2tmNzJkQ2lZUWNR?oc=5",
+      "source": "The Times",
+      "publishedAt": "2026-11-05T22:37:06Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "13d27f9a7bfed888f329",
       "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - ニコニコニュース",
@@ -168,8 +190,8 @@
       "imageChecked": true
     },
     {
-      "id": "8a2b232563b2d6239f80",
-      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 - PR TIMES",
+      "id": "6e917835e9e3a58270e8",
+      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 | 株式会社西武・プリンスホテルズワールドワイドのプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWWxSNmstRXNXNFc0ZXkwaHhWT3ZzdDJMVnQ0ajYyRjhvdjl3NFEzRlBYWHFSUDdUeUI4YlJnb2g0TjNFOVhNbzNxU1dOQ3VmU29XMEZ5cHNXQldac1NBWHRFcnJVdXh6Rmc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-05T11:06:01Z",
@@ -179,8 +201,8 @@
       "imageChecked": true
     },
     {
-      "id": "6e917835e9e3a58270e8",
-      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 | 株式会社西武・プリンスホテルズワールドワイドのプレスリリース - PR TIMES",
+      "id": "8a2b232563b2d6239f80",
+      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWWxSNmstRXNXNFc0ZXkwaHhWT3ZzdDJMVnQ0ajYyRjhvdjl3NFEzRlBYWHFSUDdUeUI4YlJnb2g0TjNFOVhNbzNxU1dOQ3VmU29XMEZ5cHNXQldac1NBWHRFcnJVdXh6Rmc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-05T11:06:01Z",
@@ -262,6 +284,17 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-05T09:46:00Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "975f8a69d6c552055c20",
+      "title": "小諸蒸留所、初のシングルモルトジャパニーズウイスキーを26年11月7日に発売へ - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBEdFYtSnJOTWlEdEFZNHFTaW9iWEVQRFBNcmwyTF9YUHlSeWpKUFFjSWcwOVR2WDNzTFJWa2loaFdVSktEMkxJ?oc=5",
+      "source": "Dellows News",
+      "publishedAt": "2026-11-05T09:41:36Z",
+      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -462,6 +495,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "55628b9ee55ccc1431f6",
+      "title": "The Macallan’s Final ‘A Night On Earth’ Whisky Is a Tribute to New Orleans - Robb Report",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmRaeWxlWlZwaktTOUo0ZkFZWGRvZk1pXy1fOFF2UV93dXh5M0l0VEpfcURXdG1hYUVnWGZoNXpMaTlaaGlJd0FCaGF0M2l5bGhZX1pmWE1xSEpsUFMyWEx6bkYyRWRaQmJSTEdtSnJIVEktdDkzcXF0cW05RlVxbjdMQml1UlhJVk16NXJnaVUydnl5bm94dmxla21xYllPN3ZZ?oc=5",
+      "source": "Robb Report",
+      "publishedAt": "2026-11-04T22:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1273,50 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0h3QWhXbnI5OENUMm1CSEtpVFRlenFxMDNXZ1VUYy1SM2RHNzlJMi1TUFpuc3hWTENGYzVfVW9DWXdOUXRrZk1sU0NCam1GZTZ4REJMazJ1WnhGb2NaLThSVzhDU25VWkNJZ2Z6UFBJNEI4Rjk2MTFrejNHQUtKWkIydkk0SHpiOWZQT0RwWQ?oc=5",
       "source": "The Drinks Business",
       "publishedAt": "2026-11-03T11:17:12Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5c64fdc6ade62b5eebe5",
-      "title": "A bigger pour: India's bulk Scotch imports from UK soar nearly 1,000% after trade deal - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWkdMVjhOSlQ5cktQZkRXeFEtdWNQQ3A4N2Z5dDJyeTl4TU1NaGNiQTFhZHFMR2NwZlk5cDVHa1hUZEJuUWRnSVJTMllpdVRSTUlQcDJHZUhxTWxpSE9PUk5xWVdpQURlWVJETGN1U2tRc1hhTGFOVjhlQ3o5WHVyWlk5dlZxU2ZkbmF6NkYwc1JZckpEUjRYMS1pRFJDdExmeE9nd0dRQUFWQ2Y1d0ZFNm1sUDFMcEFQek5IZ1pUeTgweERXUHJvQy1iLWhQN1hpSXRIazh4NWNJOXJZUlFWZHpqa9IB6AFBVV95cUxNcmYtZVpsYkVDUzJtVkFITGV0eUQzVlBPQmpzU3NWRXhRYkJFTFZkakdCRzNOb29oNkZTOFJXWGlYV0N6OUJtdFdqVFk3WmxFWjJWYmhvbmEtaWJCTzhuZURqTmM3UnRQUDZUWENEQTFHWUtOcnM3ZWZQUlFxc2xHMVBzWXFtZTJNYUVpRVNsdUdHbzJPNXAtcWxudGRoaDRNcHR0Y01DbmtOV0hXM3JEWERUUFh4Zk9JWVVxdGhkLUxzRUpjTTJEZmNKdEFTYl9KXy1MZGRyXzVtTU0wUVpyOTdJT0RlcURx?oc=5",
-      "source": "Moneycontrol.com",
-      "publishedAt": "2026-11-03T10:10:41Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8d1a374670bddca83ff5",
-      "title": "Extinct Spirits Debuts Dodo-Themed Single-Cask Whiskey",
-      "url": "https://thewhiskeywash.com/whiskey-news/extinct-spirits-debuts-dodo-themed-single-cask-whiskey/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T09:39:45Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/extinct-spirits-debuts-dodo-themed-single-cask-whiskey-1-500x256.webp"
-    },
-    {
-      "id": "5a869818f9ab8f337dad",
-      "title": "India’s liquor industry seeks clarity on bulk Scotch tariffs under the U.K. trade pact - Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkVSTUl0a0Z6YzR5VG5ZODRUZWtNS1ZqZjRPM0ZEa0VjQjJsaEZSOFFaaHlmMmJHR0l6VGM5NHhjOE5RWXFjazdTZE5OWDhOVWc2MEJ2MnJHZktGVE96RGpSQ3NkZnNvNmRRek9jWFR3R0J1dHdaNVFJWGlxdm9HQnRwVnVZbmhHaWRuY0s3T2t2czJwTGtoN2pBZW1fblJUZ1NIRGw4WUhRTHd0WEpFejRCUEhlSDlrbUFNMERMcFcyT1lYQlVGYlBn0gHPAUFVX3lxTE5yV3Y4RVc5aG5Lb1RMeWRkVmNIS1EzQ2RFSmdJTlNxbXc1M1FodEl0VGFnNDNJeXBBQ0F0clRZTHVVRThiSlhuclE2blFiVnV2NlhBQzBHZXB4NzhkX3ZueFNGOTNqOTFCVWIwUTh5ZDljQnZqcmxqbnhad1ZKSFc5NWNvaUJxYkdpYTcxNjU3WWluQWt2UzZlVDJ4azNXOHc4RFRSeE1ZUzVvNklLc1hOODVBOU5HWVZnLUNyZkI4ZGFJa3M2aG9RRXFVVnBkdw?oc=5",
-      "source": "Vinetur",
-      "publishedAt": "2026-11-03T09:28:48Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3c924e7836f0b3355ace",
-      "title": "The Tasmanian Whisky Makers Producing Award Winners - AugustMan Singapore",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3BfQW1GRHFhaHVYMHpBU1FMbzBqM0NjbFFzQ012TktES00xVWtOWlp6SWhXQ2hrYjFGa01YRG9aTnlZT2JHYXdGb1lLSS1rclVDbkVtNk9FZVZOOTlqLVIyUzloelR1YUJ2Tlh2RmEwZVdNcDJqUlFaQW1rUWVRaUotOXpkZ1NCMnBYVVRzT3pSbE9DSmUxVnBfRdIBoAFBVV95cUxPZURhclpVSTdyRW1BZGJlNExIUDRkNm1FeGlQbldCS1ZYd01QV2JPcWszZmhOZWotU3hIQTd5MWNiTGNpTXNmWnR4eHdQaFE0UjJNY0xkLS0zT1R6OEhxOF9nOWNkQlVmak9rdHFRWkxmbGxDbzk2T2dDM2VCbFFkZVUwYmpZclAtS0VHd182dzJ5Q0s4RGhLOTR5bzFiNnZF?oc=5",
-      "source": "AugustMan Singapore",
-      "publishedAt": "2026-11-03T09:02:08Z",
       "category": "industry",
       "language": "en",
       "region": "international",
