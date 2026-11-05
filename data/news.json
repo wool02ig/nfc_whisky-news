@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-05T04:00:29.958179Z",
+  "updatedAt": "2026-11-05T05:06:28.906882Z",
   "count": 120,
   "articles": [
+    {
+      "id": "60e5e434ab973b38f1aa",
+      "title": "ロイズのアイラウイスキーチョコ限定発売！種類や価格・購入方法 - British Culture in Japan",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENzBPdzRfVE5fc2xiSEx0bVExQ3NsVkEyMk15RG5YLUY2N2pHS0ZvYW4taHg4WHdiVGVZU3dMRkdZTUk3ZG1HYkFyUQ?oc=5",
+      "source": "British Culture in Japan",
+      "publishedAt": "2026-11-05T04:56:46Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "52039f29506b9c722176",
       "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 共同通信PRワイヤー",
@@ -1306,17 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUk13X1NyNjJvazdSNmdBLTY3bERoOHhsOGE2ZWk3WVlMYnhfaHV1QVZCSmNmNkhIam1iMm9RdUxkNTdjN1dZRlRzWk1GUXd0eFBRWWF2dklCZ08tYThCRGlxbnhWdmV6LUVzenpjei01TkpsbVpVZFhiYjNzVUpIekpuNk1BV3NRMlNwN3BGZm9Hek9vSGhjOTQzZlNDNl9tNzBoQXE0aGhrU2lrdm9nZU5ySDhxUFBfNVZ1Sk5tSUxHZzdRR2hPZjEzOXQxZmpfZ0hlZ01aeU42dHQ2cjJCNVlBd0RTSFZ3ZER6RmhmaTRLNHlObzRxS2dVNVBkQ2FDdWhRWHQ2NWVTU2NROHo2OG52YTRVQm9ZSWc?oc=5",
       "source": "Inventiva",
       "publishedAt": "2026-11-02T13:29:20Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3c8b65b4ee5f650ff838",
-      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY1JHZHRjWnpnY29GZGpyRlNJTXJ2Z2pET3FsNk9PUW5kbVJjYmgybVJHMXBnLWZjb0VGRV9XcGFETHJ1X1F2Y2NMUWdJd1U1cElNbG52U3JOa1BXZUdNSURaWXVzb0tKdk93Zm9KZUhiX1pjOXhsWEk1bVpwa2p6S0M0UU1PR3FXQml0azNCdHA1cUE1ZmVMNmRfYThjY3pkbU1ha2VQT2ZKTWhtMC1uaDMwdERTY2FDaHFpZEFtUFNVS2Y3TFRMaWY3SktDazFrZjlSalhGTW8wZG01UmtWV0xJaUNQS3NEWjB3WkkyX1FGSjDSAfgBQVVfeXFMTkN6VDdTRnBiVlJqRTZsdmJuUHR4c244czk4ODZLaTBTY3haVE5tbUo4M0VRakwwYzl3M0YxbUhaY2dGZmhBT2hzVHpTd3R2NVdNdlhYUS1IaWw3bjJhRk56NVN3bnNSYjBjOGwtZnVlYV9VVjVVZlpOd29oOU1mLWplbFBfLW5MNXYzb0xkeXppUkpiREZENkpUbTQ1OHBBd203UjFPQndBUVBXWlBkYnl3NFlvWEE5dzI4c0s5V0dTd2RiTHlMNGZLODRvSHdpRzNfblhac21YSHpaX3U3UTg4d1AwSnFmNzVINlpCbVQwbWxYelYzNFY?oc=5",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-02T13:17:42Z",
       "category": "industry",
       "language": "en",
       "region": "international",
