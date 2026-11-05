@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-05T22:54:57.834191Z",
+  "updatedAt": "2026-11-05T23:50:39.520071Z",
   "count": 120,
   "articles": [
+    {
+      "id": "83d56c0bb4943d76ee89",
+      "title": "This Little-Known Hybrid Grain Created One of the Year’s Most Intriguing Whiskeys - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPam9IVmRIS0gwSWtpVXM3R193dy14WEZBNGFiOG14aFRmcHRPWFVSWEl2SklYTlVDdURrN21wOGZIbTRScnF4amlGTU1DVDdHUTZBOWNJRUNoNUV5c0k2bkZTcTBVTHp0Q2Q2eHE3OEJ4SEYwVnM5bTZQVXRsX1RQRFpXT3NZcGh5QUljdFhXNUZwZFowMk1LeA?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-11-05T23:30:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "cd76e6068817f2af6a43",
       "title": "世界三大珍味の創作フレンチと一夜限りのウイスキーイベント！シェラトン都ホテル大阪 クリスマス限定メニューと「ザ・マッカラン コラボレーションナイト」 - Dtimes",
@@ -316,6 +327,17 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SVlsbU5JdXFkZ0ViSXJmNjlsTHA4RzhsSGRIYS1aUTl0cVB4SGtqTWpSSVB4SGdEal9HYzZQZDZNSjhuWFhSZW1Pa190MzhDU0thOEhNeGdJd21WOHdlUm5YNm1ySFNqeHk3d1I0ekE?oc=5",
       "source": "Excite エキサイト",
       "publishedAt": "2026-11-05T09:22:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "0473e2fe6f975eb3b42c",
+      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ | 軽井沢蒸留酒製造株式会社のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbmNaVVhtOW9VdUt0VUliWWc2dU1idFpBV1hrMEFqSE1pX3NJU1l6RHBWTm1zbW5aMDRfSUVUOHlxLUxqYTB5M3NicEZQUlg0UTYtYW43TVM0bjZ2VUg3ZXN1dlJVY3BwV0E?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-05T09:12:12Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXpmdk1kbk5LdTlFcXN1RFJMUUZQTHJFX1dlLXlzSnNHV1ZTQmdldGlHZEdsVUNfbXc5TFZKZlNVcUUzeGxtQkFPcFNvLXRFR0gtS01tUjNYcFRSd0h3bzU4ek0wTzZEdEhZUzk1ZXdOa3VBeVBFeTNEUTVhWGRfWmd4LUNVV0pjNXRWelE1c012Um9FcEZPdEs5RmJLMy1qa1lPUVRrMHg3Z2JVNEtpdFllWEdQcTFfS1VV?oc=5",
       "source": "Forbes",
       "publishedAt": "2026-11-03T12:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8692d454d7c78d440fc0",
-      "title": "【缶を開けるだけで「沖縄のウイスキー」を楽しめる！】久米仙酒造「沖縄 ISLAND BLUE ハイボール缶」発売（nomooo） - グノシー",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53ZUxjckdoZDYwRk5QUmRJdVBiaGRwUXVMN3BXNE5HNTFJVjJQVDJPODNZYW92UFV0a0tUYzRpYTNQRk5uNHdzTnd1ZlVSUQ?oc=5",
-      "source": "グノシー",
-      "publishedAt": "2026-11-03T11:34:35Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "0beedd7982624a61b446",
-      "title": "Sotheby’s beats its own record for a Japanese whisky at auction - The Drinks Business",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0h3QWhXbnI5OENUMm1CSEtpVFRlenFxMDNXZ1VUYy1SM2RHNzlJMi1TUFpuc3hWTENGYzVfVW9DWXdOUXRrZk1sU0NCam1GZTZ4REJMazJ1WnhGb2NaLThSVzhDU25VWkNJZ2Z6UFBJNEI4Rjk2MTFrejNHQUtKWkIydkk0SHpiOWZQT0RwWQ?oc=5",
-      "source": "The Drinks Business",
-      "publishedAt": "2026-11-03T11:17:12Z",
       "category": "industry",
       "language": "en",
       "region": "international",
