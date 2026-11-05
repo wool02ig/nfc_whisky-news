@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-05T11:13:44.937628Z",
+  "updatedAt": "2026-11-05T12:04:16.223756Z",
   "count": 120,
   "articles": [
+    {
+      "id": "9fe6a979d9c80249da74",
+      "title": "Wemyss Malts launches new Castle Collection series - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjY3X3ZGMUJPdzRHbG12Z3d5dDdlSXNnR0NpVnZKTGlVRDZjSlZNNEZVNVpiamRtbEtoVTFaWEF5Ukg1M1VGYm0yM1lEa0tHemp1TV9rZU9GaEMtVU1DNG5BUDVZdjUzR3BVWW5yM0J3TUxLLVkzM3BxOTdVaTlPeW8xa2hxb1RWa2xzVWVSbk14dw?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-05T11:27:22Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "acb21547be5d662baa47",
+      "title": "1等の山崎18年が2口になった「ウイスキーみくじ」第163弾発売。山崎12年・白州・響などもラインアップ（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Z1RETmtYQVp1UFNhVkVYZThMX2lteVJPMWhIVjc4NE1RR0dLNWpzZzg1cVZwbVNmUnpxR0JDa3NORzBWMUNqQmZBcmRhWEFJbE40a3NaeDJKS2N3Mmc3Ukt2Qk05Y2x5UEI0ZTdsZVJQeWVzcGN6UnM4UHRQRUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-05T11:21:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "2ae910b8cb5f4fcad9ea",
       "title": "CAPCOM ANNOUNCES EXCLUSIVE RESIDENT EVIL 30TH ANNIVERSARY SINGLE CASK SCOTCH WHISKY COLLECTION IN PARTNERSHIP WITH DCASKS - Enduins",
@@ -102,6 +124,17 @@
       "imageChecked": true
     },
     {
+      "id": "db681a0cc6bb18dd4fe1",
+      "title": "Whisky entrepreneurs partner to launch Scottish spirits group - TheBusinessDesk.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWlMd0dXeGJDN3J4aTRCUnpUMERKc1lVWEswMzZRcDRUQmFiTWJNMU5Cb2FWanc0b0lYWThJb3dhWVV0T05ObFZRcnA2amtlcExZVDdYUkt0QmMtREFRYzZFSjB3c0t4OFNxNlVQLWtfTzdzV1d1bUg3SFowWHR6ZkRFTklPcWE1dlp1OWh5TVVDNEhYekJhUDFiZkYwZEVVeGtJYnRTNzdjQ29TQkhRdkh3?oc=5",
+      "source": "TheBusinessDesk.com",
+      "publishedAt": "2026-11-05T09:36:04Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "5ec06badcadf02118fcc",
       "title": "サントリー、酒類値上げ ウイスキーやワイン - Excite エキサイト",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84SVlsbU5JdXFkZ0ViSXJmNjlsTHA4RzhsSGRIYS1aUTl0cVB4SGtqTWpSSVB4SGdEal9HYzZQZDZNSjhuWFhSZW1Pa190MzhDU0thOEhNeGdJd21WOHdlUm5YNm1ySFNqeHk3d1I0ekE?oc=5",
@@ -119,6 +152,17 @@
       "source": "サントリーホールディングス",
       "publishedAt": "2026-11-05T09:11:15Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "13d27f9a7bfed888f329",
+      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - クレアウェブ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRXJBaktUeDRocEY0ODBBSnNrUE55amltc2Z2SGYtNXZjM0c3T3pqTUJwamFZNkIxZnF0VG13Z1ZYX2gwcFJEQ0IzeElSZ2prRHVOS2xEbkhsTDNtUnY1ZDRqNzRSQ1RrdEhzdE1FaHRMdw?oc=5",
+      "source": "クレアウェブ",
+      "publishedAt": "2026-11-05T08:20:43Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -157,12 +201,12 @@
       "imageChecked": true
     },
     {
-      "id": "13d27f9a7bfed888f329",
-      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CVmFCbkR1VEJ1UzZZYnJLcTNIcEdZWFRDUmlEN2tWYUNNaWtwb0tRaERlVjFKeDRldlloWEFNWDB0WlZxZ1BYSDZwRDFhdjNXdzZFVnBySy1tS25CNURMcXFBWjVDQXl6cEE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-05T06:00:02Z",
-      "category": "limited",
+      "id": "7933ba4801caa4cb3817",
+      "title": "「日の丸ウイスキー 常陸野 2027 Edition カスクストレングス」「日の丸ウイスキー 2027 Edition」 12月21日（月）発売 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04bWp3Ti1wMElOSi1QaXVhSTlOZWxMNFUtc045a3o0aDJiM2tPNHB6RXZ5RUZYTURmN3pTYzZkSm1JUTN4Nl9Td2NpRlI2Y2NGTEdJYlV1bGZLOHo5Y3BjWlh1QlRGcmFsdXhfREFpRTBzcnNQdlE?oc=5",
+      "source": "Excite エキサイト",
+      "publishedAt": "2026-11-05T06:15:00Z",
+      "category": "new",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -207,17 +251,6 @@
       "source": "British Culture in Japan",
       "publishedAt": "2026-11-05T04:56:14Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7933ba4801caa4cb3817",
-      "title": "「日の丸ウイスキー 常陸野 2027 Edition カスクストレングス」「日の丸ウイスキー 2027 Edition」 12月21日（月）発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lWVdOOUtGbWNSU210MnE3clI2cHZncG1YRU4yT2JWenZfWVV3dE51dnFGNXJ0aUhJUXo4SHBsNzRVbVJ6enZ6aG4xT1E0ZjFRdGwxVk1vczFaaUNjUUE5blJRN3VQcnh4SVE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-05T03:00:02Z",
-      "category": "new",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1288,39 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/indias-own-whisky-makers-join-the-fight-over-the-bulk-scotch-tariff-500x256.webp"
-    },
-    {
-      "id": "13d051808e5ffed82967",
-      "title": "【発売開始わずか3分で完売！】160本限定「シングルモルト長濱」掛け軸シリーズ第2弾！公式オンラインショップの一般販売 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43Z0VLNzFfaGJZRHhHZTFTeWlZb0hYdGVidUNpeWozbm5hYUdLcVM5MFRWTEl5NXNyRHdnMlF1SU5BNktsNkNjR0xrak56U0ptMTJ0MzRrSXZZQmNnd0tsZ1lRaHh1YVg3OXc5UThwRTY4VVZQTGYtMFRwRQ?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-02T18:51:24Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a8de959715f6ab5669a8",
-      "title": "三島市ふるさと納税 返礼限定ウイスキー登場 「水の都」をＰＲ - 伊豆新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0Rk0yTnJVLTQxYW1CQk5vbWxuY3pnWTZ3TnNVVzhPZHZxTExRc1N2T2lSX3FuYnRBQ1J4V0FJSHVOckVVSVJyV2hwUVBYWXVSWFRXM3VDbjJvWlBoS2c?oc=5",
-      "source": "伊豆新聞デジタル",
-      "publishedAt": "2026-11-02T18:33:18Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "803bea959e1cb3656048",
-      "title": "New shipping service set to boost Scotch whisky exports - Drinks International",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOG5lVWJIR2pUdHRkSkdYSTJ2RlZVbkZjLUxoM0xFNlVHMzF4TjhTNTFoV3hhTHFuNHlxRGM2SGdJaUxGOF9USVdvSmRkaGRHSWw1cGRiTEhPS2dTbERaTWNuMmREaFVib3NXQzR5MjRxOTNSRkYwcGxwNE43bU1KQTJRa1U?oc=5",
-      "source": "Drinks International",
-      "publishedAt": "2026-11-02T18:28:28Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
