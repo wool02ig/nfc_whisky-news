@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-05T15:04:26.588082Z",
+  "updatedAt": "2026-11-05T16:11:10.120128Z",
   "count": 120,
   "articles": [
+    {
+      "id": "32bc44ed0915031f44e9",
+      "title": "WhistlePig Unveils New Limited-Edition Creme Brulee Rye Whiskey - Parade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VdU5sbWMxU1k4Uk83NndGdWp6RTBPdS00WE5Xc0RzaHZ6aURJYlNXSjR5U2dCcThVZEM5VmN4Q05JMXlMUFVLU1BZb3NEbXJUam1GcUxQU1lpRnJyNWEwYklHQVhpWTNob0ZoMFhsaWVyMU13bFAxdkJSQQ?oc=5",
+      "source": "Parade Magazine",
+      "publishedAt": "2026-11-05T15:24:12Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "8526c34be7f687db2b58",
       "title": "7 Bourbons Every Scotch Whisky Drinker Should Try",
@@ -124,6 +135,17 @@
       "imageChecked": true
     },
     {
+      "id": "bee794d79b0c26754592",
+      "title": "15 STARS Launches First West Single Barrel Bourbon Program",
+      "url": "https://thewhiskeywash.com/whiskey-news/15-stars-launches-first-west-single-barrel-bourbon-program/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-05T10:33:02Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/15-stars-launches-first-west-single-barrel-bourbon-program-500x256.webp"
+    },
+    {
       "id": "fb76e959242cf851760f",
       "title": "Whisky veterans launch spirits group MBH Holding - Daily Business",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzlFX09QMkQtbHNvOXBRdDFTcVEtUFNBcV9TTUdrd3QybURxbFJ4U3daVTJFNktqQjRzWTl3QUJOY3dlMmlBbXVPMXhLT2lBWm9qb1VwR2lTcU9BLWpyRlJIZDhTaWI5OGIxQTcyRjhUWktMTC1oZlRNd253QWRrSjVCWUs1X2hjQ0c5Nk5aTkZXU3Fo?oc=5",
@@ -143,6 +165,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6a7b15bd0ea7d6f59f8c",
+      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ - クレアウェブ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KRkxMeUUwRmVjTHkxR3hrNVd0NXpJZ0ZQYnZQV3BnV1VXWHJGX2JGc0VoUWdoc2U1cGJ2YWdNMk83T2VPMWlWUk12YlBWeHVHSXVoSUhMVkR4UUl2ODNtNUNXYjIxaGFmLWdmTmt4UFV5dw?oc=5",
+      "source": "クレアウェブ",
+      "publishedAt": "2026-11-05T10:22:28Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -201,17 +234,6 @@
       "imageChecked": true
     },
     {
-      "id": "6a7b15bd0ea7d6f59f8c",
-      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbmNaVVhtOW9VdUt0VUliWWc2dU1idFpBV1hrMEFqSE1pX3NJU1l6RHBWTm1zbW5aMDRfSUVUOHlxLUxqYTB5M3NicEZQUlg0UTYtYW43TVM0bjZ2VUg3ZXN1dlJVY3BwV0E?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-05T09:12:12Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "13d27f9a7bfed888f329",
       "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - クレアウェブ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRXJBaktUeDRocEY0ODBBSnNrUE55amltc2Z2SGYtNXZjM0c3T3pqTUJwamFZNkIxZnF0VG13Z1ZYX2gwcFJEQ0IzeElSZ2prRHVOS2xEbkhsTDNtUnY1ZDRqNzRSQ1RrdEhzdE1FaHRMdw?oc=5",
@@ -239,6 +261,17 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Pa3FmS3NGSFpCUXh0RlpaczU0b25TNExqSm1XM3JzeFBLbEdPc20tbVFqUE1lY3Q0UFdSUmhuTFVfZXVSNURkQnlheHlmMl96YWh6VDlqS203a1RxU3FQSVlzaVZHYlhfaExnbGZiaw?oc=5",
       "source": "サントリーホールディングス",
       "publishedAt": "2026-11-05T08:07:30Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "8a7c60a66b8a630cc9f0",
+      "title": "アストンマーティンとGlenfiddich、Glenfiddich 28 Years Oldを発表 ２つの世界の絶え間ない進化から生まれたウイスキー - AGARA 紀伊民報",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ld2J2MTVHNVZuSE43RmhWc2plWUFLTTNOOXF6M21jVWh2VXFsOFJ0eVV1VVU4STRlbGdReDZIUmxZWG83WFprTVRJbUdCTUk?oc=5",
+      "source": "AGARA 紀伊民報",
+      "publishedAt": "2026-11-05T08:07:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -1287,39 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "fb6d288077ae5130c469",
-      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」の一般発売を延期 (2026年11月3日掲載) - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpczNEMXRMQmFEXy0zMEVmcEtRVzNwZnhqc05hOE9BZUtDZENWOXdOSkdhSEIyM2wxOTBDN3NYWnhBZ1lYZng3eDF3ZmJjNGZFRzcxeFhJaDRkREVoajZWQmZ3?oc=5",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-03T06:00:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "aee3562526ee89f0dc15",
-      "title": "Exclusive: Scottish Labour MPs under pressure to block UK Budget whisky tax hike - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVJ3NkhYUmlmR1dIcHVneGV0TWZhbzNIUV9ZSHRFNHZNOHo3MlBCT2FzeWxSNGY3OHNVU3ZYOUc5T3BwcjE5UkRJYzdQc0xQQkxiS1FzeXVQVF9YY3phek5aMFhBeXB5dWVOQUozV0tBSC1ScFJOd2o0Y0tMSkw1Y01qTzhfaEtfRjN3VzdDRTVqcTJUQUpVN1hUY3p2bW1WNWZhbURDaVJfbDlVbmFOelRoZ1kzREE?oc=5",
-      "source": "The Scotsman",
-      "publishedAt": "2026-11-03T06:00:00Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1b7044d04de37ce98b93",
-      "title": "United Spirits: Centre Acts To Safeguard Bulk Scotch Duty Benefits Amid Classification Dispute - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHFEcTBETFNoRlZGbk1NS1F3Zm9zc1ZneTRpWWZEdXFwazRJeFJ0TmxST2I2UkxPMDM1V211S3F5TEVpRDRWVG5pamg2Z2s1WlV0anFycklQY2tWZHAydDVHcHJPdWlLaGVYZUlGVWNFQXI0ZDM1TDNfS2ExMnFfV2RUTzkwUmJxcDctT3V1eXVJNWQ2eENtWDVybUl6ZFRQQlJYaU8zSkh6VHk2MmV6WDl3ejVSY2hMNzl3?oc=5",
-      "source": "Sahi",
-      "publishedAt": "2026-11-03T05:43:09Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
