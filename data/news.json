@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-05T17:22:35.204238Z",
+  "updatedAt": "2026-11-05T19:02:28.532197Z",
   "count": 120,
   "articles": [
+    {
+      "id": "c31c8e80c4fb174787a4",
+      "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM1FyRGRHMGRMZ1NiNzUyMDZTSjkzMDZYUktBcWV5bmdacTBDU0VHVlhqNVBvQ25INkpyWEVzbkVEbWdOQk5JaWh3dnRwdXRZS0xKQUFPVzFzUkd3M2dJSDdsNUNRWE5HMzI1X3hERTlINUtJeDBOWVlMNGJ0a1phVVg2TS1uVTd4d2tzRWQ2WXR6bkNTQnFkNzVrVkFvYmZhNDZqUlpKdGZSd21vMnFrbjB6XzFwamtKeUQtYkI1Z29IYlh5aW42eUxJMWl2RWlCbHFCSU84SG5JTkRaNzB6REkweDVxdw?oc=5",
+      "source": "Morningstar",
+      "publishedAt": "2026-11-05T18:28:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "db681a0cc6bb18dd4fe1",
       "title": "Whisky entrepreneurs partner to launch Scottish spirits group - TheBusinessDesk.com",
@@ -176,6 +187,17 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "71da4c80567d474d2324",
+      "title": "The best Scotch and Japanese whiskies to add to your collection now - PEAK Singapore",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXdjWUk3LV9nQklfMkVGN05VaGFHbzFqS0trbDAxWmEwUEFJMFg0SkFhTXhrRnFVX09ha1lzSGt4TFVHSzZIbmJuWFJvNDBBR1NtelBNeUVmdGpOd1NFZERuRVBfMDZKNmVKWDFMbHJnc0dQRk5ZZ1VyUVY4MGdYTDBPS2dvRll5Uk9ydU85dm9GN2Izb1d0Z2o5NkNJOWZQaThobw?oc=5",
+      "source": "PEAK Singapore",
+      "publishedAt": "2026-11-05T10:44:46Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1114,6 +1136,17 @@
       "imageChecked": true
     },
     {
+      "id": "9becb9674346bd180a8f",
+      "title": "We Tasted Hundreds of Bourbons. These Are the Best Bottles of 2027—From $19 Bargains to Rare Finds - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeURmWi1qMmRrRnFoa2FIbzdKYnFUNm9neFR1akxfWDJtWDFyLVdDdnZyamk4RHJCZ1JTNmIyeEZ6TEtJdjFaQ1BLWmpMandIS0g4OXFuWkhzR0pQRmJQTGNOSlVGUmc?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-11-03T13:26:58Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "4ba31c70ebae0430faaa",
       "title": "Bulk Scotch whisky imports from Britain-India rise by 1000%: Trade deal halves import duty to 75%; August i... - Bhaskar English",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzQ0OFVnRlotUmlCQ2p3eGVJZEFjTEdUTnEwMHlDZmlibE5QaFRSNkR0VDhmYTZnRWhmcHhyWnllbmlFR0ZWN0M5UVlwOUxlYTdkd0Nlb3NTNWxlMzVYS0J1UUJmY05ybzRHMHhWbkFEa1VfZ0QyYVVLbE1HbEl3UXU2YU9WODh6RHlTN3JxanJXV0JUeHpqQjNuc2g3c2hzWlEtaEtUUWNfei0zMzFwc1g5Z293S2VOQVHSAb8BQVVfeXFMUDQ4UVlGQTNJaDVMTXd3bHZZSzJjdzVuTHJqRG9vTUM1NDhMU1lYYkE2a0djSklOWFR3TVBibmVkQUJXOWFDYkVzWFh2SXFPN1c2czJLVDQ0a1dhZWNHQ09pc1NtWDl6T3NMQUZWcC0zOUFteFIwRWFfWjF4Ul9QTlNkdWd2Q0RaSHNRY1J5OXY3cjdXWE52LXJJYnh3cjdLS2xab3lIS0RFeVY4d2tMZG9zeUpqU1FWNUF0Y0xrSFk?oc=5",
@@ -1287,39 +1320,6 @@
       "category": "new",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "48444a91d0608afb17ef",
-      "title": "Labour 'would not hike taxes on Scotch whisky if it was English', SNP say - The National Scot",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWliWXlNY0NBWFdFS29URHctR1RaczlWYmxNZ09mVExMMlNFVThLYkpKc1ZwNDBRd0RYc2YzZ1p2OXR4Y0x4SVExNk5yRkNvVThYMHhkSi1LUktIRDBqQWp4V1FjWWhQWkhBdmF6MlNsOHNPMHRjNnZzRVdWNFNvdGxjWEFVZC1WT0lZM0FrVnlaNlJkUTRDdmlSLXE?oc=5",
-      "source": "The National Scot",
-      "publishedAt": "2026-11-03T08:32:38Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f8beb5f546217c5c1ca2",
-      "title": "トップバリュ こだわり抜いたウイスキー「シングルカスク」「シングルモルト」５品目を数量限定発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFaEdneGx2emM0V3FnN29GTllZRFJiMFQ1c0pMNHZ1X2xTSTZhazZOV2ZWa0dxMElSUGMyckxwbnB0WFBObVlwWmlYUHRmWHJTa3g4VGRwMlo0VFVrelEtVkJwRklza1lsWnc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-03T08:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "866f235551aeeb5f1b58",
-      "title": "三島市｢ふるさと納税返礼品｣に地元蒸留所のウイスキー 高額寄付で｢樽オーナー権｣も - 静岡新聞DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yQ05tTC1SUml4ZzhhWWtwa2RvalA0NnMxWjgySTc1WGVpQmk0TFZwYjRnWjR6cnlHTm5ya3IxVDhybW80OFZjTURmRGxGQQ?oc=5",
-      "source": "静岡新聞DIGITAL",
-      "publishedAt": "2026-11-03T07:28:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
