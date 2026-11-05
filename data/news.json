@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-05T13:19:23.366764Z",
+  "updatedAt": "2026-11-05T15:04:26.588082Z",
   "count": 120,
   "articles": [
+    {
+      "id": "8526c34be7f687db2b58",
+      "title": "7 Bourbons Every Scotch Whisky Drinker Should Try",
+      "url": "https://thewhiskeywash.com/whiskey-articles/7-bourbons-every-scotch-whisky-drinker-should-try/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-05T14:30:32Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/7-bourbons-every-scotch-whisky-drinker-should-try-500x256.webp"
+    },
+    {
+      "id": "ed56d61a3b5f179df09e",
+      "title": "Whisky entrepreneurs form £16m Scottish spirits group - Food and Drink International",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVFvMjBacXFycThCd1BoZFMxamRBS1JISElBN0FqYkpCbGtxNmVtY2o1aEppZFNReXRxSUs0azQ5azFIeHIyYWptblpnVjNBaFJ2aFZ5VWIzOE16WDJKOC0wWWVYTTdxQlN3d1p2WWJLQlk5RHpXWFd5dzNZLVd2QkIzMk1NeTBKLWRpa3JFLXJrVWhIMHc?oc=5",
+      "source": "Food and Drink International",
+      "publishedAt": "2026-11-05T14:22:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "58c70c314f01330272fe",
+      "title": "The New English Whisky GI: What It Really Means For The Whisky In Your Glass",
+      "url": "https://thewhiskeywash.com/partner-content/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-05T14:00:17Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass-500x256.webp"
+    },
     {
       "id": "2d0e9afff130315782f2",
       "title": "Why Tomatin’s Cù Bòcan Creation #9 Is An Absolute Bargain Whisky",
@@ -18,7 +51,7 @@
       "title": "Group of veteran whisky entrepreneurs launch £16 million Scottish spirits group - The Herald",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUJEbnhNbnFGM0hjSGdScUtTNnRKenZnQlZCbWt0LXVKdElmNUc3YlFtR3lHREtfRHZuWXV3ZW9tWWYtWjNsMi1ES3FRaHBoMUQ2ZkoxMmlLbENfeG1JQmxhSU9LYTBXM3l3TzlwZERWdk5QSWpGc2VWendKVnZXVTZWVVZZRUJTLWxObWNMUHdmRTNjQmRmOEhGbENfLTdtb2c?oc=5",
       "source": "The Herald",
-      "publishedAt": "2026-11-05T12:10:55Z",
+      "publishedAt": "2026-11-05T12:16:53Z",
       "category": "new",
       "language": "en",
       "region": "international",
@@ -47,11 +80,11 @@
       "imageChecked": true
     },
     {
-      "id": "acb21547be5d662baa47",
-      "title": "1等の山崎18年が2口になった「ウイスキーみくじ」第163弾発売。山崎12年・白州・響などもラインアップ（グルメ Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Z1RETmtYQVp1UFNhVkVYZThMX2lteVJPMWhIVjc4NE1RR0dLNWpzZzg1cVZwbVNmUnpxR0JDa3NORzBWMUNqQmZBcmRhWEFJbE40a3NaeDJKS2N3Mmc3Ukt2Qk05Y2x5UEI0ZTdsZVJQeWVzcGN6UnM4UHRQRUU?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-05T11:21:00Z",
+      "id": "bdb3df79bcc919a97d9f",
+      "title": "1等の山崎18年が2口になった「ウイスキーみくじ」第163弾発売。山崎12年・白州・響などもラインアップ - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BMTlvSmhZbzF3ZEF6R1FyMnNEbjJHQkVKaGtpeDJ3c21weXkyZmp4Ul9JbExkdkdSZHk0d0JrT3NWM0Q3TkpKcHRPVWdxeHMxWTVtc1B2Zmd5Y0pGVE9jMmFEQXdsa1k4X1E?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-05T11:21:01Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -113,17 +146,6 @@
       "imageChecked": true
     },
     {
-      "id": "6a7b15bd0ea7d6f59f8c",
-      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KRkxMeUUwRmVjTHkxR3hrNVd0NXpJZ0ZQYnZQV3BnV1VXWHJGX2JGc0VoUWdoc2U1cGJ2YWdNMk83T2VPMWlWUk12YlBWeHVHSXVoSUhMVkR4UUl2ODNtNUNXYjIxaGFmLWdmTmt4UFV5dw?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-11-05T10:22:28Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "48fd88cf895aad1bf6db",
       "title": "Five whisky veterans form MBH to consolidate Scotch sector - Larder Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWV4M1l5YlVFQ1RWQmxYS2V3dE04REZOaDRjV3FCRVctRm1TWDBlcFg4VjBoaDNLSkZVQ2g1UTg3WG5NcnBMQ3Nyc1RSMWYwcWxuN2tKTXVBNEFxSzJjamdwS0hTRXpYd0pnZWpqaE9wSjFrY01ZcmJqRllydnBidnZKRmpqTWJnRWlz?oc=5",
@@ -179,11 +201,22 @@
       "imageChecked": true
     },
     {
+      "id": "6a7b15bd0ea7d6f59f8c",
+      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbmNaVVhtOW9VdUt0VUliWWc2dU1idFpBV1hrMEFqSE1pX3NJU1l6RHBWTm1zbW5aMDRfSUVUOHlxLUxqYTB5M3NicEZQUlg0UTYtYW43TVM0bjZ2VUg3ZXN1dlJVY3BwV0E?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-05T09:12:12Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "13d27f9a7bfed888f329",
       "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - クレアウェブ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRXJBaktUeDRocEY0ODBBSnNrUE55amltc2Z2SGYtNXZjM0c3T3pqTUJwamFZNkIxZnF0VG13Z1ZYX2gwcFJEQ0IzeElSZ2prRHVOS2xEbkhsTDNtUnY1ZDRqNzRSQ1RrdEhzdE1FaHRMdw?oc=5",
       "source": "クレアウェブ",
-      "publishedAt": "2026-11-05T08:20:43Z",
+      "publishedAt": "2026-11-05T08:20:21Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -216,7 +249,7 @@
       "title": "Aston Martin and Glenfiddich unite to create limited-edition whisky - Insider Media Ltd",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlVTelFKZXhPR0VuRXFGUlFpVUhQY3plYjB6dWJvQWZ4ZndiTV9zRlVkaXRzQTZmeXdrU3VreWdLQzF0bkpMek1weFRUSkdDRjFWVDlXMEtSQWw4ZGNYalVZTW1pVHdJT0I5RExtQmg4TWhhdzZYQmswRFRTY2x4M0hvcUlUUlhsNUk1WjVYU0VmNkExcGxlU3J2OGZaTElJX3hDWmxHRV9XenRUMHc?oc=5",
       "source": "Insider Media Ltd",
-      "publishedAt": "2026-11-05T08:03:45Z",
+      "publishedAt": "2026-11-05T08:05:42Z",
       "category": "limited",
       "language": "en",
       "region": "international",
@@ -1285,39 +1318,6 @@
       "source": "Sahi",
       "publishedAt": "2026-11-03T05:43:09Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "31bd979966820cd37aea",
-      "title": "India Assures Scotch Whisky Industry of Lower Tariffs Under UK Trade Agreement - Bold News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFRtX242SFMtRVVWSGpJMkFKbDZWUDVJS004OUMwbFRlV3ZhZExFd3ZaSjVwVWNVc05QUHBhaGROVEdCUlpyWmEzYnJmVGJDNmFqVjRnTTF6eUFRVFdMX3NvR2x3dU9VemNwMmJWeGg2b0ZIeFZORVp5dG1LVTFHenV0Y01aREFxQzJxX1pvbWpvY016cnlTbDFrMDROQ0xLWW1oQU5zUVhVUQ?oc=5",
-      "source": "Bold News",
-      "publishedAt": "2026-11-03T05:01:50Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a94a97b074cc1fd6cc92",
-      "title": "【旅レポ】醤油蔵とウイスキー蒸留所を巡って奥深い但馬グルメの魅力に触れる旅へ。兵庫・養父（やぶ）の“道の駅隣接ホテル”を拠点に2泊3日 - トラベル Watch",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rYmJVTVVUQkVsaTlhNmRmU0QtNF9iNWY4UXlEOFRPR2pVQVlZMmlwbnFZVWtOdkF1QVdBMHF2X3N3Rl9yRVhqR3NxQ1diUTZXa1d4dHZnSDVfQXdNOXhWQ2hoNmVTZTFlVGJGTUF5aFdyV0lp?oc=5",
-      "source": "トラベル Watch",
-      "publishedAt": "2026-11-03T03:00:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "2845acf6d1196838de0f",
-      "title": "Midleton Very Rare - the Pinnacle of Irish Whiskey - Launches 2026 Vintage - BevNET.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR040UkFOX0NOYVl2TmQ5UW9VdnI1LXc2OGFDYVNqVld3Z3U3czR1RUI0b1gwMVJSdzlIODIyM3g0X2VaRWxUekVJM25tbEtEYkxSdnV4eWtTYnFqc2VLOUNwZFlRamRSS2FvZjZLbnc2VDBEYmZkU21rTEtERk9WaUFUTlZ4RktiSXhnZE9NMklZQnBLczBRcVkyRV9Ka2lNWFh0ZldjZFJuWG9ta1E?oc=5",
-      "source": "BevNET.com",
-      "publishedAt": "2026-11-02T22:19:33Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
