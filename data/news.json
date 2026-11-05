@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-05T12:04:16.223756Z",
+  "updatedAt": "2026-11-05T13:19:23.366764Z",
   "count": 120,
   "articles": [
+    {
+      "id": "2d0e9afff130315782f2",
+      "title": "Why Tomatin’s Cù Bòcan Creation #9 Is An Absolute Bargain Whisky",
+      "url": "https://thewhiskeywash.com/whiskey-articles/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-05T12:30:51Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky-500x256.webp"
+    },
+    {
+      "id": "8593742b8918e5551328",
+      "title": "Group of veteran whisky entrepreneurs launch £16 million Scottish spirits group - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUJEbnhNbnFGM0hjSGdScUtTNnRKenZnQlZCbWt0LXVKdElmNUc3YlFtR3lHREtfRHZuWXV3ZW9tWWYtWjNsMi1ES3FRaHBoMUQ2ZkoxMmlLbENfeG1JQmxhSU9LYTBXM3l3TzlwZERWdk5QSWpGc2VWendKVnZXVTZWVVZZRUJTLWxObWNMUHdmRTNjQmRmOEhGbENfLTdtb2c?oc=5",
+      "source": "The Herald",
+      "publishedAt": "2026-11-05T12:10:55Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3c3ebf31bac702aba39a",
+      "title": "Teacher’s launches its first range of single malts - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjFZY0ZPWXJ2MzBTTmNhMWxrV2lKQWwtcVA5d3Zja0JWMHhMbjZaeUJJQWZ6ZVFxUHZCZm4xR2hLRzJUMngycXBFd3NOYjBsVEktdjlvS0tHWnZmZm1lMXByU2cwM1VSR2xQZTVQM0VFNDhBUG1ibXFBeGU3ckZqZWVXV3huTjB5QjBtMFBqMUE?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-05T12:09:57Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "9fe6a979d9c80249da74",
       "title": "Wemyss Malts launches new Castle Collection series - The Whisky Wire",
@@ -146,17 +179,6 @@
       "imageChecked": true
     },
     {
-      "id": "860d8fe0a65795046220",
-      "title": "ウイスキー、スピリッツ・リキュール、輸入ワイン等の価格改定について - サントリーホールディングス",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TElMTjFVTUJJVC1Pei1UdW4wRGV6WHpOWnI3X2ptbjVPZkRTNUlxNTRCcl9lYjRmQ3FSMmlmR0lxRkVjNmlILUVaM3pzMUR4RjlMZ0VXUU52Mkt5RzBjVEFBcFY?oc=5",
-      "source": "サントリーホールディングス",
-      "publishedAt": "2026-11-05T09:11:15Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "13d27f9a7bfed888f329",
       "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - クレアウェブ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRXJBaktUeDRocEY0ODBBSnNrUE55amltc2Z2SGYtNXZjM0c3T3pqTUJwamFZNkIxZnF0VG13Z1ZYX2gwcFJEQ0IzeElSZ2prRHVOS2xEbkhsTDNtUnY1ZDRqNzRSQ1RrdEhzdE1FaHRMdw?oc=5",
@@ -173,6 +195,17 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ITWNhVDZKUGsxSkFCeWY1Y0xsaEl1aEtxbG9mU3VMdXNobnAxVC1ORTZHcHJmWU5pSVV3cS14NWJucnRZZUJFYXkzLVFEYWt6MEF6MXJIS1Z4ZFg2RUJGQlNONTZ6ZEF5aFI0cWZR?oc=5",
       "source": "https://intensive911.com/",
       "publishedAt": "2026-11-05T08:09:56Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "860d8fe0a65795046220",
+      "title": "ウイスキー、スピリッツ・リキュール、 輸入ワイン等の価格改定について - サントリーホールディングス",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Pa3FmS3NGSFpCUXh0RlpaczU0b25TNExqSm1XM3JzeFBLbEdPc20tbVFqUE1lY3Q0UFdSUmhuTFVfZXVSNURkQnlheHlmMl96YWh6VDlqS203a1RxU3FQSVlzaVZHYlhfaExnbGZiaw?oc=5",
+      "source": "サントリーホールディングス",
+      "publishedAt": "2026-11-05T08:07:30Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -1288,39 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "09bc656ca514b8c5ccf3",
-      "title": "Woodford Reserve’s Popular Double Oaked Lineup Just Got a New Rye Whiskey - Robb Report",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanV4Nk51QTg3WldIaDBOWllDbUNYd1BTcDB0WTBCbGtrMldhWG05R2JfRjktUEJuZTMzNFZWUGdSbjhMWm1mSU9Kd0QxVVdYMmJOdy1FWXhnMUhDbGVtRm40LTJrbklUWkRQb2ZIRWtMc3NFNy1hLTRxVlRaUm1oblhmanN2a2pHQk55N1F0S25EeUEzUnBpWFdIUQ?oc=5",
-      "source": "Robb Report",
-      "publishedAt": "2026-11-02T22:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7b1f8bb2e385f5c9a762",
-      "title": "Diageo Canceled a 25-Year Whisky Tradition. The Reason Isn’t Falling Demand - Inc.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1F6SnhEcDZzUUpWZUw5ODJYYWEzMzJCODBxOGVoZlZoUkJVbk5jY3FKRnB3Q2k1TDJSNUNkOFkyUC1FQ3diNW5JUzF2NTN5WVpiZnVzWFZMN29HX2xET3NrNVRsLVVUQzdmZEJ6bDVTQTI2VkRidDItaFlXMXFBZFA4TGFTQ2ZZNWxBdEZwN3RCWlg5UklocmZBeGg0VDBhSk5FNW1vRHJ0ZllHLUlIUQ?oc=5",
-      "source": "Inc.com",
-      "publishedAt": "2026-11-02T20:39:19Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d5e572de56e197c53f56",
-      "title": "India’s Own Whisky Makers Join the Fight Over the Bulk Scotch Tariff - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVG1YVjFjX09sb3FqQ2R4Sk0yclphNkFfa2dsWXlDMjZBLURCT1RhOFRtTWdPcV9ySGV6OThIU0ZEMjEyNEM2Q0NiVGRxWWlZR25sRkRTb3QydExMaDhzX3JBTTdkWWd2WG5Ja1VYcEVHeUQ3UG1OQlJmbU5TaDNQSnF5ZHZhUlRfM1dLNjVwZTA3N3dVYUNHLXh4ZnZCWWUyOVZGUUllWmc0NGts?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-02T20:11:07Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/indias-own-whisky-makers-join-the-fight-over-the-bulk-scotch-tariff-500x256.webp"
     }
   ]
 }
