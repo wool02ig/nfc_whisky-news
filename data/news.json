@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:08:34.027293Z",
+  "updatedAt": "2026-11-05T07:27:07.286025Z",
   "count": 120,
   "articles": [
     {
@@ -14,6 +14,17 @@
       "imageChecked": true
     },
     {
+      "id": "4a712e8c3babdc95904a",
+      "title": "Exclusive: Whisky duty increase will reduce deaths, say health campaigners - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVNCVnNfWlBKUm1kcDUxSXlVQWNtZVhYaG1FQm5QTGNWdy10bmZYY3A3YW9xMElkSXlvcV8tLTVjdlBoMTFydmRoeWl5Zzk1ZklTQkRsSHozWTZ0UF9yc2J1OFRFeXR3U1BNLXVZd3ZZaGY4b2E2Q29aX3JBR1JXRlE4N1F6OG52TTZ3a2lmaXduUnRmRndic2VBamZjTmpKSkQ5X1RTRDVkb240MlE?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-05T06:00:00Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "16448a997f700e150c1b",
       "title": "Delhi may offer cheaper Scotch whisky after Diwali - Spiritz",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSG5ldTI0MGMzXzhNLVFUMmxOLUNycERhYzdZRUk4dEJuVVZNZGxTeHN5eUJ6bVpWYzZjUExrMC1rUmNvSjQwZFhHMmIzaVNZSkdfTXRHOFNpREI4QTJyc2ZERF9ZaDMxM0xjTG4yMDNYVU9tR203bHZHRktfUmZCenNfcXgwUzFkcTd4aXh0ZmVLaGhf?oc=5",
@@ -25,23 +36,23 @@
       "imageChecked": true
     },
     {
+      "id": "52039f29506b9c722176",
+      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSzB6R3pMMTRXdTJSVV9raHktOGpqSFVBdnMwZUpfN19wcXdubHVTc0Ntcm9uWl9TMjZUNDY4aUc2Vy11ME1XekJIV0xIaWZkcUljYVFxdDBla3dzb1E3R3EtN3hOMnVIWllvcnY2VkY?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-05T05:31:00Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "60e5e434ab973b38f1aa",
       "title": "ロイズのアイラウイスキーチョコ限定発売！種類や価格・購入方法 - British Culture in Japan",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENzBPdzRfVE5fc2xiSEx0bVExQ3NsVkEyMk15RG5YLUY2N2pHS0ZvYW4taHg4WHdiVGVZU3dMRkdZTUk3ZG1HYkFyUQ?oc=5",
       "source": "British Culture in Japan",
       "publishedAt": "2026-11-05T04:56:46Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "52039f29506b9c722176",
-      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 高知新聞",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWDZnR1BYeU9DaDdQcHM5YlRIUllONG5XaE9UeEdzZmt4VHRwd1pCdElNNUhLdFJmZUFlRlUtVmdMalRCQ0RZeXpaQ0tyWHYtaWhfLW5oUWtWSDliWnRF?oc=5",
-      "source": "高知新聞",
-      "publishedAt": "2026-11-05T03:15:00Z",
-      "category": "new",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1097,17 +1108,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanV4Nk51QTg3WldIaDBOWllDbUNYd1BTcDB0WTBCbGtrMldhWG05R2JfRjktUEJuZTMzNFZWUGdSbjhMWm1mSU9Kd0QxVVdYMmJOdy1FWXhnMUhDbGVtRm40LTJrbklUWkRQb2ZIRWtMc3NFNy1hLTRxVlRaUm1oblhmanN2a2pHQk55N1F0S25EeUEzUnBpWFdIUQ?oc=5",
       "source": "Robb Report",
       "publishedAt": "2026-11-02T22:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9da4a3949de14b766390",
-      "title": "Scotch Whisky industry warns fourth consecutive spirits duty rise will hit sector and consumers - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOXzZLSU1yczNPcFl1akdFSVlielJNVG1nU1QzRGN3SS13LVFBckQtczBEWWV3eTBCSmZ1NWxHUXJDMU11NzZzdWdrc0FDVlR6MVN4ZEltVmtQaGl1WjU5c184ZUdvZFVQakJjNTFxU01nNjF4WFQxRFQ0Y1F4djBVTi15cDFxajZmWTJGMkN2c25SUjRQRW1lZXloWl9KYk1HVEU1bG9Md29WRk91VUItaS1wX3h5OTRDa0VqX0FZWHNXWVdDSWdHNDJiY3I4UQ?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-02T21:13:31Z",
       "category": "industry",
       "language": "en",
       "region": "international",
