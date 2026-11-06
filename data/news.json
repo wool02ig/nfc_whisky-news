@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-06T21:48:33.028530Z",
+  "updatedAt": "2026-11-06T22:50:09.743547Z",
   "count": 120,
   "articles": [
+    {
+      "id": "85fbc277c42219cc3fa7",
+      "title": "6 Scotch Whiskies Under £500 for an Ultimate Collection - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2pqZzBNQm1KcEt1UTVuTjA3alNheTZ2ekhJZGxvMDhJanhpeE1aYkpkVXNCZUNXUVJKWlk5Uklwc1o2NHQzUS1OblA1S3FqYVZzb1BBNGhLbFB5b294cy1abTVPMGxJeWExZ1RSN002aGl0RExrQzRFQVIwQXBzV05B?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-06T21:31:38Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "04d07cab860f7807a862",
       "title": "第７回吉祥寺ウイスキーフェス2026 11月20日（金）より開催！ - ニコニコニュース",
@@ -1307,17 +1318,6 @@
       "source": "Yahoo Finance",
       "publishedAt": "2026-11-03T22:57:55Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ce3aee8124c807e35351",
-      "title": "CaskID estimates U.K. Scotch whisky cask prices fell 28% from 2020-23 levels - Vinetur",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGdFZnB0T25kdmN6WDB6MFpxN0tOUkNIWmx2NlhaVzVTTjI4MDFsN0hYZ3IyRlJMS2pTT1BPR1MyZUNWeXpVdmhwU3poYkphUnpPUHppSkpJYnQxVGNnbkVWcjVWUWo5anE2eVBScFlYMU5pVXk1UmJoakpJZ3g0ZkxwWmRabnhlNnY4bXNJbk1DRnRzZkVQOWhYOVdNTGFOOVY1Rm5LVHVUUWFmS3d1czNBTzJMS19uTUNYcNIBwgFBVV95cUxNSjV2Ql9XeG14ckZURDlGSGNHMm5QLVhYcUF2bGE3clk2NnpXSE9KOGxoTUE4OVRZdVhoZHRPWHo5aUVzbVZQM2RtRlhyR2ZLaXdrYkkzNDRTS0hGZGVoSl9QdVhVSkdWbW9jbWxjMElHYlU4QVozYU9FcnU1MUUzRHUwX2MwWW9Ya2pvMTZHckJmS1U3YS1hUk5NenB0QnZUcTBuLUdPWFZOY3ppLXR4ejlfNHVGbWJGbTAtNFpIYVV1Zw?oc=5",
-      "source": "Vinetur",
-      "publishedAt": "2026-11-03T22:06:44Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
