@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-06T11:10:38.764078Z",
+  "updatedAt": "2026-11-06T11:58:08.480583Z",
   "count": 120,
   "articles": [
+    {
+      "id": "06d71b610a4ab895a951",
+      "title": "How Ardbeg became the low-key whisky collector’s dream - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVNOalVBMDRoelc5c2taNlVFUm5uak1Gc093b2ZaQTlUTlpOY2w2ZVdqVW1Wa1hYN2hPb2haemxXMGg0clNMSGJER3RoTTIwc3BFaER0ZElyNDNTTXNqejJXVVpyVU90b2hhVzBFcTNnU1NZUGpsaTRwNmxrYXVIV2c2dXBmeWZWU3B5QmpEYkRPemczTWxnUU42c1BEUQ?oc=5",
+      "source": "The Spirits Business",
+      "publishedAt": "2026-11-06T11:26:41Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "4c30ec5e3db43c6489ab",
+      "title": "Teacher’s Whisky makes its first move into single malts - Retail Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTJFTC1iQ3FoanAtWm5qLWNtWFFaR0NxNlNWTWpFYjZVQVFEc0htdkU4RnpQNUhORER3QklQNGF2aUxYZlZLVTNkOURLa3g5bVVNNVpNZGhycm55Z0xOUGlBTzZaRWtSenEySzdTWmpXT19CRC1PcGlHSEdXdzA0MUFHbFNNZjhR?oc=5",
+      "source": "Retail Times",
+      "publishedAt": "2026-11-06T11:20:49Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c113196df89b2f74efc9",
+      "title": "New beverage launches: Functional innovation, bold flavours and a whisky twist - BeverageDaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFE0ZVRFSGVFQ3dlY29vdEozQ29aMl9lcUEwWnBjdndTbXNmUWN0MG9mZ3hwNmRZZFl4c25ZUUkxQmg5eFRRN2k5Qmh3a2JzSHA3U3U5aFBRQWZlT2poYy1OSDU4R1g3NUx2elQ2aVF0WDBOLUdDR0ZRS1A5WGU2azUzSFZaTGVxdHJEMzVNcEROR2pHbWRqNUpSRklZd1hVOUE?oc=5",
+      "source": "BeverageDaily.com",
+      "publishedAt": "2026-11-06T10:29:31Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "04d07cab860f7807a862",
       "title": "第７回吉祥寺ウイスキーフェス2026 11月20日（金）より開催！ - Mantan Web",
@@ -12,6 +45,17 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
+    },
+    {
+      "id": "9e5c31e662d0999354b3",
+      "title": "Crown Royal’s Reversal: How Diageo’s Canadian Whisky Went From Bright Spot to Burden",
+      "url": "https://thewhiskeywash.com/whiskey-news/crown-royals-reversal-how-diageos-canadian-whisky-went-from-bright-spot-to-burden/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-06T07:16:10Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/crown-royals-reversal-how-diageos-canadian-whisky-went-from-bright-spot-to-burden-500x256.png"
     },
     {
       "id": "53307b1d76e077800349",
@@ -1277,50 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/barrel-global-unveils-john-wick-kentucky-straight-bourbon-1-500x256.png"
-    },
-    {
-      "id": "691cc32d6b60bdc2df06",
-      "title": "6 Award-Winning 18 Year Old Scotch Whiskies Under $180",
-      "url": "https://thewhiskeywash.com/whiskey-articles/6-award-winning-18-year-old-scotch-whiskies-under-180/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T15:02:22Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/6-award-winning-18-year-old-scotch-whiskies-under-180-500x256.webp"
-    },
-    {
-      "id": "061339ef33f777bcdc57",
-      "title": "The Great Whisky Cask Hustle: How Scammers Are Stealing Millions from Investors - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelFfVkFJMDJBX0IxdjF6V3BQem5mQnZGZnpRY1ZVSGxOTnR2QTF1QVpFUWtNdHBoZk5ZTDB3TFJJb3dfTElZR1lPNzdZYkdrSXFZSE53MV96M1dPNUpEYmREVHVtSjZaUGFWbGJKcFZIaEc5MGlmZFJJb1FLZTZuV0c3TjMwalBncWtaRlprTHVIMzY4UG56QzJTTWVsZGdDdmRpc05MYjQ2ZTBEaHo1SVQySWtUVm96cG1PcG1iNjE?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T14:54:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-great-whisky-cask-hustle-how-scammers-are-stealing-millions-from-investors-500x256.webp"
-    },
-    {
-      "id": "0bfec09a01b430dc81c4",
-      "title": "Did you know Belgian whisky takes center stage in a Swedish cooking adventure? - Whisky Monkeys",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZWRiVkM1SnVNcEhsYnRVZWVtd0QyaEZZOVVVZ2FxR3dBRl9taURwbk1vcFBVREdaLW80TEY4MUZmRnRsUVQ0WWt3T1IzZkJwZmpwbnVZRnl0cF9UMDlQMFdtSVBpdWRMZGw3enljRWJEWnAtQmtqakdCSnptYS1QQ3VoLWpicWxlWURJd1RWMi1NSWdvQjlGZFNBUlotVGJJQXFIUlZ5RUd4QWJVMTh4S0I0OGp4Zw?oc=5",
-      "source": "Whisky Monkeys",
-      "publishedAt": "2026-11-03T14:37:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "dc8c6a24f8b0cb953577",
-      "title": "Inside Stranahan's Mountain Angel 14 Year, the Distillery's Oldest Expression - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84MUUtMUFEb19tUDBDMzV2dEEyT0RwWmJ1OGhFWFVlZHFHMVZlcThYREU2SWR1RVF2cWxvYzNuRFc3OXViRWY4TEJsMGplbGl1NlQzMVFrTHk0eklxRUNtcEFUUUN5ZGpxT2VvSHcyYw?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-03T14:28:34Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
