@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T07:24:40.931059Z",
+  "updatedAt": "2026-11-06T09:04:22.870944Z",
   "count": 120,
   "articles": [
     {
@@ -8,6 +8,39 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qRzAtRUdrUTJidE5oVlBmQ1FvVUJXbng0aEpBSmNRbWJaTTRMQnhqUUZsM0tHSXJpbnV4UDc1czM4dkZPc1ExREdMQlV1LTF1NnFoVUlaSzFHOWpOc3VHSHRYcGFycUlsUFE?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-06T06:00:01Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ad4d6b95954a7365a4fd",
+      "title": "シングルモルト「山崎 2025」がAmazonで抽選なしの“1万6800円”。サントリーの抽選販売と300円差 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQ1VjS1ljdHZ4ZUxmZWs1SlVKck8td0t4VzRXYl82Z19aZUEzZGlqNUFHclFmeVNrWkRVV2Q1UXpIUk4tSnB2RnV6b2xQRzV4WXpNdDVmTENMVlpqWXViOGEyXzFxODFUREZKODVPcFo4ZlU?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-06T03:44:39Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "58e4cf0f07c06ee98e17",
+      "title": "Capcom and DCasks Announce 30-Year-Old Scotch Whisky for Resident Evil’s 30th Anniversary - GamerBraves",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWVxaEZRUHZvZEEyODI2U0hablBkaFU4YmpaWDdhVkVWVXd4V21fcTUzczZCeVk5eWdfbGFUOENXa0xDelIzV3hOeWVnOWJKUkNhQVc0ZnNSTGl5SS1rMlhONk91MDB3bTN1Y1B5SDgtcjlsMktpUnd3eGR6Ym0yX3I2elJkdXFvZjBiTk1jVTdkMTNKeHVNcjhuZUNOYXd6Y3p0LThsXzdRR0dDdFNfWFk2cnZLX1I3?oc=5",
+      "source": "GamerBraves",
+      "publishedAt": "2026-11-06T03:40:07Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "13d27f9a7bfed888f329",
+      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jc0pYYlpiUVB5VU8xUmtvZXp0TG1ZMzRUZkRzMXh0eUhMU1JOeTAybEtEOXJHRWI0QlVIRFhabEl1QkJqVWR0dUdSZXpGQkJHMjNlOWxpUWJScHdkc2NF?oc=5",
+      "source": "千葉テレビ放送",
+      "publishedAt": "2026-11-06T03:01:31Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -210,6 +243,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky-500x256.webp"
+    },
+    {
+      "id": "055f862dfc5d302f96d8",
+      "title": "While Aston Martin was preparing its V12-powered DB7 Vantage, this Glenfiddich whisky was beginning a 28-year wait in oak casks, and the two British brands are now bringing their histories together in a limited-edition Scotch - Luxurylaunches",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkEzX0Z0cGZNb2taWGZEMVdQaVFWTmZFQnAyYXJuZHhiOXNBMGhCSTFKelEzakJ3am9VUC1SQWVVQmlRU19DektaOE1jQlcxSThPSmhvNEljTTBiTWFrdzhWX0owRnZrazVybEVvbzNzaHlMakJwa21ZcWgxRC10Y0hSbw?oc=5",
+      "source": "Luxurylaunches",
+      "publishedAt": "2026-11-05T12:17:45Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "8593742b8918e5551328",
@@ -416,17 +460,6 @@
       "source": "PR TIMES",
       "publishedAt": "2026-11-05T09:12:12Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "13d27f9a7bfed888f329",
-      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRXJBaktUeDRocEY0ODBBSnNrUE55amltc2Z2SGYtNXZjM0c3T3pqTUJwamFZNkIxZnF0VG13Z1ZYX2gwcFJEQ0IzeElSZ2prRHVOS2xEbkhsTDNtUnY1ZDRqNzRSQ1RrdEhzdE1FaHRMdw?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-11-05T08:20:21Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1180,6 +1213,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/indian-whisky-keeps-winning-medals-but-can-you-buy-it-5-award-winners-on-us-and-uk-shelves-500x256.webp"
     },
     {
+      "id": "3c8b65b4ee5f650ff838",
+      "title": "Govt moves to resolve Scotch tariff dispute under UK trade pact, sources say - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMzRHZmMtNGY1R2YtWDlVeHdGc21sa1hYT2hyV04tWGd6OGc1VXFRaE9UdkpldHlLelZtSWVhWTdHN19OU3FvN1B1eWpvU1FHelh3NUxuWHZqZ29XRXRjMmF6OGZjMldxWHFkSlEzWmNIRy1XeWctOHh1bmhHMEdHRGNLZko2VVNzS2dNanVRS3ljNmJOTmlrUmNld2l5aEhUM3FCNjVBTzNKUHZqZEZNOUl2bW11YVN5SGoxUzJVRHBwM1FpZ3VQbEVCYmtPWjNLbnZCeDcwSGNxeUhTckdONG5Qd0FQV0tKZldXTlV4WHh4UG_SAfcBQVVfeXFMT3RQVWE2VFdVZFlLVmNrLTAxVDYtc0NLbzF4MXltczNSRk5BRmRiOFQ0QUNyc0I0N09JbXJ5SXBmeWJ2Y004cEhwaV9LYUo3OEpnTFdCZVd5NmdFdXJhZVR0NGZ0azBPUEdleUloLVFnSUpuZ2FsaGJwNVAyVHk5WHVZYm54bzhmMDRNeFZXa3Q2a3dHSU1uYWNOcndkR1dMeHdWdGNWMlhMb3l0dkR3NzJzYW1wbjZ5a2JRUFBkT2duZWR5RlJTNHJQSTdGYVlCbDJDWHFBeVVZZnk2cHBfRDNEYnhrS18zcGJFUExHZmNkSjVMLW9Edw?oc=5",
+      "source": "ET Retail",
+      "publishedAt": "2026-11-03T16:07:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "a937efb344fb24903cf7",
       "title": "Scotch whisky producers demand tax changes after Britain confirms a 4.55% duty rise - Vinetur",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ1dVNTc4bUJMaVpvczAzUmNESHVZeWIzMkhtekZla1M5N1VZXzE4U2xtVW1nNFQxeVBWX2NKd3BfSGtQdWlncmhiMWZHZllqcGtiV0JOaWxERTVldGxIb25YclZPMlk4Znc4SkQ1QVhfU3FWbHhNMlNRbU1LMVBfWDBja0JFTGY4OC15V29ZNkxQb3BfcjcyQ01NS2czazdfeWlPMVRiSEpSWENKcGdqeUdKMlUtenFTRWQwWXpOa0FxRjRiTW9Z0gHMAUFVX3lxTE9QcjJNczIyZVh0UzdOQ0FrS0RXSWR6MHV6c1RSZTFzQlhQbVV5UTV5SFhtVkdLbzRBSW42UHY1ekltV1NRM0RGVzRLV0R1RmEyWjA0SUl5SmhuMGo5OF9ZWDJlQ21MWmNtamtVbU1rLXdBdlVMU1lBYmEyN3UtalBkYm4waVJIU1lNZE40dGdZUzBsdjVVcWRMVW5jTVlPZ2p2dDA0N19Qb2dMT1pXN09CNEpveF96a1E5OU1aUFg5blljaHI3NzNPcGFVUg?oc=5",
@@ -1273,50 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRS1JNlpTbzg1Z1FMLXh1ZTZUX1NOS2x2cjJYOGxoWUxFbFZ1WWdwRjYwSXA1clliVzdIT0tSTnptODQzQlM3X1JHRlYyX194cGptZnlfY0NmSDQ3UkJLMUhzLWxudGItenBVWk9vV21oMmJZa1M2QlRKOEo5OTY3YWFBc1JrcVhJUDVqRzdIZ1ZTZFFmTVA3Rg?oc=5",
       "source": "Men's Journal",
       "publishedAt": "2026-11-03T14:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "de0099e0770eea2a7c3c",
-      "title": "We Rated the 16 Best Affordable Whiskeys—From $18 to $68—That Outperformed Expensive Bottles - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zR2Exb01GTUZzbWUybGVOUTR4VzJra0ZsNVp3SnFseWw5azhhOFd1VXBhdmVsdUIta1hSZVUwS2VKQk1SV3FiUGJybFZuYmVSVnBLU1lvalRjY0ZmckJEbVZn?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-11-03T13:44:01Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9becb9674346bd180a8f",
-      "title": "We Tasted Hundreds of Bourbons. These Are the Best Bottles of 2027—From $19 Bargains to Rare Finds - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeURmWi1qMmRrRnFoa2FIbzdKYnFUNm9neFR1akxfWDJtWDFyLVdDdnZyamk4RHJCZ1JTNmIyeEZ6TEtJdjFaQ1BLWmpMandIS0g4OXFuWkhzR0pQRmJQTGNOSlVGUmc?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-11-03T13:26:58Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4ba31c70ebae0430faaa",
-      "title": "Bulk Scotch whisky imports from Britain-India rise by 1000%: Trade deal halves import duty to 75%; August i... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzQ0OFVnRlotUmlCQ2p3eGVJZEFjTEdUTnEwMHlDZmlibE5QaFRSNkR0VDhmYTZnRWhmcHhyWnllbmlFR0ZWN0M5UVlwOUxlYTdkd0Nlb3NTNWxlMzVYS0J1UUJmY05ybzRHMHhWbkFEa1VfZ0QyYVVLbE1HbEl3UXU2YU9WODh6RHlTN3JxanJXV0JUeHpqQjNuc2g3c2hzWlEtaEtUUWNfei0zMzFwc1g5Z293S2VOQVHSAb8BQVVfeXFMUDQ4UVlGQTNJaDVMTXd3bHZZSzJjdzVuTHJqRG9vTUM1NDhMU1lYYkE2a0djSklOWFR3TVBibmVkQUJXOWFDYkVzWFh2SXFPN1c2czJLVDQ0a1dhZWNHQ09pc1NtWDl6T3NMQUZWcC0zOUFteFIwRWFfWjF4Ul9QTlNkdWd2Q0RaSHNRY1J5OXY3cjdXWE52LXJJYnh3cjdLS2xab3lIS0RFeVY4d2tMZG9zeUpqU1FWNUF0Y0xrSFk?oc=5",
-      "source": "Bhaskar English",
-      "publishedAt": "2026-11-03T13:01:14Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "caeef2a004bde5584c9f",
-      "title": "Highland Park’s Liquid History: 10 Ultra-Rare Vintages Every Collector Should Know - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEROQWRwU0tFd3JsYVZ1UW81dFNSMUVDSXFlc3pDQ25fMGM3QldVUjZKYzRzZGZZamlaeDloSV9uQVkydGlScUhxb0ZhZXZRejhVWWdsY2hCR1gybGdpOHZsSGFlVVRKY0l2eEt3dWFqSUtjMDZma3lFYXV4UHJ6dkRhamdWa2ZLbzM1NklWdThjRndNWm44RnVHUlk3U0lOWUdPZ2JVNndvYjJHSkw4SC1nX1NyVWVrU1J1d3ZUVDVmdw?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T12:58:04Z",
       "category": "industry",
       "language": "en",
       "region": "international",
