@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:17:05.947600Z",
+  "updatedAt": "2026-11-06T02:23:47.493908Z",
   "count": 120,
   "articles": [
     {
@@ -114,14 +114,25 @@
     },
     {
       "id": "8526c34be7f687db2b58",
-      "title": "7 Bourbons Every Scotch Whisky Drinker Should Try",
-      "url": "https://thewhiskeywash.com/whiskey-articles/7-bourbons-every-scotch-whisky-drinker-should-try/",
+      "title": "7 Bourbons Every Scotch Whisky Drinker Should Try - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmNVOHQzMm1uQ2lRcmhYWnZHdG1ncmsyNnRqRUZtcjBvc0dfQ0JlbndzaHV3TUpoR0h2ZkctVEZBOXRCeFVXeEhNREJBN3AyQWMzZlU4MTBUcVBuVnFxZkE3M09YNmtadzNqemtyTkI1M3A4NGd6RkZaUHg0Nmo0dk9BSThMZU05VzVCTzlRLTlObGRObzBfVG53?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T14:30:32Z",
+      "publishedAt": "2026-11-05T14:53:41Z",
       "category": "industry",
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/7-bourbons-every-scotch-whisky-drinker-should-try-500x256.webp"
+    },
+    {
+      "id": "58c70c314f01330272fe",
+      "title": "The New English Whisky GI: What It Really Means For The Whisky In Your Glass - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMURvclZUTi1VbU51T28xUUczZkZ2TXZMd1BYcGJWRWlpazBxajVfZmVNT3pwNkNFeHFUU1VLVEV6eWk2eWNjNHB5MG9QbGJUWmVrU0c2eFVSeEhpajVtMzhVNi0wbkJObmZ1YmdtWVhKdWRIWnJyVnEzWVRKRExxSXR0eGVIaDl3WFdzRW9saXRfcDY5aVNkM1JJQ2JMVmpoWXBRUDJMRWFJam1qZS1WajNndElLeWJuQWlr?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-05T14:28:01Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass-500x256.webp"
     },
     {
       "id": "ed56d61a3b5f179df09e",
@@ -135,15 +146,15 @@
       "imageChecked": true
     },
     {
-      "id": "58c70c314f01330272fe",
-      "title": "The New English Whisky GI: What It Really Means For The Whisky In Your Glass",
-      "url": "https://thewhiskeywash.com/partner-content/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass/",
+      "id": "2d0e9afff130315782f2",
+      "title": "Why Tomatin’s Cù Bòcan Creation #9 Is An Absolute Bargain Whisky - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaE44MkxCVUhlMEJLaWJoQktsMWtwZ3h5STdMZDNrS1VRVVlSYUZpclFuLUxrS0pjWGRlT0JHUjVLZzIxbS1ZNnBYYUNZWHhac0h6WHVOVFFGZGVCdEhQQ2k5c0gxVnFvSVRNTzBOV3Q2N0dTdVNVNWpuc2hhcEZoSnloWkRyM2RsNThxUzJPNi1GQ1JmNEZnaTdLekRpSlh0N01pYmxKUXZtazA?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T14:00:17Z",
+      "publishedAt": "2026-11-05T13:39:19Z",
       "category": "industry",
       "language": "en",
       "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass-500x256.webp"
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky-500x256.webp"
     },
     {
       "id": "2ae910b8cb5f4fcad9ea",
@@ -155,17 +166,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "2d0e9afff130315782f2",
-      "title": "Why Tomatin’s Cù Bòcan Creation #9 Is An Absolute Bargain Whisky",
-      "url": "https://thewhiskeywash.com/whiskey-articles/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T12:30:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky-500x256.webp"
     },
     {
       "id": "8593742b8918e5551328",
@@ -597,6 +597,17 @@
       "imageChecked": true
     },
     {
+      "id": "05aba0416362acf64252",
+      "title": "The Woman Who Moved Her Kentucky Bourbon Distillery to Mexico - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjZNMm54VUswelRCcjFVTlNxR29vUkZpanV0NEY1X3BkRXY0ZzdTS3d4dUpFeUwyOFJ0NmxyZWZBZ1ZIYnNDZV9fZGhhNko4d3c4cjVvd3hpWEFIVmhtWjdUU19wc04xWG5CbU9OX202WDE2VHF6REJGeEJBalY3a0QzTmJ2VHNmOENYbllFUk5XMEotb2pFWHZmOGpHUUdPUXl3cmtseTl6QQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-04T15:09:34Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-woman-who-moved-her-kentucky-bourbon-distillery-to-mexico-500x256.png"
+    },
+    {
       "id": "293ffdcef89c52add856",
       "title": "Penelope Bourbon Releases Cognac-Finished Madagascar - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUJXSDhsNzVqRWFvUVh5b2JPMG5UaWl3d2hEYmVHdWhHSFpYWHVldDBxbGpoUFdSVzBrX013MnN0WDNZYlB5VGRMZWVKajVFdUotN1hfdVNOZlJBemVFMGlpMUk2TDJZYlktc25CdWRxVHhGenVUdVhySEZ5TURPY1Mwdjg0eGxWaVZmSmE3cW4zZWI1T1F3?oc=5",
@@ -652,17 +663,6 @@
       "imageChecked": true
     },
     {
-      "id": "05aba0416362acf64252",
-      "title": "The Woman Who Moved Her Kentucky Bourbon Distillery to Mexico",
-      "url": "https://thewhiskeywash.com/whiskey-articles/the-woman-who-moved-her-kentucky-bourbon-distillery-to-mexico/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T14:30:28Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-woman-who-moved-her-kentucky-bourbon-distillery-to-mexico-500x256.png"
-    },
-    {
       "id": "22cd59d21b6735b7d2db",
       "title": "Farewell to the Diageo Special Releases - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Xb0pjY2Q2Sk1kZ1J2cmdWNnBaLXdWQ0sxTkh1SW00bWhic3kwZkxoUUZneTMyWXFpYUx3YzlMcW5EeXhQQ3h5VEJmcm5MZEZCdGV1UE5mQzFQQkxYcjdYZWJlRHF2UQ?oc=5",
@@ -707,6 +707,17 @@
       "imageChecked": true
     },
     {
+      "id": "d0cb418ed28e937aa442",
+      "title": "Glenfiddich 12 Year Old vs. The Glenlivet 12 Year Old: Which Beginner Scotch Should You Buy? - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSkJlUVE1aWxLMmdwSUczNDR2YzVEUnZMUlJ6UGEzZDgyNUVoR2JnbHFhRlNoRmRTLUdkX1l6Y1ZNRWN6UmM2cDFiYzRPN18ycFpxMW1UNnBhcmRvUHEwTWN3N0pkbFZoam1aM2kyVTU0bzZzV2dnak5HbkJLOGZxMWFudml3dXM2Sm5iNWZ6Qy14RXU4VHhUVTliU2trR2RGLWpIVnhvb2RyV2Q3TUVXMW1jNnBJUHlmTFl5ZUxaNzE2NlhQSUxZdURreVVrREk?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-04T13:03:26Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/glenfiddich-12-year-old-vs-the-glenlivet-12-year-old-which-beginner-scotch-should-you-buy-500x256.webp"
+    },
+    {
       "id": "e769f2c3ee4445f89629",
       "title": "India to honour reduced tariff on bulk Scotch imports - The Spirits Business",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmhEeUhsTENLdldiMi1ValZnU0lxTHRxbHEzTGFNZFNPUGh0OTlpVVpfd042OTM4ZDVnUmJ3dXh6MTRORUJ5S05OM1BpNnFjZkp5QlBoS0Vxd2F4amtNV0lOUkRHY2hIWnlSbGU3NFEwS0NvUjRqZ29QQWNnc0hkcEZMaE1OeVlsT1FwakgzMzJCX0NqZEg4c2VIOGRyUQ?oc=5",
@@ -727,17 +738,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "d0cb418ed28e937aa442",
-      "title": "Glenfiddich 12 Year Old vs. The Glenlivet 12 Year Old: Which Beginner Scotch Should You Buy?",
-      "url": "https://thewhiskeywash.com/whiskey-articles/glenfiddich-12-year-old-vs-the-glenlivet-12-year-old-which-beginner-scotch-should-you-buy/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T12:30:08Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/glenfiddich-12-year-old-vs-the-glenlivet-12-year-old-which-beginner-scotch-should-you-buy-500x256.webp"
     },
     {
       "id": "cea7a12474557cc8b77c",
@@ -762,6 +762,17 @@
       "imageChecked": true
     },
     {
+      "id": "457b93943410ee428071",
+      "title": "Madhvan Tribute Blend Indian Whisky Launches in 4 States - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOG5VZlhLaFQzQ2dHT1V5YkZjY2kyenJlN2d2emFxcmlnRXJ0ZDFDWjVXM0RETUxCdUFsaDRxWjQ4SEhWME1YUFRBWFNLRzVOTEtOMGFqUHJ4cFh0eDEyZmlvb2k4X0hMemxQYzZyam9RUm9rZkJZNWFIV2E3bFJSdG9XcDRReGRBTnUxRTJzRWtWbGR4SFBUQmM1TkdZdw?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-04T11:06:04Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/madhvan-tribute-blend-indian-whisky-launches-in-4-states-1-500x256.webp"
+    },
+    {
       "id": "4eac3afe680e7b311d1d",
       "title": "Rosebank 31 Year Old: World’s Best Whisky for Christmas",
       "url": "https://thewhiskeywash.com/whiskey-news/rosebank-31-year-old-worlds-best-whisky-for-christmas/",
@@ -773,17 +784,6 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/rosebank-31-year-old-worlds-best-whisky-for-christmas-500x256.png"
     },
     {
-      "id": "457b93943410ee428071",
-      "title": "Madhvan Tribute Blend Indian Whisky Launches in 4 States",
-      "url": "https://thewhiskeywash.com/whiskey-news/madhvan-tribute-blend-indian-whisky-launches-in-4-states/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T10:07:25Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/madhvan-tribute-blend-indian-whisky-launches-in-4-states-1-500x256.webp"
-    },
-    {
       "id": "1963b4747321e358bdd2",
       "title": "ROW 94 Trespasser’s Proof Bourbon Ages at Grand Ole Opry",
       "url": "https://thewhiskeywash.com/whiskey-news/row-94-trespassers-proof-bourbon-ages-at-grand-ole-opry/",
@@ -793,6 +793,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/row-94-trespassers-proof-bourbon-ages-at-grand-ole-opry-500x256.webp"
+    },
+    {
+      "id": "7d26a1e7842fdb5da714",
+      "title": "What Goes Into an $899 Scotch? Glenfiddich and Aston Martin Have an Answer - AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMDJieTktREpGNi1TQjJEUVBhNWJiYVNaWlM2aWQ2dXVVSFpBU3FTU1czQVVUdm1EZmNLYVVuX3F0WE01ZU14Tk1ITDh6ZE5BQ3piNVNpbW5oUmp4bDNpcVZTTGg5MjdLRWtwT2p4Tnhxdm51SkJvQUZYN3ltVktncjdVWlVxUQ?oc=5",
+      "source": "AOL.co.uk",
+      "publishedAt": "2026-11-04T10:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "92a5204918db2965dffc",
@@ -950,10 +961,10 @@
     },
     {
       "id": "313dc8f0a203f9775520",
-      "title": "【ロイズ】アイラ島の個性豊かな2つのウイスキーをロイズのチョコレートで。生チョコレートなど限定商品を11月4日に発売。 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pa1VMaHRzS0loa1NaSG5OMXpfT1VoWUVVQTZfdzNHRDFDT2VST0dFOVBQaVVibzdzTUZfbEtrMEhHeGQxY194SnlfcU54ZFFnZ2ZONXJsX1dDejBGYkxjREg2TG81a05zWEpvS19SVEZDZw?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-04T04:30:00Z",
+      "title": "【ロイズ】アイラ島の個性豊かな2つのウイスキーをロイズのチョコレートで。生チョコレートなど限定商品を11月4日に発売。 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNU9pTVJ6ZUJwT19hZWMzOEc0cXpSZFBucVJpYlo3ZHBxbHliUzlGVTR5NDQwTWNZWHRUWkdiaEgwMjVsRTFzOS0wX19HMjJZVVRfay1ta0hhZWZsWjd2LUNHbHlIcVBNdHc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-04T04:30:01Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -1224,6 +1235,17 @@
       "imageChecked": true
     },
     {
+      "id": "de0099e0770eea2a7c3c",
+      "title": "We Rated the 16 Best Affordable Whiskeys—From $18 to $68—That Outperformed Expensive Bottles - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zR2Exb01GTUZzbWUybGVOUTR4VzJra0ZsNVp3SnFseWw5azhhOFd1VXBhdmVsdUIta1hSZVUwS2VKQk1SV3FiUGJybFZuYmVSVnBLU1lvalRjY0ZmckJEbVZn?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-11-03T13:44:01Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "9becb9674346bd180a8f",
       "title": "We Tasted Hundreds of Bourbons. These Are the Best Bottles of 2027—From $19 Bargains to Rare Finds - Men's Journal",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeURmWi1qMmRrRnFoa2FIbzdKYnFUNm9neFR1akxfWDJtWDFyLVdDdnZyamk4RHJCZ1JTNmIyeEZ6TEtJdjFaQ1BLWmpMandIS0g4OXFuWkhzR0pQRmJQTGNOSlVGUmc?oc=5",
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/emberstone-irish-whiskey-launches-diwali-gift-box-in-india-1-500x256.webp"
-    },
-    {
-      "id": "810f02cee597791d6be0",
-      "title": "Midleton Very Rare 2026 Vintage Launches in US at $240 - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlRLT0t5WGJKUVctZkUtQ05xOHBSaEdVODN0aWgyaDNEXzdwMXRUSkpyMHZTcE9RYU1lYnByMVBtdDhEY1ZKb0hqc0lBS2ZJeVd5RXRRaXJWTGl1X1ZRVS1LSDRpdVJ4Vk5WMGZHaUVTM0hjWTdxUHFqLWRORmwwNlZ4REtZZFJrYmRQYzhZNGNPY01QN3lmSmJn?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T12:22:39Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d96cb54caf4d1028e36e",
-      "title": "These 10 American Whiskeys Won Double Gold in 2026, But One Went Even Further",
-      "url": "https://thewhiskeywash.com/whiskey-articles/these-10-american-whiskeys-won-double-gold-in-2026-but-one-went-even-further/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-03T12:05:54Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/these-10-american-whiskeys-won-double-gold-in-2026-but-one-went-even-further-500x256.webp"
     }
   ]
 }
