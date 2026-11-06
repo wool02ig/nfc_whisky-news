@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-06T17:53:56.323369Z",
+  "updatedAt": "2026-11-06T18:59:30.215153Z",
   "count": 120,
   "articles": [
+    {
+      "id": "1848acd68fbb3d3fbc57",
+      "title": "布引温泉小諸×小諸蒸留所 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwNzJtTkplTFI3ZjA4bWNzSV9VN09BYTRlVzktWlE2SURsOHVKVnhGV283WTI2aDctcFNWZkJVMmlUSk5DYTFaMXUtbVl1cDRZclNJdlNrNHRzY0x4VkVyOE9iOUNVLXg4TGVnWG82QXF6dEdJRTNxWUl4WQ?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-06T18:00:45Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "7ee2d3b7cf8704ce5abf",
+      "title": "Whisky Watch: A 1792 Wheater, Penelope's Latest Finish, WhistlePig, Macallan & More - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTREVUJQWnJYUDVIZkhZYVNHUW1pTWRSUnFXaDJMVkhnLWdTcDNJR0xOS1Y5R2h1V0l4SnRoQzV1UkszN3pOUWNidnBSclVDTUlQY0tOcDY3MGxpMXdaQ2JGeEEtLTdjY3l4cWY5M1lsbWFFeElXUGFUdTBJSmVWN3JkSXIya1lrN0FfZGNB?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-06T17:17:38Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "7be706478fb3f35fbeba",
       "title": "Green River Bourbon Gives Sports Fans A Helping Hand With ‘Bullsh!t Refund’",
@@ -242,6 +264,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7933ba4801caa4cb3817",
+      "title": "「日の丸ウイスキー 常陸野 2027 Edition カスクストレングス」「日の丸ウイスキー 2027 Edition」 12月21日（月）発売 - ラブすぽ",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZHZNX3M3WDd3b2VwZVdvMFpnVW11d2VLd0xvS1YzOE94NVh4dDlpQ1Yyd1pQZlA4X1JnSTNaYk9ZT2hWcW80NXFnVVZkbW10WmNMbXlORnhFLUJkUWVrR0tpRTR4ZHlINFEtQlJRajZzQ0w5eGwzcEF1MFpkU01QU1Voc25kMnNnWjJjN0JRSGJuMnN4TmVKMldiNzN5MG4tQm5sOV95b0lEWmt1SENjeTZEUy1ldWhKcFZUUVVaaWRQcDdELVNZWU92M01kTHRRZlp4MnU0Q1JzTjNMTk9uNUFleEJHOEItVUJjczhZWTVWc3dMQWl5QWZSbXdUMDItOXdfaTlub1BWMUtRTnM0b0h2dW5LSmFNOXU2cnhSX2NwdUllVzd4Q0ladjJvcHhsUTczMWM4UW5meFNMSWE4UEVRSFdGUkxt?oc=5",
+      "source": "ラブすぽ",
+      "publishedAt": "2026-11-05T23:11:37Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -652,17 +685,6 @@
       "imageChecked": true
     },
     {
-      "id": "7933ba4801caa4cb3817",
-      "title": "「日の丸ウイスキー 常陸野 2027 Edition カスクストレングス」「日の丸ウイスキー 2027 Edition」 12月21日（月）発売 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04bWp3Ti1wMElOSi1QaXVhSTlOZWxMNFUtc045a3o0aDJiM2tPNHB6RXZ5RUZYTURmN3pTYzZkSm1JUTN4Nl9Td2NpRlI2Y2NGTEdJYlV1bGZLOHo5Y3BjWlh1QlRGcmFsdXhfREFpRTBzcnNQdlE?oc=5",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-11-05T06:15:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "4a712e8c3babdc95904a",
       "title": "Exclusive: Whisky duty increase will reduce deaths, say health campaigners - The Scotsman",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVNCVnNfWlBKUm1kcDUxSXlVQWNtZVhYaG1FQm5QTGNWdy10bmZYY3A3YW9xMElkSXlvcV8tLTVjdlBoMTFydmRoeWl5Zzk1ZklTQkRsSHozWTZ0UF9yc2J1OFRFeXR3U1BNLXVZd3ZZaGY4b2E2Q29aX3JBR1JXRlE4N1F6OG52TTZ3a2lmaXduUnRmRndic2VBamZjTmpKSkQ5X1RTRDVkb240MlE?oc=5",
@@ -718,17 +740,6 @@
       "imageChecked": true
     },
     {
-      "id": "261787afeb9dcbc7abae",
-      "title": "沖縄最古の酒蔵/新里酒造 シングルモルトジャパニーズウイスキー「琉歌JAPANESE2026 ENDLESS SUMMER」11月6日より数量限定発売 - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93M2hudU4tQ0lweE5FN2NpVnVMT2V6OFpTel9ia0JEeUpyWkJpYk8xZi1EWndZNkJILUhGOV9GdEVYU1BnQnhZZTVMUTYxSjZyd2o0R19KV1NmZVVqY0tKaDI3Tkl3ejNaQTVJU280eDFyUQ?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-11-05T02:22:51Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "0d8462146bbc3c623a8f",
       "title": "Scotch whisky prices may fall in Delhi as Excise Department implements India-UK trade pact - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmZ5Vm55SkNVNVY1TzJMbjc1N2JRM01RdUdXR2Q3eERXajN5emlmMFZFTGRSSGlKS04tZ2s5ZURKbmt0V2pBVDNnX3VLTEhra2JyT2JKd1c2T0FyV2tsLWdQQ0lQUGhOdjR5T0NsZFNkQmZuMkxpakZzUzhnX2ZMUThHQTRwQnA4UlJ2d3cwM3hxUXpyY2N0ZC0wa09wSld5aHlaenBwNVBIMWlqN3lPMFV0Y2N6ekpULVE2QUpXYVM3ZkZiQTJTYkZ5Um02MnfSAdQBQVVfeXFMUGlVYmFaSFh5eUFkN0MyX2tNVmtXZDVzbW5YTkZ6SVBpNVNBUTN2WXk0WFZTRk9kWnZ0WVVFblpWSUdxWnJuQ25PbjFRTkR1WnNadmotOTFSRmRRR2NKSXFoNVJfaWNOcmVCeTZXY29seFdES2ZQQ2hDQW0zSm5VcXg1LVc2anotRXZqYjMzMi1CVDZRS0dQc2cxS0FsOFJOaERjVTFiRzI2VW1SOWhSQVdFQ1RBQWF3MmotT28wUGFTUWJ6Yi1nT0dLRV9mSnRlYlFGelA?oc=5",
@@ -748,6 +759,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "261787afeb9dcbc7abae",
+      "title": "沖縄最古の酒蔵/新里酒造 シングルモルトジャパニーズウイスキー「琉歌JAPANESE2026 ENDLESS SUMMER」11月6日より数量限定発売 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMDdTMXpNTE1KVHl4WFIzNWdmQzNCMjNTU0NMRXdJcTF5LWpVUFFpTG5YMFJ3cnlpdm5CZjZJTUphelVzRVhZT0FFSngzUU1XTHJhNDcwYzFpdEs5Tmc?oc=5",
+      "source": "沖縄タイムス社",
+      "publishedAt": "2026-11-05T00:33:54Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1296,28 +1318,6 @@
       "source": "Fred Minnick",
       "publishedAt": "2026-11-03T21:08:14Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "44d8270852c1d369fc01",
-      "title": "Sullivans Cove reuses brandy casks for whisky - Food & Drink Business",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWN1YTRINVpQYTRlR2NNb3VOX1dFWFdUWXJ3c3paZmtYc3ljbTA1OGpYblpfeDBLLWpTekJTN1loUEk2TXZMOTRIOGtYYWUyRWhSV1BZUXo4bTgwNEZBb3pfejBoSmY1Y2tkcjN3S1lEMGplaFJ6WHktNGpHUF9GejNRYTlyVlZrM3NkNmlQUEU5RnRHSHZwXzVKand3WEE?oc=5",
-      "source": "Food & Drink Business",
-      "publishedAt": "2026-11-03T20:56:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ef04a01f2f53e56fc3ed",
-      "title": "Scotch whisky set to get cheaper in Delhi - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGZJRWxGdWtLNzFJU1hHdnNuakNYWXJneGJaaG1pMDZ0YVp1RzUtZTRuTHN1NzJzLUswakJHUDZ0V3ZmTktBX2pWLTNla3RNYU4ycHp6THlNNXJUZ2VwdDdhdXhvcm5jQ3lTdF9tT1lhc29tWFdJT1ZINDhhZGVkZDlPZm9YeC1LWG1lZkZmSV83WnJwN3R4dEJkM3hFSlU2bUZZU1FZSDdUeS1TZFA3aXhUX07SAboBQVVfeXFMT21XYVkwbU11VV9VZ3F5WllmMmhZRDJacjN2LW1aeG5EUTI1cU51YXNheWptQnc5ZURyY1AtVFM4Qy1OUE1ETm91UWRtUEdlckNVc0dGVDdvdUJJRU5fZ3NZSXR0UkVVdkhoSmRqYzNYcDNHMi0yYUt6TXJ0Mi02UXV2WVh2TlNWaGRxN1lnN3h3aFhYdl9xc3lTb1RRZHVHWnRuc1hRZzNpaHQ5X0xXb0tLQlh3OTZrNkln?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-03T17:37:00Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
