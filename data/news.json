@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:58:48.012355Z",
+  "updatedAt": "2026-11-06T17:53:56.323369Z",
   "count": 120,
   "articles": [
     {
@@ -69,6 +69,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/johnnie-walkers-1100-whisky-and-sabrina-carpenter-collab-are-smarter-than-you-think-500x256.webp"
     },
     {
+      "id": "4c30ec5e3db43c6489ab",
+      "title": "Teacher’s Whisky makes its first move into single malts - Retail Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTJFTC1iQ3FoanAtWm5qLWNtWFFaR0NxNlNWTWpFYjZVQVFEc0htdkU4RnpQNUhORER3QklQNGF2aUxYZlZLVTNkOURLa3g5bVVNNVpNZGhycm55Z0xOUGlBTzZaRWtSenEySzdTWmpXT19CRC1PcGlHSEdXdzA0MUFHbFNNZjhR?oc=5",
+      "source": "Retail Times",
+      "publishedAt": "2026-11-06T12:15:44Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "06d71b610a4ab895a951",
       "title": "How Ardbeg became the low-key whisky collector’s dream - The Spirits Business",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVNOalVBMDRoelc5c2taNlVFUm5uak1Gc093b2ZaQTlUTlpOY2w2ZVdqVW1Wa1hYN2hPb2haemxXMGg0clNMSGJER3RoTTIwc3BFaER0ZElyNDNTTXNqejJXVVpyVU90b2hhVzBFcTNnU1NZUGpsaTRwNmxrYXVIV2c2dXBmeWZWU3B5QmpEYkRPemczTWxnUU42c1BEUQ?oc=5",
@@ -86,17 +97,6 @@
       "source": "Holler Country",
       "publishedAt": "2026-11-06T11:22:00Z",
       "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4c30ec5e3db43c6489ab",
-      "title": "Teacher’s Whisky makes its first move into single malts - Retail Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNTJFTC1iQ3FoanAtWm5qLWNtWFFaR0NxNlNWTWpFYjZVQVFEc0htdkU4RnpQNUhORER3QklQNGF2aUxYZlZLVTNkOURLa3g5bVVNNVpNZGhycm55Z0xOUGlBTzZaRWtSenEySzdTWmpXT19CRC1PcGlHSEdXdzA0MUFHbFNNZjhR?oc=5",
-      "source": "Retail Times",
-      "publishedAt": "2026-11-06T11:20:49Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -214,7 +214,7 @@
     {
       "id": "c050632b5bcdce58c489",
       "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xeGQzSUtEa3c4Z3lpTll6aEJCZUVtekpEZGxXamRadU5zTzFKUjIzNjFYRGtWZS1MS1ZZOUpnLTRNOVE2VEhVV095MngwbHNNRWtCMEZ2cERENW1qZk5QWnJfbWJLSzNu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5WFVqUXpVX0hvb2djeWdSNzEyc25fZHBOWjNScXkxdnVHU3lTNVdSRDIzUFBsbTRkZTFBTjNQak5NYzJKTDZLamR6V08yNFVoSUtOTA?oc=5",
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-06T00:45:26Z",
       "category": "distillery",
