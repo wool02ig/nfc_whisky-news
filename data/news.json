@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-06T09:04:22.870944Z",
+  "updatedAt": "2026-11-06T10:10:22.779899Z",
   "count": 120,
   "articles": [
+    {
+      "id": "04d07cab860f7807a862",
+      "title": "第７回吉祥寺ウイスキーフェス2026 11月20日（金）より開催！ - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NVjVQM29pRmxGbGkwaHIxZG84OXpGdkRrOHNDRkVuN041U0NIbWVGWkNkWHhuQ0c2M2twQzl4bXlrZkNHY012SkFCVTltUUZqcHE3QTk4OF80ZkZTMzFveFRDUm1jUkUxOUtIelkyU1JHdw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-06T08:21:56Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "53307b1d76e077800349",
       "title": "【白州25年が当たる！】Amazon限定「ロイヤルウイスキーみくじ」777口限定で11月6日発売。白州12年も登場 - PR TIMES",
@@ -202,9 +213,9 @@
     },
     {
       "id": "ed56d61a3b5f179df09e",
-      "title": "Whisky entrepreneurs form £16m Scottish spirits group - Food and Drink International",
+      "title": "Whisky entrepreneurs form £16m Scottish spirits group - Food & Drink International",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVFvMjBacXFycThCd1BoZFMxamRBS1JISElBN0FqYkpCbGtxNmVtY2o1aEppZFNReXRxSUs0azQ5azFIeHIyYWptblpnVjNBaFJ2aFZ5VWIzOE16WDJKOC0wWWVYTTdxQlN3d1p2WWJLQlk5RHpXWFd5dzNZLVd2QkIzMk1NeTBKLWRpa3JFLXJrVWhIMHc?oc=5",
-      "source": "Food and Drink International",
+      "source": "Food & Drink International",
       "publishedAt": "2026-11-05T14:22:12Z",
       "category": "industry",
       "language": "en",
@@ -273,6 +284,17 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-05T12:09:57Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "60973023bd613327db3e",
+      "title": "Diwali whisky gifting guide: 7 premium selections between Rs 3,000 and Rs 16,000 to gift your family and friends this year - GQ India",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTmFDMWpWcFFNTzBJTGM3empHM0x3Q1ZmbjhJSXNpbDJQakNuSnk2WWJsNDFDeG51aGFSdUhHdkZuSGNOZnhVSTZDWnItVUNEaE45SlNQalhOYjhoNUZaeHRDbk1nTVphd3kyRldPRlNpRTVGbWU4SzBlanJyVmJQRTZLZk9rck9fYkY1NzdQbTZqcU5FWWd5Q3VjV2dpTUwtc05tanBXYWxqUllVSVowU2pUOV9NNVpPdndVM2l5R0JKTW8wT1ZiTGJFNVkzRkFpMGU5b0FzdGVLMDhWaTRqcWJQWm1Xdw?oc=5",
+      "source": "GQ India",
+      "publishedAt": "2026-11-05T11:30:00Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1296,28 +1318,6 @@
       "source": "Whisky Advocate",
       "publishedAt": "2026-11-03T14:28:34Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f8287ed9806149cf4863",
-      "title": "Penelope Bourbon Introduces Madagascar, the Latest Release in Its Cooper Series - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWlBRzJScEZjR2lTUWZRdjB5YlF3eFJNaTlaQmg3dXNzTEdpUnpxTXczT1FVZ25qRjNrUWFfenNvTW1RakYzeEc5bWN1eExYeVZfUWEzMTUxbjFLdTRHNmpWOXczYXRZMWREbXNweXNGci05Wmd5b0hzWklsTC03emVDczFPcVJ2SEw5MEFIc2pKdDdmY25qNGlJMGRYREFxTmRZXzBkazU4c3RZYlFfcjhvOXFmdC13bHQ0dEZJcl9jSGlOMGJqNjhLMjQ1aTBL?oc=5",
-      "source": "Business Wire",
-      "publishedAt": "2026-11-03T14:05:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d921a5490d7c8199181f",
-      "title": "The Macallan Just Dropped the Final Chapter of Its Best Gifting Whisky - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRS1JNlpTbzg1Z1FMLXh1ZTZUX1NOS2x2cjJYOGxoWUxFbFZ1WWdwRjYwSXA1clliVzdIT0tSTnptODQzQlM3X1JHRlYyX194cGptZnlfY0NmSDQ3UkJLMUhzLWxudGItenBVWk9vV21oMmJZa1M2QlRKOEo5OTY3YWFBc1JrcVhJUDVqRzdIZ1ZTZFFmTVA3Rg?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-11-03T14:00:00Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
