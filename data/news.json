@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-07T14:48:47.987248Z",
+  "updatedAt": "2026-11-07T15:45:58.481290Z",
   "count": 120,
   "articles": [
+    {
+      "id": "223126b90c116be46a66",
+      "title": "Three Ships 10 Year Old South African Single Malt Whisky Review",
+      "url": "https://thewhiskeywash.com/whiskey-reviews/review-three-ships-10-year-old-south-african-single-malt-whisky-review-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-07T15:00:52Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/three-ships-10-year-old-south-african-single-malt-whisky-review-500x256.webp"
+    },
     {
       "id": "e639d905d58d1ae186ab",
       "title": "Think You Don’t Like Rye Whiskey? These 5 Bottles Might Change Your Mind",
@@ -44,6 +55,17 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "c31c8e80c4fb174787a4",
+      "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - Nosh.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWluMXcyVnl3UFRpbGN4RXl1Z0dnX0lPZDlIZjdBRmdsanI4UDI2ODljWURaSi15TXh6WWxRdVBueWhnR2dHZ2JUVDFGZ2I0YzJIdURkaXhIalZONngzeV80aWhJd05wUnNhWnMxMm1vRnFrV084OEFWcnljUDJuSTluMjZsdmFhRWF2MjRGQW9XWHhIei1QMWhOZ0NWRnVzOGlWRU9BVkNzaDBYa3pKR04yRFVVNENWRHRmbVl3?oc=5",
+      "source": "Nosh.com",
+      "publishedAt": "2026-11-06T22:14:35Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -356,10 +378,10 @@
     },
     {
       "id": "cd76e6068817f2af6a43",
-      "title": "世界三大珍味の創作フレンチと一夜限りのウイスキーイベント！シェラトン都ホテル大阪 クリスマス限定メニューと「ザ・マッカラン コラボレーションナイト」 - Dtimes",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnXy1Cb2JDcHhyb0NoeXYwNVN5em9XaVB5cVdFMnlfVjR1MzBZZTFqeFBvSFljSGdCcEQ5aEw5R21vUTVFREE?oc=5",
-      "source": "Dtimes",
-      "publishedAt": "2026-11-05T23:01:31Z",
+      "title": "世界三大珍味の創作フレンチと一夜限りのウイスキーイベント！シェラトン都ホテル大阪 クリスマス限定メニューと「ザ・マッカラン コラボレーションナイト」 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1USnlpdGEyNzQ1THdxemJSUTVkRnQzLVVDUFozZkY1U1JjVF94cGU2V0k1MjQ4N2hiVVBfQ3E3XzdyM0dfZll2ZnFSNGZfNkp3YTlFQURGWVhpT0lDZzNJ?oc=5",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-11-05T22:48:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -385,17 +407,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "c31c8e80c4fb174787a4",
-      "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2FCSDdNYWpqTGtJeXJFZWFyVERUalVVemFtTThvNEhtWXh6Yi1PWTJKUS00ZTZ5X2xtSU5ldXM1VlA0QmpMYzhNY0t0eXpUYXh2a3hhVGpIZUpMa2l5cjRiSlJGRGdjc3IySUxkbUUyRlFjWkNWT2lhYlpyZ3ZIZXdNQ2tESlNFb1BrbnppSVFGaU5ac3dqRkdNWnhpN3d3dTdlay03U0Fqa2swYm9xaHNxMFdxbXVNWk52TUIyWXllRHRyaWxyLTU2ZmY1QVA1X1hKMkZZNlI0Y2U0MUZB?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-11-05T18:28:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     },
     {
@@ -1307,17 +1318,6 @@
       "source": "アットエス",
       "publishedAt": "2026-11-04T04:30:00Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "313dc8f0a203f9775520",
-      "title": "【ロイズ】アイラ島の個性豊かな2つのウイスキーをロイズのチョコレートで。生チョコレートなど限定商品を11月4日に発売。 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pa1VMaHRzS0loa1NaSG5OMXpfT1VoWUVVQTZfdzNHRDFDT2VST0dFOVBQaVVibzdzTUZfbEtrMEhHeGQxY194SnlfcU54ZFFnZ2ZONXJsX1dDejBGYkxjREg2TG81a05zWEpvS19SVEZDZw?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-04T04:30:00Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
