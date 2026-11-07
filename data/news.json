@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T22:50:09.743547Z",
+  "updatedAt": "2026-11-07T01:06:28.862611Z",
   "count": 120,
   "articles": [
     {
@@ -22,6 +22,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "b5193edf029bc0100ea3",
+      "title": "Cragganmore 12 year old, 40%, - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBET0psNlpkRHo0NmtsMUJucUVlZl84STJVUUZXMmVfWmlNX3hUVGxnd0hUdldOTGFFVjhEQlBNMVlhU3EyVWlsSWNzX1NHY0ZSbURaU1Z2elV3ZnlITlJVTHRSUQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-06T18:36:27Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -216,7 +227,7 @@
       "title": "Capcom and DCasks Announce 30-Year-Old Scotch Whisky for Resident Evil’s 30th Anniversary - GamerBraves",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWVxaEZRUHZvZEEyODI2U0hablBkaFU4YmpaWDdhVkVWVXd4V21fcTUzczZCeVk5eWdfbGFUOENXa0xDelIzV3hOeWVnOWJKUkNhQVc0ZnNSTGl5SS1rMlhONk91MDB3bTN1Y1B5SDgtcjlsMktpUnd3eGR6Ym0yX3I2elJkdXFvZjBiTk1jVTdkMTNKeHVNcjhuZUNOYXd6Y3p0LThsXzdRR0dDdFNfWFk2cnZLX1I3?oc=5",
       "source": "GamerBraves",
-      "publishedAt": "2026-11-06T03:40:09Z",
+      "publishedAt": "2026-11-06T03:29:53Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -785,9 +796,9 @@
     },
     {
       "id": "261787afeb9dcbc7abae",
-      "title": "沖縄最古の酒蔵/新里酒造 シングルモルトジャパニーズウイスキー「琉歌JAPANESE2026 ENDLESS SUMMER」11月6日より数量限定発売 - 沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMDdTMXpNTE1KVHl4WFIzNWdmQzNCMjNTU0NMRXdJcTF5LWpVUFFpTG5YMFJ3cnlpdm5CZjZJTUphelVzRVhZT0FFSngzUU1XTHJhNDcwYzFpdEs5Tmc?oc=5",
-      "source": "沖縄タイムス社",
+      "title": "沖縄最古の酒蔵/新里酒造 シングルモルトジャパニーズウイスキー「琉歌JAPANESE2026 ENDLESS SUMMER」11月6日より数量限定発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mdTBHYTJoZG51UkktZkVzZEdwbWVSWTVIeHJRdXgwN3pLQlI5UGM2SXBTNkxvTkt4UndPRk52Z2dfa0dvbExaaEloWnFEOWZQRlZNMWMzNjJTUFlXbGxXcVhVTlhjMHFRQ1E?oc=5",
+      "source": "PR TIMES",
       "publishedAt": "2026-11-05T00:33:54Z",
       "category": "limited",
       "language": "ja",
@@ -1307,17 +1318,6 @@
       "source": "Men's Journal",
       "publishedAt": "2026-11-03T23:08:00Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7828915e705c70ae708c",
-      "title": "Diageo Cancels 2026 Special Releases Scotch Whisky Collection - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNk81bUZJTHZnT00wd3hBRER2d3VzZUZfWlBqTDV5NmdkUjdnVTJNN3NPVkVfNkxpTGRWU1pFQzhwM0VDYzJQdkVoeGpGcmFscGttSkJSVzRaU0djLXVMcHVkeTZoVVZYaG9mMF9JYk9GdUViakl6WklUcEhwbkJHUTBiVzJpR2NJWGtFcllxRlE3cmR1RFg1VE04N0Z5ektBSW9J?oc=5",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-11-03T22:57:55Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
