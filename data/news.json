@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:47:29.653434Z",
+  "updatedAt": "2026-11-07T17:43:11.504065Z",
   "count": 120,
   "articles": [
     {
@@ -42,6 +42,17 @@
       "source": "グルメ Watch",
       "publishedAt": "2026-11-07T07:00:00Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "258f467d9a4ce50a8af6",
+      "title": "卵型コンクリートで発酵するフランス産ウイスキー。メゾン・リネティが初の3本を発表 - https://www.barrel365.com/",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZmJMcXpDa3RKS0p2a2dQYU5KVzdzcjlTUU5jY0pGMzA0bVk2QnpfdmlfQjByUGxSaENlYlYyOEVXQjFvTi0tZ1NSTQ?oc=5",
+      "source": "https://www.barrel365.com/",
+      "publishedAt": "2026-11-07T05:45:13Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1307,17 +1318,6 @@
       "source": "Spiritz",
       "publishedAt": "2026-11-04T05:32:27Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "e8b7f1cc5d9e83de9dbe",
-      "title": "Ardbeg buried two whisky casks under Islay peat for 34 months; just 456 bottles were released, and one la - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNzYwYm1FbnhWeGU3cmVVb3BDdUxvSW9wMU45dHZwSzlGcG9OOFRQZmdFRFpCcUJoNnhvN0FQV0NyWlNwc0dHR1g0NDlWc3NYdGpXbHNDUmlCUjdadGFZVDZsaGxvcXkyWXJSTkJNUHhoeGwteEZaeU96alhuWEVHRHFuQURBM2RQVHI2SUpUdXZVZHRydWVfcldrMTVqQVZiczhaZGJOWHNvcENSMGZ5ZHRhRURJRWRDckZwSlNqdVhxZXR0Ul84WHBnZExYNC1MUFJWUC1QUDN6TTA1VW9uaGxBZGhQN2ZqbmpUbms0eUU1RUVsSmNmOE1pcGFtNzh1QUYySzUwYmRMdmNZN3VPdXdJazYwX3lfT3hjRHVxOWlZQmcta1hmODdR0gGvAkFVX3lxTE1KamZLRHltOHYtZ1dxbTFoajl5dkxjZGZKa2RyYTk4aVlybHJ4M3lKZXg2V0Qwa1BKM1NBa0tYZHVGc1RYNVozUzJxSXh5VWxoenJ6WlhFLTNrWFA2Zk05UGFiWFUyTlpPcDFKQkZNamNRTkRSOXU0NVJuQzc2SXBjLWk0ZDBtZmx6NS1ENXRlYUs1SzZqMVI5SzV4bkV3am1uOFpYUTdpVlAyUEd4ZHNueFJxWkZiYi15Q2ljRGs5Q0d2QUZHblFHOHctU2NxamZKNXMzZFZyY2NWUmxTR0ZLT1ZkaXZXYlc4eElEQkRaNHZzWjN5aTRfd3VWbG5sU3JkSkdxS1YtR2VBbk02RmpoTU9BZkNaN0tBSDdMRmRFVDlGU3NfS0dmbXBUb2V6RQ?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-04T05:10:00Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
