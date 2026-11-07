@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:57:41.919395Z",
+  "updatedAt": "2026-11-07T05:54:42.789005Z",
   "count": 120,
   "articles": [
     {
@@ -190,17 +190,6 @@
       "imageChecked": true
     },
     {
-      "id": "53307b1d76e077800349",
-      "title": "【白州25年が当たる！】Amazon限定「ロイヤルウイスキーみくじ」777口限定で11月6日発売。白州12年も登場 - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGeTRaTEFXb0ZLMkc4YUpWMHJvbDBvbjJBalhBalNTWms5RW1Pd3AtVEM5dy1uTUNZclFhWjctUzZLcEEtLXFZUnpGekVaTy1vMklVVUFVVHRWalBEU1ZvRlRlcU9iQlBfOHZ0S0d3ZlhvQQ?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-11-06T08:44:55Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7d0efff66a68bb4039b1",
       "title": "IGL Spirits’ Listing Shows the Scale of India’s Mass-Market Whisky Trade",
       "url": "https://thewhiskeywash.com/whiskey-news/igl-spirits-listing-shows-the-scale-of-indias-mass-market-whisky-trade/",
@@ -221,6 +210,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/crown-royals-reversal-how-diageos-canadian-whisky-went-from-bright-spot-to-burden-500x256.webp"
+    },
+    {
+      "id": "53307b1d76e077800349",
+      "title": "【白州25年が当たる！】Amazon限定「ロイヤルウイスキーみくじ」777口限定で11月6日発売。白州12年も登場 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81QUJmUDB1VmQ1UkZuRlFEdHRodjZfMnZNZmhIQWFMTTBSV3czSDFPRzVOWGpmeGJ3QUNJUGlwWm1CX2NUM281dzJFUWZCVWpMUVVWRjVSa0hfUnFYLURxSTF5SmFjcDNwLW41a1ltbHhrUQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-06T06:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "ad4d6b95954a7365a4fd",
