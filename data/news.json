@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-07T05:54:42.789005Z",
+  "updatedAt": "2026-11-07T07:06:11.584967Z",
   "count": 120,
   "articles": [
+    {
+      "id": "b8fd93c3e74c3cb60eea",
+      "title": "ブレンデッドウイスキー「響21年」がAmazonの抽選に当たればサントリーの希望小売価格と同じ“6万7100円” - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IWHJHY0tuY2RlSUZMeDJHbURvNnNzVnRqNWV5ckw2eFpuME1GRkI3M1FYTnU4anFaVi14cndMSkExMzhmQWxaalJYRTh1cGdkaTNZRkhxb3VfWWwzYWo2TU9UT0I3RE92M0E?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-07T07:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "ea21cc7bde0d34177204",
       "title": "「タロット」モチーフの新ウイスキー誕生 三郎丸蒸留所が新シリーズ第1弾「ACE OF WANDS」発表 - TBS NEWS DIG",
@@ -22,17 +33,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "04d07cab860f7807a862",
-      "title": "第７回吉祥寺ウイスキーフェス2026 11月20日（金）より開催！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oSUxrUDhIS3ZsX0RyeEJnekNnWk9STFIwLWtWQW9BaEpEWWhpenp1QlI5RDktMVA2WkJ0OXpQVkNLTnNlWnVLZVJVVlp2SzJSN0xBM0o2U1lvNXRhTVNmWnZUeU9ZYmtP?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-06T19:45:22Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -187,6 +187,17 @@
       "category": "new",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "04d07cab860f7807a862",
+      "title": "第７回吉祥寺ウイスキーフェス2026 11月20日（金）より開催！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hd0RFNVgtUW5QOXEyeE5MR1phNTNXSnE4dU5lbzgwUmY0Z2c5cnFWcUdKSW8tM1ExY1RXS3JCVDFBS1BfRWduYkpLSlNXM3BnVUhaN1hJTjFkRk91WUdZbkhDRWVkb0pFRWc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-06T08:21:56Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1309,17 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "e3ada7a2b620395c3e4c",
-      "title": "The Macallan’s Final ‘A Night on Earth’ Whisky Is Inspired by New Orleans - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUVKRzBlVktjMVg2NmJ5UEM1Rk42NUtzNFR5QzRRc0h2eWlBTGtEaDR4cXFEVkgyTFJYWlExSU44a2dUQ3hsc1VyTUlTYWVsNHRfVENyblcwek1WclM2VWlUdHNzSEYtb2VmMnZ1WFQtWkhhc1ctdUlKN3IwNjFnQ1BLR3Q5elFCQW9BZ1d3SVVjajIzRHdZ?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-03T23:16:46Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
