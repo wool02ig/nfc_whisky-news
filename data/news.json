@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-07T13:56:07.794282Z",
+  "updatedAt": "2026-11-07T14:48:47.987248Z",
   "count": 120,
   "articles": [
+    {
+      "id": "e639d905d58d1ae186ab",
+      "title": "Think You Don’t Like Rye Whiskey? These 5 Bottles Might Change Your Mind",
+      "url": "https://thewhiskeywash.com/whiskey-articles/think-you-dont-like-rye-whiskey-these-5-bottles-might-change-your-mind/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-07T14:30:10Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/think-you-dont-like-rye-whiskey-these-5-bottles-might-change-your-mind-500x256.webp"
+    },
     {
       "id": "b8fd93c3e74c3cb60eea",
       "title": "ブレンデッドウイスキー「響21年」がAmazonの抽選に当たればサントリーの希望小売価格と同じ“6万7100円” - グルメ Watch",
@@ -1307,17 +1318,6 @@
       "source": "Infoseek",
       "publishedAt": "2026-11-04T04:30:00Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "e505e5fc2a4200fae1c9",
-      "title": "イオンnews｜トップバリュのこだわりウイスキー5品目11/3発売 - 流通スーパーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FNU5YNW5NM1dldkdEU2ZLWnV3ZW9Bajd1di1EZ2RaaW5tYlA4Y2ZtelZxUnpod0dMR1VEN1RFRzlTdGxqSUh6WWljNUVITUNjMk9oNXpJTWtrSmRQdVE?oc=5",
-      "source": "流通スーパーニュース",
-      "publishedAt": "2026-11-04T01:45:12Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
