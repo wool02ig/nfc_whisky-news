@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-07T15:45:58.481290Z",
+  "updatedAt": "2026-11-07T16:47:29.653434Z",
   "count": 120,
   "articles": [
+    {
+      "id": "76f293925dde9ba92c0f",
+      "title": "名古屋・栄でウイスキーイベント 清酒の酵母を使った珍しいウイスキーも 入場料だけで200種を飲み比べ - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpdndhZW1OMnA5WHRtSFVCNDQzb0N0X0FQN2d6RDJNeTFJbl91dnZzU1RQVm5fNEYyWC1IQ1FlZGFKVmZSdEUwX3dfVWZqcjlJd212VkF3NmlxYTlV?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-07T15:09:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "223126b90c116be46a66",
       "title": "Three Ships 10 Year Old South African Single Malt Whisky Review",
@@ -1309,17 +1320,6 @@
       "category": "new",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c10c098f72a452c14d18",
-      "title": "ウイスキーを育てた樽で、コーヒーを育てる。 - アットエス",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uWGhJUHpiNW9NbGs0VkpURXoyRzN3Rzhza1VCMVZ4WnpuZV80b0RLeFFKa0ZzSVNtcFRrY3paVmxMdFMyQmNLVVZxOTlyOERMTzMzakJGaFlDMVZWTHpGblE5NWg5QQ?oc=5",
-      "source": "アットエス",
-      "publishedAt": "2026-11-04T04:30:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
