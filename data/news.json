@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-08T11:47:24.132745Z",
+  "updatedAt": "2026-11-08T12:58:39.973129Z",
   "count": 120,
   "articles": [
+    {
+      "id": "06249bd5f879f8f21675",
+      "title": "Why So Many Scotch Whisky Distilleries Have Similar Names",
+      "url": "https://thewhiskeywash.com/whiskey-articles/why-so-many-scotch-whisky-distilleries-have-similar-names/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-08T12:30:32Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-so-many-scotch-whisky-distilleries-have-similar-names-500x256.webp"
+    },
     {
       "id": "227e0553c4dc44be3ccb",
       "title": "ウイスキー好きの皆さんは「高いボトルも飲んだけど結局これに戻る」って1本はありますか？限定でも高級でもない「いつもの1本」を教えてください - Togetter",
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9f1c914d784aa932f352",
-      "title": "ロイズ、アイラ島のウイスキーを使った限定チョコ2品を発売 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZci1aQ2hUcU16SVAwMUJPYlV2X01tVEc4MTF1T3dGbnR5cDI0cElya282MjFjSTVBWFkzdU00b1hLajVOQ1NOZlZuMk94SXR6Qlh1TkRsTDVBY3dDOGNHa3huR0Rwdw?oc=5",
-      "source": "RBB TODAY",
-      "publishedAt": "2026-11-04T08:32:29Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
