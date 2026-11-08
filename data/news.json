@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-08T14:48:16.623026Z",
+  "updatedAt": "2026-11-08T15:44:51.186943Z",
   "count": 120,
   "articles": [
+    {
+      "id": "23214753f8bb514c79b2",
+      "title": "Smokeye Hill 5-Year Barrel Proof Straight Bourbon Review",
+      "url": "https://thewhiskeywash.com/whiskey-reviews/review-smokeye-hill-5-year-barrel-proof-straight-bourbon-review-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-08T15:00:26Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/smokeye-hill-5-year-barrel-proof-straight-bourbon-review-500x256.webp"
+    },
     {
       "id": "06249bd5f879f8f21675",
       "title": "Why So Many Scotch Whisky Distilleries Have Similar Names",
@@ -1309,17 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "aa81f00afa3bf70443fd",
-      "title": "The Macallan A Night on Earth The Finale brings whisky series to a close in New Orleans - The Luxe Review",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmpqZjkwZ2V4bkttRzhUOWh0enBXREx5cU9hZTdVZlF1NnoyUk45RjJoSm43eWlVcEg2YXhoZC1tSzFJNUZuRmhrZ2VsUVhWZUJ1SXJLZFBLQjN2NHN4TWZkVnJELUtRbzFuYXk5dy1yODZGUDZ0eWoxdy1WSW5fQlZiZTdPenZFUU50bVNaSnZ1NmhSZ2dZalZHOXZFTko4SXM0ME13elY5SzlZb2wwSklQeVN4X0NWTkl5NVAzWERBU2c?oc=5",
-      "source": "The Luxe Review",
-      "publishedAt": "2026-11-04T08:37:40Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
