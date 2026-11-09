@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-09T02:20:29.197667Z",
+  "updatedAt": "2026-11-09T04:02:24.119319Z",
   "count": 120,
   "articles": [
+    {
+      "id": "464c993239649c101870",
+      "title": "ウイスキー蒸留所で新しい熟成施設オープン 大阪 岸和田 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6alotVEtwX2IwMXgzSjI4ZDVFZHBQeHdaazY1WGhSVzdraVZnYVAyVDlCTldfQlRkTlRNUmxwc1JKSHVyWi1QTkd5ZGRsMzFRS1lYdVNZc0xDMk40NEhB?oc=5",
+      "source": "NHKニュース",
+      "publishedAt": "2026-11-09T03:11:47Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "22df91b60ba087157922",
+      "title": "ウイスキーフェスティバル2026 in 東京が閉幕 台湾「カバラン」会長ら登壇、 限定記念ボトルも登場 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZWFtRVBMNGl5cjdxUXJEMWNJTU1wQ2pLZS1OdF9YMGNQa1cyTFZZbnNFRTBEdmtfTi1GamtKVGlKUGZETG85VDVCcU96azZK?oc=5",
+      "source": "風傳媒",
+      "publishedAt": "2026-11-09T03:03:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "6c4b5f5073e3bfe4d5c6",
+      "title": "三島市「ふるさと納税返礼品」に地元蒸留所のウイスキー 高額寄付で「樽オーナー権」も（静岡新聞DIGITAL） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42dFE2S2hiQWJaUXlOSFdkSGpWYlZncFE3bmszcXRDUEtuVHdmMVVvM3RxNjRsZmc4OWxxdUpQYkQ0NXZLclBLY0NEcHgtZ2E5dEgzWTBSclpSTG11Y3oybW5DOHhYTl8wMEhlQ0RUT1dSMktQZ3l6N2VmTWc3Nmc?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-09T03:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "a39a5dc79252e30bfdad",
       "title": "Cheaper Scotch raises stakes for desi whisky - The Times of India",
@@ -1288,39 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "4eac3afe680e7b311d1d",
-      "title": "Rosebank 31 Year Old: World’s Best Whisky for Christmas",
-      "url": "https://thewhiskeywash.com/whiskey-news/rosebank-31-year-old-worlds-best-whisky-for-christmas/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T10:54:26Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/rosebank-31-year-old-worlds-best-whisky-for-christmas-500x256.png"
-    },
-    {
-      "id": "457b93943410ee428071",
-      "title": "Madhvan Tribute Blend Indian Whisky Launches in 4 States",
-      "url": "https://thewhiskeywash.com/whiskey-news/madhvan-tribute-blend-indian-whisky-launches-in-4-states/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T10:07:25Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/madhvan-tribute-blend-indian-whisky-launches-in-4-states-1-500x256.webp"
-    },
-    {
-      "id": "1963b4747321e358bdd2",
-      "title": "ROW 94 Trespasser’s Proof Bourbon Ages at Grand Ole Opry",
-      "url": "https://thewhiskeywash.com/whiskey-news/row-94-trespassers-proof-bourbon-ages-at-grand-ole-opry/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T10:06:11Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/row-94-trespassers-proof-bourbon-ages-at-grand-ole-opry-500x256.webp"
     }
   ]
 }
