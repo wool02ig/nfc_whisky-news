@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-09T16:10:47.424748Z",
+  "updatedAt": "2026-11-09T17:16:51.675811Z",
   "count": 120,
   "articles": [
+    {
+      "id": "c1d55811441860019fae",
+      "title": "Dornoch Castle Named Whisky Bar of the Year at SLTN 2026",
+      "url": "https://thewhiskeywash.com/whiskey-news/dornoch-castle-named-whisky-bar-of-the-year-at-sltn-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-09T16:54:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/dornoch-castle-named-whisky-bar-of-the-year-at-sltn-2026-500x256.webp"
+    },
+    {
+      "id": "d76c8551ef299098866b",
+      "title": "Tamdhu 21 Year Old Named Best Overall Scotch at SFWSC 2026",
+      "url": "https://thewhiskeywash.com/whiskey-news/tamdhu-21-year-old-named-best-overall-scotch-at-sfwsc-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-09T16:24:23Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/tamdhu-21-year-old-named-best-overall-scotch-at-sfwsc-2026-500x256.webp"
+    },
     {
       "id": "1bd1df1d3e6d25d72377",
       "title": "Callum Turner swaps James Bond's classic martini for Scotch whisky as he shoots commercial for Johnnie Walker Blue Label amid 007 rumours - Daily Mail",
@@ -23,6 +45,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "06690923097354731e25",
+      "title": "North Star Spirits Unveils Big Dipper 10 Year Oloroso-Matured Whisky",
+      "url": "https://thewhiskeywash.com/whiskey-news/north-star-spirits-unveils-big-dipper-10-year-oloroso-matured-whisky/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-09T14:04:21Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/north-star-spirits-unveils-big-dipper-10-year-oloroso-matured-whisky-1-500x256.webp"
     },
     {
       "id": "99dadd131bae8b4704f1",
@@ -80,11 +113,22 @@
       "imageChecked": true
     },
     {
+      "id": "ded655d8ad6726d4dc22",
+      "title": "The London Distillery Co. Launches English Whisky Collection",
+      "url": "https://thewhiskeywash.com/whiskey-news/the-london-distillery-co-launches-english-whisky-collection/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-09T11:42:22Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-london-distillery-co-launches-english-whisky-collection-500x256.webp"
+    },
+    {
       "id": "0cf744213d44b000f761",
       "title": "Fife-made Scotch whisky cream liqueur lands major Sainsbury’s deal - Central Fife Times",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnJDWWtIRmFrMWRrc19oQTBVUVoxQlBCb3hwNGdkNVZFRkxvdThvVzVzRGl2Q2pVZ1pRdGszbXN4S2dkbTdKTTFWSmRGc2s2c25RTVFweWZZSGszSjhuRG5fYmdPVkxOa2ZiLTVRUlZJaXBvVDAySjJGNzlySW04NURza0UxNzZzdUdjSlVHT09yeTNwQzFxT2RfeVZGWXVpaFE?oc=5",
       "source": "Central Fife Times",
-      "publishedAt": "2026-11-09T11:16:02Z",
+      "publishedAt": "2026-11-09T11:17:57Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -529,6 +573,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/scattered-castles-limited-release-straight-bourbon-review-500x256.webp"
+    },
+    {
+      "id": "44aff2e529f24e94c18b",
+      "title": "The 3 Whiskey Cocktails That Everyone Should Know How to Make, According to Our Distillers of the Year - Food & Wine",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXZaNlFiOXFGWTc4U1NIMm9oZk1fNUI5WW9zR0FjN3plRkZCZW12cktZdm5rQ1ZpcTF5dlEtMkJlajFJQzl3NlZ3ZG5BbGhMeXB4emJKb196emNweW5WQXhycUd5d2pNQU9UZkRkOTNwVzNPS2NmYndlanpOWk5yaUFPWHFMLUpGWUYzaHRyYld5bUhFeEtWT2pBXzNGamRfcDhRSzlfdThpbFdKY1pma2ZMQVh3MGtDMzNQMHY5eWpKRy1iZDVpajlNXzhuX0hGTTZUdQ?oc=5",
+      "source": "Food & Wine",
+      "publishedAt": "2026-11-06T15:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "db44e681b68e9e3625cb",
@@ -1263,61 +1318,6 @@
       "source": "Robb Report",
       "publishedAt": "2026-11-04T22:00:00Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "193adba9898a06d3c96a",
-      "title": "Canadian whisky distillery wins big at international spirits competition - Daily Hive",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZHRocTJMX0U0RG5wVGhFSXZFaE54UzNNZmpfdV9ZUTg1aGN2REt0YzNCamhNT0FkV3NqSFBoUk5yajBCeWcxN1pKeXdsNTQzWkQwMXRsSmt5MVNTWVhN?oc=5",
-      "source": "Daily Hive",
-      "publishedAt": "2026-11-04T19:04:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "12882be0da854e1b1722",
-      "title": "10 Best Whiskeys Of 2026 (So Far) - Tasting Table",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sSUFNRVU0b3ZCcWNKSEVmS1NLLVF6emtGVUdRRHNnMW50MTZxVmNVQkNjT0xXZEw5VWZWWUYyQXFsUGY5djYwTTNvYkJCZnVWMmdLQnFuSVZRalAwOE9JZmUwZnFjU2s?oc=5",
-      "source": "Tasting Table",
-      "publishedAt": "2026-11-04T17:20:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7284e237e539cefaaee7",
-      "title": "Clapton Craft launches exclusive Isle of Raasay Single Cask Whisky - Retail Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFNaMF9TbUtKa24ya2tmZ3ZId0dRTUdUaEVTSXZhZVNNS2ZyaGpwMTBTS1V0NGVaQ01Rc3RyVUpVOW5fQlBQd2FncXFUSC0waVVUZmxTWERiUm5hNURJMzl0cHBqc2VTaE9FQWduaG52V1VrZVZWR1JQSEJCa3lMdE9Sbll1c05vNUxpdEJZT1JhOEpkNl8wbg?oc=5",
-      "source": "Retail Times",
-      "publishedAt": "2026-11-04T16:59:12Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "0d7e38327b1504c6d266",
-      "title": "Oxford Artisan Distillery Returns to Oxford with New Board - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWVc3MWhYelU5bkl1MkVreVNycW1NMVo3M3ctOVUtWEVNZHZWQWFDaUFsdXJmMFFLdGROdEZZU2M3aFFNVkd2VkxxbjRpQlVyQVVBVUJvbnRWdnNZRXhydURKdGdRNGduQVhleUNnZ0xfNW54c1p3R0VwOXRVU1A5djN1LVJBcWhSb2pZd3JhVVozc3hmY0dmbzhwQWs3U2g5?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T16:16:11Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "137f8b4ab395ba85029b",
-      "title": "Glenfiddich 28 Year Old: Aston Martin Limited Edition - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSS1Pc0dZR2dXZ0ctWkxtb0JTOGFHZm5nenowTlJPVHl3eS1EQUVHNjlMbFR5MnU1ZHRDQW8yNTVPSjBaVmhLbXJlU0tyLU1haHItaDZLdlNxeEd3ZndiOWxKSzY1QWFxMktXRWV0YXl2RkExY3NXUGRMdFRCUVlVTjlwMkhVLXg3dkRINVM5dGZZZ1N1S2VtSw?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T15:47:18Z",
-      "category": "limited",
       "language": "en",
       "region": "international",
       "imageChecked": true
