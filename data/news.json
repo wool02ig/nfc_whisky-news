@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T15:02:29.234696Z",
+  "updatedAt": "2026-11-09T16:10:47.424748Z",
   "count": 120,
   "articles": [
     {
@@ -152,6 +152,17 @@
       "source": "lifestyleasia-onemega.com",
       "publishedAt": "2026-11-09T07:56:27Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "ab48c3716e3d304d4561",
+      "title": "This Nc’Nean Quiet Rebels whisky tastes like popcorn and pineapple – but is it worth €85? - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPei1MSExFN3AxVlJRaTA2M1RGRDk5UTJjZGZIbmp0UkhSaS1iOWxHeTgzX2U1aVJhRmJ1UlJNc0Q4OFBFQV8tZDZlNElWM0Fza1l0TURmTUxtS2pJeXVHdHNyRXBWZlJnTTBPaU44Z2tfaURuQUg2eTJIaTE0Si1HYm1FUm1rOUVwZjN0UXhmR2xpcUIyUENUaWEtWmt6NF95bHlIRkhFN0xDYXFieHIwMjFUN1VRQnFLdWJwazB3?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-11-09T07:34:00Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -829,10 +840,10 @@
     },
     {
       "id": "8526c34be7f687db2b58",
-      "title": "7 Bourbons Every Scotch Whisky Drinker Should Try",
-      "url": "https://thewhiskeywash.com/whiskey-articles/7-bourbons-every-scotch-whisky-drinker-should-try/",
+      "title": "7 Bourbons Every Scotch Whisky Drinker Should Try - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmNVOHQzMm1uQ2lRcmhYWnZHdG1ncmsyNnRqRUZtcjBvc0dfQ0JlbndzaHV3TUpoR0h2ZkctVEZBOXRCeFVXeEhNREJBN3AyQWMzZlU4MTBUcVBuVnFxZkE3M09YNmtadzNqemtyTkI1M3A4NGd6RkZaUHg0Nmo0dk9BSThMZU05VzVCTzlRLTlObGRObzBfVG53?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T14:30:32Z",
+      "publishedAt": "2026-11-05T14:53:41Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1202,17 +1213,6 @@
       "imageChecked": true
     },
     {
-      "id": "261787afeb9dcbc7abae",
-      "title": "沖縄最古の酒蔵/新里酒造 シングルモルトジャパニーズウイスキー「琉歌JAPANESE2026 ENDLESS SUMMER」11月6日より数量限定発売 - クレアウェブ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93M2hudU4tQ0lweE5FN2NpVnVMT2V6OFpTel9ia0JEeUpyWkJpYk8xZi1EWndZNkJILUhGOV9GdEVYU1BnQnhZZTVMUTYxSjZyd2o0R19KV1NmZVVqY0tKaDI3Tkl3ejNaQTVJU280eDFyUQ?oc=5",
-      "source": "クレアウェブ",
-      "publishedAt": "2026-11-05T02:22:51Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "0d8462146bbc3c623a8f",
       "title": "Scotch whisky prices may fall in Delhi as Excise Department implements India-UK trade pact - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmZ5Vm55SkNVNVY1TzJMbjc1N2JRM01RdUdXR2Q3eERXajN5emlmMFZFTGRSSGlKS04tZ2s5ZURKbmt0V2pBVDNnX3VLTEhra2JyT2JKd1c2T0FyV2tsLWdQQ0lQUGhOdjR5T0NsZFNkQmZuMkxpakZzUzhnX2ZMUThHQTRwQnA4UlJ2d3cwM3hxUXpyY2N0ZC0wa09wSld5aHlaenBwNVBIMWlqN3lPMFV0Y2N6ekpULVE2QUpXYVM3ZkZiQTJTYkZ5Um02MnfSAdQBQVVfeXFMUGlVYmFaSFh5eUFkN0MyX2tNVmtXZDVzbW5YTkZ6SVBpNVNBUTN2WXk0WFZTRk9kWnZ0WVVFblpWSUdxWnJuQ25PbjFRTkR1WnNadmotOTFSRmRRR2NKSXFoNVJfaWNOcmVCeTZXY29seFdES2ZQQ2hDQW0zSm5VcXg1LVc2anotRXZqYjMzMi1CVDZRS0dQc2cxS0FsOFJOaERjVTFiRzI2VW1SOWhSQVdFQ1RBQWF3MmotT28wUGFTUWJ6Yi1nT0dLRV9mSnRlYlFGelA?oc=5",
@@ -1232,6 +1232,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "261787afeb9dcbc7abae",
+      "title": "沖縄最古の酒蔵/新里酒造 シングルモルトジャパニーズウイスキー「琉歌JAPANESE2026 ENDLESS SUMMER」11月6日より数量限定発売 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jMDdTMXpNTE1KVHl4WFIzNWdmQzNCMjNTU0NMRXdJcTF5LWpVUFFpTG5YMFJ3cnlpdm5CZjZJTUphelVzRVhZT0FFSngzUU1XTHJhNDcwYzFpdEs5Tmc?oc=5",
+      "source": "沖縄タイムス社",
+      "publishedAt": "2026-11-05T00:33:54Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "05aba0416362acf64252",
-      "title": "The Woman Who Moved Her Kentucky Bourbon Distillery to Mexico - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjZNMm54VUswelRCcjFVTlNxR29vUkZpanV0NEY1X3BkRXY0ZzdTS3d4dUpFeUwyOFJ0NmxyZWZBZ1ZIYnNDZV9fZGhhNko4d3c4cjVvd3hpWEFIVmhtWjdUU19wc04xWG5CbU9OX202WDE2VHF6REJGeEJBalY3a0QzTmJ2VHNmOENYbllFUk5XMEotb2pFWHZmOGpHUUdPUXl3cmtseTl6QQ?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-04T15:09:34Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-woman-who-moved-her-kentucky-bourbon-distillery-to-mexico-500x256.png"
     }
   ]
 }
