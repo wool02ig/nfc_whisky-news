@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:14:13.326644Z",
+  "updatedAt": "2026-11-09T06:19:22.753968Z",
   "count": 120,
   "articles": [
     {
@@ -520,17 +520,6 @@
       "imageChecked": true
     },
     {
-      "id": "13d27f9a7bfed888f329",
-      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jc0pYYlpiUVB5VU8xUmtvZXp0TG1ZMzRUZkRzMXh0eUhMU1JOeTAybEtEOXJHRWI0QlVIRFhabEl1QkJqVWR0dUdSZXpGQkJHMjNlOWxpUWJScHdkc2NF?oc=5",
-      "source": "千葉テレビ放送",
-      "publishedAt": "2026-11-06T03:01:31Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "527cc0a8caa8e2718c56",
       "title": "小諸蒸留所で造った初のウイスキー 全国の西武グループのホテルなどで提供へ - 信濃毎日新聞デジタル",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUjByUVZIWjdYVU1HcGhzQldOS3VQdWExN2tXbmJ5ZU9RbGtaWHFfZDFxd2dBUTRfWEJNS0FRZ0xJNzdYVlJuSmFrQ0lxQkRCdHl4NTZ6eGV1OGt0RDQ3SUlFRnhwUU4tWC1sTjBRclY?oc=5",
@@ -614,6 +603,17 @@
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-05T22:30:25Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "13d27f9a7bfed888f329",
+      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SbnJzYzZCelk5VGhWUElId2xray1Wekd2Vm56VGVMZFRfNEpTVXNWblZlSUFDYXNHdWVxeC1qRjdfdE9ITTJlOTljSFFkTmlqOTFac0xfU1Q5RGJleTctSWtvRVA1cGppOUs3VC0xUmZvUmZjenc?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-05T20:15:21Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
