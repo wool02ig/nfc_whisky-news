@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T17:16:51.675811Z",
+  "updatedAt": "2026-11-09T18:07:09.506132Z",
   "count": 120,
   "articles": [
     {
@@ -129,6 +129,17 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnJDWWtIRmFrMWRrc19oQTBVUVoxQlBCb3hwNGdkNVZFRkxvdThvVzVzRGl2Q2pVZ1pRdGszbXN4S2dkbTdKTTFWSmRGc2s2c25RTVFweWZZSGszSjhuRG5fYmdPVkxOa2ZiLTVRUlZJaXBvVDAySjJGNzlySW04NURza0UxNzZzdUdjSlVHT09yeTNwQzFxT2RfeVZGWXVpaFE?oc=5",
       "source": "Central Fife Times",
       "publishedAt": "2026-11-09T11:17:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "847b8c45636e9e8879f6",
+      "title": "Scotch whisky cream liqueur lands on Sainsbury’s shelves in Stirling - Stirling News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEpNb1E0MjRZVU83Tnd1ZTNxb2RSSm9hUDBSNzdhRVM1OGVWbVlEQUNUTTdhTHdnczVMc1l1QS1uTG1JR1l4dVhzQWVDam9yMFh6LUNfOHF2aWtwRTRIcmR1ci1IMG1YdllSOEVSUW14RUljZHRPYk9uMDZBdDV3ZjUwLWZvbF93THZfUk1zTmJnRnVfaWR4ODg3dFhQazlQSmM5dQ?oc=5",
+      "source": "Stirling News",
+      "publishedAt": "2026-11-09T09:50:20Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1309,17 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "55628b9ee55ccc1431f6",
-      "title": "The Macallan’s Final ‘A Night On Earth’ Whisky Is a Tribute to New Orleans - Robb Report",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVmRaeWxlWlZwaktTOUo0ZkFZWGRvZk1pXy1fOFF2UV93dXh5M0l0VEpfcURXdG1hYUVnWGZoNXpMaTlaaGlJd0FCaGF0M2l5bGhZX1pmWE1xSEpsUFMyWEx6bkYyRWRaQmJSTEdtSnJIVEktdDkzcXF0cW05RlVxbjdMQml1UlhJVk16NXJnaVUydnl5bm94dmxla21xYllPN3ZZ?oc=5",
-      "source": "Robb Report",
-      "publishedAt": "2026-11-04T22:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
