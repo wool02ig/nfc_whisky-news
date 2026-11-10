@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-10T08:59:18.977005Z",
+  "updatedAt": "2026-11-10T10:00:14.357292Z",
   "count": 120,
   "articles": [
+    {
+      "id": "b73e8702b94488cd30e4",
+      "title": "THE LONDON DISTILLERY COMPANY SERVES UP A NEW PERSPECTIVE ON ENGLISH WHISKY WITH THE LAUNCH OF THE FULL ENGLISH - Bar Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjJadzNpaTJYVEZ3LWtHOTZ2aVp3Y3NJVU9tWHNTQUpwb1c3SlZyU293czNtYm1ROTlBS0tCTFBJc2pNZkF0a2cya2FQRWFuQVhvWEZuajFmZnY1dTNhYVBqckc3djJ4Rll6UkZKclhreGdwVGNpd1lhazBZdnMzdTlnRmwxekpaNFJkaGl3d1FXd3RVWVE1NmdnaHI2dFVLZERzTTFUWVRTSFV4Zkx6MHJidG1wSFFXQ29vcjlOTVktWXUyUlN2MkNPSV9aemNzUjI1aA?oc=5",
+      "source": "Bar Magazine",
+      "publishedAt": "2026-11-10T09:45:15Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "2d55d953a4922f697c32",
+      "title": "ラム樽でウイスキー、ウイスキー樽でラム酒を熟成 大分と鹿児島が連携し新商品開発へ - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05OXBTVGU5NHIwVUZqUUhVVXBNTFhRU3dIcWVKbnFXUDh1NG5GcW5kX2IxZGkxUno5X1JUNDB2MjJPZVpURllKNzM3bk9qT0tseDlKUW5XdWYtQQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "publishedAt": "2026-11-10T09:07:00Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "a27b8012ee5524ddd6b5",
       "title": "シングルモルトウイスキー「白州12年」をAmazonで抽選販売。当選者は希望小売価格の“1万7600円”で購入可能 - グルメ Watch",
@@ -1298,28 +1320,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7bfb189e3c0ed4ccf0b6",
-      "title": "Aston Martin and Glenfiddich unite to create limited-edition whisky - Insider Media Ltd",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlVTelFKZXhPR0VuRXFGUlFpVUhQY3plYjB6dWJvQWZ4ZndiTV9zRlVkaXRzQTZmeXdrU3VreWdLQzF0bkpMek1weFRUSkdDRjFWVDlXMEtSQWw4ZGNYalVZTW1pVHdJT0I5RExtQmg4TWhhdzZYQmswRFRTY2x4M0hvcUlUUlhsNUk1WjVYU0VmNkExcGxlU3J2OGZaTElJX3hDWmxHRV9XenRUMHc?oc=5",
-      "source": "Insider Media Ltd",
-      "publishedAt": "2026-11-05T08:05:42Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "db1a9f7433fb48807ce0",
-      "title": "Scotch tariff row: Why Indian and foreign whisky makers are worried - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0hEU05pR1poMmR4Q0xzT012UktaTnZFbG9ac01EaVBTdXpnc1ZYeUt5Z0d3Xy15b0xlaHZEeF9KZFJRbXppVEdhNnJKYUdwbmQzcUpYaEpaRzhVdGZwcGk2UkF2bmtHcWxlQlZ3NW00T0M4cFhhSXZTYzZxT2ttMnhoVEFZS1F0dGl5aXhWQjVnTF90SGVvZkFDcXF0MDFsV21OSEFCeWR4U2ZOUHB3eVpISERUVWhiQ2RjRmVFMktBVExpY0NOWnJsMW1HQdIB0wFBVV95cUxNQktOaVhJUkhHMXNHdnp6X0NKWHJOSTlBM2xxeVctUnQ4ZUdudEM1VFo1eUlLbDMweExHMEFGN3doaVNxRXh3T0Z3Zmd4YlhyZk42WHJ5UEp4SGZvbWRSQWFLV0VUVy1yN0dReG9JcDZQeDk4b05LOF9ueUtyaXpJT2dlTGVhSnA2T0VJWlJjZHNxWm11UDZBVXZjZktOc2FpRGRmNVllSHVTYnBIX2M2X0hxc0kySHdyS1RiMnplUkcyNGptelJneU54M0RlRzdiOFRR?oc=5",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-05T07:10:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
