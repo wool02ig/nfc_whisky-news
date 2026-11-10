@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:57:33.212303Z",
+  "updatedAt": "2026-11-10T03:57:31.949081Z",
   "count": 120,
   "articles": [
     {
@@ -23,6 +23,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/tamdhu-21-year-old-named-best-overall-scotch-at-sfwsc-2026-500x256.webp"
+    },
+    {
+      "id": "b8f69128d0cb18faa323",
+      "title": "Tamdhu 21 Year Old Named World’s Best Scotch Whisky - BevNET.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdTV3S0RtSUlYYUJxSEJMdVF6SXM2MzEyWjhEOGtuVDZCWXhIU0RxRWU1XzBydjJzeDlON0g2aGJfUldnY1NpXzc2NVhCaGl6NWttajRBRlVVSHFQV0twSHdKRURxQTNVZnRPMVdIa29JVDhsUW0zWkUzS1VyNHF1UjZyS1pDVUVDcVhKbHpyaHQ?oc=5",
+      "source": "BevNET.com",
+      "publishedAt": "2026-11-09T15:35:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "1bd1df1d3e6d25d72377",
@@ -129,6 +140,17 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnJDWWtIRmFrMWRrc19oQTBVUVoxQlBCb3hwNGdkNVZFRkxvdThvVzVzRGl2Q2pVZ1pRdGszbXN4S2dkbTdKTTFWSmRGc2s2c25RTVFweWZZSGszSjhuRG5fYmdPVkxOa2ZiLTVRUlZJaXBvVDAySjJGNzlySW04NURza0UxNzZzdUdjSlVHT09yeTNwQzFxT2RfeVZGWXVpaFE?oc=5",
       "source": "Central Fife Times",
       "publishedAt": "2026-11-09T11:17:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3cf49602c34c77c21924",
+      "title": "The Scotch Inside Indian Whisky: The Business Behind The India-UK Tariff Dispute - Outlook Business",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXFmY0Y0SkR0UzlWcWxxOVp6SDQ2ZHhEMlVud1FabUYzd3VjSVcyR0c5eUphYjdId1dMRHZ4bnZoaWlBV2FTMzJlakpYY3NFdEcyaGpZMlJzdzBxcnV3VzY4SDQ2ODNmLXVzejd2Z0kyMUd6M0EybXM1MlBRMDhlbEh2RkxOY0VieGZyNDBUNVFDN2dsTUt0UTNncjBzNmJnNU1rYnRVX0J5S2FRQTRFd2VpTWpNN3fSAcQBQVVfeXFMUGk4ajNzUlBoNGo0aUNQY1J6QTR0WVV5clVfOG9obWJxdUFJRGdKLUhZX0h5Q2xHNl9XaDhOQWRsVWl4NEd0Tkg4Z21EMnMwUmZLUUtTMEdGQlFraGpuTWpQbXdvUGpnMWlybEU2emRJa2Z0NFdWLUdCS3diekkwREEtbHotNEtDM3NvVVA4WERUei1GVmhsRFlDRHpqT3hNT1EzMTVFcVlEeHVCSUNvd0JueGw1ZkEyOTkxa1Q4dVF4YjZDdw?oc=5",
+      "source": "Outlook Business",
+      "publishedAt": "2026-11-09T10:56:41Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1298,28 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "0d8462146bbc3c623a8f",
-      "title": "Scotch whisky prices may fall in Delhi as Excise Department implements India-UK trade pact - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmZ5Vm55SkNVNVY1TzJMbjc1N2JRM01RdUdXR2Q3eERXajN5emlmMFZFTGRSSGlKS04tZ2s5ZURKbmt0V2pBVDNnX3VLTEhra2JyT2JKd1c2T0FyV2tsLWdQQ0lQUGhOdjR5T0NsZFNkQmZuMkxpakZzUzhnX2ZMUThHQTRwQnA4UlJ2d3cwM3hxUXpyY2N0ZC0wa09wSld5aHlaenBwNVBIMWlqN3lPMFV0Y2N6ekpULVE2QUpXYVM3ZkZiQTJTYkZ5Um02MnfSAdQBQVVfeXFMUGlVYmFaSFh5eUFkN0MyX2tNVmtXZDVzbW5YTkZ6SVBpNVNBUTN2WXk0WFZTRk9kWnZ0WVVFblpWSUdxWnJuQ25PbjFRTkR1WnNadmotOTFSRmRRR2NKSXFoNVJfaWNOcmVCeTZXY29seFdES2ZQQ2hDQW0zSm5VcXg1LVc2anotRXZqYjMzMi1CVDZRS0dQc2cxS0FsOFJOaERjVTFiRzI2VW1SOWhSQVdFQ1RBQWF3MmotT28wUGFTUWJ6Yi1nT0dLRV9mSnRlYlFGelA?oc=5",
-      "source": "CNBC TV18",
-      "publishedAt": "2026-11-05T02:20:07Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f35c95ca632d41c29c47",
-      "title": "Why whisky classification has emerged as a trade irritant - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXy1zUkdYRHJ2Y2xPQllkSElnWHhxMS1YLTJjNFVKQ24yX0F2UzR3c1B5cndqYXd4WG43Nk5CeEhiTVVFY2xIRDFNRzlXRHM4em5mUDRIbmg3eVZobndFM2pvTUlvUzZZcmsyVDFscWU3V3JJV0JUaEtldEZZanJackRIbHJURnZyeTNDWW5rRG1BNndNdmRiQk5rM2JkZE1wY2RPQThMd2VvWThuNDBycEs1QjHSAbsBQVVfeXFMTTNhRXdoZldWY0ViN1daaURwNUhodG5QMTlEdFR0ZV9kaXZZa3JraFJGcm13Vy1UTzJDVE43VXJxc3V6VzVqYXgtLTN5c21ZaUpQU2FBWXlzNllhb0RwcExtVkEyekdfSTAzaVgxOVd4eDE4WVFPalNnVmE4c0FQZHE5MjN2b1E4TGY1LVktQ2VRLWdnQW5kczB1azZ0WXZIbzFSN1FMNkJlTXRjNW9pbnRzQ2NXSGZKVHFnNA?oc=5",
-      "source": "The Financial Express",
-      "publishedAt": "2026-11-05T01:03:36Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
