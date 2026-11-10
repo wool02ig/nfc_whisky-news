@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T01:10:40.594825Z",
+  "updatedAt": "2026-11-10T02:12:21.520415Z",
   "count": 120,
   "articles": [
     {
@@ -498,17 +498,6 @@
       "imageChecked": true
     },
     {
-      "id": "c31c8e80c4fb174787a4",
-      "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - BevNET.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUIxZF9ocjV5bjZFcWhaYXNOU3JLTTh6eUJtY2o5a0wtQmVQQU1TZWZUeVI5LTVzWGJXY3dwZkNBYXRkLVFQRmlMbk1mQU9Wd1J1SWxmX1VqRXBnSUR1aEZCU3RiTzE2bkdSTXJTbG9DTEpDbTZiQ3d0RU5iRmVZQlc1eFlyS1V4eVJLR1MydjVYaDlOX1JYQmdDRkVEZks0NHdseFVFeERJNF9rTVZKMDJQUDFpRVoxc2lEa0VmVlc?oc=5",
-      "source": "BevNET.com",
-      "publishedAt": "2026-11-07T00:31:06Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "85fbc277c42219cc3fa7",
       "title": "6 Scotch Whiskies Under £500 for an Ultimate Collection - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2pqZzBNQm1KcEt1UTVuTjA3alNheTZ2ekhJZGxvMDhJanhpeE1aYkpkVXNCZUNXUVJKWlk5Uklwc1o2NHQzUS1OblA1S3FqYVZzb1BBNGhLbFB5b294cy1abTVPMGxJeWExZ1RSN002aGl0RExrQzRFQVIwQXBzV05B?oc=5",
@@ -869,6 +858,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "c31c8e80c4fb174787a4",
+      "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2FCSDdNYWpqTGtJeXJFZWFyVERUalVVemFtTThvNEhtWXh6Yi1PWTJKUS00ZTZ5X2xtSU5ldXM1VlA0QmpMYzhNY0t0eXpUYXh2a3hhVGpIZUpMa2l5cjRiSlJGRGdjc3IySUxkbUUyRlFjWkNWT2lhYlpyZ3ZIZXdNQ2tESlNFb1BrbnppSVFGaU5ac3dqRkdNWnhpN3d3dTdlay03U0Fqa2swYm9xaHNxMFdxbXVNWk52TUIyWXllRHRyaWxyLTU2ZmY1QVA1X1hKMkZZNlI0Y2U0MUZB?oc=5",
+      "source": "PR Newswire",
+      "publishedAt": "2026-11-05T18:28:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
