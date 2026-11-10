@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-10T10:58:21.713507Z",
+  "updatedAt": "2026-11-10T11:56:46.322661Z",
   "count": 120,
   "articles": [
+    {
+      "id": "28662460b31894515174",
+      "title": "The Best Scotch Whiskies In The World, According To The San Francisco World Spirits Competition 2026",
+      "url": "https://thewhiskeywash.com/whiskey-articles/the-best-scotch-whiskies-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-10T11:17:55Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-scotch-whiskies-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
+    },
+    {
+      "id": "2d55d953a4922f697c32",
+      "title": "ラム樽でウイスキー、ウイスキー樽でラム酒を熟成 大分と鹿児島が連携し新商品開発へ - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05OXBTVGU5NHIwVUZqUUhVVXBNTFhRU3dIcWVKbnFXUDh1NG5GcW5kX2IxZGkxUno5X1JUNDB2MjJPZVpURllKNzM3bk9qT0tseDlKUW5XdWYtQQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "publishedAt": "2026-11-10T10:10:00Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "a7b7192429907f75c02b",
       "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発（TOSテレビ大分） - Yahoo!ニュース",
@@ -22,17 +44,6 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "14bdda3bb51e47abf90f",
-      "title": "ラム樽でウイスキー、ウイスキー樽でラム酒を熟成 大分と鹿児島が連携し新商品開発へ（OBS大分放送） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NkZDdlhabDFJT1RsZURyWS1WZFBTNUtYcFg4RGozR0VMT1BQTWFiMUtjQ2VRZ09zQXd4R1J3UjFGT1ZaMGN6d0NEQ3RWNlRuZkU0MUhQekZwdkMwZWsxNnRyRkZEWWcyaDc3MUdwSVFtTngxQU5IbUplTmc0TUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-10T09:07:14Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -685,6 +696,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/green-river-bourbon-gives-sports-fans-a-helping-hand-with-bullsht-refund-500x256.png"
     },
     {
+      "id": "9bc59dc840da047130dc",
+      "title": "Forget Scotch Whisky For A Moment, Islay Has A Rum Story To Tell - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajliOE11VlR0TVFUOTJ1U28xUk5yUnBSZ2tyb0h6TEdlR3h5a0lxOFlxYjR1X0EtN19NcXlyS3l1RXZlRDhwUWt0THVwZkk5WmYzZE80Y0lLX3l2dWRkRnp2THFoNS1rYzEzWkZKTno4ZkdRal81czl6eUlabFFpRHRyWFY5SmlUenVuSE1DUDJSdDhpbWpueHdBUTBhYk5wOVJkc0lQaVlrQQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-06T15:57:07Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/forget-scotch-whisky-for-a-moment-islay-has-a-rum-story-to-tell-500x256.webp"
+    },
+    {
       "id": "c1276e4ef62ff20ca30a",
       "title": "Capcom Announces ‘Resident Evil’ 30th Anniversary Single Cask Scotch Whisky Collection - THE MAGIC RAIN",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczBxREhEejlTMU5vcWJSSGI3UXc1ZG54SmtfRHJ1bjJJaURrcHNINE9xdUp2Z3pFaEV1ZFpEbnpaQk1VNVhHY3h1YkZhTmMtLTltRFducVdnanQwUFkyT0lRVndtUVZwdUdOWld6alpMTGhGTWpiLXhSMFpueklrUmhFRW5GNUVpRWQyWHp1c1h0Y3p0bEwycUJKUy04M1hnWk5oekNiN0l3ZS13Vi1FT3pxVkdkdENPSUE?oc=5",
@@ -738,17 +760,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "9bc59dc840da047130dc",
-      "title": "Forget Scotch Whisky For A Moment, Islay Has A Rum Story To Tell",
-      "url": "https://thewhiskeywash.com/whiskey-awards/forget-scotch-whisky-for-a-moment-islay-has-a-rum-story-to-tell/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T14:30:50Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/forget-scotch-whisky-for-a-moment-islay-has-a-rum-story-to-tell-500x256.webp"
     },
     {
       "id": "9bfad73e725ab314c981",
@@ -823,6 +834,17 @@
       "source": "BeverageDaily.com",
       "publishedAt": "2026-11-06T10:29:31Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "51ea434cf2b9affb3d5c",
+      "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
+      "source": "Law Society of Scotland",
+      "publishedAt": "2026-11-06T08:00:00Z",
+      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbmNaVVhtOW9VdUt0VUliWWc2dU1idFpBV1hrMEFqSE1pX3NJU1l6RHBWTm1zbW5aMDRfSUVUOHlxLUxqYTB5M3NicEZQUlg0UTYtYW43TVM0bjZ2VUg3ZXN1dlJVY3BwV0E?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-05T09:12:12Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "0473e2fe6f975eb3b42c",
-      "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！ | 軽井沢蒸留酒製造株式会社のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbmNaVVhtOW9VdUt0VUliWWc2dU1idFpBV1hrMEFqSE1pX3NJU1l6RHBWTm1zbW5aMDRfSUVUOHlxLUxqYTB5M3NicEZQUlg0UTYtYW43TVM0bjZ2VUg3ZXN1dlJVY3BwV0E?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-05T09:12:12Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "94763af6b16d3f24fb11",
-      "title": "まさに英国ラグジュアリーの頂点。アストンマーティンとスコッチウイスキーの名門グレンフィディックがコラボ、28年熟成ウイスキーが誕生 - https://intensive911.com/",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ITWNhVDZKUGsxSkFCeWY1Y0xsaEl1aEtxbG9mU3VMdXNobnAxVC1ORTZHcHJmWU5pSVV3cS14NWJucnRZZUJFYXkzLVFEYWt6MEF6MXJIS1Z4ZFg2RUJGQlNONTZ6ZEF5aFI0cWZR?oc=5",
-      "source": "https://intensive911.com/",
-      "publishedAt": "2026-11-05T08:09:56Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
