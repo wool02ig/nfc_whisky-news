@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T19:01:37.850654Z",
+  "updatedAt": "2026-11-10T19:58:31.909061Z",
   "count": 120,
   "articles": [
     {
@@ -69,17 +69,6 @@
       "imageChecked": true
     },
     {
-      "id": "2d55d953a4922f697c32",
-      "title": "ラム樽でウイスキー、ウイスキー樽でラム酒を熟成 大分と鹿児島が連携し新商品開発へ - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05OXBTVGU5NHIwVUZqUUhVVXBNTFhRU3dIcWVKbnFXUDh1NG5GcW5kX2IxZGkxUno5X1JUNDB2MjJPZVpURllKNzM3bk9qT0tseDlKUW5XdWYtQQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "publishedAt": "2026-11-10T10:10:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "a7b7192429907f75c02b",
       "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発（TOSテレビ大分） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rSm9TbDRtM0pvSlpxSG9zYWRMMGQ4czUwY3dGZGtiT3k3R2s0R1ZxMnM3YV9tNmZpUGRLbmUzXzc2aGlwckpLN3F6X1UzdXQwdUNJVXR5YUZwMG9qY0MtNkFOaVhMeWpTNE5XcmJ3ZEQwazFVN25XZlNXYWFBRFE?oc=5",
@@ -110,6 +99,17 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "14bdda3bb51e47abf90f",
+      "title": "ラム樽でウイスキー、ウイスキー樽でラム酒を熟成 大分と鹿児島が連携し新商品開発へ（OBS大分放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44NkZDdlhabDFJT1RsZURyWS1WZFBTNUtYcFg4RGozR0VMT1BQTWFiMUtjQ2VRZ09zQXd4R1J3UjFGT1ZaMGN6d0NEQ3RWNlRuZkU0MUhQekZwdkMwZWsxNnRyRkZEWWcyaDc3MUdwSVFtTngxQU5IbUplTmc0TUE?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-10T09:07:14Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
