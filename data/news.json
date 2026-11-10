@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-10T19:58:31.909061Z",
+  "updatedAt": "2026-11-10T20:53:11.489329Z",
   "count": 120,
   "articles": [
+    {
+      "id": "b5e1387ed91642bfe4f3",
+      "title": "茨城・木内酒造、大洗の酒蔵跡でウイスキー蒸留 ビールに次ぐ柱に - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TXVqRkt2UHVFMlg0VW1zODBYVzRoQVFHbGpkejBJV0ZlMThBczNXOHl3TDdpLUd1STc2dEkzbkZtYXhwbDNFQUZ0Y3lLOFhuY2xTblNLek1qOUhKYzhTVEUzdTdCSTc0WTRyWg?oc=5",
+      "source": "日本経済新聞",
+      "publishedAt": "2026-11-10T20:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "d0c5de4c7026d41e0034",
       "title": "The Best Irish Whiskeys In The World, According To The San Francisco World Spirits Competition 2026",
@@ -64,6 +75,17 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-10T13:05:18Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a9ca32c24e5665858ada",
+      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-10T12:27:11Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -663,6 +685,17 @@
       "imageChecked": true
     },
     {
+      "id": "9c2f680f994a75ccbfaf",
+      "title": "2023年の初蒸留から3年。小諸蒸留所初のシングルモルト「KOMORO ORIGIN」が誕生 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRGhqNVkzeTdhS3ZNdjdyblpXbzZCUlNOTFp3TnBvSVZjNHR1X2V5TzlCMVFCaDBNci1xQ2p0UEF6TWhqNW9qTXdCWFlsdlpfSFVhMUtLaHdSUmcwQkdFZU5sR3BuX0pTRkE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-07T08:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "b8fd93c3e74c3cb60eea",
       "title": "ブレンデッドウイスキー「響21年」がAmazonの抽選に当たればサントリーの希望小売価格と同じ“6万7100円” - グルメ Watch",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IWHJHY0tuY2RlSUZMeDJHbURvNnNzVnRqNWV5ckw2eFpuME1GRkI3M1FYTnU4anFaVi14cndMSkExMzhmQWxaalJYRTh1cGdkaTNZRkhxb3VfWWwzYWo2TU9UT0I3RE92M0E?oc=5",
@@ -1092,6 +1125,17 @@
       "imageChecked": true
     },
     {
+      "id": "13d27f9a7bfed888f329",
+      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SbnJzYzZCelk5VGhWUElId2xray1Wekd2Vm56VGVMZFRfNEpTVXNWblZlSUFDYXNHdWVxeC1qRjdfdE9ITTJlOTljSFFkTmlqOTFac0xfU1Q5RGJleTctSWtvRVA1cGppOUs3VC0xUmZvUmZjenc?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-05T20:15:21Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "c31c8e80c4fb174787a4",
       "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2FCSDdNYWpqTGtJeXJFZWFyVERUalVVemFtTThvNEhtWXh6Yi1PWTJKUS00ZTZ5X2xtSU5ldXM1VlA0QmpMYzhNY0t0eXpUYXh2a3hhVGpIZUpMa2l5cjRiSlJGRGdjc3IySUxkbUUyRlFjWkNWT2lhYlpyZ3ZIZXdNQ2tESlNFb1BrbnppSVFGaU5ac3dqRkdNWnhpN3d3dTdlay03U0Fqa2swYm9xaHNxMFdxbXVNWk52TUIyWXllRHRyaWxyLTU2ZmY1QVA1X1hKMkZZNlI0Y2U0MUZB?oc=5",
@@ -1276,50 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ca0d8882b6d645b2fec7",
-      "title": "西武HD、「ウイスキーツーリズム」で軽井沢に訪日客 蒸留所と協定 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93MnhoSVJqSWFaNnU4VXBoc29Edy1ZcGNLT1ZvdkZRSGp3aUNSYlZoSDZoS1pteXoxcU1hakpuUkNOaTU0MEFjRVJ6bDJVbWpKaVNFNXJvT19KZUVpQXNXcE5QQWV6V1VFY1RMSw?oc=5",
-      "source": "日本経済新聞",
-      "publishedAt": "2026-11-05T10:49:53Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "71da4c80567d474d2324",
-      "title": "The best Scotch and Japanese whiskies to add to your collection now - PEAK Singapore",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXdjWUk3LV9nQklfMkVGN05VaGFHbzFqS0trbDAxWmEwUEFJMFg0SkFhTXhrRnFVX09ha1lzSGt4TFVHSzZIbmJuWFJvNDBBR1NtelBNeUVmdGpOd1NFZERuRVBfMDZKNmVKWDFMbHJnc0dQRk5ZZ1VyUVY4MGdYTDBPS2dvRll5Uk9ydU85dm9GN2Izb1d0Z2o5NkNJOWZQaThobw?oc=5",
-      "source": "PEAK Singapore",
-      "publishedAt": "2026-11-05T10:44:46Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "bee794d79b0c26754592",
-      "title": "15 STARS Launches First West Single Barrel Bourbon Program",
-      "url": "https://thewhiskeywash.com/whiskey-news/15-stars-launches-first-west-single-barrel-bourbon-program/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T10:33:02Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/15-stars-launches-first-west-single-barrel-bourbon-program-500x256.webp"
-    },
-    {
-      "id": "fb76e959242cf851760f",
-      "title": "Whisky veterans launch spirits group MBH Holding - Daily Business",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMzlFX09QMkQtbHNvOXBRdDFTcVEtUFNBcV9TTUdrd3QybURxbFJ4U3daVTJFNktqQjRzWTl3QUJOY3dlMmlBbXVPMXhLT2lBWm9qb1VwR2lTcU9BLWpyRlJIZDhTaWI5OGIxQTcyRjhUWktMTC1oZlRNd253QWRrSjVCWUs1X2hjQ0c5Nk5aTkZXU3Fo?oc=5",
-      "source": "Daily Business",
-      "publishedAt": "2026-11-05T10:27:46Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
