@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T20:53:11.489329Z",
+  "updatedAt": "2026-11-10T21:49:01.978341Z",
   "count": 120,
   "articles": [
     {
@@ -31,6 +31,17 @@
       "source": "Whisky Advocate",
       "publishedAt": "2026-11-10T15:39:33Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "4ba625f21f8d50e391dc",
+      "title": "Barrell Craft Spirits Releases New Year 2027 Bourbon - Fred Minnick",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTkwbE9IS1c3M0hNY1dsUmdDTVFZSEFocEZtcHVIQUpUc1pDWFZPOVFyTllTM2RzSUtBQ2VZMUJWRFFEd3BVSmxYM2liQnBna1pSWWkwbGd4aGZ1V3FQZmdtNkhKUElyX0ZlNExsRV9lRGRxeW5xM2tJTEhhTjNhSGk5RFIxZGI2M0N5SEJDd0NvRHhRLVA4?oc=5",
+      "source": "Fred Minnick",
+      "publishedAt": "2026-11-10T15:34:34Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -75,17 +86,6 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-10T13:05:18Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a9ca32c24e5665858ada",
-      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-10T12:27:11Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -971,6 +971,17 @@
       "imageChecked": true
     },
     {
+      "id": "688f51c3c6f87c3ad568",
+      "title": "好きな4種を試飲できる！北陸最古のクラフトウイスキー蒸留所「三郎丸蒸留所」へ大人の工場見学に行ってきた(1/2) - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mUloyQlBlbm9zZ3U3Q0xLSzJ0N3JmV1YySnJwU0lZS0lXTWZjZUJMb2paZXlSakRXbDQ1aHJTTWlfeE80Rl9tR1VUUVVBRl92czVtZnNn0gFbQVVfeXFMTk5vTWUwTWFZTU04N0RYcXhzQVZJM1hyTk1TXzNzdmNzdTBBQUVMYjRvWFJ1SzRTTEY3dE5TU2M0RG9hdldERkYzTGRZU3Q1bFplbjhYSUl1RlNVbw?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-06T08:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "51ea434cf2b9affb3d5c",
       "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
@@ -1307,17 +1318,6 @@
       "source": "グルメ Watch",
       "publishedAt": "2026-11-05T11:21:01Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "6e917835e9e3a58270e8",
-      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 | 株式会社西武・プリンスホテルズワールドワイドのプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOWWxSNmstRXNXNFc0ZXkwaHhWT3ZzdDJMVnQ0ajYyRjhvdjl3NFEzRlBYWHFSUDdUeUI4YlJnb2g0TjNFOVhNbzNxU1dOQ3VmU29XMEZ5cHNXQldac1NBWHRFcnJVdXh6Rmc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-05T11:06:01Z",
-      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
