@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-10T15:56:05.989558Z",
+  "updatedAt": "2026-11-10T16:59:03.453395Z",
   "count": 120,
   "articles": [
+    {
+      "id": "d0c5de4c7026d41e0034",
+      "title": "The Best Irish Whiskeys In The World, According To The San Francisco World Spirits Competition 2026",
+      "url": "https://thewhiskeywash.com/whiskey-articles/the-best-irish-whiskeys-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-10T16:04:21Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-irish-whiskeys-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
+    },
+    {
+      "id": "9c86681c840b72aa42c0",
+      "title": "Good spirits. Great stories. - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wdGdGQUQxSHRUN0UtZ09uQmU5c1lrYzJuaGtfcjhJNUVGRFRPcXprZzNqdHRTX2ZiUDFXaEkwWHJSa2x2SjJ6ZXJlWQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-10T15:39:33Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7482b9cd9de5adbdcc5f",
+      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ILVFlaFgxQ1Vrc2J3SzVWcUdMNy1Jcm9iS0ktNFBRazVPeENQaWxWMjlSblF2WWdicUQya25NdEV0SldyT2F6Z2NPbmx5cVNaakJqQ3JTRndzdU8tWlJLaHBkdGFWTnJoNTh1YjEzRXY5dw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-10T15:15:35Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "600b6242f500d5b6b21f",
       "title": "5 Underrated Scotch Whiskies I Think Deserve More Attention",
@@ -36,26 +69,15 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-bourbons-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
     },
     {
-      "id": "7482b9cd9de5adbdcc5f",
-      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNYV9nX2s3YUhWZGF1R25IRWFzb2NoQVRULW53M0V4ZkdFMWZYWjFjaVViaHNXNHJvVVBDc2VfTjFycTNEYXNvR1FkOEViUENOX2xMbmRQZU1CZDlLODF2WDlWWU1pTzBL?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-10T13:00:10Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "28662460b31894515174",
-      "title": "The Best Scotch Whiskies In The World, According To The San Francisco World Spirits Competition 2026",
-      "url": "https://thewhiskeywash.com/whiskey-articles/the-best-scotch-whiskies-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-10T11:17:55Z",
+      "id": "a9ca32c24e5665858ada",
+      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-10T12:27:11Z",
       "category": "industry",
       "language": "en",
       "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-scotch-whiskies-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
+      "imageChecked": true
     },
     {
       "id": "2d55d953a4922f697c32",
@@ -1296,28 +1318,6 @@
       "source": "Daily Business",
       "publishedAt": "2026-11-05T10:27:46Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1cf1c292ac807e551424",
-      "title": "The World’s Best Scotch Whisky—According To The 2026 International Spirits Challenge - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmI3OGc1RW8yRzRNNGxCVzMzVTl1NXQtUHhkbTQ1RFlOU3JXZFRQY2xCZEpTc2xoXzQ1WXNXUXZ5NWRrX2ZPb21pcTFhc0pvMHBuYTJ5OVlWazcwNi1US0xLclZGZlJPa3VqbElCaTQxclBwV3BGLU9Rd0lTQTJXVWdNZlVxMDhtVkVEMTBIN1JZdlkxYmEtYlVDSjlicjhzWFc1OXF1a2hRemR5bWZ0YVpKckJ0TF9ESzZxYlRGUFlSczFZR3pkNGZncFZyM0k?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-11-05T10:24:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "48fd88cf895aad1bf6db",
-      "title": "Five whisky veterans form MBH to consolidate Scotch sector - Larder Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWV4M1l5YlVFQ1RWQmxYS2V3dE04REZOaDRjV3FCRVctRm1TWDBlcFg4VjBoaDNLSkZVQ2g1UTg3WG5NcnBMQ3Nyc1RSMWYwcWxuN2tKTXVBNEFxSzJjamdwS0hTRXpYd0pnZWpqaE9wSjFrY01ZcmJqRllydnBidnZKRmpqTWJnRWlz?oc=5",
-      "source": "Larder Magazine",
-      "publishedAt": "2026-11-05T10:16:00Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
