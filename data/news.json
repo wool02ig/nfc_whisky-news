@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:59:52.709383Z",
+  "updatedAt": "2026-11-10T05:59:40.627039Z",
   "count": 120,
   "articles": [
     {
@@ -31,6 +31,17 @@
       "source": "PR TIMES",
       "publishedAt": "2026-11-10T03:00:02Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "7482b9cd9de5adbdcc5f",
+      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRHFQNzM0RmYwM2ljVzhOaEN4UzNST2NCX2xrUU5aci02MVBTbUpwNEctRmhTd0xDTmlPUkkyZkZpSHliZVFOZTR1N2pYNnBYcEZQUkpBcWxnWGE0TEo0cmNWYTJZZ01JYXc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-10T03:00:02Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "52039f29506b9c722176",
-      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSzB6R3pMMTRXdTJSVV9raHktOGpqSFVBdnMwZUpfN19wcXdubHVTc0Ntcm9uWl9TMjZUNDY4aUc2Vy11ME1XekJIV0xIaWZkcUljYVFxdDBla3dzb1E3R3EtN3hOMnVIWllvcnY2VkY?oc=5",
-      "source": "山陽新聞",
-      "publishedAt": "2026-11-05T05:31:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
