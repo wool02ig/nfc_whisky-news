@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T16:59:03.453395Z",
+  "updatedAt": "2026-11-10T17:54:09.118467Z",
   "count": 120,
   "articles": [
     {
@@ -67,17 +67,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-bourbons-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
-    },
-    {
-      "id": "a9ca32c24e5665858ada",
-      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-10T12:27:11Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     },
     {
       "id": "2d55d953a4922f697c32",
@@ -1318,6 +1307,17 @@
       "source": "Daily Business",
       "publishedAt": "2026-11-05T10:27:46Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "1cf1c292ac807e551424",
+      "title": "The World’s Best Scotch Whisky—According To The 2026 International Spirits Challenge - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmI3OGc1RW8yRzRNNGxCVzMzVTl1NXQtUHhkbTQ1RFlOU3JXZFRQY2xCZEpTc2xoXzQ1WXNXUXZ5NWRrX2ZPb21pcTFhc0pvMHBuYTJ5OVlWazcwNi1US0xLclZGZlJPa3VqbElCaTQxclBwV3BGLU9Rd0lTQTJXVWdNZlVxMDhtVkVEMTBIN1JZdlkxYmEtYlVDSjlicjhzWFc1OXF1a2hRemR5bWZ0YVpKckJ0TF9ESzZxYlRGUFlSczFZR3pkNGZncFZyM0k?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-05T10:24:03Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
