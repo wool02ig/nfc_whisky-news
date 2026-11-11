@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-11T07:23:49.274707Z",
+  "updatedAt": "2026-11-11T09:03:50.014700Z",
   "count": 120,
   "articles": [
+    {
+      "id": "20582954b8fce7c6a59f",
+      "title": "Your whisky may get costlier if this Scotch tariff dispute is not resolved - News9live",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTk5EUThfN052Q0t3MWVMX1BnVnFLRGl2VkMtNVBpOVk2a3JOLUx2cGhRUnppbU93U0dZVzZueDlIanhSMG1od2FaQy0tbTZ2cEtacFV5ajJ5eVpEZGFjNE1fVFkzWE9UeENOcWJqUUJNMlk2Y1dkVWxnUzhXcnNYM083R1JRWWZHLWVR0gGQAUFVX3lxTE5lRG1QeElVTnBoOExSTDVSU05xUjh1MnhJMnBSaG1walI0ZFpiNC1JRkIzZGdVTGxlZjR6V09KMENzZEVHeFFGXzdJbllPVzEzMjdEbmZfcmRtVkk2aFJnUHRPLUNfTjJlWDFmanFqYy1zcmFvcFpQeVNXazZNWnh2a2c3NjM1MHRMbTlxNTRzdg?oc=5",
+      "source": "News9live",
+      "publishedAt": "2026-11-11T08:58:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "b1a3ed05083a940d050d",
+      "title": "ウイスキー「響21年」やイチローズモルトの“20周年ボトル”などが当たる「福みくじ」受付開始 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10dGNtd2g3SmVyZ1VuOHpadlN0SHZrd3IwUW91TDBfWXRueExXSE5CVkhVdHRFQklGQkVMQXVUMFRzd3NGclJLd1BkZjBrNk1OMS1hTGFZYlhOeDNUVmFPVWNEMllaTDZSTnc?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-11T07:31:29Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "da6f205d617106ba85b4",
+      "title": "12月以降の蒸溜所ガイドツアーおよびショップ営業について｜NIKKA WHISKY - ニッカウヰスキー",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FZ0ZidnNiQWh5REdKaGJxejZiRXpZM3J1alB2clA4Sm9OeC1PTW5lMHZlQ1V1bU9keUNrR2x6Q09kbUVHZ3cyNzE5SXVMNnM5Z2ZGaDhhZDZqVHphSGRhWEhhZjZldzFuSjVUd0V2d1Y3MWM?oc=5",
+      "source": "ニッカウヰスキー",
+      "publishedAt": "2026-11-11T06:19:17Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "a0f9a497a1ee6f064a82",
       "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - PR TIMES",
@@ -141,6 +174,17 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-10T13:05:18Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a9ca32c24e5665858ada",
+      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-10T12:27:11Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -628,6 +672,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-so-many-scotch-whisky-distilleries-have-similar-names-500x256.webp"
+    },
+    {
+      "id": "3b579720fbe627b6c950",
+      "title": "12 Irish Whiskeys To Try If You Like Jameson - Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HNFg3aWtFN2I0ZnMwQ05tbDNvYk84Q2hlaW1xTTUzQS1UMVpDN0dkSlBGWXVwM3M5ZWlleGc2YjdDSUUtRUhMekEtSHFteXMwNFBsLV9TYVZhX0VieHVKRjV2RVFiVnRBZGptVzZQYXhsQWItMk1xdw?oc=5",
+      "source": "Tasting Table",
+      "publishedAt": "2026-11-08T12:20:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "d031580bd874a2917d6f",
@@ -1266,61 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/7-bourbons-every-scotch-whisky-drinker-should-try-500x256.webp"
-    },
-    {
-      "id": "ed56d61a3b5f179df09e",
-      "title": "Whisky entrepreneurs form £16m Scottish spirits group - Food & Drink International",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVFvMjBacXFycThCd1BoZFMxamRBS1JISElBN0FqYkpCbGtxNmVtY2o1aEppZFNReXRxSUs0azQ5azFIeHIyYWptblpnVjNBaFJ2aFZ5VWIzOE16WDJKOC0wWWVYTTdxQlN3d1p2WWJLQlk5RHpXWFd5dzNZLVd2QkIzMk1NeTBKLWRpa3JFLXJrVWhIMHc?oc=5",
-      "source": "Food & Drink International",
-      "publishedAt": "2026-11-05T14:22:12Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "58c70c314f01330272fe",
-      "title": "The New English Whisky GI: What It Really Means For The Whisky In Your Glass",
-      "url": "https://thewhiskeywash.com/partner-content/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T14:00:17Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-new-english-whisky-gi-what-it-really-means-for-the-whisky-in-your-glass-500x256.webp"
-    },
-    {
-      "id": "2ae910b8cb5f4fcad9ea",
-      "title": "CAPCOM ANNOUNCES EXCLUSIVE RESIDENT EVIL 30TH ANNIVERSARY SINGLE CASK SCOTCH WHISKY COLLECTION IN PARTNERSHIP WITH DCASKS - Enduins",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY3pEMG1MT2RyZXNIRWcwSHpkLXZjbWFiZS1Xc0VydWtudnRxSlhaR0hmOHc5dUVwUXdjSmFmS054cTZ1RmVWaElQM0d5UkdhRUdiTUJaTFFYWmpwRW03d0hEdWw1VE8zd0ZVSG1xcWpITFNRUzN2QlFSZWt2S19SNE9meGY4NDV0YmhzYkdDbDUwTG9yOV95Q3VUWHJlNDNKcURKTWZKZ2V0V3ZPOWdKMFdYeVI4UzN6djRDejdUa21rSW1IcFd4WDcyR0ZkaHFXUVd4a0tKTGd6bndPZlkybXJZVEM?oc=5",
-      "source": "Enduins",
-      "publishedAt": "2026-11-05T13:29:17Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "2d0e9afff130315782f2",
-      "title": "Why Tomatin’s Cù Bòcan Creation #9 Is An Absolute Bargain Whisky",
-      "url": "https://thewhiskeywash.com/whiskey-articles/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-05T12:30:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-tomatins-cu-bocan-creation-9-is-an-absolute-bargain-whisky-500x256.webp"
-    },
-    {
-      "id": "055f862dfc5d302f96d8",
-      "title": "While Aston Martin was preparing its V12-powered DB7 Vantage, this Glenfiddich whisky was beginning a 28-year wait in oak casks, and the two British brands are now bringing their histories together in a limited-edition Scotch - Luxurylaunches",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkEzX0Z0cGZNb2taWGZEMVdQaVFWTmZFQnAyYXJuZHhiOXNBMGhCSTFKelEzakJ3am9VUC1SQWVVQmlRU19DektaOE1jQlcxSThPSmhvNEljTTBiTWFrdzhWX0owRnZrazVybEVvbzNzaHlMakJwa21ZcWgxRC10Y0hSbw?oc=5",
-      "source": "Luxurylaunches",
-      "publishedAt": "2026-11-05T12:17:45Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
