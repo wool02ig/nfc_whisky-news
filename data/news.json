@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-11T12:01:53.162325Z",
+  "updatedAt": "2026-11-11T13:18:55.633731Z",
   "count": 120,
   "articles": [
+    {
+      "id": "5260a1d3eca1091b1c30",
+      "title": "Fettercairn launches its latest Distillers’ Secret release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHlUelhJMEViVWVFeDVTVDM3WnRZc2Y4bXJmdVZGUTE5SGt6TVBiZDduaHVJZlZQRkk1QTdWZjdjcmNvcTZaVUVmeHdyYXg3UU9hREJiX21ySnJJYVcxbkNSUGRlSVhrcU9FRnBPRS1xaU5yMjlkVWM2eTJ5S1pTNlZka1BlLXl0aVIxNW5ldElSZkV5bmlzTTFHdw?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-11T12:59:15Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "0d0c9c6e2cab98fc7d91",
+      "title": "Benbecula Distillery private cask programme offers a stake in Hebridean whisky heritage - Scottish Field",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzVaQUlhUFZBWHltcmZMTGZRZVdGeWxmQzhaQ2hjcUZiWHUwTVQ4dTR6c3dOd0Mya3JNU2JkY2lvTTVoWi05Z1ZBVl9idGlXeVFkMHZJb1NmejlyMWJMNmNJSlVUQW5QV0lvaHBRNVEtRUlXcHduc0NsNTVpanF4T0R0b0czU1dYZGRqOXVER0FvWWlTS3lSdXBjUkxvWEhLbHZ5NnlqQ0FyNmxjbmk4RGROMFJMYnU1aTh4Zm90aUptZllLMzYydVVlWThlRGgtQ1d3?oc=5",
+      "source": "Scottish Field",
+      "publishedAt": "2026-11-11T12:55:12Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "59617723b98cdd211994",
+      "title": "Still Drinking $25 Whisky? These 5 Bottles Are Actually Worth Spending $50 On",
+      "url": "https://thewhiskeywash.com/whiskey-articles/still-drinking-25-whisky-these-5-bottles-are-actually-worth-spending-50-on/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-11T12:30:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/still-drinking-25-whisky-these-5-bottles-are-actually-worth-spending-50-on-500x256.webp"
+    },
     {
       "id": "8db9bc906c4c784453d5",
       "title": "India-UK Trade Deal: Scotch Whisky Imports Held At Ports As Customs Demands 150% Duty From Pernod Ricard, - Free Press Journal",
@@ -245,6 +278,17 @@
       "imageChecked": true
     },
     {
+      "id": "a9ca32c24e5665858ada",
+      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-10T12:27:11Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "d10754e7f177be90bc52",
       "title": "Scotch drinks brand toasts new deal with Sainsbury’s in Edinburgh - Edinburgh News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEFXN0dBSTRNWFA2THRFOTdRSkFnRkhHcjZiTnJuR2hJM2pNMVZRWTY2ZGJIal83c3lObHBiRElPazFnVVVpZHlYbVhXMmExMlVhaGJjUGU4UWRrbHYxcmx3Ym9oTkh6TC1XLXh1ZEJ1V1AzWjRnQ3ZieDNWbHVudXRhRnk1UnRaYTRkZk1yMmp5UVllTVlzUjQtTDY4Vk1rcTJZWmM3Mm9DUnE1UTFYNXhxNkxqZl9Bc1hTbUV4cw?oc=5",
@@ -297,6 +341,17 @@
       "category": "new",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "879ee870dedaa1700db5",
+      "title": "India’s Bulk Scotch Whisky Imports from Britain Surge Nearly 1,000% After India-UK Trade Deal - Aabkari Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTQ2M1l2bEd3VVg5dzE0QXNlQjFjSFR0MUhERVo4UHZMYVJxWlBGcVJXeG5QWDVCNl9DRFBySFpaSENQeU5wMFhYX2pNa3JyTk5hY1NxZEZ2YjFGUkRoVFhPSXVKSHNzQmxoY1d6T3ZsRWlWR2plNHhzUGh1OFZBUnlpblIxcDNCSW53NHQ1cnhPTFRlLV9FYmpnVjg3VkRoSGZqYk9rZw?oc=5",
+      "source": "Aabkari Times",
+      "publishedAt": "2026-11-10T08:06:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -366,8 +421,8 @@
       "imageChecked": true
     },
     {
-      "id": "b2bfb6e216f2ddacad5c",
-      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします | 長浜浪漫ビール株式会社のプレスリリース - PR TIMES",
+      "id": "7482b9cd9de5adbdcc5f",
+      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRHFQNzM0RmYwM2ljVzhOaEN4UzNST2NCX2xrUU5aci02MVBTbUpwNEctRmhTd0xDTmlPUkkyZkZpSHliZVFOZTR1N2pYNnBYcEZQUkpBcWxnWGE0TEo0cmNWYTJZZ01JYXc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-10T03:00:02Z",
@@ -377,8 +432,8 @@
       "imageChecked": true
     },
     {
-      "id": "7482b9cd9de5adbdcc5f",
-      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします - PR TIMES",
+      "id": "b2bfb6e216f2ddacad5c",
+      "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします | 長浜浪漫ビール株式会社のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRHFQNzM0RmYwM2ljVzhOaEN4UzNST2NCX2xrUU5aci02MVBTbUpwNEctRmhTd0xDTmlPUkkyZkZpSHliZVFOZTR1N2pYNnBYcEZQUkpBcWxnWGE0TEo0cmNWYTJZZ01JYXc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-10T03:00:02Z",
@@ -408,6 +463,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/dornoch-castle-named-whisky-bar-of-the-year-at-sltn-2026-500x256.webp"
+    },
+    {
+      "id": "ded655d8ad6726d4dc22",
+      "title": "The London Distillery Co. Launches English Whisky Collection - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHVzOGFPckxlRG0wbmRLdVIzS0RyamxxNjRzZjlUMVpPTjFKZ1Q5a1RmNTdWbUpjTjVHOUw3cHhTejhyRldJYkJGcDZpak1IV0ZTVTZ1YmR6aTVxbXc0UU9EYnR5QUhPVTczazN3VHBySy12eVljSTIyR0RpMm0zdmVvdG1odHJzZzhWc3UwN0pfNFNjNjJHNGg1eVZ5X3FpaFE?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-09T16:31:19Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-london-distillery-co-launches-english-whisky-collection-500x256.webp"
     },
     {
       "id": "d76c8551ef299098866b",
@@ -509,26 +575,15 @@
       "imageChecked": true
     },
     {
-      "id": "15468cbeb9f068c6ff7c",
-      "title": "ウイスキー「響30年」が当たる「超みくじ 第3弾」発売。響21年や山崎12年・白州などもラインアップ - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CamtDNEFudWdFMldlRzVGNlprOFc1bnB4RjZfS21rc2gtZFZxNmJqLW83RmhZTWV1N01MUnVhTjBLY1RSV24xYlZ6ekNETE9qTnB2azZLNVQ1dXBITklWTU95MVYxcGRNM2c?oc=5",
-      "source": "グルメ Watch",
+      "id": "074321d90f3496e5cd05",
+      "title": "ウイスキー「響30年」が当たる「超みくじ 第3弾」発売。響21年や山崎12年・白州などもラインアップ（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VLUVYaUtXanltWE9OTi02MWhsenY5ald6YzZBSXNTWXlDRURlZUpPTXItYkF0UnJCaUJnNVN2Ymt6aGhwcWk4enI2dnhtNXdadm1lSTdwYW9sVlZubm5BNjR1c2J5R2NnMDdjVlFBSGUwT3poZmR2MWg1aUlDaG8?oc=5",
+      "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-09T11:45:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "ded655d8ad6726d4dc22",
-      "title": "The London Distillery Co. Launches English Whisky Collection",
-      "url": "https://thewhiskeywash.com/whiskey-news/the-london-distillery-co-launches-english-whisky-collection/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-09T11:42:22Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-london-distillery-co-launches-english-whisky-collection-500x256.webp"
     },
     {
       "id": "0cf744213d44b000f761",
@@ -792,17 +847,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "879ee870dedaa1700db5",
-      "title": "India’s Bulk Scotch Whisky Imports from Britain Surge Nearly 1,000% After India-UK Trade Deal - Aabkari Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTQ2M1l2bEd3VVg5dzE0QXNlQjFjSFR0MUhERVo4UHZMYVJxWlBGcVJXeG5QWDVCNl9DRFBySFpaSENQeU5wMFhYX2pNa3JyTk5hY1NxZEZ2YjFGUkRoVFhPSXVKSHNzQmxoY1d6T3ZsRWlWR2plNHhzUGh1OFZBUnlpblIxcDNCSW53NHQ1cnhPTFRlLV9FYmpnVjg3VkRoSGZqYk9rZw?oc=5",
-      "source": "Aabkari Times",
-      "publishedAt": "2026-11-07T21:16:39Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     },
     {
@@ -1276,50 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "83d56c0bb4943d76ee89",
-      "title": "This Little-Known Hybrid Grain Created One of the Year’s Most Intriguing Whiskeys - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPam9IVmRIS0gwSWtpVXM3R193dy14WEZBNGFiOG14aFRmcHRPWFVSWEl2SklYTlVDdURrN21wOGZIbTRScnF4amlGTU1DVDdHUTZBOWNJRUNoNUV5c0k2bkZTcTBVTHp0Q2Q2eHE3OEJ4SEYwVnM5bTZQVXRsX1RQRFpXT3NZcGh5QUljdFhXNUZwZFowMk1LeA?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-11-05T23:30:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "cd76e6068817f2af6a43",
-      "title": "世界三大珍味の創作フレンチと一夜限りのウイスキーイベント！シェラトン都ホテル大阪 クリスマス限定メニューと「ザ・マッカラン コラボレーションナイト」 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1USnlpdGEyNzQ1THdxemJSUTVkRnQzLVVDUFozZkY1U1JjVF94cGU2V0k1MjQ4N2hiVVBfQ3E3XzdyM0dfZll2ZnFSNGZfNkp3YTlFQURGWVhpT0lDZzNJ?oc=5",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-05T22:48:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "504206b2501baae4b7da",
-      "title": "The Macallan unveils ‘exceptional’ limited edition 20-year-old whisky - The Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnMzTDJPRXdOakR3T0p1eVpxd1d5dmlHOUFCLXYtaXNBalI3aGhlaHFFWDBEX1dEVEpaM3RUWnFBMG1DWk1HWC1laWkyS3BDalFOODg0d1RWRFRQQ2xubmY2dDdiUDhnMENqNzVJZVBUNUZIRjZRS2tmNzJkQ2lZUWNR?oc=5",
-      "source": "The Times",
-      "publishedAt": "2026-11-05T22:37:06Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8a7c60a66b8a630cc9f0",
-      "title": "アストンマーティンとGlenfiddich、Glenfiddich 28 Years Oldを発表 ２つの世界の絶え間ない進化から生まれたウイスキー - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zS1VLWmJGM0FLN3dPSDFmZGZ6V2QySjBnQzV4ZU9xMUt4dVE4ZmpRY3dNWXhPa3AwWTVfMHI1U0ZpRkJQNTZQTU15cThjYXNES1BoRkRVRTVWS3dHcURkVUZudXQtVVpE?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-05T22:30:25Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
