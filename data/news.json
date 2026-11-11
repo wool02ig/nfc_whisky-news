@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T05:07:55.980942Z",
+  "updatedAt": "2026-11-11T06:06:59.140080Z",
   "count": 120,
   "articles": [
+    {
+      "id": "92b1dca90e776463613f",
+      "title": "【霧島横川蒸留所】坂本龍馬の生誕日・11月15日に「シングルモルトウイスキー 霧島 龍馬」を限定発売！ - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01RDJGTlNUa3I2UmlPajdEVVFxV2p5bDRWazlMTFVhTWozX05RcG5pRllfS3JDdENJNTFsaGhqcm1HemJpQ3dDWTN2Y0lRX2FKVDY0VGQ1azFMbkx6bUVEQXZGLW5lQWFyeWo0?oc=5",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-11T04:46:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "12d45808ec153286ed9c",
       "title": "ウイスキー「山崎18年」がメーカー希望小売価格の“6万7100円”でAmazonで抽選販売 - グルメ Watch",
@@ -124,6 +135,17 @@
       "imageChecked": true
     },
     {
+      "id": "a9ca32c24e5665858ada",
+      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-10T12:27:11Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "d10754e7f177be90bc52",
       "title": "Scotch drinks brand toasts new deal with Sainsbury’s in Edinburgh - Edinburgh News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEFXN0dBSTRNWFA2THRFOTdRSkFnRkhHcjZiTnJuR2hJM2pNMVZRWTY2ZGJIal83c3lObHBiRElPazFnVVVpZHlYbVhXMmExMlVhaGJjUGU4UWRrbHYxcmx3Ym9oTkh6TC1XLXh1ZEJ1V1AzWjRnQ3ZieDNWbHVudXRhRnk1UnRaYTRkZk1yMmp5UVllTVlzUjQtTDY4Vk1rcTJZWmM3Mm9DUnE1UTFYNXhxNkxqZl9Bc1hTbUV4cw?oc=5",
@@ -212,17 +234,6 @@
       "imageChecked": true
     },
     {
-      "id": "22688be895562fbad747",
-      "title": "「祈願する」美品評会最高賞受賞出品作8種全員受賞 IWSC今年の蒸留所候補に上がる - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xVW1Kb044ZGdhaXp5TkNMRmhhQWVuSHppOEV2R29KVHBSUjlXeHZ4OTdPQkxOR0VqYVdwREl5UE43enR4dFI3SlJkbnIwZmpqcGc?oc=5",
-      "source": "매일경제",
-      "publishedAt": "2026-11-10T04:22:25Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "929e1c6ab91914bc6ae7",
       "title": "The origin of the Korean single malt whisky brand won the top prize for the second consecutive year - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZc2pETXBUUjZhd29haU5IaEY0bHdJNnlYMl84VEpRVEhQRF9mbmdUTDVidG56bjA4ZjVLVTdaZEtTdUFwYzUtdGtMeHdYVERqblE?oc=5",
@@ -231,6 +242,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "22688be895562fbad747",
+      "title": "「祈願する」美品評会最高賞受賞出品作8種全員受賞 IWSC今年の蒸留所候補に上がる - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xVW1Kb044ZGdhaXp5TkNMRmhhQWVuSHppOEV2R29KVHBSUjlXeHZ4OTdPQkxOR0VqYVdwREl5UE43enR4dFI3SlJkbnIwZmpqcGc?oc=5",
+      "source": "매일경제",
+      "publishedAt": "2026-11-10T04:22:25Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1296,28 +1318,6 @@
       "source": "Luxurylaunches",
       "publishedAt": "2026-11-05T12:17:45Z",
       "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8593742b8918e5551328",
-      "title": "Group of veteran whisky entrepreneurs launch £16 million Scottish spirits group - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUJEbnhNbnFGM0hjSGdScUtTNnRKenZnQlZCbWt0LXVKdElmNUc3YlFtR3lHREtfRHZuWXV3ZW9tWWYtWjNsMi1ES3FRaHBoMUQ2ZkoxMmlLbENfeG1JQmxhSU9LYTBXM3l3TzlwZERWdk5QSWpGc2VWendKVnZXVTZWVVZZRUJTLWxObWNMUHdmRTNjQmRmOEhGbENfLTdtb2c?oc=5",
-      "source": "The Herald",
-      "publishedAt": "2026-11-05T12:16:53Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9fe6a979d9c80249da74",
-      "title": "Wemyss Malts launches new Castle Collection series - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjY3X3ZGMUJPdzRHbG12Z3d5dDdlSXNnR0NpVnZKTGlVRDZjSlZNNEZVNVpiamRtbEtoVTFaWEF5Ukg1M1VGYm0yM1lEa0tHemp1TV9rZU9GaEMtVU1DNG5BUDVZdjUzR3BVWW5yM0J3TUxLLVkzM3BxOTdVaTlPeW8xa2hxb1RWa2xzVWVSbk14dw?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-05T11:27:22Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
