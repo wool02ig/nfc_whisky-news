@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T17:02:48.577300Z",
+  "updatedAt": "2026-11-11T17:59:55.425513Z",
   "count": 120,
   "articles": [
+    {
+      "id": "c0736075f08e157429dd",
+      "title": "Scotch whisky impounded by India in tariff dispute - The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTDU2UnRPckN0MHJOdzBFOEtWSE1hU2xFYlBJVGJ6b1ZnUXFIejRIOWtQd3VuSVFKNmFyMGFiWkNtLVc3bkVIRkJHUDZ0bk9pbDhDNnJJSDlNaExSdm8wckpLOE0wV096TEdjc0h0a3MxWGpXLUxKdE1tRUNzME9aVjFDUXZUbjd5S0UtN3VpLXRUc1M1WVY2d1JvYXBLc3pr?oc=5",
+      "source": "The Telegraph",
+      "publishedAt": "2026-11-11T17:24:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "0f901bf8e6bb9e3e34a4",
       "title": "Commerce and Finance Ministries Meet to Resolve Scotch Whisky Dispute - Asianet Newsable",
@@ -23,6 +34,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/english-vs-american-oak-how-the-wood-shapes-the-whisky-500x256.webp"
+    },
+    {
+      "id": "577b99f033e91622184a",
+      "title": "Fettercairn Collaborates With Scottish Rum Maker To Craft Rum Cask Finished Whisky",
+      "url": "https://thewhiskeywash.com/whiskey-news/fettercairn-collaborates-with-scottish-rum-maker-to-craft-rum-cask-finished-whisky/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-11T15:33:35Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/fettercairn-collaborates-with-scottish-rum-maker-to-craft-rum-cask-finished-whisky-1-500x256.png"
     },
     {
       "id": "691ade6a59e675b81503",
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "7d0efff66a68bb4039b1",
-      "title": "IGL Spirits’ Listing Shows the Scale of India’s Mass-Market Whisky Trade",
-      "url": "https://thewhiskeywash.com/whiskey-news/igl-spirits-listing-shows-the-scale-of-indias-mass-market-whisky-trade/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T07:16:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/igl-spirits-listing-shows-the-scale-of-indias-mass-market-whisky-trade-500x256.webp"
-    },
-    {
-      "id": "9e5c31e662d0999354b3",
-      "title": "Crown Royal’s Reversal: How Diageo’s Canadian Whisky Went From Bright Spot to Burden",
-      "url": "https://thewhiskeywash.com/whiskey-news/crown-royals-reversal-how-diageos-canadian-whisky-went-from-bright-spot-to-burden/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T07:16:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/crown-royals-reversal-how-diageos-canadian-whisky-went-from-bright-spot-to-burden-500x256.webp"
     }
   ]
 }
