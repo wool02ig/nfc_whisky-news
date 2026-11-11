@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T06:06:59.140080Z",
+  "updatedAt": "2026-11-11T07:23:49.274707Z",
   "count": 120,
   "articles": [
+    {
+      "id": "a0f9a497a1ee6f064a82",
+      "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NR0ZjNzZNa2d6R3dwbUp3T19lTVZQS19zVlMta0lNYnA5a3c4VHV4S3NHZXJqX0FDc0NfYUNFRUdfYWQtbHVETkxGWmpuV0tmMFRQV2lXSHdKd21wZTZYZ0ZPeXM2RWpDWFE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-11T06:00:02Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "92b1dca90e776463613f",
       "title": "【霧島横川蒸留所】坂本龍馬の生誕日・11月15日に「シングルモルトウイスキー 霧島 龍馬」を限定発売！ - 時事ドットコム",
@@ -130,17 +141,6 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-10T13:05:18Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a9ca32c24e5665858ada",
-      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-10T12:27:11Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
