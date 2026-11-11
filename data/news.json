@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T10:06:29.188033Z",
+  "updatedAt": "2026-11-11T11:07:21.943314Z",
   "count": 120,
   "articles": [
+    {
+      "id": "38d0ccd5faf49d0c6651",
+      "title": "Best supermarket whisky under £50, expert taste-tested - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1J2a0NQVFdYcHJEY2RFdzZBM21mVEJ2ZXE5UERwN3pnSmdVcmdhRVFUamgtZDVMaUFabmxHa1UxWENzYWxjOFhnWmNsYTZocGxtX1JKaF9OSVZCczBOdWJyS2JhT3k5a09ObWJjX0xlNWRQRGw3ZzFiYXZPMzZqaUtQNVp4VnNQSk4yNUpFUzJrR25yS1NxbHNQZWMtYkFLSXF5S0RyRQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-11-11T11:06:15Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "c613c71b639c05414408",
       "title": "Kavalan continues African expansion with new distribution deal in Ghana - The Whisky Wire",
@@ -55,6 +66,28 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "73a8c34df720b91fee54",
+      "title": "India-UK trade deal hits tariff hurdle: Customs seeks 150% duty on bulk Scotch, shipments held at ports - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOVRnSmR3X09tODViQnJEY1FIaVlMMWpOX1BCOUgtc2VOZG5QNUI0WVRmMHVMT1lNeWUzU3RkMkZSTzk0blNpbXRudG5ZTlVkWDhlcnFscEVaZ2FWNDlrd3FrcjZDeVpXZXpBaW1NdXlJTW5BeDFHdWVWNUF0WmFaR2RpMmhNN0Riam5ZSmgwYnI3djcxVnhnNDEtN0lkajRnY3hNVnBnRFptLWF5eXlXdzhob1k5OHlKY3RraWlObFprN3lBTy13MGxZS2lpYVhudnk5SlRWeG9yb1V2dUVZV3FVUjgtODQ3N182a3NRbVI0Mkpid3FCM3R4X0F0MHfSAYQCQVVfeXFMUGdtR0U2VU4wU2xtUkI1aWFLbjg4VThCWTY1WHp1VHhWS0RMcUh2aC1HelJ4WUprNmw1b0FPYnlvQnZ2aUdEdXZnc2kzME1PVHlxckM1NU4ySXgzcFBsWERKeVpySE5rbWFKUThsT21RZ01raEdhUmNZcjNVb1VvUHNEVXZ1dlRMUDlsbXFWVE4wMEFNLWtPUnRJajFPT1M4bllUdHdMUmg2SlhnbEotU01GdnpneGNJRHFWS1NpUEYweVQ2MXV2M25XdUp3dXRqQ2VJNUFyS00zNi1DQWRqYnBwMnh3WTZEdTIzSDd6TlJJWDM4X2pXazVUNlVsTGFtQmNvdUQ?oc=5",
+      "source": "Business Today",
+      "publishedAt": "2026-11-11T07:21:53Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "be71ad25de3c39abe6e4",
+      "title": "EXCLUSIVE: India holds Pernod, Diageo Scotch shipments as investigators seek higher tariff - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2dKQl9URVgwZzRNcjdPZWtXVDNPd1gyR2QxY3V2d294UWRqUm5CcnAxSm5hOXh6SjRyYzMzQ1ZCQXo3a1p3MW5Jck9NMEtabkRmMHpYU1lCeHp1cFNEOUlXRHItMnlOZnJleFdRbndsdkpQOXFleUJGQWVfWnlyMUtxak5TblhrLVUwQWktT2F1XzZuNjYxNHhhZENtcTlLcDFtRkNXR3luaU1CUldLUVNoRkhWZm1FT0xzSHZUQ2Q?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-11T06:38:00Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1125,17 +1158,6 @@
       "imageChecked": true
     },
     {
-      "id": "688f51c3c6f87c3ad568",
-      "title": "好きな4種を試飲できる！北陸最古のクラフトウイスキー蒸留所「三郎丸蒸留所」へ大人の工場見学に行ってきた(1/2) - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mUloyQlBlbm9zZ3U3Q0xLSzJ0N3JmV1YySnJwU0lZS0lXTWZjZUJMb2paZXlSakRXbDQ1aHJTTWlfeE80Rl9tR1VUUVVBRl92czVtZnNn0gFbQVVfeXFMTk5vTWUwTWFZTU04N0RYcXhzQVZJM1hyTk1TXzNzdmNzdTBBQUVMYjRvWFJ1SzRTTEY3dE5TU2M0RG9hdldERkYzTGRZU3Q1bFplbjhYSUl1RlNVbw?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-11-06T08:00:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "51ea434cf2b9affb3d5c",
       "title": "Scotch on the rocks? What’s next for whisky distillery visitor centres and why it matters to solicitors - Law Society of Scotland",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEFLZ3pBVUVhZjRDeXBGQnc5d29pRklHWTBtbFhPSGhnQ21hU2QtVk1uQWdSMEZIczg2czlKQnRmWkxLTGloMnNLeDRFY3RLeXhtdWVMZ1VWcFU1b2EwSE9hNlRjUkZ2TzdSb3lUVlgwZEdtakI5YnNVVnZsZUU2SFlYQTd4eEM4dVg5WmJwTTN6Q0NqOXNnYldkanZ1RHloTzNDMVdxZzR5SHo1dzdmMVFZelVQd0NBbUdSVWlpZUJrTkg4bDE2enhWX3FJbHBCSUxJbnBfdExJVXRHMU92QnhRYzhzak8wRjh6eXUxTS0?oc=5",
@@ -1144,6 +1166,17 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "688f51c3c6f87c3ad568",
+      "title": "好きな4種を試飲できる！北陸最古のクラフトウイスキー蒸留所「三郎丸蒸留所」へ大人の工場見学に行ってきた(1/2) - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mUloyQlBlbm9zZ3U3Q0xLSzJ0N3JmV1YySnJwU0lZS0lXTWZjZUJMb2paZXlSakRXbDQ1aHJTTWlfeE80Rl9tR1VUUVVBRl92czVtZnNn0gFbQVVfeXFMTk5vTWUwTWFZTU04N0RYcXhzQVZJM1hyTk1TXzNzdmNzdTBBQUVMYjRvWFJ1SzRTTEY3dE5TU2M0RG9hdldERkYzTGRZU3Q1bFplbjhYSUl1RlNVbw?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-06T08:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1287,39 +1320,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "c31c8e80c4fb174787a4",
-      "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2FCSDdNYWpqTGtJeXJFZWFyVERUalVVemFtTThvNEhtWXh6Yi1PWTJKUS00ZTZ5X2xtSU5ldXM1VlA0QmpMYzhNY0t0eXpUYXh2a3hhVGpIZUpMa2l5cjRiSlJGRGdjc3IySUxkbUUyRlFjWkNWT2lhYlpyZ3ZIZXdNQ2tESlNFb1BrbnppSVFGaU5ac3dqRkdNWnhpN3d3dTdlay03U0Fqa2swYm9xaHNxMFdxbXVNWk52TUIyWXllRHRyaWxyLTU2ZmY1QVA1X1hKMkZZNlI0Y2U0MUZB?oc=5",
-      "source": "PR Newswire",
-      "publishedAt": "2026-11-05T18:28:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "058b219a1e32d749a6b5",
-      "title": "Capcom teams up with DCasks for Resident Evil 30th Anniversary Scotch whisky collection - UnGeek",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnlKSHZCT2Y3NkNMWGhSVnphUG1vdHk0bUFZYnYtZld5bVl2SGpWYXFzUjhyOElVZzFubmdhWkswb0ItOU1JQUJhSzA4S0NMV245WVRPX0J4SVh1amRjeDNlRTVvNllRWlM1empYUGpMVzVJd3k3MTAyTkVBV3JkYTN4UUl1T0hRQ2hDMEtENnlsdUJjUTcyYTZMd3dEdzI0cmN5ZUVsVUh3Q3ZvLUdxMmFxdXhEWGdPOUE?oc=5",
-      "source": "UnGeek",
-      "publishedAt": "2026-11-05T18:20:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "db681a0cc6bb18dd4fe1",
-      "title": "Whisky entrepreneurs partner to launch Scottish spirits group - TheBusinessDesk.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWlMd0dXeGJDN3J4aTRCUnpUMERKc1lVWEswMzZRcDRUQmFiTWJNMU5Cb2FWanc0b0lYWThJb3dhWVV0T05ObFZRcnA2amtlcExZVDdYUkt0QmMtREFRYzZFSjB3c0t4OFNxNlVQLWtfTzdzV1d1bUg3SFowWHR6ZkRFTklPcWE1dlp1OWh5TVVDNEhYekJhUDFiZkYwZEVVeGtJYnRTNzdjQ29TQkhRdkh3?oc=5",
-      "source": "TheBusinessDesk.com",
-      "publishedAt": "2026-11-05T17:05:34Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
