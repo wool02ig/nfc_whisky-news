@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T02:10:23.145087Z",
+  "updatedAt": "2026-11-11T02:57:50.366318Z",
   "count": 120,
   "articles": [
+    {
+      "id": "12d45808ec153286ed9c",
+      "title": "ウイスキー「山崎18年」がメーカー希望小売価格の“6万7100円”でAmazonで抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLazh4SnpwcE5HMkpMb0VpNWRhNTZrczhRb3B0WkhwWmVxZ3FJVGxPMWhYUnBLMGt1b0xzQXA0VjZFUFNobDNGVTBudHdPMlhxVkxEbDlGNWpwd1NSSGZoSjFoa1k5MnpCN3c?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-11T02:48:04Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "68afd2c5c5ec89e2edca",
       "title": "Whisky Advocate - Whisky Advocate",
@@ -22,6 +33,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "87c0e3021afe51d62a02",
+      "title": "An Elevated Bourbon and Coke - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12UTd2LVhid003R2paXzRTeHR1UDBzZ1VsLXZ1ckJSZnB3QVI3eTcyR25IdFlNc0d0UzFEWjB2a3g1V21ISmZMTFJtVkotZjRmNGhET3RuS0QyZ1NhV19KQ3RYWkJZV2tISmtORXdB?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-10T16:30:56Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1296,28 +1318,6 @@
       "source": "The Herald",
       "publishedAt": "2026-11-05T12:16:53Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3c3ebf31bac702aba39a",
-      "title": "Teacher’s launches its first range of single malts - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjFZY0ZPWXJ2MzBTTmNhMWxrV2lKQWwtcVA5d3Zja0JWMHhMbjZaeUJJQWZ6ZVFxUHZCZm4xR2hLRzJUMngycXBFd3NOYjBsVEktdjlvS0tHWnZmZm1lMXByU2cwM1VSR2xQZTVQM0VFNDhBUG1ibXFBeGU3ckZqZWVXV3huTjB5QjBtMFBqMUE?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-05T12:09:57Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "60973023bd613327db3e",
-      "title": "Diwali whisky gifting guide: 7 premium selections between Rs 3,000 and Rs 16,000 to gift your family and friends this year - GQ India",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTmFDMWpWcFFNTzBJTGM3empHM0x3Q1ZmbjhJSXNpbDJQakNuSnk2WWJsNDFDeG51aGFSdUhHdkZuSGNOZnhVSTZDWnItVUNEaE45SlNQalhOYjhoNUZaeHRDbk1nTVphd3kyRldPRlNpRTVGbWU4SzBlanJyVmJQRTZLZk9rck9fYkY1NzdQbTZqcU5FWWd5Q3VjV2dpTUwtc05tanBXYWxqUllVSVowU2pUOV9NNVpPdndVM2l5R0JKTW8wT1ZiTGJFNVkzRkFpMGU5b0FzdGVLMDhWaTRqcWJQWm1Xdw?oc=5",
-      "source": "GQ India",
-      "publishedAt": "2026-11-05T11:30:00Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
