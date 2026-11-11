@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:12:30.807971Z",
+  "updatedAt": "2026-11-11T02:10:23.145087Z",
   "count": 120,
   "articles": [
     {
@@ -97,6 +97,17 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-10T13:05:18Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a9ca32c24e5665858ada",
+      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-10T12:27:11Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1147,6 +1158,17 @@
       "imageChecked": true
     },
     {
+      "id": "13d27f9a7bfed888f329",
+      "title": "【山崎18年の当選チャンスが2倍！】「豪華ウイスキーみくじ」が第163弾でリニューアル。466口限定で11月5日発売 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SbnJzYzZCelk5VGhWUElId2xray1Wekd2Vm56VGVMZFRfNEpTVXNWblZlSUFDYXNHdWVxeC1qRjdfdE9ITTJlOTljSFFkTmlqOTFac0xfU1Q5RGJleTctSWtvRVA1cGppOUs3VC0xUmZvUmZjenc?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-05T20:15:21Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "c31c8e80c4fb174787a4",
       "title": "Aberlour Expands U.S. Portfolio with 14-Year-Old and 21-Year-Old Single Malt Scotch Whiskies - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX2FCSDdNYWpqTGtJeXJFZWFyVERUalVVemFtTThvNEhtWXh6Yi1PWTJKUS00ZTZ5X2xtSU5ldXM1VlA0QmpMYzhNY0t0eXpUYXh2a3hhVGpIZUpMa2l5cjRiSlJGRGdjc3IySUxkbUUyRlFjWkNWT2lhYlpyZ3ZIZXdNQ2tESlNFb1BrbnppSVFGaU5ac3dqRkdNWnhpN3d3dTdlay03U0Fqa2swYm9xaHNxMFdxbXVNWk52TUIyWXllRHRyaWxyLTU2ZmY1QVA1X1hKMkZZNlI0Y2U0MUZB?oc=5",
@@ -1298,28 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9fe6a979d9c80249da74",
-      "title": "Wemyss Malts launches new Castle Collection series - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjY3X3ZGMUJPdzRHbG12Z3d5dDdlSXNnR0NpVnZKTGlVRDZjSlZNNEZVNVpiamRtbEtoVTFaWEF5Ukg1M1VGYm0yM1lEa0tHemp1TV9rZU9GaEMtVU1DNG5BUDVZdjUzR3BVWW5yM0J3TUxLLVkzM3BxOTdVaTlPeW8xa2hxb1RWa2xzVWVSbk14dw?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-05T11:27:22Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "acb21547be5d662baa47",
-      "title": "1等の山崎18年が2口になった「ウイスキーみくじ」第163弾発売。山崎12年・白州・響などもラインアップ（グルメ Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13Z1RETmtYQVp1UFNhVkVYZThMX2lteVJPMWhIVjc4NE1RR0dLNWpzZzg1cVZwbVNmUnpxR0JDa3NORzBWMUNqQmZBcmRhWEFJbE40a3NaeDJKS2N3Mmc3Ukt2Qk05Y2x5UEI0ZTdsZVJQeWVzcGN6UnM4UHRQRUU?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-05T11:21:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
