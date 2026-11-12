@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-12T11:12:56.879168Z",
+  "updatedAt": "2026-11-12T12:06:41.405830Z",
   "count": 120,
   "articles": [
+    {
+      "id": "2edeee3fcaedf1d10bea",
+      "title": "Rare Scotch whisky to make Asian auction debut in Hong Kong - The Drinks Business",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2R1RVNtMl9sTHViM0Zvc0NQUG1rUHBZZXF1VzBZQWJNWEpEMndaUnRNd09BNnpDODFmTkgzWjZWY3A5dXpvTGhPVURjeDZpekJaaGZLYmxhTU1yNjgxMjkzTGwxR0pzU1R4dzJrdjNSb19MNldGdWY3UFdzVHVTd3lfcUR5VkRSLUFVZldaZUNJa2g4T29YbC1YSFdkWF9qaWc1dQ?oc=5",
+      "source": "The Drinks Business",
+      "publishedAt": "2026-11-12T11:48:01Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "1e3ca1e21b74aa72f97a",
+      "title": "India’s Scotch tariff tussle: Why cheaper imports are opportunity and threat for Indian whisky makers - SME Futures",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS1c4akZDVGlXWlZPZDVQYWdtdHFuZkhrYnRNMWNRM1JnUFdRUmtyVlk0Q1dxSzIzby1kUjFSdlhRNnZWV0t6Q1U1bDVsd0ZOeU83M2VtMnRkaE9PZFRfVnJmWWFzejYxR3dUYnkzbE5fME94SlFYMVI0ZmlGYjZkZXhjOGRKaGpsS1J5QndFbHBuUTZjUkxnWHFmYmZrOS1FYkttbTdna0pRLW11bUpqdU85c1dLWGRzWFExVjBnWWU?oc=5",
+      "source": "SME Futures",
+      "publishedAt": "2026-11-12T11:38:49Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a99bf9546725a99f1883",
+      "title": "Lagg Distillery releases new Quarter Cask Small Batch whisky - Larder Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGNKYjMxeWN0M1RTLXBKVlVpd3kzNWdpNDBKcmpNdmlwTEdSaHU3TDdCbEJlczJheVNPanV1bUdoQzZKQWtrWmpEWHpVRXF5WUR4VWRXdVlVWVViS1hmYWNoMFE0NXdQeDlhMEEtaTczN0Vzd1ZXcFdrcVVZRHk3dW5vZ3VnUkdEdDRzRGhn?oc=5",
+      "source": "Larder Magazine",
+      "publishedAt": "2026-11-12T11:23:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "7e563a229abc26337e09",
       "title": "World's Best Scotch Whisky: Glenmorangie Wins Top 2026 Award - Forbes",
@@ -30,6 +63,17 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ09QM25WUmFkNGhjLXJRWFFLZndkVUJyMXEzcjRSZ0ZsY1FQQmN5cGxWSFZxWTV5NU5ZSEFZaE9rN2pGOFNXREp4MFpSRmpFVVhnVG5ZNk43UTdNNzJnOHR5VHY3MzduMDRRUmd6c01JVC10OWRYOEFZcER6cVNNUDNjRTJQY3FNZloxQ3R5c3JsUFlkWDRzNHRJWUc5OWlqbXFoQjQ5WXhzcVEtd2hTR2hGSzV3SEF6SU5rUmoxcG9aOC14dzFscHdjd2dRMk9sZGc?oc=5",
       "source": "www.feast-magazine.co.uk",
       "publishedAt": "2026-11-12T10:40:58Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7b006653099104b3b352",
+      "title": "More than a dram: the Hebridean island rethinking whisky cask ownership - The Spectator",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczNtZDduZU9xTHFuNU9vU1FDMUxCTHFYZG9tYkNhbjh1QTVaY1VIVTQ0ODFSd25DQmtYVk9Cc0J0bGx1b25sNkdyZjhzd2M5RWxmUlUyT3BZTGNGdXZJWWR6ZlFxYjFxUkhDdjhwTVpGcm9lbEFYYW5UMHEzTkhvWXpNQllOSHRkbkRPbE9PNnBSbVc2WGk2Xy05cXVqZnh6QWZmcGRISk1KeVk3bWgxeEhR?oc=5",
+      "source": "The Spectator",
+      "publishedAt": "2026-11-12T09:53:21Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1276,50 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ea21cc7bde0d34177204",
-      "title": "「タロット」モチーフの新ウイスキー誕生 三郎丸蒸留所が新シリーズ第1弾「ACE OF WANDS」発表 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LV19RRHI0Z1NoNEQwSV9HRzRKSDEtOTZ1UklQd2Z4T3pjWlF2dXlpY0pFdkxFNGlWUlp4NlpxREFKMXVNNHJHdEJLZUtBenFsSVRWRHNnQlR2WThZSjVTU2pBZEhJdzQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "publishedAt": "2026-11-07T03:11:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "85fbc277c42219cc3fa7",
-      "title": "6 Scotch Whiskies Under £500 for an Ultimate Collection - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2pqZzBNQm1KcEt1UTVuTjA3alNheTZ2ekhJZGxvMDhJanhpeE1aYkpkVXNCZUNXUVJKWlk5Uklwc1o2NHQzUS1OblA1S3FqYVZzb1BBNGhLbFB5b294cy1abTVPMGxJeWExZ1RSN002aGl0RExrQzRFQVIwQXBzV05B?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-06T21:31:38Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "88d92ba017667bb1f89a",
-      "title": "Elijah Craig’s Excellent Barrel Proof Bourbon and Rye Are Back—With a Few Tweaks - Robb Report",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTmFzZjNlbHVWa3VZM3hHR0ZmbWRzb1o0SGZuVUg2b3FrOWVzNldPNVhHZWZPSkdKV091ME5BQnpmYXJCTXdWa3JiTElNMmlVTzB4WkhtVTd4MTZLTGxsRzY4S1Z4TkJtQjV0RE12Y253X3NFZGY3Q1Z2YmVjNjFuaVlBaC1iOEdIaU9lQTFmdl9DZldxcm9JMFF4dlZHZE5Fdzdv?oc=5",
-      "source": "Robb Report",
-      "publishedAt": "2026-11-06T20:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b5193edf029bc0100ea3",
-      "title": "Cragganmore 12 year old, 40%, - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBET0psNlpkRHo0NmtsMUJucUVlZl84STJVUUZXMmVfWmlNX3hUVGxnd0hUdldOTGFFVjhEQlBNMVlhU3EyVWlsSWNzX1NHY0ZSbURaU1Z2elV3ZnlITlJVTHRSUQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-06T18:36:27Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
