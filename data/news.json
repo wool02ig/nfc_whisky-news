@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-12T15:02:34.878331Z",
+  "updatedAt": "2026-11-12T16:10:34.153740Z",
   "count": 120,
   "articles": [
+    {
+      "id": "49c3e18f565b68165e77",
+      "title": "Speyside whisky crowned world's best at 2026 competition in San Francisco - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWExucjd1b0RRRHkxd2d4RXJvVXZxRC1lNHBtZ3RKeFU4SjBHWFVDN01TN2I5UkVXdkRsSXN1RlJPa2d6cWU2QXg0SDN5bERPeEpEQ0lPUC1Cc1JhTVhzMWlUcFd5NXI0VXFkTFpIa2dvaFlha01MQ1JYZ1pFODM0SkxuVFlTdmJSb3k2aC1ILUdNeUJNWDJxZnNQYw?oc=5",
+      "source": "The Herald",
+      "publishedAt": "2026-11-12T15:48:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "e60980eb6d7ed7196b4e",
+      "title": "“スモーキーを極める”三郎丸蒸留所 シングルモルト三郎丸シリーズ最新作「三郎丸IX（ナインス） THE HERMIT（ザ・ハーミット）」発売 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UHRBUDRQc3d0U2p5V1hYd3RTR1lvTlQwV29kRmRuZkxnMmNXSnF0UTE0YTljeGNTMk9FTk5TRFh6Q1RSRkZKS21HejlrRmhGaEp0Y1oydl9GYzZhbjhqbzR4RVI0WXlTLW9KWFI0SDJ1Zw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-12T15:40:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "f04e551d7c2ef6c2ce18",
+      "title": "Garrison Brothers Cowboy Bourbon Review",
+      "url": "https://thewhiskeywash.com/whiskey-reviews/review-garrison-brothers-cowboy-bourbon-review-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-12T15:00:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/garrison-brothers-cowboy-bourbon-review-500x256.webp"
+    },
     {
       "id": "296414ac9875191e76ec",
       "title": "Tamdhu 21 year old whisky named ‘best Scotch in the world’ at global competition - The Scotsman",
@@ -18,7 +51,7 @@
       "title": "Historic Scottish whisky company unveils rise in turnover to £19m - The Herald",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1Vhd24ydTVHVHZrU1NJUDFmcFNlRVVDTnR1eUUzb3F1UlZPc3B1dy1USERpdWFuckFzN1RBMjZxczdZZW1UQWVuaEJObkFVVWtsOEJTb1VPc2xzSmdTMkoySTh5S01FOGtqYjJKVnNCc3hRUmpFWU5mMmlxeFE2SFkwcGkyOG5xcTNHLVJiUHBoRHJ0UjM5SU1QQQ?oc=5",
       "source": "The Herald",
-      "publishedAt": "2026-11-12T14:39:35Z",
+      "publishedAt": "2026-11-12T14:39:43Z",
       "category": "new",
       "language": "en",
       "region": "international",
@@ -108,6 +141,17 @@
       "source": "Larder Magazine",
       "publishedAt": "2026-11-12T11:23:00Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "4bf91e78d3b0fcf81e98",
+      "title": "World’s Best Scotch Whisky: Glenmorangie Wins 2026 Top Shelf Award - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUY2UXByaVNDemRadURfT01qR3FYeVd4TFNpYjZ5TGV2bU9LbEw0ZnpFRUdzQmRCZ2ZJWUZrYlNqbXphUWdjYmJobDJlNVpnZGFteXZtekJ4SW8xekRsQ2V5NWxEY1owX3Rma3had1F1RElkeTZ6VWpYb1BMUE5ETWxPMVFXRFFSN3BWby1hN1RRZUhJa2dzWHY4VFExaG15R2I0aXhDbHpZOFlqdENxdHUtUTY0NEUwV1E?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-12T11:00:00Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -514,6 +558,17 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OSHlvVmhvZHU4UzlseW5QQVV5b2VneEZzVHo3Qm5KMWd3aTNzdmc1VFBrbDMwNGFDVzRYRnRZVWh6b0lPazJWQm1pWS1QcTg2OVE?oc=5",
       "source": "Whisky Advocate",
       "publishedAt": "2026-11-11T08:17:12Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "1275b273d0a510c1d01a",
+      "title": "Hibiki Japanese Harmony x Chiso: Kimono creativity meets whisky mastery - Prestige Online - Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWJpVzY3dGRrVjFfTEFyaGNFOW5BZDBfR1hEOFdlcURyaGN1VjktbDRlS2JPbXVrUS1KWDA3aDVoZ3R4NjBLUjFrMjkyb2pEV3kxN3g5dDQ2TDRITERBMnJvWFg3UnRNcUowOFhOWm4yOVVELTVMcDNnMkR2MEtUT2s1TkQ4MmNIVk5CckNBdV9EWjNVc1F0bDZDd2tmX2pzb0N5TzYtRmxiM00tTV9ITVUtZVJSd3NpSnJyXzlqN3VpOW_SAcgBQVVfeXFMTUxoSHdfM3BreUlaUkRpT2hyRWlhLXJoc01jcUFHb1YyVkdPOVUzOVZQWDc4NllHQWZVOTlvZjJOTlRfeko5c1hUR0lGVm9kZ2VvZ29LUXNDa29fc1ByTzFsUk16THUyeXVLZS1YZUdKbXUxUmlibHlyUGxQMGpTX1NlQkRDa3RnaGRMUmJybHh0MXgyVVNWMUN4TWVQdDROQmZMTE5SdnVWSnU5bDBmWVpCdU9HdVNwanBmUVNRa3dBd3ZsQ1hibmg?oc=5",
+      "source": "Prestige Online - Singapore",
+      "publishedAt": "2026-11-11T08:00:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1265,61 +1320,6 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "76f293925dde9ba92c0f",
-      "title": "名古屋・栄でウイスキーイベント 清酒の酵母を使った珍しいウイスキーも 入場料だけで200種を飲み比べ - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUW11MEI1QlBjVVZBaEdYa2VraXNRSUVUY0ZqSmxHZ3FUUzhXVjFEZWNpWVJRU3NFaWR4ZHJFbHFJWWpiTkIyN0tLOVBnLVZ1M0RaSjg3YThCZmZ5LUJIZmdXYkY4T1c3WTNZdWtB?oc=5",
-      "source": "au Webポータル",
-      "publishedAt": "2026-11-07T15:09:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "223126b90c116be46a66",
-      "title": "Three Ships 10 Year Old South African Single Malt Whisky Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-three-ships-10-year-old-south-african-single-malt-whisky-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-07T15:00:52Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/three-ships-10-year-old-south-african-single-malt-whisky-review-500x256.webp"
-    },
-    {
-      "id": "e639d905d58d1ae186ab",
-      "title": "Think You Don’t Like Rye Whiskey? These 5 Bottles Might Change Your Mind",
-      "url": "https://thewhiskeywash.com/whiskey-articles/think-you-dont-like-rye-whiskey-these-5-bottles-might-change-your-mind/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-07T14:30:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/think-you-dont-like-rye-whiskey-these-5-bottles-might-change-your-mind-500x256.webp"
-    },
-    {
-      "id": "bdad6b26b494ec710914",
-      "title": "Are Whiskey Clubs Worth the Money? We Looked at 9 to Find Out - Food & Wine",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3dUZjV5c1h2QkQ3ZUV0Q0JRVlpQN1NaSFVydTRkdzh6N3ZPNWY5cWpoeWEtWkRhdTNjLU1CSVhPNlI1NWk0QUlQRzlwWDlwYkpvRWRTZ2dXbWhaZWt3VjJoYmJSWmZxYk9ra0trUWJDd00zTmNWTmgxZVI0V2NqNFhZeEdkLXJLdVVwNUt2RTBCbkN6eHZrWU5jYzY1dkgz?oc=5",
-      "source": "Food & Wine",
-      "publishedAt": "2026-11-07T14:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9003d020d1adc4f672cf",
-      "title": "Diwali Whisky Gifting Guide 10 Indian Whisky Brands to Explore This Festive Season - Aabkari Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZi1RempGTjJsNHNLSHkxSXNxdlBFODNyYkhRUW1XOEpkTVBzSEI0bWh6S3NqUlZGeXhac1dWVkVJeWl0RlNGZEJ1VDRKOGtpLUw4V196d2dmU0FMVERuV1V1MXVGNnMxRU9yQVdqMmppZFBjZVFvWm9tMzh5LTdfX3d2ZEVCcEM2b1ozamtycTJSaXBpMjUwdGNOaWFmWElPLUhTWTBhQWc3QldocXc?oc=5",
-      "source": "Aabkari Times",
-      "publishedAt": "2026-11-07T11:35:52Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
