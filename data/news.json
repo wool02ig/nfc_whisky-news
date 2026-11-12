@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T01:21:55.372156Z",
+  "updatedAt": "2026-11-12T02:57:54.244135Z",
   "count": 120,
   "articles": [
     {
@@ -7,10 +7,21 @@
       "title": "Tasmania's Callington Mill Wins Best Australian Single Malt Whisky Title for Second Year Running - Man of Many",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUNxelM4c3lZZXRndkJfcElTVzRhRmZXOWpibEU5VDdZS0M1RHpqbFNRVHJDckJJSUZJUjB6UHlmRTNTSGtVa1kzWTZxUl9YS1VpSGhqelEzLXV0MUMxX1ltaXpiemhEMFN5R2tKTG1vWDM0elEzSmJ5X1pIV0I5R1lsRGVCMlVIckx3NG1tMVN2dW9CNHJv?oc=5",
       "source": "Man of Many",
-      "publishedAt": "2026-11-12T01:06:13Z",
+      "publishedAt": "2026-11-12T01:05:43Z",
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "5584c25e7ef029572e99",
+      "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSmd6b0Fmb3VrWFRFWFBLeS1EeDdxRWh3c1Z5VHBXTkJocTd6SVNPZHUyamU5NjFLQV83NEtzaklFUXZ5S0Y5OHFZZjUzREFRSk1Oa0lmcmROWE51N2h5LUQ4R2xxTXU1T1E?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-12T01:00:02Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -289,23 +300,23 @@
       "imageChecked": true
     },
     {
+      "id": "4ca1dc5d7d5266b52e1b",
+      "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGeXhRRWxGbTByTWw4NnB0ZzdSLTZmLTdvYVpqeXczTVhKeXZvZERXVW1LUDFFeTkwckdjd0UxR2c1dXA4VUxDeHl4WllFT2dFQTJnbGpkeEdSeFRNSG92YnNFODNHdXpSQ1pYNS1lZUpnQ2VGVExFdGEwM2dFWlk?oc=5",
+      "source": "日テレNEWS NNN",
+      "publishedAt": "2026-11-11T03:12:01Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "12d45808ec153286ed9c",
       "title": "ウイスキー「山崎18年」がメーカー希望小売価格の“6万7100円”でAmazonで抽選販売 - グルメ Watch",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLazh4SnpwcE5HMkpMb0VpNWRhNTZrczhRb3B0WkhwWmVxZ3FJVGxPMWhYUnBLMGt1b0xzQXA0VjZFUFNobDNGVTBudHdPMlhxVkxEbDlGNWpwd1NSSGZoSjFoa1k5MnpCN3c?oc=5",
       "source": "グルメ Watch",
       "publishedAt": "2026-11-11T02:48:04Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "4ca1dc5d7d5266b52e1b",
-      "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rMmV4aFR0RzJmQk1VZzE5Q1hyNFFjVXE4RUxaRmNoZnR3ckZkMzBmUDdaNE5UanpwREx6VWU4WFVfbDRBT2lfTE1Kemt6UUtqcFhLemV6c0xHcjJlb1BB?oc=5",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-11T01:33:31Z",
-      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -444,8 +455,8 @@
     },
     {
       "id": "a7b7192429907f75c02b",
-      "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発（TOSテレビ大分） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rSm9TbDRtM0pvSlpxSG9zYWRMMGQ4czUwY3dGZGtiT3k3R2s0R1ZxMnM3YV9tNmZpUGRLbmUzXzc2aGlwckpLN3F6X1UzdXQwdUNJVXR5YUZwMG9qY0MtNkFOaVhMeWpTNE5XcmJ3ZEQwazFVN25XZlNXYWFBRFE?oc=5",
+      "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発 (TOSテレビ大分) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONlRpX0lCX1EwODlqNkhEWFNlOE44aGlqOWFaZ3F1azVpMDJfY2dEbXRrSF9ZdXdwUHVLcWlaSDlSN3lJdEFrZjVMUkFlWlJhS1RQWWQ1OGpORlVGekpNaVJxdHVBcTZ3UXAyQnJOVUdpRzlXNklzQU9EZVRheEZiQmZETmlKT1p0UlFKemZn?oc=5",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-10T09:58:01Z",
       "category": "distillery",
@@ -1309,17 +1320,6 @@
       "category": "limited",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b77234ed96fc662360af",
-      "title": "「小諸から世界へ」軽井沢蒸留酒製造のウイスキー「KOMORO ORIGIN」初出荷 - 日刊スポーツ",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11dFU3ZUh6VWg3SWt5Z1lUYjhORkFvcXFjN2VoeGJwZnhSbEhnRmp3MXpHZzBzWVRfOVlKZ3V4bGVXd19hNGVfa25yU25QT211ckoyOV9VRlI1aFZ4aHBRWDBjN05pUEUwZzFLVXRVbHcwWHpBT0NjctIBgAFBVV95cUxNNUFEU2VLVm5TWFlnNHBJSE5zLWNtVHcwVE9wcU1NQkFfNmpXVlpKc3JRd1EzWHVXRzlVSVY2R0dNRnZtOEVUUDFibHRtbjlhQUlUZDJweUI1RlEzTEoyRkR6c0NQaFhzRl9ZVnBiYjh4M2ZQc3YwNURSVjYxVGtNdA?oc=5",
-      "source": "日刊スポーツ",
-      "publishedAt": "2026-11-06T10:52:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
