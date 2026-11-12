@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-12T17:59:21.635533Z",
+  "updatedAt": "2026-11-12T19:03:37.672519Z",
   "count": 120,
   "articles": [
+    {
+      "id": "0bb9ad32afec972ebf60",
+      "title": "Lagg Distillery Announces Quarter Cask Small Batch Single Malt - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVZNUkF4M0hHS1lxcXE4RzdDdEg1dDdpZ1QxbF90anpJc2tzNUkybjlYbzFwYWkwTkFGUGVjdWxOSGc2ekhNNWZCVDhRZE5Tcng5aUtocVJqUVJ1TklXNkZCVjJ1b29reUZyX3dHYXFUTTRqc3lzZmx1a2RKcGtyOW5nck1zTlVicFlVZ1RWbmtaZTlwNGRFVFBiZzU3UmVkQkNJQ3d3?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-12T16:59:36Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "a67bc6bf5cf5ebf8c3c4",
       "title": "Pursuit Spirits Honors Veterans With Joint Operations Bourbon",
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "23214753f8bb514c79b2",
-      "title": "Smokeye Hill 5-Year Barrel Proof Straight Bourbon Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-smokeye-hill-5-year-barrel-proof-straight-bourbon-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-08T15:00:26Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/smokeye-hill-5-year-barrel-proof-straight-bourbon-review-500x256.webp"
     }
   ]
 }
