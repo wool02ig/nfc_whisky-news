@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-12T20:00:10.177801Z",
+  "updatedAt": "2026-11-12T20:57:16.220598Z",
   "count": 120,
   "articles": [
+    {
+      "id": "f4d21ef104340a24479c",
+      "title": "The End of the Road for Hedonism - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VS0NYMHNqQzdWMmN3SUNuRVd5SkI2N0w3ZUtDbmZPYkpiMF9faTBUbFhEaURmUUM5LU9USWxCYUN1WEFUVHlDeHAxS0xrTXhLOFprakFoVHhfLW5ueGNJY0JYQ1pYcEhRTkozdQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-12T19:32:26Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "f7e00b85cc51bad6276b",
       "title": "Historic Scottish whisky company unveils rise in turnover to £19m - The Herald",
@@ -1147,10 +1158,10 @@
       "imageChecked": true
     },
     {
-      "id": "074321d90f3496e5cd05",
-      "title": "ウイスキー「響30年」が当たる「超みくじ 第3弾」発売。響21年や山崎12年・白州などもラインアップ（グルメ Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VLUVYaUtXanltWE9OTi02MWhsenY5ald6YzZBSXNTWXlDRURlZUpPTXItYkF0UnJCaUJnNVN2Ymt6aGhwcWk4enI2dnhtNXdadm1lSTdwYW9sVlZubm5BNjR1c2J5R2NnMDdjVlFBSGUwT3poZmR2MWg1aUlDaG8?oc=5",
-      "source": "Yahoo!ニュース",
+      "id": "15468cbeb9f068c6ff7c",
+      "title": "ウイスキー「響30年」が当たる「超みくじ 第3弾」発売。響21年や山崎12年・白州などもラインアップ - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CamtDNEFudWdFMldlRzVGNlprOFc1bnB4RjZfS21rc2gtZFZxNmJqLW83RmhZTWV1N01MUnVhTjBLY1RSV24xYlZ6ekNETE9qTnB2azZLNVQ1dXBITklWTU95MVYxcGRNM2c?oc=5",
+      "source": "グルメ Watch",
       "publishedAt": "2026-11-09T11:45:00Z",
       "category": "industry",
       "language": "ja",
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "866f235551aeeb5f1b58",
-      "title": "三島市「ふるさと納税返礼品」に地元蒸留所のウイスキー 高額寄付で「樽オーナー権」も - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PdWpsOU4tUWxiSkpqWEgxMXpjT3JyMHFJSnlMYXVjcEF2VVM5M1JkclJxVGhyVUd0UmR6Qi1QWkVEbUNqRUtqeF9OYw?oc=5",
-      "source": "47NEWS",
-      "publishedAt": "2026-11-09T00:37:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
