@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-12T10:11:23.649971Z",
+  "updatedAt": "2026-11-12T11:12:56.879168Z",
   "count": 120,
   "articles": [
+    {
+      "id": "7e563a229abc26337e09",
+      "title": "World's Best Scotch Whisky: Glenmorangie Wins Top 2026 Award - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUY2UXByaVNDemRadURfT01qR3FYeVd4TFNpYjZ5TGV2bU9LbEw0ZnpFRUdzQmRCZ2ZJWUZrYlNqbXphUWdjYmJobDJlNVpnZGFteXZtekJ4SW8xekRsQ2V5NWxEY1owX3Rma3had1F1RElkeTZ6VWpYb1BMUE5ETWxPMVFXRFFSN3BWby1hN1RRZUhJa2dzWHY4VFExaG15R2I0aXhDbHpZOFlqdENxdHUtUTY0NEUwV1E?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-12T11:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "322cc96b3e529ad34489",
+      "title": "India holds 85 containers of Scotch whisky in tariff dispute - The Drinks Business",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1ZQRmNWeThhbllCUjlzZVhNaWFyUktqS3BiQUo0V1RVOUZuc2g1SU92b09xc2JQQkc0eW5uSGxpM25PT2F5YTBBYXFkUGQwaWNMYW10OE1Jd0hMUEo1UWlwU0VTdkYwdnhsenFqQ0hBMTJ0NFBYVFVMZW5xcW1ZeUZKUFNFSzZmWExZc19GSHg1RlQyaGhEUktWZjg4OUR6ZlJ0YTlB?oc=5",
+      "source": "The Drinks Business",
+      "publishedAt": "2026-11-12T10:47:05Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "8c268dd4a164e73d3211",
+      "title": "Amber Restaurant marks 25 years with whisky flights chosen by its own team - www.feast-magazine.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ09QM25WUmFkNGhjLXJRWFFLZndkVUJyMXEzcjRSZ0ZsY1FQQmN5cGxWSFZxWTV5NU5ZSEFZaE9rN2pGOFNXREp4MFpSRmpFVVhnVG5ZNk43UTdNNzJnOHR5VHY3MzduMDRRUmd6c01JVC10OWRYOEFZcER6cVNNUDNjRTJQY3FNZloxQ3R5c3JsUFlkWDRzNHRJWUc5OWlqbXFoQjQ5WXhzcVEtd2hTR2hGSzV3SEF6SU5rUmoxcG9aOC14dzFscHdjd2dRMk9sZGc?oc=5",
+      "source": "www.feast-magazine.co.uk",
+      "publishedAt": "2026-11-12T10:40:58Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "1f081b8e33a779b62e82",
       "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
@@ -53,6 +86,17 @@
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-12T08:48:21Z",
       "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "a1494c8a295df0d34fca",
+      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100％、 292本限定をCAMPFIREで11/13先行販売 | LOERKE international株式会社 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUkVheDh6ODl4ZWlvem9SdVJNNHZWQkhKcnEzM1VDV3JlUWw1TXlKTTNlOEJMWW5EcUh0WHdBMlgxVmprTUdGeFAxT3NjZw?oc=5",
+      "source": "アットプレス",
+      "publishedAt": "2026-11-12T08:45:00Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1277,50 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "1848acd68fbb3d3fbc57",
-      "title": "布引温泉小諸×小諸蒸留所 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwNzJtTkplTFI3ZjA4bWNzSV9VN09BYTRlVzktWlE2SURsOHVKVnhGV283WTI2aDctcFNWZkJVMmlUSk5DYTFaMXUtbVl1cDRZclNJdlNrNHRzY0x4VkVyOE9iOUNVLXg4TGVnWG82QXF6dEdJRTNxWUl4WQ?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-06T18:00:45Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7ee2d3b7cf8704ce5abf",
-      "title": "Whisky Watch: A 1792 Wheater, Penelope's Latest Finish, WhistlePig, Macallan & More - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTREVUJQWnJYUDVIZkhZYVNHUW1pTWRSUnFXaDJMVkhnLWdTcDNJR0xOS1Y5R2h1V0l4SnRoQzV1UkszN3pOUWNidnBSclVDTUlQY0tOcDY3MGxpMXdaQ2JGeEEtLTdjY3l4cWY5M1lsbWFFeElXUGFUdTBJSmVWN3JkSXIya1lrN0FfZGNB?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-06T17:17:38Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7be706478fb3f35fbeba",
-      "title": "Green River Bourbon Gives Sports Fans A Helping Hand With ‘Bullsh!t Refund’",
-      "url": "https://thewhiskeywash.com/whiskey-news/green-river-bourbon-gives-sports-fans-a-helping-hand-with-bullsht-refund/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T16:23:36Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/green-river-bourbon-gives-sports-fans-a-helping-hand-with-bullsht-refund-500x256.png"
-    },
-    {
-      "id": "9bc59dc840da047130dc",
-      "title": "Forget Scotch Whisky For A Moment, Islay Has A Rum Story To Tell - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajliOE11VlR0TVFUOTJ1U28xUk5yUnBSZ2tyb0h6TEdlR3h5a0lxOFlxYjR1X0EtN19NcXlyS3l1RXZlRDhwUWt0THVwZkk5WmYzZE80Y0lLX3l2dWRkRnp2THFoNS1rYzEzWkZKTno4ZkdRal81czl6eUlabFFpRHRyWFY5SmlUenVuSE1DUDJSdDhpbWpueHdBUTBhYk5wOVJkc0lQaVlrQQ?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T15:57:07Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/forget-scotch-whisky-for-a-moment-islay-has-a-rum-story-to-tell-500x256.webp"
     }
   ]
 }
