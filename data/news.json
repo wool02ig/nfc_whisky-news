@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-12T07:28:41.447015Z",
+  "updatedAt": "2026-11-12T09:09:15.746494Z",
   "count": 120,
   "articles": [
+    {
+      "id": "1748ba6349d4fc057d6c",
+      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05VTdWeEhaVGUwRDFtVjVQRk9PZGFzVzZYME1DX0Itb1lpLVlWQmNtTGZZbnNHUDh1eTZaVm9QVTRzU2JqMGNzOF9COHFKQUl4Z3NhMFJxODRPMllJem4xU05LeGpBVnllWVBlYS1fZTlqMG8?oc=5",
+      "source": "ニコニコニュース",
+      "publishedAt": "2026-11-12T08:48:21Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "53487dfcd7e63dd1f66b",
+      "title": "Glengoyne launches new vintage release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFpGVDAyTFRZeTNIQ29oSmNkTDRqcGpWUFVOWVFPUFRRMGNJOW9XdXhDRVB6SFptYTM3OEZQVDBsTC1LOVV4ajFRT2V0cDJGMnVqSENYYnNsWnFqMy04RHlOU2NVYkZPaUxPc3l4Z3lrVFZrT2pocnRPbGtJcnV5NF9n?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-12T07:52:28Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "96464f9a54f3cdd1edf3",
       "title": "Commerce, Finance ministries meet to resolve liquor firms' customs dispute over Scotch imports: Sources - India Shipping News",
@@ -597,23 +619,23 @@
       "imageChecked": true
     },
     {
-      "id": "c87ae3fac859f1dbb3ea",
-      "title": "『トライガン・マキシマム』ラベル・ウイスキー 11月24日（火）より抽選受付開始！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15azRsaDVPek93UHdCYUE0ZDVCZ2syQ3ZUY2tHamVGMlZHMmxmbnlGblBYNks4eW0xU3hLc2tYY3JpblpfeTFHbV9RZGllbUhGR0ktbm9ia3A5RVBaeG1LRnNTcTZVQmVvYmc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-10T03:00:02Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7482b9cd9de5adbdcc5f",
       "title": "「アマハガン ウイスキーハイボール ピーテッド原酒ブレンド 缶」2026年11月24日(火)よりコンビニエンスストアにて先行発売いたします - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sRHFQNzM0RmYwM2ljVzhOaEN4UzNST2NCX2xrUU5aci02MVBTbUpwNEctRmhTd0xDTmlPUkkyZkZpSHliZVFOZTR1N2pYNnBYcEZQUkpBcWxnWGE0TEo0cmNWYTJZZ01JYXc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-10T03:00:02Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "c87ae3fac859f1dbb3ea",
+      "title": "『トライガン・マキシマム』ラベル・ウイスキー 11月24日（火）より抽選受付開始！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15azRsaDVPek93UHdCYUE0ZDVCZ2syQ3ZUY2tHamVGMlZHMmxmbnlGblBYNks4eW0xU3hLc2tYY3JpblpfeTFHbV9RZGllbUhGR0ktbm9ia3A5RVBaeG1LRnNTcTZVQmVvYmc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-10T03:00:02Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "9c08fd35fde967ee3b32",
-      "title": "野沢温泉蒸留所初のシングルモルトウイスキー 2026年11/6(金)発売 - www.tv-tokyo.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85QkhLNThNdFE1UjhoMHBNQmRFR0Jrb1kyTVRRYkhnZWRPRV95cW0tWWZmc2RrVVVSdFVBaXBaeWpLVFcwTEJQcF9ZNHJ0VEpxSVBqU1dQdFpzdDhVZHFKVDVvSHJDUDNraXUwLW1n?oc=5",
-      "source": "www.tv-tokyo.co.jp",
-      "publishedAt": "2026-11-06T12:44:19Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "9bfad73e725ab314c981",
-      "title": "Johnnie Walker’s £1,100 Whisky and Sabrina Carpenter Collab Are Smarter Than You Think",
-      "url": "https://thewhiskeywash.com/whiskey-articles/johnnie-walkers-1100-whisky-and-sabrina-carpenter-collab-are-smarter-than-you-think/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T12:30:22Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/johnnie-walkers-1100-whisky-and-sabrina-carpenter-collab-are-smarter-than-you-think-500x256.webp"
     }
   ]
 }
