@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:11:24.275157Z",
+  "updatedAt": "2026-11-12T17:59:21.635533Z",
   "count": 120,
   "articles": [
     {
@@ -385,6 +385,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "8b063cc079a505865513",
+      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - Walker Plus",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
+      "source": "Walker Plus",
+      "publishedAt": "2026-11-12T01:30:37Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/smokeye-hill-5-year-barrel-proof-straight-bourbon-review-500x256.webp"
-    },
-    {
-      "id": "06249bd5f879f8f21675",
-      "title": "Why So Many Scotch Whisky Distilleries Have Similar Names",
-      "url": "https://thewhiskeywash.com/whiskey-articles/why-so-many-scotch-whisky-distilleries-have-similar-names/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-08T12:30:32Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/why-so-many-scotch-whisky-distilleries-have-similar-names-500x256.webp"
     }
   ]
 }
