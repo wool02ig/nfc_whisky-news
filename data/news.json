@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-12T19:03:37.672519Z",
+  "updatedAt": "2026-11-12T20:00:10.177801Z",
   "count": 120,
   "articles": [
+    {
+      "id": "f7e00b85cc51bad6276b",
+      "title": "Historic Scottish whisky company unveils rise in turnover to £19m - The Herald",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1Vhd24ydTVHVHZrU1NJUDFmcFNlRVVDTnR1eUUzb3F1UlZPc3B1dy1USERpdWFuckFzN1RBMjZxczdZZW1UQWVuaEJObkFVVWtsOEJTb1VPc2xzSmdTMkoySTh5S01FOGtqYjJKVnNCc3hRUmpFWU5mMmlxeFE2SFkwcGkyOG5xcTNHLVJiUHBoRHJ0UjM5SU1QQQ?oc=5",
+      "source": "The Herald",
+      "publishedAt": "2026-11-12T18:30:46Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "0bb9ad32afec972ebf60",
       "title": "Lagg Distillery Announces Quarter Cask Small Batch Single Malt - The Whiskey Wash",
@@ -23,17 +34,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/pursuit-spirits-honors-veterans-with-joint-operations-bourbon-1-500x256.png"
-    },
-    {
-      "id": "f7e00b85cc51bad6276b",
-      "title": "Historic Scottish whisky company unveils rise in turnover to £19m - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1Vhd24ydTVHVHZrU1NJUDFmcFNlRVVDTnR1eUUzb3F1UlZPc3B1dy1USERpdWFuckFzN1RBMjZxczdZZW1UQWVuaEJObkFVVWtsOEJTb1VPc2xzSmdTMkoySTh5S01FOGtqYjJKVnNCc3hRUmpFWU5mMmlxeFE2SFkwcGkyOG5xcTNHLVJiUHBoRHJ0UjM5SU1QQQ?oc=5",
-      "source": "The Herald",
-      "publishedAt": "2026-11-12T16:08:35Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     },
     {
       "id": "49c3e18f565b68165e77",
@@ -162,6 +162,17 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS1c4akZDVGlXWlZPZDVQYWdtdHFuZkhrYnRNMWNRM1JnUFdRUmtyVlk0Q1dxSzIzby1kUjFSdlhRNnZWV0t6Q1U1bDVsd0ZOeU83M2VtMnRkaE9PZFRfVnJmWWFzejYxR3dUYnkzbE5fME94SlFYMVI0ZmlGYjZkZXhjOGRKaGpsS1J5QndFbHBuUTZjUkxnWHFmYmZrOS1FYkttbTdna0pRLW11bUpqdU85c1dLWGRzWFExVjBnWWU?oc=5",
       "source": "SME Futures",
       "publishedAt": "2026-11-12T11:38:49Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "04819496a06696bf56df",
+      "title": "Lower Scotch Import Duties Intensify Competition for Indian Whisky Manufacturers - Aabkari Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGQ3TFZ0SVRoQTNmWjE0Z2dPNjFwSzBGdFRVcTMwTVcyMDZnR2Y0M1BaUHNkV0J1cmd3Xy0tNWRFQld3clA1TWpJWFVoaTVyTmlkYnFVVjRIdmsyOUV6a3loSGo0aE5uVXdSSDZZR3ZOM3E0NlI4aTdpbTN1NUlOYkdNZ2U5U0dwcU1DdEl4YXFWc3VHei1hZXhJOWdKTFUzdGc?oc=5",
+      "source": "Aabkari Times",
+      "publishedAt": "2026-11-12T11:38:30Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -339,6 +350,17 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-12T07:52:28Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "38d0ccd5faf49d0c6651",
+      "title": "Best supermarket whisky under £50, expert taste-tested - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1J2a0NQVFdYcHJEY2RFdzZBM21mVEJ2ZXE5UERwN3pnSmdVcmdhRVFUamgtZDVMaUFabmxHa1UxWENzYWxjOFhnWmNsYTZocGxtX1JKaF9OSVZCczBOdWJyS2JhT3k5a09ObWJjX0xlNWRQRGw3ZzFiYXZPMzZqaUtQNVp4VnNQSk4yNUpFUzJrR25yS1NxbHNQZWMtYkFLSXF5S0RyRQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-11-12T05:06:16Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -540,17 +562,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/buckhorn-whiskey-unveils-smoked-maple-and-buck-hunt-pop-ups-1-500x256.png"
-    },
-    {
-      "id": "38d0ccd5faf49d0c6651",
-      "title": "Best supermarket whisky under £50, expert taste-tested - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFZaWxPRXQ2bGtkMzVKY1N1aG5Odjc4ZWJsVVJHbk55cndrVmJUM2J6WUxaR0JESkVUM09WTFhqY29Ia0M2SFBJUk52Z2NmTUVmdDVxZXRMdFZHV3VaMkhYMDl2TERlLUMyU3BnT0VjekVVdmlwSlg1QkVkMVl0SzNlN3A?oc=5",
-      "source": "AOL.co.uk",
-      "publishedAt": "2026-11-11T11:05:28Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     },
     {
       "id": "2cbeb6c139f3296e351c",
@@ -1309,17 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a03f616695dc5e74e012",
-      "title": "BULK SCOTCH BOOM: Is the India–UK FTA Reshaping India’s Whisky Industry? - Aabkari Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSC1PbnNaRzExamNKZDRYaTRHUDZ1VEpqX2dUa2ttLW9yQWhaeTlGejRXbXR1eXAtSzFVWlM5YkRHOU04c01wOG9DQzVQVktoZG9ic29seE5PNnliY2RLTUFiMEVlQVIyd3RfSjN5Tm5FSzUwNm91Nnp4VlNOLWtKQzNPSWY0R1Y3X3RiOG0tdnBhNllLNS1rY01SZWUzY3JkOUE5b3BR?oc=5",
-      "source": "Aabkari Times",
-      "publishedAt": "2026-11-08T19:34:59Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
