@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-11-12T12:06:41.405830Z",
+  "updatedAt": "2026-11-12T13:22:18.216932Z",
   "count": 120,
   "articles": [
+    {
+      "id": "d1698ea4205d33a710ae",
+      "title": "Stirling Distillery bottles city’s historic stories in new whisky range - Stirling News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGM3SWxkaGlmWUpSdkJYQXRobU5Sb1hHTXgzdWhsUWNoMXVOb1ZtSXVmOGxJbUpvWVpwTkRpZTlZX3hSWUxFcFNlVEl4OUxQRTVQNVhWYmlVV29qckFuTjRjVy1udE5WVEUtMWgtbHdfTkRVS3NQcWlwUlE4Q2NySi1IMHBOSXk4MkloX0g5LTU5eTQ2bF9ibzY4TGxBSjhxVFhKTlE2WQ?oc=5",
+      "source": "Stirling News",
+      "publishedAt": "2026-11-12T12:43:36Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "2f5895882cc957ee9d15",
+      "title": "A Lifetime Of Whisky Collecting Is Going Under The Hammer, Here’s What Caught My Eye",
+      "url": "https://thewhiskeywash.com/whiskey-articles/a-lifetime-of-whisky-collecting-is-going-under-the-hammer-heres-what-caught-my-eye/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-12T12:30:24Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/a-lifetime-of-whisky-collecting-is-going-under-the-hammer-heres-what-caught-my-eye-500x256.png"
+    },
+    {
+      "id": "dfbb39ce623693f8fb97",
+      "title": "Scotch whisky exports to India held at port as ‘bulk’ confusion reigns – report - Global Drinks Intel",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUFET1huWlFSTWczb0oydEZvdF81WGNXYTdYdWMwM2pkSlF6bUV2Y1dmUU1ybVdQLU1DcE5FVHhNMHh4dHlUZHFNUFB6dE9PVGF1Wk1yTjQ0ZWV2ZlZfdmJyV1BpaXNUR2wxZEZVQ0ZDa0pFaGh4eGpPaFl4SHdXODFDajFTMEs3WXFKT0dkR1RNWjRsVGVtQmVJX3JSbEhIamo5LVJTQ256eFRPeVE?oc=5",
+      "source": "Global Drinks Intel",
+      "publishedAt": "2026-11-12T12:17:42Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a9152c7a03cb1b1a5e99",
+      "title": "Lagg Distillery launches new small batch release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWJSOTNxcmlGVDlBMVJ2aDZ6VmJzYTdDZ0ZMU3djcDRGUk9HYTZpN19lTGcxMHY0SV9BUVZwZTdocXJ2R1RPdjE3Wkp0ZFRzVnJlbENwaWhGaWdtRGlBaWlIWGVETmUxdGNkbFdtXzhhcndQR0lXekh4eUtjM0o5NlBjeGdQRFJ5QzZ4Q2tkbw?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-12T12:05:52Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "aa98182083d580ecb1a1",
+      "title": "English whisky GI verification scheme launches - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdElVdDdFLWp3Znctc254ZUI2OW1sdllyYjRQQThWdGlaeFltVnpHZWktTzd6REZ4X1V6aWFIQVBLVnRYQWdWa29iTmdXcmRJOU1MWWt4aE5rRGhkR0dFZEQyb0tvWFhKcWZzZkRMTFR0emZlSmh3YXcyS3lWSlBEbFZxeWoycUFIeENPRWRDcFFvY2st?oc=5",
+      "source": "The Spirits Business",
+      "publishedAt": "2026-11-12T11:52:48Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "2edeee3fcaedf1d10bea",
       "title": "Rare Scotch whisky to make Asian auction debut in Hong Kong - The Drinks Business",
@@ -212,17 +267,6 @@
       "imageChecked": true
     },
     {
-      "id": "8b063cc079a505865513",
-      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - Walker Plus",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
-      "source": "Walker Plus",
-      "publishedAt": "2026-11-12T01:30:37Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "5584c25e7ef029572e99",
       "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSmd6b0Fmb3VrWFRFWFBLeS1EeDdxRWh3c1Z5VHBXTkJocTd6SVNPZHUyamU5NjFLQV83NEtzaklFUXZ5S0Y5OHFZZjUzREFRSk1Oa0lmcmROWE51N2h5LUQ4R2xxTXU1T1E?oc=5",
@@ -419,6 +463,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/branch-barrel-brings-back-fuszerek-hungarian-oak-bourbon-and-cherry-port-bourbon-500x256.png"
+    },
+    {
+      "id": "346234bbafc33ab70fee",
+      "title": "【東京ウイスキーフェスティバル2026】亀田蒸溜所と髙藏蒸留所のお手伝いしたり、いろんな人たちと交流したり、飲み会に参加したりなどをした。 - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KcEhuVDl5NDdiNHFzX2hUVkJZVzVITjF2OWc2eEwwMkdpSFBwRVhHX3JuZUZfODRubE5lWnh4WDZ0b1BYUmFNaFB6Q3c3UUVCakJtNmZabVVHQ2lY?oc=5",
+      "source": "YouTube",
+      "publishedAt": "2026-11-11T09:00:03Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "20582954b8fce7c6a59f",
@@ -1262,61 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRGhqNVkzeTdhS3ZNdjdyblpXbzZCUlNOTFp3TnBvSVZjNHR1X2V5TzlCMVFCaDBNci1xQ2p0UEF6TWhqNW9qTXdCWFlsdlpfSFVhMUtLaHdSUmcwQkdFZU5sR3BuX0pTRkE?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-07T08:00:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "b8fd93c3e74c3cb60eea",
-      "title": "ブレンデッドウイスキー「響21年」がAmazonの抽選に当たればサントリーの希望小売価格と同じ“6万7100円” - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IWHJHY0tuY2RlSUZMeDJHbURvNnNzVnRqNWV5ckw2eFpuME1GRkI3M1FYTnU4anFaVi14cndMSkExMzhmQWxaalJYRTh1cGdkaTNZRkhxb3VfWWwzYWo2TU9UT0I3RE92M0E?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-11-07T07:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "258f467d9a4ce50a8af6",
-      "title": "卵型コンクリートで発酵するフランス産ウイスキー。メゾン・リネティが初の3本を発表 - https://www.barrel365.com/",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tZmJMcXpDa3RKS0p2a2dQYU5KVzdzcjlTUU5jY0pGMzA0bVk2QnpfdmlfQjByUGxSaENlYlYyOEVXQjFvTi0tZ1NSTQ?oc=5",
-      "source": "https://www.barrel365.com/",
-      "publishedAt": "2026-11-07T05:45:13Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "1e6482fe6dbc4b3b64f8",
-      "title": "Award-Winning Scotch Whiskies Under Rs 15000 Aged 18 Years: Chivas Regal, Johnnie Walker, Dewar, Glenlivet To Glenmorangie - Esquire India",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNN2tFV0hRbV94VjN2TFNJcVRnOFpxbFVZLUY1UVdCbHlQSm1OV2puakoya3dScFpWaG5MR0RMUlJEaHpzbVdHSllqUGI4dGlzZGxsLXdKZEQyb3RBZUFMNlZINWpzWlNCeUpXT2hoMFMyQjI5QS1RMHFmU1I5X0IwblBLbE0ybmhBSDJiN01wQjFUdGxxNzVHMzc4Z0lTZ25KSFhYVUFuUTByQTVBOFVDQ0Z6RlNrQkxSak5lNzB0a1ZTWjV5end4MEFWa0hMNUZhNjNoYkszaGhQVkFtTVJuckZHazFiallqSkxLSnRFQzZKY2pzYVd2Q1o1Mnd2WnE1bExxcXBvd0Z3NEIxX21PRWNnWGNyWE9WYnBial9sZU7SAa4CQVVfeXFMTTRmdVdyNXpPNlN4UFlPWTFELXBOb0NNbi1zaEJpR2NjTkhNX0VqRk5NeXlEQi03SU5yYzlSYmpRWlZtenlfVUZJOFdwMkk1dHItU3FXN0ZDdXdzU2FNbURTU2dJNWVyQnNac1lCeGdJeE9KajMwRDFfQzZ1SXVGNkdOVUFTRk56Q1VodWo1Z01IZkxoeUZLQlJ0YklJdUJRRW40NTUyd1dXdWxMRVJfSDlwdTB6cWcyc2NmSzhMZU95QTgwa0VzLWoyNC1iak4xSU5GeEd5TnVQT1JlVEZFTGxlcy10VlI1ZFRBb1RjVWhWbDQ3WThFM1JYZlhIQk0tZkpnRGI5MG9jVkZhVGJ4VGVoQWlqeWtpX0h5dTNhQ2h0czU5MlVidEJzaU5nQ2c?oc=5",
-      "source": "Esquire India",
-      "publishedAt": "2026-11-07T03:34:36Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8a2b232563b2d6239f80",
-      "title": "小諸蒸留所初のシングルモルトジャパニーズウイスキー「KOMORO ORIGIN」を全国のプリンスホテルで提供【提供期間】2026年11月7日(土)より順次 - ラブすぽ",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOc1lzWkhxc2pET3BJblotalE2cUx0MnpmelJQajhBOEtkM21abVdOaFZ5YUNjRGRWMHhZejZjR1EzR0NHZzhlcTJrdkRfNGlTVTQ5OEpIRnY0bktOaGVTSWdwN3RreXl1YWxRRThHZ0FzNWhaRjAycTNqUWlMUmlQMUxKd09pRXNvLVpLUjl1V004TkZYYXhSczVidkc0eG5FQzdhQ0JTWkl3LU1xMTV4WnBtOHBWTDJwWHp4RUtZOEh0Zm5CXzRjcmZjMW55QzlYZWNKWEp3VUJkdHNYb19TM3dVdkptSnNjazlCcHY2VjE3aFg4NUpXMFhIOGNXTTFIS0lXU3FtNmI1dWdIZFY3M1pOaERIcklOTThZZWZjZE5POVlYazlySDdoX2hvSVZocHlqM0Q0WlByaE80QnF6Qlk3bExXcmxmWVp5Zg?oc=5",
-      "source": "ラブすぽ",
-      "publishedAt": "2026-11-07T03:33:30Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "2fb8a3024dc97ffde8ca",
-      "title": "「タロット」モチーフの新ウイスキー誕生 三郎丸蒸留所が新シリーズ第1弾「ACE OF WANDS」発表（チューリップテレビ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVlAzemtRVVMxZ1VzX3U2aG9QWnNKVHhqY3Y3WGxteTNfUWE0aGFmN29HSy1LTzZxRXp2d3oxS2ZxbWVTdDAtY1RrTVA2cTFRTmQyVGZ4em9TLUFmVkNFSy1jUnc3V2dETjFKd3pIX1NvRTNGLWZNSml1c2VuTnM?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-07T03:18:17Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
