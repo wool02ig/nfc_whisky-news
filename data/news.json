@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:57:16.220598Z",
+  "updatedAt": "2026-11-12T21:54:13.493483Z",
   "count": 120,
   "articles": [
     {
@@ -66,6 +66,17 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "cb4025d5f5717b9640b9",
+      "title": "Fettercairn launches partnership with Matugga Rum for Distillers’ Secret No 2 whisky - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ05tRkx0SjhLUVZJWVJhTUhwZWszNVVMNV94a1NtYnVHbG40Wi1vNTl1ZGotMkpCSDNnOERLY3hwVVFqbUhjNG9HQS1BWlp1d2xraFlMbFhXakV6SDZaV1E3a2VoWngybUlxald4VzNkdG5YYVZUTE9qVHV6WDRlMzJWUU9qdjZBQWs3OGxKMnMtNFFZZHU3X2NXNUxxRWlaQWJSN21GX2d4Sy1QOGpORmFBdkRSYk9iNHZDa3VyUURZMU43VE9kVFNwYzRqejRhQUwxV0dUVjZaZ3FBRlpSekUxOHNDUnR4Y0E?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-12T15:36:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -700,7 +711,7 @@
       "title": "EXCLUSIVE: India holds Pernod, Diageo Scotch shipments as investigators seek higher tariff - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2dKQl9URVgwZzRNcjdPZWtXVDNPd1gyR2QxY3V2d294UWRqUm5CcnAxSm5hOXh6SjRyYzMzQ1ZCQXo3a1p3MW5Jck9NMEtabkRmMHpYU1lCeHp1cFNEOUlXRHItMnlOZnJleFdRbndsdkpQOXFleUJGQWVfWnlyMUtxak5TblhrLVUwQWktT2F1XzZuNjYxNHhhZENtcTlLcDFtRkNXR3luaU1CUldLUVNoRkhWZm1FT0xzSHZUQ2Q?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-11T06:43:09Z",
+      "publishedAt": "2026-11-11T06:38:00Z",
       "category": "limited",
       "language": "en",
       "region": "international",
@@ -1309,17 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a39a5dc79252e30bfdad",
-      "title": "Cheaper Scotch raises stakes for desi whisky - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEk1VWhIVGlpeVpRdUNPelpPbmIwSGN4eTdMeDF1V1ZDNWRyZlJncW1zNTEwZE85R2dCSHdOMkFqUkFkTGxCVWVVZFFjNENGYWt5RXRyczhYRXcyOGk3NG1NdXVodmplakVXbk1sX3luTGlWYXBnc1dWc0JubTExcnhWMlhSbnBWSmhPRmJ0T2pkWTdGLUNQZmxUaUFxUWdpZklWMzg2QlJXbkVNeEZNSUFsTElDbGdwV2V4YnEyUkNORVgwc2RKd2JB0gHPAUFVX3lxTE5IVklILUxVazBuRTgxNFpCSUwxdk9LZW85b3ltamdkUHdTTmhYZUxuajlCTUswMGRPdTBQcjRial9CUDA3azRvaUszeHZiZFpOQWI4b0tqN1M5UTJ0ZEwtTWg4TXk2T0tWZHlMdTFvZElLWkV3Y0QyQWZWZkczNl9kZEpDOWt2UDdDQzYyLTNxbnBQQzgtWVk4dFhPXzlQS0lHWHR3am1FaUUzV0NoQnlNWnRyb1FWcjdNelYyNUx4Y1BoeHpxVkxDZmw0X1cwVQ?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-09T01:09:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
