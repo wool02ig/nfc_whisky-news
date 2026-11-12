@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-12T09:09:15.746494Z",
+  "updatedAt": "2026-11-12T10:11:23.649971Z",
   "count": 120,
   "articles": [
+    {
+      "id": "1f081b8e33a779b62e82",
+      "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDhPTHMwWEFDVDFLVE56Sjh4aTN4dERCb1ZpMHRxdld5REFyWjEwaFJLaS0wM2lMbDN4T0V2ZmdlNnF0MGRnMGxKajAwTnZNa0tWdEVHWjkxd0NDMk5rTlNHNGJUZW1WNUtOSVYxZFVBWTZaa01OTXdGdHNJdHFZalUway02SXBmbng1VFZJZXZfd9IBlwFBVV95cUxNajB0anpPd2NuNEdJZ1BpS3NmMGlXcEdqQzZwRGRPWmtDb09oRWVxUm9iR2NwaEJGMVpuUTF0cVBscjRGZW9sbVFIaThIUDdNMC1ISGlMcERmLTFhZzlzTjN6dlNFQ1Z6TmVZZkxRZUFKQ2JLWVRQb094QUt1cHVJa1pxb3NKNFFhVWdCWGxHUy1BUGJqUmhv?oc=5",
+      "source": "えん食べ [グルメニュース]",
+      "publishedAt": "2026-11-12T09:45:00Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ed55c2047020f9b54a78",
+      "title": "Ten Thousand Years in Your Glass: The Secret Life of the Peat Bog - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03WDhKMndYNHloSVRfeXNIeG1RblhvZWZ4WGxuZjNELTZncU9HWXhNSVBVRTJ3ZTFkamRsdktoNVNMYkVzYWIwcmluVEI?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-12T09:18:28Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "22b0f9e8eef9f9290dc8",
+      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の新作ウイスキーが日本初上陸 世界初の北極産大麦100％、292本限定をCAMPFIREで11/13先行販売 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlWVBTejAyanNNSUtzVkRRYVlXQ2VhWnNReXdVRFIyTG1IQTBGaU1takpKX0VfOXg3MXJFaDVWMnJsSm9ZajVqajA3N2lTRVNUNUlzTF9FQ3lqR3FzLWR3?oc=5",
+      "source": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-11-12T09:01:06Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "784313cd977a77358ed6",
+      "title": "Scotch Whisky Duty Dispute: India-UK FTA Tariff Talks Held - Kalinga TV",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMEJlLTVIY1dkb0JRT04ya0N1dDdfc2ZTVmNXbDd2dVZ6RlA5dGtCeUFpdXhMdEdaZlpyYUVtSElBUXk5ZDEtb3RnWjcta2NFSl9SZlBFdWxQdTBZZDIyVVJFdXpEWk93eU54WmFSdDF2V0IxVGVaaGw3SkZMVHFMa285ZmxWNy0wSWdlZXJ6SVRyTHM?oc=5",
+      "source": "Kalinga TV",
+      "publishedAt": "2026-11-12T08:59:43Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "1748ba6349d4fc057d6c",
       "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100 - ニコニコニュース",
@@ -77,6 +121,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "8b063cc079a505865513",
+      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - Walker Plus",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
+      "source": "Walker Plus",
+      "publishedAt": "2026-11-12T01:30:37Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -861,10 +916,10 @@
       "imageChecked": true
     },
     {
-      "id": "33c3df95fbcfe0114975",
-      "title": "Between You And I: Highland Park Unveils Its New 17-Year-Old Single Malt Scotch Whisky - lifestyleasia-onemega.com",
+      "id": "b77cd8358ec89515f6fe",
+      "title": "Between You And I: Highland Park Unveils Its New 17-Year-Old Single Malt Scotch Whisky - Lifestyle Asia",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV19wTFVlYjFrWWxUaWNKUVZlLWlNZlJHbTJwc0hXbERyWVRUbXpTOXdNQWpVZ0N3RUV6WVdULUJHOGhDbkhuZWQxQnYzLU9hYVFwMGZwX2IxUWY3dUh2NlFIZmh2ajNGVmtGdWVndThuSXg0MlZlb1N5eFBsT0d2SEpzMkZxaWRRaVVSNDI3UlNtbVRyajVScG14TlRkQQ?oc=5",
-      "source": "lifestyleasia-onemega.com",
+      "source": "Lifestyle Asia",
       "publishedAt": "2026-11-09T08:00:00Z",
       "category": "new",
       "language": "en",
@@ -872,11 +927,11 @@
       "imageChecked": true
     },
     {
-      "id": "b77cd8358ec89515f6fe",
-      "title": "Between You And I: Highland Park Unveils Its New 17-Year-Old Single Malt Scotch Whisky - Lifestyle Asia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVBvVWgxZ3RpYnNLc0pjUGVWVjdPV09nYlVubnJZRXZfdHo0U3lISEd3ZkdpYXBybmVYeXRYcVFQcTB3QktVd09HVlViMEVXRVpFaTRSYllDTGUwcjl0cndYU3hCcXBBOURDWGNBdnJGWVFobjl3OUhCbldxanEwT29jU0NIaGpxUDE4Q3dTNnE?oc=5",
-      "source": "Lifestyle Asia",
-      "publishedAt": "2026-11-09T07:56:27Z",
+      "id": "33c3df95fbcfe0114975",
+      "title": "Between You And I: Highland Park Unveils Its New 17-Year-Old Single Malt Scotch Whisky - lifestyleasia-onemega.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV19wTFVlYjFrWWxUaWNKUVZlLWlNZlJHbTJwc0hXbERyWVRUbXpTOXdNQWpVZ0N3RUV6WVdULUJHOGhDbkhuZWQxQnYzLU9hYVFwMGZwX2IxUWY3dUh2NlFIZmh2ajNGVmtGdWVndThuSXg0MlZlb1N5eFBsT0d2SEpzMkZxaWRRaVVSNDI3UlNtbVRyajVScG14TlRkQQ?oc=5",
+      "source": "lifestyleasia-onemega.com",
+      "publishedAt": "2026-11-09T08:00:00Z",
       "category": "new",
       "language": "en",
       "region": "international",
@@ -1266,61 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/forget-scotch-whisky-for-a-moment-islay-has-a-rum-story-to-tell-500x256.webp"
-    },
-    {
-      "id": "c1276e4ef62ff20ca30a",
-      "title": "Capcom Announces ‘Resident Evil’ 30th Anniversary Single Cask Scotch Whisky Collection - THE MAGIC RAIN",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczBxREhEejlTMU5vcWJSSGI3UXc1ZG54SmtfRHJ1bjJJaURrcHNINE9xdUp2Z3pFaEV1ZFpEbnpaQk1VNVhHY3h1YkZhTmMtLTltRFducVdnanQwUFkyT0lRVndtUVZwdUdOWld6alpMTGhGTWpiLXhSMFpueklrUmhFRW5GNUVpRWQyWHp1c1h0Y3p0bEwycUJKUy04M1hnWk5oekNiN0l3ZS13Vi1FT3pxVkdkdENPSUE?oc=5",
-      "source": "THE MAGIC RAIN",
-      "publishedAt": "2026-11-06T15:24:29Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c84a20abe8e0494715bd",
-      "title": "野沢温泉蒸留所、初のシングルモルトウイスキーの一般発売を延期へ - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE16RnJibk9hSF81TmtCSXNGSlJrOU4zZDNZY2J4SzFSb2tYMWFtQXlqYzUycUROTjNZbUFmRnYtRURBNjFrYmIw?oc=5",
-      "source": "Dellows News",
-      "publishedAt": "2026-11-06T15:15:10Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "989c93e3a415211a5acc",
-      "title": "Scattered Castles Limited Release Straight Bourbon Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-scattered-castles-limited-release-straight-bourbon-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-06T15:00:57Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/scattered-castles-limited-release-straight-bourbon-review-500x256.webp"
-    },
-    {
-      "id": "44aff2e529f24e94c18b",
-      "title": "The 3 Whiskey Cocktails That Everyone Should Know How to Make, According to Our Distillers of the Year - Food & Wine",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZXZaNlFiOXFGWTc4U1NIMm9oZk1fNUI5WW9zR0FjN3plRkZCZW12cktZdm5rQ1ZpcTF5dlEtMkJlajFJQzl3NlZ3ZG5BbGhMeXB4emJKb196emNweW5WQXhycUd5d2pNQU9UZkRkOTNwVzNPS2NmYndlanpOWk5yaUFPWHFMLUpGWUYzaHRyYld5bUhFeEtWT2pBXzNGamRfcDhRSzlfdThpbFdKY1pma2ZMQVh3MGtDMzNQMHY5eWpKRy1iZDVpajlNXzhuX0hGTTZUdQ?oc=5",
-      "source": "Food & Wine",
-      "publishedAt": "2026-11-06T15:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "db44e681b68e9e3625cb",
-      "title": "WhistlePig launches new maple syrup barrel finished Rye whiskey - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEZzVU5sUTE2RHRPemRYT3I3UW1QSllXdVBYSUxrNHVZWmpsY1ZPenRKQnEwU3NFOFhIXzEydjZpQmFYemY5QjI3U0xNZUxzbmw5QlQ2S2dqQ1ZDQlRQNlJsbkRVZzhHUHhZWGkzbUxwcGRvVmhOVFZDaUZaeTZ6SHcxaEJhWHBvSG1ISzVoQWtGazNES0YtXzdGZHQxNXVUVmNn?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-06T14:55:44Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
