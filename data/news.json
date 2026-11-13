@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:53:57.261941Z",
+  "updatedAt": "2026-11-13T22:51:49.595536Z",
   "count": 120,
   "articles": [
     {
@@ -927,6 +927,17 @@
       "imageChecked": true
     },
     {
+      "id": "59617723b98cdd211994",
+      "title": "Still Drinking $25 Whisky? These 5 Bottles Are Actually Worth Spending $50 On - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmQyWTBkT2d0aTVQTWtKM25CSVFRMk5qT0hZWTJzYm16MGZfekQtT19KMzNDRXFaVjVydVlPVTdzRm5abkFwS21TZS1vX0dlRXZZaWN0RXNZRmdLekFUTGZtUTUxaUtFMWVRZVBrcUd2UXo1a1hZSXh6b0lVX0JsZFNsVjBnb0x5RmIzb2oxTVlPMXpYd2ozVHM1OTB5aEhUNjlQY0VmbHBSMEtnWUtRM1NqS3JOdU5nTHlN?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-11T13:07:18Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/still-drinking-25-whisky-these-5-bottles-are-actually-worth-spending-50-on-500x256.webp"
+    },
+    {
       "id": "5260a1d3eca1091b1c30",
       "title": "Fettercairn launches its latest Distillers’ Secret release - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHlUelhJMEViVWVFeDVTVDM3WnRZc2Y4bXJmdVZGUTE5SGt6TVBiZDduaHVJZlZQRkk1QTdWZjdjcmNvcTZaVUVmeHdyYXg3UU9hREJiX21ySnJJYVcxbkNSUGRlSVhrcU9FRnBPRS1xaU5yMjlkVWM2eTJ5S1pTNlZka1BlLXl0aVIxNW5ldElSZkV5bmlzTTFHdw?oc=5",
@@ -947,17 +958,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "59617723b98cdd211994",
-      "title": "Still Drinking $25 Whisky? These 5 Bottles Are Actually Worth Spending $50 On",
-      "url": "https://thewhiskeywash.com/whiskey-articles/still-drinking-25-whisky-these-5-bottles-are-actually-worth-spending-50-on/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-11T12:30:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/still-drinking-25-whisky-these-5-bottles-are-actually-worth-spending-50-on-500x256.webp"
     },
     {
       "id": "8db9bc906c4c784453d5",
@@ -1148,10 +1148,10 @@
     },
     {
       "id": "a0f9a497a1ee6f064a82",
-      "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Jd25IODB0RDJxMHVROEItRUdrNmFWNk9FNU9oZUk1d0hHTmtQSDlfYTZxWHN5am9oRC1SNFVkT0NfWWJZeld1VnZ5eTI2N1V1dFlvaGlRWFc4TlNtb1dVYkdKeTYxUUxaMC1LWFp1QllScVNjcC12aEpn?oc=5",
-      "source": "イザ！",
-      "publishedAt": "2026-11-11T06:00:00Z",
+      "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NR0ZjNzZNa2d6R3dwbUp3T19lTVZQS19zVlMta0lNYnA5a3c4VHV4S3NHZXJqX0FDc0NfYUNFRUdfYWQtbHVETkxGWmpuV0tmMFRQV2lXSHdKd21wZTZYZ0ZPeXM2RWpDWFE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-11T06:00:02Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
