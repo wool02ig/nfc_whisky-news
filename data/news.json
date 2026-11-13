@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T22:51:49.595536Z",
+  "updatedAt": "2026-11-13T23:47:20.181534Z",
   "count": 120,
   "articles": [
+    {
+      "id": "a992bc807fe1815ea065",
+      "title": "「未」発売 町内で限定抽選販売 厚岸ウイスキー、きょうから応募受け付け【厚岸町】 - 釧路新聞電子版",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxNE5PMnZKMVlpeUd1UmQyMVFIVG5IWlR6SG03cW9OMjhMTEY5by1rMFYzSm51LWc5MURBdE0yYWFJaUhhMXBZRUF6WjkyZm9nSlc0?oc=5",
+      "source": "釧路新聞電子版",
+      "publishedAt": "2026-11-13T19:03:57Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "dcb07f9e42f685250c62",
       "title": "News Notes: New Johnnie Walker Film, 2Bar To Stay Open During Bankruptcy & More - Whisky Advocate",
@@ -1307,17 +1318,6 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-10T13:05:18Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a9ca32c24e5665858ada",
-      "title": "Finalists Revealed for the 8th Annual Scottish Whisky Awards - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3VTNUpSTUwzQk10ek1odHU0Nm41Y25nOE9rMXUxZnkzQTV4TWowQ3A0TEJKbTBhTGNNdjVSc0RHV0lUSmwwR3B0dW5LQkZIX0hNS1N1WHd3Tkl2Wm4wQlpCZ2JVb2pITHdSbDRNWjFKVDdaVlFWR3owbmQ3c1NBT2dsNVRfNnd0TkFWRE9Oc0FIeXV4cHFoeFhzZlk5NDA?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-10T12:27:11Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
