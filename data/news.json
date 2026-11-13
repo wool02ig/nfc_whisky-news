@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T19:01:35.132312Z",
+  "updatedAt": "2026-11-13T20:00:07.066973Z",
   "count": 120,
   "articles": [
+    {
+      "id": "dcb07f9e42f685250c62",
+      "title": "News Notes: New Johnnie Walker Film, 2Bar To Stay Open During Bankruptcy & More - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVDRiVS15cC1uNEJHdDhvbE1TTTZXU3dMTVU5MGdWX1FLZllkdm04ellEMFBocE1YRVNTTHdmdTdQQV85bi1uNG05VEZLTzlhcXRrZGNIdEt4Qm9OWkZFc3VhNEkxV3c5bXN3QzNteU5YQkdISkU1V1RndWJtV2ozeFgwc0NGckk?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-13T16:56:26Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "9062ae1c9ca551943076",
       "title": "The Glasgow Distillery Unveils 1770 Tequila Cask 10 Year Old & Local Merch - The Whiskey Wash",
@@ -77,6 +88,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "f9439511830ff9676e59",
+      "title": "This Scotch whisky has a golden name and a tasty secret (Whisky in the Spotlight) - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObU15SURPZEg4REFYVzA3NC01ako5NEhUNWNCaFptZjVMUHFjX0huVHBmVG9kQmk0S1dyWWNTZW0yMUlyQjEwbFhzR2FRRWVwM2pURFpBeEtndlZiZHZPUlNJZDUtMFVBVUV1Q19jUkFWVjJxTlBnWjZxQ1d3a1lwRWo4M0FTV2RoM0lKbUs5WGhjcW9ONjV5X2Y4bXpzcEFveFpPYnRUeTZLUXJfX002LXhEaDdzTGRVa2pmTFZPUQ?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-11-13T14:38:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1268,6 +1290,17 @@
       "imageChecked": true
     },
     {
+      "id": "08076e4d35532ef1dd84",
+      "title": "Tamdhu: The scotch whisky taking on Macallan - City AM",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XUnBzdUpKTjZyRzlhd1BDUlN3VFkwMndzVXlfUnhkQ0V4VkNZdmMzZ0dDbGxLazAzLUxRSFV2bXNjWkV5Q3lyLVRTMk03Y19ES0NxcWoyZ3c4VFFjRFZvM0lUdlcyMFFXZmlPR2oxdDdvdVM4eUE?oc=5",
+      "source": "City AM",
+      "publishedAt": "2026-11-10T13:37:10Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "ee98f3659ad3182b3291",
       "title": "Paul John Whisky unveils its 2026 Christmas Edition - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0V3RXhjY2dabTZLbFo0Q3Q2dFZIRGd0eHhMMlFvaDBUWHdxUV9sTTUzdnFmMVBwMVYybC1IOF9va2NTaDNTM2E1NU1oOG04aUdBTG1wcUw3dWFCZkN6YjF5aHNGUko4amJXWE9GbGRsUVE0cXBwb3BKeV9rQ2QwbWZtNEVwOXVmTTZQSW03b1dIY3c?oc=5",
@@ -1287,39 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "2d55d953a4922f697c32",
-      "title": "ラム樽でウイスキー、ウイスキー樽でラム酒を熟成 大分と鹿児島が連携し新商品開発へ - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05OXBTVGU5NHIwVUZqUUhVVXBNTFhRU3dIcWVKbnFXUDh1NG5GcW5kX2IxZGkxUno5X1JUNDB2MjJPZVpURllKNzM3bk9qT0tseDlKUW5XdWYtQQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "publishedAt": "2026-11-10T10:10:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "d10754e7f177be90bc52",
-      "title": "Scotch drinks brand toasts new deal with Sainsbury’s in Edinburgh - Edinburgh News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEFXN0dBSTRNWFA2THRFOTdRSkFnRkhHcjZiTnJuR2hJM2pNMVZRWTY2ZGJIal83c3lObHBiRElPazFnVVVpZHlYbVhXMmExMlVhaGJjUGU4UWRrbHYxcmx3Ym9oTkh6TC1XLXh1ZEJ1V1AzWjRnQ3ZieDNWbHVudXRhRnk1UnRaYTRkZk1yMmp5UVllTVlzUjQtTDY4Vk1rcTJZWmM3Mm9DUnE1UTFYNXhxNkxqZl9Bc1hTbUV4cw?oc=5",
-      "source": "Edinburgh News",
-      "publishedAt": "2026-11-10T10:08:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a7b7192429907f75c02b",
-      "title": "ウイスキー製造する大分の蒸留所 鹿児島の卸売り業者とコラボ 「あるもの」で原酒寝かせ新商品開発（TOSテレビ大分） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rSm9TbDRtM0pvSlpxSG9zYWRMMGQ4czUwY3dGZGtiT3k3R2s0R1ZxMnM3YV9tNmZpUGRLbmUzXzc2aGlwckpLN3F6X1UzdXQwdUNJVXR5YUZwMG9qY0MtNkFOaVhMeWpTNE5XcmJ3ZEQwazFVN25XZlNXYWFBRFE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-10T09:58:01Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
