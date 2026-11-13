@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-13T01:18:14.359505Z",
+  "updatedAt": "2026-11-13T02:55:10.473435Z",
   "count": 120,
   "articles": [
+    {
+      "id": "5ecb25d130eb4e7f8e32",
+      "title": "イトーヨーカドー、ウイスキー「山崎 2025」「白州 2025」「響 BLENDER'S CHOICE」を抽選販売（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPMEpCNEdoMUVqeW9iRmNZc1JIWkJiZUxlWHk1akFPM3lqU0lkTElVcENKYUEtVHNoMnNBNmlaMU9MelE3aS1wU3lkNFNwblc0ckQ5bkxDUTNLTVlBak56aWhmTTdkTE5Nc3QyUU5YUkhJNEZld25XMHd6dTkxVTQ?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-13T02:07:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "7ee27cff30e1becec095",
+      "title": "ライ麦のウイスキー市場規模レポート2026：1602百万米ドル到達予測、年平均成長率6.8%で拡大 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03Q24xWm4yLWpyY2VvUWVyVElWa0hmalNRejVJNlRlaUZmSTdkMXNlS19TMXdBV1lBM2E1MTlzbXpXSUUtZllvTkcwSUJUSHc?oc=5",
+      "source": "Newscast.jp",
+      "publishedAt": "2026-11-13T00:07:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "f4d21ef104340a24479c",
       "title": "The End of the Road for Hedonism - Whisky Advocate",
@@ -1296,28 +1318,6 @@
       "source": "ガジェット通信",
       "publishedAt": "2026-11-09T07:30:07Z",
       "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "464c993239649c101870",
-      "title": "ウイスキー蒸留所で新しい熟成施設オープン 大阪 岸和田 - NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6alotVEtwX2IwMXgzSjI4ZDVFZHBQeHdaazY1WGhSVzdraVZnYVAyVDlCTldfQlRkTlRNUmxwc1JKSHVyWi1QTkd5ZGRsMzFRS1lYdVNZc0xDMk40NEhB?oc=5",
-      "source": "NHKニュース",
-      "publishedAt": "2026-11-09T03:11:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "22df91b60ba087157922",
-      "title": "ウイスキーフェスティバル2026 in 東京が閉幕 台湾「カバラン」会長ら登壇、 限定記念ボトルも登場 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZWFtRVBMNGl5cjdxUXJEMWNJTU1wQ2pLZS1OdF9YMGNQa1cyTFZZbnNFRTBEdmtfTi1GamtKVGlKUGZETG85VDVCcU96azZK?oc=5",
-      "source": "風傳媒",
-      "publishedAt": "2026-11-09T03:03:00Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
