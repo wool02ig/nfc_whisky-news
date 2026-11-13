@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T06:08:00.661628Z",
+  "updatedAt": "2026-11-13T07:25:40.407869Z",
   "count": 120,
   "articles": [
+    {
+      "id": "a907ffc75260391b7d9f",
+      "title": "Bulk Scotch whisky imports held up at Indian ports: Commerce, Finance ministries meet to resolve dispute over duties - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQN2tUUWRYcEpEN2pDRHEteERaT2dKQVZiaFVVM0dTY2lScVB3eUk0V1ZhWmFfenNHbHVhVGU4WXRVNTFaamNqLXNnczhSWmh6WGpnZzNlcWpFWVR2Wm82aWxNdUNuN0FsSElmaGNCaWNSNlNDRmRNcGMzVXlNUlFxYjVuOFV6WWV4QTRkRV9LYy10TlZlR3liVG5SMHk5NnlkVzYwbXFpS3N5Um1zZjBUOWtyR0ZLT3RxdUJESkVObmRPeEtjSWU1OC1FYmtJOFY1c1k4NjNZNUp6eko5MXp0aldFdEZuTzBUTWgtOEVVTTZ3RTB6MV80YmtiaFBDNknSAYQCQVVfeXFMTmljR3JrYzcxdFFpYTE4V2g4cGNZczN5X2xJSThZUnFBdTBkZnNJNlpTS3NQV2pKQmtnTDFrRFRPVGN2bWNtQUhEdHlBaG4ta2ZISlEzLVJQNGNwNkxoYV9zanlHSkNwZ2ZyLWhBNUt2dnB6a1ZBQWZZSGNuR0kxZGREdXJBajhvYWNpd0RlalBNX09QbDRhRXYzbjF3dmtYdWVaTDEyYzQya3I0dTY4N2JTNGpvRm1ZbnRvcW54dWVjMUwzd3psbGVGdzIwaWlxa3M3MjZKZTkwRHc0VEVGd3Boc0EwMXFCUkxKcTloZHA2UTZ6MkYwc0FTcG1DelNjTWNEVGE?oc=5",
+      "source": "Livemint",
+      "publishedAt": "2026-11-13T06:42:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "015427881a59b4ba619f",
       "title": "【Amazon.co.jp限定】白州18年に挑む。ウイスキーみくじ第15弾 ４６６口限定 10月5日販売開始 - PR TIMES",
@@ -44,6 +55,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "aa3586eb90f48b9e0834",
+      "title": "Hedonism - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBySUFSZ2s4NVJmYUlSVGhVT1hBWVFPTHpaLXo5VExkbV9aak11aGhSaDVWLXcwbmIxbmxGcnk2cmVob3ItWWxBQnFVdzk5QjRZ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-12T22:38:51Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -1298,28 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "66a768860123d860df43",
-      "title": "The London Distillery Company serves up new English whisky collection - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1ZoV0MtaUQ4ZkFCSV9SbmhLSTYtWVN3Uk1IX3NTV2IxTFJPa3loaExGTFpjMF9VVFZVNmtWQ0hOMGVsYTJ1eXN1LXZRS2RKNmlGMEU3QjFmQWM4T2dmcmxiNXdVRGJPeGNLeFdUMUlVUHE3MkVIUnJVdUtfQ1c5RzJtRWFrdlRpVHdnMlU5YmxyTlZwdlVxQ3lfampNUE02Vl9CNXB4elotYW8?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-09T09:01:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "237236b2abca8a88019d",
-      "title": "廃校の小学校がウイスキー蒸留所に！北海道・当別町で伝統の木造校舎を未来へ繋ぐ職人の挑戦 - HTB 北海道テレビ",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yV3B4M2o0aG1IUWFKcVYycUtsZS1OU1FfSGZXaVZrQm9oNzE2MlF4ZzhhZm1icVp5WF8wM3pUYnAwVm8tc3k4dWdfRzBTT2ZjY01RNmFKb1I5UQ?oc=5",
-      "source": "HTB 北海道テレビ",
-      "publishedAt": "2026-11-09T08:47:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
