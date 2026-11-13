@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T17:57:03.890548Z",
+  "updatedAt": "2026-11-13T19:01:35.132312Z",
   "count": 120,
   "articles": [
     {
@@ -9,6 +9,17 @@
       "source": "The Whiskey Wash",
       "publishedAt": "2026-11-13T16:56:22Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c0980df718d1d316aee6",
+      "title": "Whisky Watch: Aberlour 14 and 21 Year Old, Blue Note 17, Garryana & More - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVThiMXFjaG8xWXUyTU44bWR5MDRFMHNzeDQyN1FIbW1xcWwzc25FWXdxaFVWRFJIQzVXMG1xS21uc0ZZeGZBSFRkLV8xNnY3N2ZuT0NLYlV0NkJJVEZfT2RVcXd2N0tPZE80bXFYVUtCTk0zOERINEp0cGx4OGdZNkJfaUNBbG5DdG1QOXlCU3o?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-13T16:49:47Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -174,6 +185,17 @@
       "source": "The Scotsman",
       "publishedAt": "2026-11-13T11:49:00Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "f9ff6797e7edf563b93c",
+      "title": "Teacher’s Launches 12, 15 and 18-Year-Old Highland Single Malt Scotch Whiskies in India - Aabkari Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDljT1RuTXJnX2oxQTRkNTBBNE5lNThiSEFsRHhqTC15Tzl3OGpaSF9Bd1Y3cFowOExuTjZUOXA1dTFSc3l5aDBDcnVPbExNbTRrM0JRa3IzNEJjM1dIMVMyNk5TTXVLTVk5VFJSQVRaZHdhUGVUaEpnWDh6VnZuY0gtQ3BkYkVkaEZnTnJCeWt1djRhbHR6NkZ6WXFqN3JaOFc0?oc=5",
+      "source": "Aabkari Times",
+      "publishedAt": "2026-11-13T11:40:04Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -630,6 +652,17 @@
       "imageChecked": true
     },
     {
+      "id": "cb3b542bfeef2e980e68",
+      "title": "Whisky Journey returns with more delicious drams - Lifestyle Asia Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU256YUVvR2pXWjdsSE92Ry1SVUNTR3lwLWJxdldpRXI3djdhQ0Q4SmpFMGlYSFEzUkJZZktPOXVWSFZqbVVZZFpBYVNpdEstNWdtaFV0RVlxQ2NHMmgwNXBYWEtlZEZJMjdXbk1hSE9YOXk1NmJfSnp4dFRxX3dHb0l4Wk1UVUJnd3gyckVVWVpGUTl2OWc?oc=5",
+      "source": "Lifestyle Asia Hong Kong",
+      "publishedAt": "2026-11-12T10:23:39Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "7b006653099104b3b352",
       "title": "More than a dram: the Hebridean island rethinking whisky cask ownership - The Spectator",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczNtZDduZU9xTHFuNU9vU1FDMUxCTHFYZG9tYkNhbjh1QTVaY1VIVTQ0ODFSd25DQmtYVk9Cc0J0bGx1b25sNkdyZjhzd2M5RWxmUlUyT3BZTGNGdXZJWWR6ZlFxYjFxUkhDdjhwTVpGcm9lbEFYYW5UMHEzTkhvWXpNQllOSHRkbkRPbE9PNnBSbVc2WGk2Xy05cXVqZnh6QWZmcGRISk1KeVk3bWgxeEhR?oc=5",
@@ -713,6 +746,17 @@
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-12T07:52:28Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "bad7cbd7cc45508c96cc",
+      "title": "The Macallan’s Diane Stuart on the art of making whisky - Lifestyle Asia Hong Kong",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV203STM1b2M5Z24xMmhCdDBLeHRZUW5IZ3lsaUJlSlZpanQzQllZYnVzdVVhc19RbUhGX1ZsbV9tZlF2WmlFQXAya2JXUmdmQTZ2b1FzWGxocjhxaDEwcTVFd2pQMFpjcHZ5eXg1M1pTVG1TdlNwTGQzTElhNk1XUDZ1aUM1OWpfWWdQMjRPSEFQR3Y3TVpvVXVqUQ?oc=5",
+      "source": "Lifestyle Asia Hong Kong",
+      "publishedAt": "2026-11-12T05:34:26Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1224,17 +1268,6 @@
       "imageChecked": true
     },
     {
-      "id": "08076e4d35532ef1dd84",
-      "title": "Tamdhu: The scotch whisky taking on Macallan - City AM",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XUnBzdUpKTjZyRzlhd1BDUlN3VFkwMndzVXlfUnhkQ0V4VkNZdmMzZ0dDbGxLazAzLUxRSFV2bXNjWkV5Q3lyLVRTMk03Y19ES0NxcWoyZ3c4VFFjRFZvM0lUdlcyMFFXZmlPR2oxdDdvdVM4eUE?oc=5",
-      "source": "City AM",
-      "publishedAt": "2026-11-10T13:37:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "ee98f3659ad3182b3291",
       "title": "Paul John Whisky unveils its 2026 Christmas Edition - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0V3RXhjY2dabTZLbFo0Q3Q2dFZIRGd0eHhMMlFvaDBUWHdxUV9sTTUzdnFmMVBwMVYybC1IOF9va2NTaDNTM2E1NU1oOG04aUdBTG1wcUw3dWFCZkN6YjF5aHNGUko4amJXWE9GbGRsUVE0cXBwb3BKeV9rQ2QwbWZtNEVwOXVmTTZQSW03b1dIY3c?oc=5",
@@ -1287,39 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "81d926e998af102ed045",
-      "title": "The Best Whiskies Of 2026, According To The San Francisco World Spirits Competition - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjRuRE03NjRjempQQ09sTkN3VFowb196VG9RS3BBejNfMEJ1T0NwVHNGb3paZS1hNklIcTZDNGFIUHpSUE8yRm1LQTJzUXByMTRxLTViZG1McV8wRmk0Mk05dUh1RUswV2dIMG1RWmxjd0NhWl9YcTJ1QU9xclhfVGhaaFZvaXQ4U1E2WFlyM0c3R1h5NmQwSUNkQTFHcGVRQTJxV1ZKUHk0SXE2Y1pnNWpaMEhXbmpacThHTVRlWEZZcW9tVkE?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-10T09:56:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b73e8702b94488cd30e4",
-      "title": "THE LONDON DISTILLERY COMPANY SERVES UP A NEW PERSPECTIVE ON ENGLISH WHISKY WITH THE LAUNCH OF THE FULL ENGLISH - Bar Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjJadzNpaTJYVEZ3LWtHOTZ2aVp3Y3NJVU9tWHNTQUpwb1c3SlZyU293czNtYm1ROTlBS0tCTFBJc2pNZkF0a2cya2FQRWFuQVhvWEZuajFmZnY1dTNhYVBqckc3djJ4Rll6UkZKclhreGdwVGNpd1lhazBZdnMzdTlnRmwxekpaNFJkaGl3d1FXd3RVWVE1NmdnaHI2dFVLZERzTTFUWVRTSFV4Zkx6MHJidG1wSFFXQ29vcjlOTVktWXUyUlN2MkNPSV9aemNzUjI1aA?oc=5",
-      "source": "Bar Magazine",
-      "publishedAt": "2026-11-10T09:45:10Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "879ee870dedaa1700db5",
-      "title": "India’s Bulk Scotch Whisky Imports from Britain Surge Nearly 1,000% After India-UK Trade Deal - Aabkari Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTQ2M1l2bEd3VVg5dzE0QXNlQjFjSFR0MUhERVo4UHZMYVJxWlBGcVJXeG5QWDVCNl9DRFBySFpaSENQeU5wMFhYX2pNa3JyTk5hY1NxZEZ2YjFGUkRoVFhPSXVKSHNzQmxoY1d6T3ZsRWlWR2plNHhzUGh1OFZBUnlpblIxcDNCSW53NHQ1cnhPTFRlLV9FYmpnVjg3VkRoSGZqYk9rZw?oc=5",
-      "source": "Aabkari Times",
-      "publishedAt": "2026-11-10T08:06:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
