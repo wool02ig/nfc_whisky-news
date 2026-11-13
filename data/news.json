@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-13T11:08:05.790738Z",
+  "updatedAt": "2026-11-13T12:02:25.510733Z",
   "count": 120,
   "articles": [
+    {
+      "id": "1f081b8e33a779b62e82",
+      "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDhPTHMwWEFDVDFLVE56Sjh4aTN4dERCb1ZpMHRxdld5REFyWjEwaFJLaS0wM2lMbDN4T0V2ZmdlNnF0MGRnMGxKajAwTnZNa0tWdEVHWjkxd0NDMk5rTlNHNGJUZW1WNUtOSVYxZFVBWTZaa01OTXdGdHNJdHFZalUway02SXBmbng1VFZJZXZfd9IBlwFBVV95cUxNajB0anpPd2NuNEdJZ1BpS3NmMGlXcEdqQzZwRGRPWmtDb09oRWVxUm9iR2NwaEJGMVpuUTF0cVBscjRGZW9sbVFIaThIUDdNMC1ISGlMcERmLTFhZzlzTjN6dlNFQ1Z6TmVZZkxRZUFKQ2JLWVRQb094QUt1cHVJa1pxb3NKNFFhVWdCWGxHUy1BUGJqUmhv?oc=5",
+      "source": "えん食べ [グルメニュース]",
+      "publishedAt": "2026-11-13T11:07:45Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "9a5c6bcfed0e28b13e66",
       "title": "Government Hopes to Resolve Scotch Whisky Import Issue Very Shortly - Asianet Newsable",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnotOWFOYVFvWGF5SWhQVHBtNDRpcUxSdlV1TDVRQ0lvWWRoQTF5TW1lSld5aTI1Tk5wOTF1T2E5OE91MWJPOHd2VldkeWdVX1p3d0tuYVpzdVppcHlRUlp5TVlDZ2ROck0xTUpfc2RRaUYyQWZxYTRNVndSSlRlTlczVEwxMDB2MUYzN2lkNGdobWhFb09WaTdxZnRQRE9zYUpnNGotYVR2c3FCODM0SWhMdmJUUGhoMWxjSE9WR0tmMm9ZZ3hUOdIBzgFBVV95cUxPNTNqQ1dheWNScWtCaGQ4bzl2VXY3Ym5ieFN3NEJMYVJ4OG9IQ000YVl3ZXVlUzJvZDA5amltc1hMM2prUW44dDJKZU4wSUdtMno4SmFNd2x6VUVST3ZvcDR6cUdkY1JPMnBBUHpRWmFFZUJRTDlyYzhlNkw0TlY3TEFTSTE5OXJHSEdEU0ViR1FQVXh3eVFnM3REb09KY3ZFX0xyYlhKamQ4RUVSaUdYV09hbG5oaElLWm1zSFNnT084TGt0MV91NTNQSm1BZw?oc=5",
       "source": "Asianet Newsable",
       "publishedAt": "2026-11-13T11:00:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "544ab8280251660ee513",
-      "title": "Scotch whisky import dispute likely to be resolved 'very soon': Commerce Secretary Rajesh Agrawal - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbEhsOUFWMDhSVEpmWlZBOWE3M3NWLTlLTUk2N1hYRW1XdWlfX0JscVJ4dS1kRHZfVTBELXpLd0N0OFI1UFJxWGJoRU1HeERER3ZzVVRIWTItOVRyS2hjRVJwZFQ1TVB2VUZKeE0xRFU2WFJBQ0JMYTFYdHh3QlpYZjVHYmEtN25Ha1h6UGo3N3MwR2tXWHpNSXRuNWNxc2o5YnBvTnE5NkNscUhSSUxaSGZ4eHVRV1hpcTRzMnc4VmNvUmdFc1EzYU1GWmdLbFE5dlpPSFZTOVhTRHZHRzN4bHZQUFN4QQ?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-11-13T10:53:29Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -47,6 +47,17 @@
       "imageChecked": true
     },
     {
+      "id": "544ab8280251660ee513",
+      "title": "Scotch whisky import dispute likely to be resolved 'very soon': Commerce Secretary Rajesh Agrawal - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0FLWkxsWWpGN0VDUzdpZW1yMFpWcU5sdTVLdllVWDF6NVloV1djMTlEVjVYdFJlSTBHZFBTdWhCWUJPN1NGS1h1XzAxLTZiZTFGd1dBal9GZHJPdG9rYnZrcUVyblcwUzZ1bGtvdGFLNFYzWDdfRGMzaVA2YjN3MDRRRkZleURORFBZLVl1SnNuMVZ6cUgyZDdQV2FkLXNIWFFuT0dPMk4yMkp5MHVaeTMtd3VOSUxYUHBsekhxMFhiLUtqQTJQUFpQN3pTQUxDQ3BRaDVma3NWZ2wyakE?oc=5",
+      "source": "ANI News",
+      "publishedAt": "2026-11-13T10:27:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "856b65fbfec6cb279ea0",
       "title": "India says will honour duty cuts on Scotch imports from UK - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkRjOE5LVEVNUG9ZYVloa3N4UHRxMDZyU1dNdTZRLUtYNEtHSXBOSUxjLWJiVENIQ1BKUWQwNUlJcEVZSF8wZmdQLXNpRm9zOXdlU1RqSXY4QWdvdmdfUlNxVm1XT01YenFnZUZoU2d0ZHZQS1ZKTC0zV0xSV2RRLWRZeWdMN1N6c1NGZ216VUttQnNGOG9Mb3kySkJxcTQ?oc=5",
@@ -66,6 +77,17 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "8f501408787e700ba8e6",
+      "title": "佐世保の梅ケ枝酒造が3年熟成のジャパニーズウイスキー「長崎」を発売 - https://www.barrel365.com/",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFMEZCU0RqeGhqaktFbjdPWXQ5RFU1R1ZLWjlMcFNzZGNYWjh2UzZ0dFU5Ymc3MVVYQ1liRkRVQU9aVkVaa1pJTmd5Yw?oc=5",
+      "source": "https://www.barrel365.com/",
+      "publishedAt": "2026-11-13T07:59:44Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -451,17 +473,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1f081b8e33a779b62e82",
-      "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDhPTHMwWEFDVDFLVE56Sjh4aTN4dERCb1ZpMHRxdld5REFyWjEwaFJLaS0wM2lMbDN4T0V2ZmdlNnF0MGRnMGxKajAwTnZNa0tWdEVHWjkxd0NDMk5rTlNHNGJUZW1WNUtOSVYxZFVBWTZaa01OTXdGdHNJdHFZalUway02SXBmbng1VFZJZXZfd9IBlwFBVV95cUxNajB0anpPd2NuNEdJZ1BpS3NmMGlXcEdqQzZwRGRPWmtDb09oRWVxUm9iR2NwaEJGMVpuUTF0cVBscjRGZW9sbVFIaThIUDdNMC1ISGlMcERmLTFhZzlzTjN6dlNFQ1Z6TmVZZkxRZUFKQ2JLWVRQb094QUt1cHVJa1pxb3NKNFFhVWdCWGxHUy1BUGJqUmhv?oc=5",
-      "source": "えん食べ [グルメニュース]",
-      "publishedAt": "2026-11-12T09:45:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/north-star-spirits-unveils-big-dipper-10-year-oloroso-matured-whisky-3-500x256.webp"
-    },
-    {
-      "id": "99dadd131bae8b4704f1",
-      "title": "The Macallan Toasts New Orleans With Final ‘A Night On Earth’ Scotch Release - Maxim",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWFHczRkMlBLUXNRM1FnVE9zeDFtNTVkbDY4QU1JR1lXQzFVdjZSaVdwQmdEXzlyOFpnbWhwWVV4dWxzWThPeDVsYUR0VVlIMVdJVEhFRW1BOTFCRXdwZEZibDBXbjl2cXJQM0VGSHI0ZzRxcFl1R3Y0bE5vMWNSTlpnNkFnTUREaG5BM0I4RGhMcmpXS0RuYlRaNTNQYjRsSXlaVWRyZGMyX01p?oc=5",
-      "source": "Maxim",
-      "publishedAt": "2026-11-09T13:59:14Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
