@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T04:00:11.235633Z",
+  "updatedAt": "2026-11-13T05:07:03.812434Z",
   "count": 120,
   "articles": [
+    {
+      "id": "60e64e682df3fac353e1",
+      "title": "Diageo (LSE:DGE) Has Scotch Whisky Shipments Impounded By Indian Customs - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbGVST2hPWG03b3FPb1VodEh6b19JbHJBT1loRlcxQmQwM1FTd1Zkal9FTmJ5N050c0FJZUU1X2NzWnFiT3drcU9JdGFtWGxoU2lwMEJVbkVzY0dtWjdWS29ZTjQwTm5GX3c2bDRNZlFOa2ZNSFBBd3RzVDYweU5iRkpJZjlEaTlWVTUzVHF2NUZ4ajk4SlJuYXN0aGVqSEpHT2w4dGJobnJ5WUh2VS0ya1BoalpDdVVZQUxYWkVRM29tUnZnUXJUX3BlN3phSXpzZnVndFZDVmzSAd4BQVVfeXFMT0tTZTZoUXhURjUwVElPa3doUmdoRGpHYmtJTFd2djVTcVhtZ1d0SmY1aUFYYTdrellFR2NNUEFJb1JWRThyQW5kODhORnRwaEZTOHdTa1Vvcy1ZQVlVckNCS284VlNPSk0wYjdmVmR2ZGZOVVp5VUNNSVp1T2lYTU5ReG5nWEZlNE9reDZ3dmNra1V6QjhYZ1M4SnhfTjlGNlJnVVp0VVVhb2NJRFdpbVJvR0c2WXNmMjZLTkw2UkNaU0xQcThlRXk1OE14MHpwanVhT3F6ZGlLUUlCd0RB?oc=5",
+      "source": "Simply Wall St",
+      "publishedAt": "2026-11-13T04:42:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "5ecb25d130eb4e7f8e32",
       "title": "イトーヨーカドー、ウイスキー「山崎 2025」「白州 2025」「響 BLENDER'S CHOICE」を抽選販売（グルメ Watch） - Yahoo!ニュース",
@@ -22,6 +33,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "4f24a1c67fe2fa7e5214",
+      "title": "The Macallan ends its “A Night on Earth” series with a New Orleans-inspired single malt whisky - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE5RVEgtZVFsd2t0NTBDZ1RSRFJMMFYtcFBkYjE5T0VZVmp0ZEVEeDV3UFlJQmhGVlBORXg2S3ZSWjhuT2pVd0thenRKWXhteWt4V01Za1FzUkxjMWtnQmpRZ2RLTlFFTGVRXy1ETFlmVlJ5Q2FGbEVCYWg1X1pRX1ZTZWhhRUd5ZWFmUWNyX1c0SHE5eEE?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -718,6 +740,17 @@
       "imageChecked": true
     },
     {
+      "id": "aac9f9ec84c45550deef",
+      "title": "ウイスキー「響21年」やイチローズモルトの“20周年ボトル”などが当たる「福みくじ」受付開始（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XMzNpRUF0bk5YVGdDYkd2S1FmMkpibXZhT01KWWtuYWwzTW9xd2NfOEFEWjZpekxna21MYzM0a1JTa2lIMUpTcmZHSjhpTXMzYU5ESFZ6dWJJQTBRMUZscmJ0X3c5VHNvUHhrNTdPM0xBc2hRTlY1N0h0YzNRNkE?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-11T07:31:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "73a8c34df720b91fee54",
       "title": "India-UK trade deal hits tariff hurdle: Customs seeks 150% duty on bulk Scotch, shipments held at ports - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOVRnSmR3X09tODViQnJEY1FIaVlMMWpOX1BCOUgtc2VOZG5QNUI0WVRmMHVMT1lNeWUzU3RkMkZSTzk0blNpbXRudG5ZTlVkWDhlcnFscEVaZ2FWNDlrd3FrcjZDeVpXZXpBaW1NdXlJTW5BeDFHdWVWNUF0WmFaR2RpMmhNN0Riam5ZSmgwYnI3djcxVnhnNDEtN0lkajRnY3hNVnBnRFptLWF5eXlXdzhob1k5OHlKY3RraWlObFprN3lBTy13MGxZS2lpYVhudnk5SlRWeG9yb1V2dUVZV3FVUjgtODQ3N182a3NRbVI0Mkpid3FCM3R4X0F0MHfSAYQCQVVfeXFMUGdtR0U2VU4wU2xtUkI1aWFLbjg4VThCWTY1WHp1VHhWS0RMcUh2aC1HelJ4WUprNmw1b0FPYnlvQnZ2aUdEdXZnc2kzME1PVHlxckM1NU4ySXgzcFBsWERKeVpySE5rbWFKUThsT21RZ01raEdhUmNZcjNVb1VvUHNEVXZ1dlRMUDlsbXFWVE4wMEFNLWtPUnRJajFPT1M4bllUdHdMUmg2SlhnbEotU01GdnpneGNJRHFWS1NpUEYweVQ2MXV2M25XdUp3dXRqQ2VJNUFyS00zNi1DQWRqYnBwMnh3WTZEdTIzSDd6TlJJWDM4X2pXazVUNlVsTGFtQmNvdUQ?oc=5",
@@ -1287,39 +1320,6 @@
       "category": "new",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "33c3df95fbcfe0114975",
-      "title": "Between You And I: Highland Park Unveils Its New 17-Year-Old Single Malt Scotch Whisky - lifestyleasia-onemega.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV19wTFVlYjFrWWxUaWNKUVZlLWlNZlJHbTJwc0hXbERyWVRUbXpTOXdNQWpVZ0N3RUV6WVdULUJHOGhDbkhuZWQxQnYzLU9hYVFwMGZwX2IxUWY3dUh2NlFIZmh2ajNGVmtGdWVndThuSXg0MlZlb1N5eFBsT0d2SEpzMkZxaWRRaVVSNDI3UlNtbVRyajVScG14TlRkQQ?oc=5",
-      "source": "lifestyleasia-onemega.com",
-      "publishedAt": "2026-11-09T08:00:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ab48c3716e3d304d4561",
-      "title": "This Nc’Nean Quiet Rebels whisky tastes like popcorn and pineapple – but is it worth €85? - Whisky Monkeys",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPei1MSExFN3AxVlJRaTA2M1RGRDk5UTJjZGZIbmp0UkhSaS1iOWxHeTgzX2U1aVJhRmJ1UlJNc0Q4OFBFQV8tZDZlNElWM0Fza1l0TURmTUxtS2pJeXVHdHNyRXBWZlJnTTBPaU44Z2tfaURuQUg2eTJIaTE0Si1HYm1FUm1rOUVwZjN0UXhmR2xpcUIyUENUaWEtWmt6NF95bHlIRkhFN0xDYXFieHIwMjFUN1VRQnFLdWJwazB3?oc=5",
-      "source": "Whisky Monkeys",
-      "publishedAt": "2026-11-09T07:34:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "94a4ccfbbf41d1b913a1",
-      "title": "馬追蒸溜所初の3年熟成シングルモルト・ジャパニーズウイスキー発売！熟成環境やモルトの違いを楽しめる - ガジェット通信",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55YVlYMHl1ck9sMmU0Q2UxblpMSWZqUjBmVzU1TFBERkd2bkVMR2k0UlhBRnEwdmNsSk5pZ3I4anVUYkxpZEJ5R2lSMA?oc=5",
-      "source": "ガジェット通信",
-      "publishedAt": "2026-11-09T07:30:07Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
