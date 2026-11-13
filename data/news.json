@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T09:06:24.454799Z",
+  "updatedAt": "2026-11-13T10:07:49.908349Z",
   "count": 120,
   "articles": [
+    {
+      "id": "f55249e880c7b7926985",
+      "title": "Wharf Distillery swaps folklore for a timestamp with single-cask English whiskey - City AM",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93QVlURHVaNEdoM0F3ck4tTVdZOENJTmtlZ01lcV9Fejkyc2djSkdnTy1PYXFlcTVRZFdNX3BOSWZvbDZEYTRrdlRibndwdTc3MzBjci1PQzJWYjY1bHRwTld5bzBmVmxmR2hjR2N6QkN2UGlSQ2l3?oc=5",
+      "source": "City AM",
+      "publishedAt": "2026-11-13T09:11:52Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "72f7c405e232df0c7542",
       "title": "The Glasgow Distillery marks the launch of new Community identity with exclusive release - The Whisky Wire",
@@ -520,17 +531,6 @@
       "imageChecked": true
     },
     {
-      "id": "5584c25e7ef029572e99",
-      "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwd3hSZ1hYTVlJX0QtdkhpNl9mRVFpVWkxN3d0S1NvSEYwRlA2aDlwVXpFejg4YUxjY2ZsMFdra0p0a0VqZS1kNnBQQWdxQkNja3QyVXJoaTQ3N3kxcE5BejJhNTcyT0Fqc1c4?oc=5",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-12T02:16:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "7e107292234dfd550366",
       "title": "India Seeks Resolution to Scotch Whisky Import Duty Dispute - GK Today",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVltVmNHVFVCcFU1OXhuT0J5Uk9SZjl1X0c4dXhpZXNtSHo3amsyekFhRXRzcnExakY4OTI1QXkxaTg5cTFlODB5Z1JHa2EzYUxRaW1LU2dpZzZXYkhEVTBlOXRtcGJvY2RLYzlxOVQ2cDI5aGR5c1hXenRmeHFBTGFOR2ZtM2hGX05F?oc=5",
@@ -548,6 +548,17 @@
       "source": "Walker Plus",
       "publishedAt": "2026-11-12T01:30:37Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "5584c25e7ef029572e99",
+      "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - Koubo",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLa0Z3YjFWOEpxNFROTnloV3h0UmRzNU5Jd29WYktBTlNZbURrT0R6Q1laeTU4SGgwQ1Y0bWVDZTVBckxTNW9lOWd2Y3JQUG5YUWJNNGRrTlp1NzY3UGFkOQ?oc=5",
+      "source": "Koubo",
+      "publishedAt": "2026-11-12T01:00:00Z",
+      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1306,17 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnJDWWtIRmFrMWRrc19oQTBVUVoxQlBCb3hwNGdkNVZFRkxvdThvVzVzRGl2Q2pVZ1pRdGszbXN4S2dkbTdKTTFWSmRGc2s2c25RTVFweWZZSGszSjhuRG5fYmdPVkxOa2ZiLTVRUlZJaXBvVDAySjJGNzlySW04NURza0UxNzZzdUdjSlVHT09yeTNwQzFxT2RfeVZGWXVpaFE?oc=5",
       "source": "Central Fife Times",
       "publishedAt": "2026-11-09T11:17:57Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3cf49602c34c77c21924",
-      "title": "The Scotch Inside Indian Whisky: The Business Behind The India-UK Tariff Dispute - Outlook Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbXFmY0Y0SkR0UzlWcWxxOVp6SDQ2ZHhEMlVud1FabUYzd3VjSVcyR0c5eUphYjdId1dMRHZ4bnZoaWlBV2FTMzJlakpYY3NFdEcyaGpZMlJzdzBxcnV3VzY4SDQ2ODNmLXVzejd2Z0kyMUd6M0EybXM1MlBRMDhlbEh2RkxOY0VieGZyNDBUNVFDN2dsTUt0UTNncjBzNmJnNU1rYnRVX0J5S2FRQTRFd2VpTWpNN3fSAcQBQVVfeXFMUGk4ajNzUlBoNGo0aUNQY1J6QTR0WVV5clVfOG9obWJxdUFJRGdKLUhZX0h5Q2xHNl9XaDhOQWRsVWl4NEd0Tkg4Z21EMnMwUmZLUUtTMEdGQlFraGpuTWpQbXdvUGpnMWlybEU2emRJa2Z0NFdWLUdCS3diekkwREEtbHotNEtDM3NvVVA4WERUei1GVmhsRFlDRHpqT3hNT1EzMTVFcVlEeHVCSUNvd0JueGw1ZkEyOTkxa1Q4dVF4YjZDdw?oc=5",
-      "source": "Outlook Business",
-      "publishedAt": "2026-11-09T10:56:41Z",
       "category": "industry",
       "language": "en",
       "region": "international",
