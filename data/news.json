@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:58:23.817665Z",
+  "updatedAt": "2026-11-14T04:59:30.293162Z",
   "count": 120,
   "articles": [
     {
@@ -308,6 +308,17 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7d4bd1a7c51d03518b24",
+      "title": "日の丸ウイスキー2027が12月21日発売。常陸野は小麦のカスクストレングス - https://www.barrel365.com/",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTFg0aDAtY0RTYnhNUnUzcUxlZDlTYUIwTE84cnNnWWtXa3RsUTBZYTVVanFwUUxiVWxKUnpRYXFuMUNRc0FKV2dmUQ?oc=5",
+      "source": "https://www.barrel365.com/",
+      "publishedAt": "2026-11-13T08:15:25Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1306,17 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdm5ibG1NYmQ4Z2JyNW9VQVJ1elgwNi1FRmFpN0JJanY5TTlJWjF6OEpPSWhqdFMwQUJabzFXS0hySVpBZk1Mek11d0JGOXZ6VTRLWDdSa2g0RGR6eGl2UXUxYTU3dFhIYUJDcWJR?oc=5",
       "source": "Whisky Advocate",
       "publishedAt": "2026-11-10T14:26:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "08076e4d35532ef1dd84",
-      "title": "Tamdhu: The scotch whisky taking on Macallan - City AM",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XUnBzdUpKTjZyRzlhd1BDUlN3VFkwMndzVXlfUnhkQ0V4VkNZdmMzZ0dDbGxLazAzLUxRSFV2bXNjWkV5Q3lyLVRTMk03Y19ES0NxcWoyZ3c4VFFjRFZvM0lUdlcyMFFXZmlPR2oxdDdvdVM4eUE?oc=5",
-      "source": "City AM",
-      "publishedAt": "2026-11-10T13:37:10Z",
       "category": "industry",
       "language": "en",
       "region": "international",
