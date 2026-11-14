@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T19:49:43.622767Z",
+  "updatedAt": "2026-11-14T20:46:55.516993Z",
   "count": 120,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "f55c185e6868f7c63efc",
+      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdzMkRNYTFjSUN1VXd1R3NLcU55OE9SVkRPcElMV25ITFVUTmNwbnBrRy1ZWmR5amFqWW5DbVRYR0dZd0hoQkxpdzctV2EyWmxUc2dEaENhX3hNdVR0Q0Z3NWxDV2lQNlZoX01qc0JXYVhkSlllQ01TMmJWeWJPOEhaVjdTVG1Ub3hmcURxTG15X2dFOUFHTG9LOGRJOGxsNWZHYkVOT3ZZUUtIR2xnRjZ6UEx0Qm45YkxDNjZ3dGpSUkpTaVFr?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-14T15:25:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
     },
     {
       "id": "5cc659d5c582b455319e",
@@ -45,17 +56,6 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "f55c185e6868f7c63efc",
-      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map",
-      "url": "https://thewhiskeywash.com/partner-content/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-14T14:30:22Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
     },
     {
       "id": "49b03d4b45b4c1a0bbda",
@@ -99,6 +99,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "ed74987f91515ea8ceca",
+      "title": "島根県・隠岐のAMA Whiskey&Co.、6月13日にウイスキー／ジン蒸留所「Distillery Drift Mark」をグランドオープン。隠岐諸島から世界への挑戦が始まります。 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXV1RSWGxNQWpjN0RrN25SdzVsNjJNdFBDa29aNUZqSi1oSjc1R25QcFJXNkFqR2YzWTYyODI3a01GcDVwLWo3ajJtR1VrUFU0R3c?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-14T09:25:14Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -896,7 +907,7 @@
     {
       "id": "3f5c6949e9859a36b4f6",
       "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IV25KMmRVVndyQ1BERjhCWEEtN3RvWW1lS282ZW83dUt5TmFSMkVLZFBJUXU5MEdpbXJrTU94QXk4eE9ZQnhNbXZxclRCc0pvWUlOb3dBbHpjd280TVJIYktZSHlod2NDbXluWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
       "source": "J-CAST ニュース",
       "publishedAt": "2026-11-12T08:45:00Z",
       "category": "new",
@@ -1137,10 +1148,10 @@
     },
     {
       "id": "38d0ccd5faf49d0c6651",
-      "title": "Best supermarket whisky under £50, expert taste-tested - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTFZaWxPRXQ2bGtkMzVKY1N1aG5Odjc4ZWJsVVJHbk55cndrVmJUM2J6WUxaR0JESkVUM09WTFhqY29Ia0M2SFBJUk52Z2NmTUVmdDVxZXRMdFZHV3VaMkhYMDl2TERlLUMyU3BnT0VjekVVdmlwSlg1QkVkMVl0SzNlN3A?oc=5",
-      "source": "AOL.co.uk",
-      "publishedAt": "2026-11-11T11:05:28Z",
+      "title": "Best supermarket whisky under £50, expert taste-tested - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1J2a0NQVFdYcHJEY2RFdzZBM21mVEJ2ZXE5UERwN3pnSmdVcmdhRVFUamgtZDVMaUFabmxHa1UxWENzYWxjOFhnWmNsYTZocGxtX1JKaF9OSVZCczBOdWJyS2JhT3k5a09ObWJjX0xlNWRQRGw3ZzFiYXZPMzZqaUtQNVp4VnNQSk4yNUpFUzJrR25yS1NxbHNQZWMtYkFLSXF5S0RyRQ?oc=5",
+      "source": "London Evening Standard",
+      "publishedAt": "2026-11-11T11:08:11Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1307,17 +1318,6 @@
       "source": "ニッカウヰスキー",
       "publishedAt": "2026-11-11T06:19:17Z",
       "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a0f9a497a1ee6f064a82",
-      "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Jd25IODB0RDJxMHVROEItRUdrNmFWNk9FNU9oZUk1d0hHTmtQSDlfYTZxWHN5am9oRC1SNFVkT0NfWWJZeld1VnZ5eTI2N1V1dFlvaGlRWFc4TlNtb1dVYkdKeTYxUUxaMC1LWFp1QllScVNjcC12aEpn?oc=5",
-      "source": "イザ！",
-      "publishedAt": "2026-11-11T06:00:00Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
