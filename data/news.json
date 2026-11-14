@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-14T04:59:30.293162Z",
+  "updatedAt": "2026-11-14T05:56:38.468933Z",
   "count": 120,
   "articles": [
+    {
+      "id": "e8d4ead8ce535ddad77d",
+      "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Grampian Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWVncEZ1emg3Nkp6dENjalZ5cFlPdXlsU1V0RXZ4UHk4bVEzYU1PbXI4bWQxaVFfSzRKMUk5VmdCWXZJcXc5bkRlQXR1Vzk0U1JpcVZ0TnJjRURXX1ZOQ0oxcENyZUVCQkdtSDB1dlpjd1V5RU8xTWtGSDZreG1zZFpsQmdjOGNvOXhDelBwaXhMVjVlSlJSTi1ub2lHa1RGbTIxeVcxN3NfUQ?oc=5",
+      "source": "Grampian Online",
+      "publishedAt": "2026-11-14T05:30:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "63896410b15f3e393a61",
       "title": "【茨城・八郷蒸溜所】200年の酒造りの系譜を継ぐ、日本ならではの『日の丸ウイスキー』！ - safarilounge.jp",
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-bourbons-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
-    },
-    {
-      "id": "0e70f42073f0fcb5220a",
-      "title": "Heaven Hill Phoenix Puts 30 Year Old Pre-Fire Bourbon in Your Glass - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDdm5ibG1NYmQ4Z2JyNW9VQVJ1elgwNi1FRmFpN0JJanY5TTlJWjF6OEpPSWhqdFMwQUJabzFXS0hySVpBZk1Mek11d0JGOXZ6VTRLWDdSa2g0RGR6eGl2UXUxYTU3dFhIYUJDcWJR?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-10T14:26:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
