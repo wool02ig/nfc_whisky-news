@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-13T23:47:20.181534Z",
+  "updatedAt": "2026-11-14T01:09:59.319669Z",
   "count": 120,
   "articles": [
+    {
+      "id": "63896410b15f3e393a61",
+      "title": "【茨城・八郷蒸溜所】200年の酒造りの系譜を継ぐ、日本ならではの『日の丸ウイスキー』！ - safarilounge.jp",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Pd2dvaFpFcGQxLUdWTlc5Y0FtOThIVVVpVnhBWlpNeEZKYU5mOE80R0lPSy12RkVmdXFHV3NBM3ZGaU44LXA1X2d6WFBwWWdZSFBObXFFOXhkeVFhZlByUWF3NEx4blIwbk9wTVpKMzJCSnM?oc=5",
+      "source": "safarilounge.jp",
+      "publishedAt": "2026-11-14T01:00:54Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "1f081b8e33a779b62e82",
+      "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDhPTHMwWEFDVDFLVE56Sjh4aTN4dERCb1ZpMHRxdld5REFyWjEwaFJLaS0wM2lMbDN4T0V2ZmdlNnF0MGRnMGxKajAwTnZNa0tWdEVHWjkxd0NDMk5rTlNHNGJUZW1WNUtOSVYxZFVBWTZaa01OTXdGdHNJdHFZalUway02SXBmbng1VFZJZXZfd9IBlwFBVV95cUxNajB0anpPd2NuNEdJZ1BpS3NmMGlXcEdqQzZwRGRPWmtDb09oRWVxUm9iR2NwaEJGMVpuUTF0cVBscjRGZW9sbVFIaThIUDdNMC1ISGlMcERmLTFhZzlzTjN6dlNFQ1Z6TmVZZkxRZUFKQ2JLWVRQb094QUt1cHVJa1pxb3NKNFFhVWdCWGxHUy1BUGJqUmhv?oc=5",
+      "source": "えん食べ [グルメニュース]",
+      "publishedAt": "2026-11-13T23:51:03Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "a992bc807fe1815ea065",
       "title": "「未」発売 町内で限定抽選販売 厚岸ウイスキー、きょうから応募受け付け【厚岸町】 - 釧路新聞電子版",
@@ -121,17 +143,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1f081b8e33a779b62e82",
-      "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDhPTHMwWEFDVDFLVE56Sjh4aTN4dERCb1ZpMHRxdld5REFyWjEwaFJLaS0wM2lMbDN4T0V2ZmdlNnF0MGRnMGxKajAwTnZNa0tWdEVHWjkxd0NDMk5rTlNHNGJUZW1WNUtOSVYxZFVBWTZaa01OTXdGdHNJdHFZalUway02SXBmbng1VFZJZXZfd9IBlwFBVV95cUxNajB0anpPd2NuNEdJZ1BpS3NmMGlXcEdqQzZwRGRPWmtDb09oRWVxUm9iR2NwaEJGMVpuUTF0cVBscjRGZW9sbVFIaThIUDdNMC1ISGlMcERmLTFhZzlzTjN6dlNFQ1Z6TmVZZkxRZUFKQ2JLWVRQb094QUt1cHVJa1pxb3NKNFFhVWdCWGxHUy1BUGJqUmhv?oc=5",
-      "source": "えん食べ [グルメニュース]",
-      "publishedAt": "2026-11-13T14:26:20Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1307,17 +1318,6 @@
       "source": "City AM",
       "publishedAt": "2026-11-10T13:37:10Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ee98f3659ad3182b3291",
-      "title": "Paul John Whisky unveils its 2026 Christmas Edition - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR0V3RXhjY2dabTZLbFo0Q3Q2dFZIRGd0eHhMMlFvaDBUWHdxUV9sTTUzdnFmMVBwMVYybC1IOF9va2NTaDNTM2E1NU1oOG04aUdBTG1wcUw3dWFCZkN6YjF5aHNGUko4amJXWE9GbGRsUVE0cXBwb3BKeV9rQ2QwbWZtNEVwOXVmTTZQSW03b1dIY3c?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-10T13:05:18Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
