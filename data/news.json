@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-14T05:56:38.468933Z",
+  "updatedAt": "2026-11-14T07:09:49.475985Z",
   "count": 120,
   "articles": [
     {
       "id": "e8d4ead8ce535ddad77d",
-      "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Grampian Online",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWVncEZ1emg3Nkp6dENjalZ5cFlPdXlsU1V0RXZ4UHk4bVEzYU1PbXI4bWQxaVFfSzRKMUk5VmdCWXZJcXc5bkRlQXR1Vzk0U1JpcVZ0TnJjRURXX1ZOQ0oxcENyZUVCQkdtSDB1dlpjd1V5RU8xTWtGSDZreG1zZFpsQmdjOGNvOXhDelBwaXhMVjVlSlJSTi1ub2lHa1RGbTIxeVcxN3NfUQ?oc=5",
-      "source": "Grampian Online",
+      "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Northern Scot",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtSU3BFcTZoVEt4WUdrOERaY0ZqaGo5dzBNNGRELVFNZC1jUkJHYmhWRE9QZEppWHZidGQ1c3lVdmtMQTZidFBzQ1pXZHVtT21ZSWZvQ1RHaDRmcFVVWTg3UnhsWFJWR0ktTm9rbXA3Zm5fOHJSQ2NaXzhwYk1aaG9QeDlzbnhtTzdOUEdrOTBwXzktaFhNalhaVkk3SnJjVHdYTmlIc1g?oc=5",
+      "source": "Northern Scot",
       "publishedAt": "2026-11-14T05:30:00Z",
       "category": "distillery",
       "language": "en",
@@ -1235,6 +1235,17 @@
       "imageChecked": true
     },
     {
+      "id": "a39a5dc79252e30bfdad",
+      "title": "Cheaper Scotch raises stakes for desi whisky - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUi1Ldk5VWXVfWDZCTWowVXVub2dwZHJNNzlGZGZUQUdObmFKRU5ZYmtPRTUzYVlmQXE2OS02Ung3a1ZYZWktXzBJcnlsdGZnYlBhUS1pclZ0Qy11a0t5YmhzTEg2X19XUkFUVDFwRVFDbThFSjJ3S1hDYUJKcWttZ2hCb1pGUzBuLXRsR1VhWjl3RUhUSjg1cHdfTXNGQnIwVE9HWl9NY2ZERFIzWjRqMWYxUUR2VVdHMFlya0ZyMXRQM01HckpXM3Rn0gHPAUFVX3lxTE94cC11X0ZIcGJWUTU3YkRseEJSSlRYZDg4VWRNclRqSDNHUWZLY1l2M3pVTmhtWk12bnZ4bmMwVUsxQVhLcnVpRHUxZThrU1o3Wk05TldtRmtUUjJXSUhqNi1jRFdrVU00bUROQnNQSkRFbzZNSzI0cGxaY2JVbHp4RnZNY1dhZzBnNld0QmlneDU0Q2UwU1JSVUx5RGhGVUk5Q1FPLXVRU01rT3hyal9vNlJpeGZtT216bjVqQXVpTGUzeWdLWEpfOHpRRDlDMA?oc=5",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-10T21:56:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "b5e1387ed91642bfe4f3",
       "title": "茨城・木内酒造、大洗の酒蔵跡でウイスキー蒸留 ビールに次ぐ柱に - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TXVqRkt2UHVFMlg0VW1zODBYVzRoQVFHbGpkejBJV0ZlMThBczNXOHl3TDdpLUd1STc2dEkzbkZtYXhwbDNFQUZ0Y3lLOFhuY2xTblNLek1qOUhKYzhTVEUzdTdCSTc0WTRyWg?oc=5",
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/5-underrated-scotch-whiskies-i-think-deserve-more-attention-1-500x256.webp"
-    },
-    {
-      "id": "794cf1ca7e17fb63e033",
-      "title": "The Best Bourbons In The World, According To The San Francisco World Spirits Competition 2026 - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQalI4UXRWNGQ2WkFacXRkNGhRdmxDNWdQa0pMTmZYWGFiTlV0Ym1FVG8zOGlobnpySnJPNnRFXzZhV0huOXF0aWlabzFGZDFEX19QUHIxTmxSWVBpelBJRVhkaVpXNWpwUjJjazF3b0xaVjl1TldsT1BOZzJmdXQ1Z3dBSDdNbV9lNXhLNmhsVlpNTGpoWEZyZUhqSXpsTU1QS1hRdnVaNnc4SVdueDlJMll3NTZfSG1QNXhKZDRQQU9HZWc4QXp0YmR1WFZwdGt5bWFj?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-10T15:10:21Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-bourbons-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
     }
   ]
 }
