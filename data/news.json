@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-14T11:47:39.465832Z",
+  "updatedAt": "2026-11-14T12:58:53.779474Z",
   "count": 120,
   "articles": [
+    {
+      "id": "fd68f36490f7abab13a9",
+      "title": "7 World-Class Bourbons That Cost Less Than $60",
+      "url": "https://thewhiskeywash.com/whiskey-articles/7-world-class-bourbons-that-cost-less-than-60/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-14T12:30:32Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/7-world-class-bourbons-that-cost-less-than-60-500x256.png"
+    },
     {
       "id": "49b03d4b45b4c1a0bbda",
       "title": "India Makes Key Promise on 75% Scotch Whisky Tariff Agreed With the UK - EasternEye",
@@ -1310,17 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-irish-whiskeys-in-the-world-according-to-the-san-francisco-world-spirits-competition-2026-500x256.png"
-    },
-    {
-      "id": "9c86681c840b72aa42c0",
-      "title": "Good spirits. Great stories. - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wdGdGQUQxSHRUN0UtZ09uQmU5c1lrYzJuaGtfcjhJNUVGRFRPcXprZzNqdHRTX2ZiUDFXaEkwWHJSa2x2SjJ6ZXJlWQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-10T15:39:33Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
