@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:45:21.633442Z",
+  "updatedAt": "2026-11-14T23:43:12.585317Z",
   "count": 120,
   "articles": [
     {
@@ -542,6 +542,17 @@
       "imageChecked": true
     },
     {
+      "id": "4f24a1c67fe2fa7e5214",
+      "title": "The Macallan ends its “A Night on Earth” series with a New Orleans-inspired single malt whisky - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE5RVEgtZVFsd2t0NTBDZ1RSRFJMMFYtcFBkYjE5T0VZVmp0ZEVEeDV3UFlJQmhGVlBORXg2S3ZSWjhuT2pVd0thenRKWXhteWt4V01Za1FzUkxjMWtnQmpRZ2RLTlFFTGVRXy1ETFlmVlJ5Q2FGbEVCYWg1X1pRX1ZTZWhhRUd5ZWFmUWNyX1c0SHE5eEE?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "f4d21ef104340a24479c",
       "title": "The End of the Road for Hedonism - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VS0NYMHNqQzdWMmN3SUNuRVd5SkI2N0w3ZUtDbmZPYkpiMF9faTBUbFhEaURmUUM5LU9USWxCYUN1WEFUVHlDeHAxS0xrTXhLOFprakFoVHhfLW5ueGNJY0JYQ1pYcEhRTkozdQ?oc=5",
@@ -907,7 +918,7 @@
     {
       "id": "3f5c6949e9859a36b4f6",
       "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IV25KMmRVVndyQ1BERjhCWEEtN3RvWW1lS282ZW83dUt5TmFSMkVLZFBJUXU5MEdpbXJrTU94QXk4eE9ZQnhNbXZxclRCc0pvWUlOb3dBbHpjd280TVJIYktZSHlod2NDbXluWg?oc=5",
       "source": "J-CAST ニュース",
       "publishedAt": "2026-11-12T08:45:00Z",
       "category": "new",
@@ -1309,17 +1320,6 @@
       "category": "limited",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "da6f205d617106ba85b4",
-      "title": "12月以降の蒸溜所ガイドツアーおよびショップ営業について｜NIKKA WHISKY - ニッカウヰスキー",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FZ0ZidnNiQWh5REdKaGJxejZiRXpZM3J1alB2clA4Sm9OeC1PTW5lMHZlQ1V1bU9keUNrR2x6Q09kbUVHZ3cyNzE5SXVMNnM5Z2ZGaDhhZDZqVHphSGRhWEhhZjZldzFuSjVUd0V2d1Y3MWM?oc=5",
-      "source": "ニッカウヰスキー",
-      "publishedAt": "2026-11-11T06:19:17Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
