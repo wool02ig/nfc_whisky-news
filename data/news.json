@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:46:55.516993Z",
+  "updatedAt": "2026-11-14T21:45:07.685364Z",
   "count": 120,
   "articles": [
     {
@@ -12,17 +12,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "f55c185e6868f7c63efc",
-      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdzMkRNYTFjSUN1VXd1R3NLcU55OE9SVkRPcElMV25ITFVUTmNwbnBrRy1ZWmR5amFqWW5DbVRYR0dZd0hoQkxpdzctV2EyWmxUc2dEaENhX3hNdVR0Q0Z3NWxDV2lQNlZoX01qc0JXYVhkSlllQ01TMmJWeWJPOEhaVjdTVG1Ub3hmcURxTG15X2dFOUFHTG9LOGRJOGxsNWZHYkVOT3ZZUUtIR2xnRjZ6UEx0Qm45YkxDNjZ3dGpSUkpTaVFr?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-14T15:25:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
     },
     {
       "id": "5cc659d5c582b455319e",
@@ -56,6 +45,17 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
+    },
+    {
+      "id": "f55c185e6868f7c63efc",
+      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map",
+      "url": "https://thewhiskeywash.com/partner-content/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-14T14:30:22Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
     },
     {
       "id": "49b03d4b45b4c1a0bbda",
