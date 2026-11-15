@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-15T17:44:54.718654Z",
+  "updatedAt": "2026-11-15T18:53:29.475820Z",
   "count": 120,
   "articles": [
+    {
+      "id": "ff839d310871ee5cf383",
+      "title": "Taste Test: This Fantastic New 18-Year-Old Bourbon Is Destined to Be a Collector’s Item - Robb Report",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdG9QMEY3QXp5cTZQNndfXzFTNkJ2TzBGYTJjZ2JfbE8xelBlUGFTcWNGZ1JNR0VwLXk1cjlNOVN2RENBekZ6UlFuM1AtSVY4dE9sOGdHYWlHTXJFMWFKRDZ2RDZmeVlIc05pLUxQVl9FaUU4dVp2bGF5aDFoUjFKZnliR01yZWhrWjNncWI3dGp3Y2RrSDlOZlFlOXhEeEpDd1JhYnJwb1pSOVFm?oc=5",
+      "source": "Robb Report",
+      "publishedAt": "2026-11-15T18:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "41c221d9bec9b00e30d3",
       "title": "サントリーの限定ウイスキー「碧Ao〈SCOTCH EDITION〉」が予約受付中。メーカー希望小売価格の“6600円”で抽選なし - グルメ Watch",
@@ -47,17 +58,6 @@
       "imageChecked": true
     },
     {
-      "id": "8b063cc079a505865513",
-      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-11-15T09:01:14Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "778085f38e67a3d83f6f",
       "title": "Laila Gohar brings flavor and memory to Highland Park’s new whisky - ABS-CBN",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUZNUzJuVUJ2MDdtOFBjQ294NldSREJ0REJYOEY2WHdOLWtXSmp3WnNWRWdEaGJ3S2lRTXpsaERoTWhSXzFHd2g5UXpucm0yd1BrbnhwTkFfZW4zUmw3R2c1YkhKYXJReGt3Uk5DRDBNNnJsb2ZUVEV1QXUwN1hocXhOdGNuS3E2bV9feG44cGp2UlpVclJZSGhXYmt6UUdKbnpIUjV0WmFKTXQtRENzNkRPMVBvTDk5VU1vR3hoYTkxQ1N2djdN?oc=5",
@@ -77,6 +77,17 @@
       "category": "limited",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ad953d9c67ac9c4d8ca1",
+      "title": "Great Northern Distillery cut jobs and suspend whiskey production as gas price doubles - Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLWlZQ0dzNzJJZkdYSFBiYlREQUk2ZGpFV2w5ejFkNFJQV0ozVlRCd2V2elZUdTdpb3A5NDhUTjdzUGZMVTFrVC1LOUFZejJsNkZZWXlYMnFRcnlIUXduMXZDZ3ZnSkNvZTNzY3AtSlRXSHdNbkxUYWdiYUxXWUpxTGkwVW9jRVVvQWZEdUdac2tEaHA5SUxhdkI5Qm84b3J6d1FtX0pUdG1sYXNoWnk1bWk5ZFZmbklHSW55eU9MaldyNG81cWYwcjJUb2JTRXkzSEdmOG9sb09lZW0xOWNCemJWX25BbW9nTWc?oc=5",
+      "source": "Irish Independent",
+      "publishedAt": "2026-11-15T05:30:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -124,6 +135,17 @@
       "imageChecked": true
     },
     {
+      "id": "f55c185e6868f7c63efc",
+      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdzMkRNYTFjSUN1VXd1R3NLcU55OE9SVkRPcElMV25ITFVUTmNwbnBrRy1ZWmR5amFqWW5DbVRYR0dZd0hoQkxpdzctV2EyWmxUc2dEaENhX3hNdVR0Q0Z3NWxDV2lQNlZoX01qc0JXYVhkSlllQ01TMmJWeWJPOEhaVjdTVG1Ub3hmcURxTG15X2dFOUFHTG9LOGRJOGxsNWZHYkVOT3ZZUUtIR2xnRjZ6UEx0Qm45YkxDNjZ3dGpSUkpTaVFr?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-14T15:25:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
+    },
+    {
       "id": "5cc659d5c582b455319e",
       "title": "Heaven Hill Lost Nearly 100,000 Whiskey Barrels in a Fire. 30 Years Later, What Survived Is in a $325 Bottle - Inc.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmZtUENrS1c2VW05LVU4QjBmUjRFQzFVS2o2SkFzaEgxNHlyNkF5SGJzbmV2NXQwV3d0NHduMHpOMnBSd0l2RVVsYXRPUWJyalpGdWowMXF6b20xRFloWUFpLVNZQTBmSUx3MWV0dHhEVC1fQjdUNjRkQ0VXNDVYNlJyc3YyYTJrT2NMWUR6VmYxTWlqcEVWd1E4WkkyZ01iWjVidkFpZW95cW42YW84ZjFLNmZUT0o1dXR0bHQ2TUx4bzB0RVE?oc=5",
@@ -155,17 +177,6 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "f55c185e6868f7c63efc",
-      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map",
-      "url": "https://thewhiskeywash.com/partner-content/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-14T14:30:22Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
     },
     {
       "id": "49b03d4b45b4c1a0bbda",
@@ -273,6 +284,17 @@
       "source": "Whisky Advocate",
       "publishedAt": "2026-11-13T16:56:26Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c8ba6181a0a28282452f",
+      "title": "Cathead Distillery Launches Old Soul Estate Collection - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUx2QlRNYWgzeUlFREJmYkxXaWRLeXdZNDJ2ODhOQ0Q0cGkwTVJsZXlwLXN1a1RRdjkxcUFHajczRjIzLWVxSFRwNzY5Q0FicGl5b1FSV0ZUcVctSXhzb2c5Q3BGOFhWX3p4dzAxSEhHQVVaMnpPNnpkeENiSjQ2ODkxOXlOZU8tc3JTTVQ3azhaaDlBWUI2LUVsUQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-13T16:56:22Z",
+      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -531,6 +553,17 @@
       "imageChecked": true
     },
     {
+      "id": "dc80a9101e2965d308de",
+      "title": "One Man’s Quest to Create the Perfect Whiskey Glass - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWFpaU9HVVZnRndaTFIzM3lCeV9KbTRLZ1d4aUx1alh0aW1jS1ppWFFDOURveVRDaWNzSzZCOEptbnRDZ1NxeHNBU0hOMnhHTm5JNEx3OHU0bWhmMzBWTjlEcGloVGg0T0xDNVdrVEt5Zy15UzJ0VkJXRHhEeUlIazB0dkZabDlaTGd0Tw?oc=5",
+      "source": "The New York Times",
+      "publishedAt": "2026-11-13T10:03:25Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "f55249e880c7b7926985",
       "title": "Wharf Distillery swaps folklore for a timestamp with single-cask English whiskey - City AM",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93QVlURHVaNEdoM0F3ck4tTVdZOENJTmtlZ01lcV9Fejkyc2djSkdnTy1PYXFlcTVRZFdNX3BOSWZvbDZEYTRrdlRibndwdTc3MzBjci1PQzJWYjY1bHRwTld5bzBmVmxmR2hjR2N6QkN2UGlSQ2l3?oc=5",
@@ -649,6 +682,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "c3ab8170b34eed3a85ac",
+      "title": "Bozeman’s WildRye named America’s No. 1 craft whiskey distillery - Bozeman Daily Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTU5uZ2VQb0Z3bWVzb1dfSFNSX0lqVmNOeUU1cjBQVUQzNEwzOS1ZcmpJNVEyUkJySlh0bGk2b3hYaVV3a2tCWGFUa3pJV2NxMHRfeUtMTk44c0ROb1p6cURMUlZpSEFtOXY0cXZEZGRZcVYtZzdxdDBuUzc1WGdlM1FOUUtqc3dpOC11a2FIQ21hSUJNWEdsRHVuYzlXZkdwd21hUWd3bW4wQ3pqY2tIa0xBdlI5Ui1mSW0yT0RJb2twS2F4QXZ5ajB5TVZtUnhoc051VmI2UEU4NGFjZ0JFRnZ1V19CUTIxTTB6Z3lHZmQ1aXViUTB3bw?oc=5",
+      "source": "Bozeman Daily Chronicle",
+      "publishedAt": "2026-11-12T23:22:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -949,6 +993,17 @@
       "imageChecked": true
     },
     {
+      "id": "91a6acce722529c6adf3",
+      "title": "Baltimore distillery wins best whiskey at international competition - The Baltimore Banner",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1hfRUlNWGJyOG9XV0VpeHdydVBNdGxLOVpCRFNNcC1HRFk3Y2Z3Vk9pTWFQNmtjYjQxcmlWaTZDNTFEMVg0STg3STAwVGh4ZnY0eHdRSVdsYkJLdW5FUFBjTWFHZlh2eDloUkhYUHZ1RFN2V0psQlB2TG5GMHRra2d4S2E4ZGJ0eWM1UGlweEdMei1ldXVDMGc1YnBvTmZUVkFwRkx0eGxQUQ?oc=5",
+      "source": "The Baltimore Banner",
+      "publishedAt": "2026-11-12T10:30:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "cb3b542bfeef2e980e68",
       "title": "Whisky Journey returns with more delicious drams - Lifestyle Asia Hong Kong",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU256YUVvR2pXWjdsSE92Ry1SVUNTR3lwLWJxdldpRXI3djdhQ0Q4SmpFMGlYSFEzUkJZZktPOXVWSFZqbVVZZFpBYVNpdEstNWdtaFV0RVlxQ2NHMmgwNXBYWEtlZEZJMjdXbk1hSE9YOXk1NmJfSnp4dFRxX3dHb0l4Wk1UVUJnd3gyckVVWVpGUTl2OWc?oc=5",
@@ -1147,6 +1202,17 @@
       "imageChecked": true
     },
     {
+      "id": "8b063cc079a505865513",
+      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - Walker Plus",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
+      "source": "Walker Plus",
+      "publishedAt": "2026-11-12T01:30:37Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "4d1293b93960cc3a5152",
       "title": "【大当たりはジョニーウォーカー ブルーラベル！】1回1,000円のウイスキーガチャ全5銘柄を大公開！スコッチ30種類が飲み放題の「HIGHBALL SALON Vol.3」11/29(日)新宿で開催！ - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MRjVLcV93ZEpPWkJ6bWkybGp4Vjk2UGJiTGxMUVlyclVfd1FQVUdpSzViNTdpbjJiZC1uemRCREZ3UHp5RkxzN29zLXg4MVFkaFc1aGlGN0U0UXpFZHUtWmRQRkwwM05ZR0E?oc=5",
@@ -1166,17 +1232,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "52039f29506b9c722176",
-      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PX0J6YTJiYTlWYUxVdzM5ZUh3UWFMQzhIVmtfeXQ5QnB1YzQ2bzBENWJ1bktFYXNEblZUUURNSExVYV9FbFRQekxjeFRzQTExRGc?oc=5",
-      "source": "山陽新聞",
-      "publishedAt": "2026-11-11T17:03:30Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1262,61 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUGM0Q3ZGSGI1czdPVVZXeUI5VlEzb25udENLOTRzUFFDTG54VmlGQThSd3BlcmRKbDVuNlR2Mjl3VFk3QVkwTmVCbjlGZHRwZHpSZDRGVHBUck9qbnpZaDViSEYxdnhYLWJiMWIxdEVBcVpMTkpRSVh6ekpFZ2M0Z3NhSzZDaDVTbzZwNnlGLXBTQlQ5Y2tyNjNlbnFQUnhBT2czTVRkRHFtN2JOeTlXZFV5Vm9lSHhhRHhOWEJQejBmQkJVSWVJMWh3RDBDQmJGSGI2VjhuN2YxUEYtMzFHUVNJdWrSAeoBQVVfeXFMUC1BNTBKN2VfOGNVM253TEt1LWgyZ2VrQmFnT1o2NWZEbnVEMkJ2YW4wQ0VrVU1YbXFRTzBjSkpta3NiTDVDU3hKTjNoNnlnaU80VmVKMGFNYWVXUlo1c2xzcjJ0dEkzcnczSXk0WHRBTWVjN3UzUFVMSnlEblVJV2lyZ1JRYnJkeDhlc3dZeWhEWVFMb3hRUFBwV1hYczQ5cUZLQ1NXR2ZuTmRJSngwUVlyT3hGSXNsbWZib3VZNUNzbnE5bFdXNXlrdm51d08wMV8wNXdvN0FkM094bkw0VmJFWkFhWVI1M25n?oc=5",
       "source": "Free Press Journal",
       "publishedAt": "2026-11-11T11:37:17Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "cc8042d501ff44e2d925",
-      "title": "Buckhorn Whiskey Unveils Smoked Maple and Buck Hunt Pop-Ups",
-      "url": "https://thewhiskeywash.com/whiskey-news/buckhorn-whiskey-unveils-smoked-maple-and-buck-hunt-pop-ups/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-11T11:17:13Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/buckhorn-whiskey-unveils-smoked-maple-and-buck-hunt-pop-ups-1-500x256.png"
-    },
-    {
-      "id": "38d0ccd5faf49d0c6651",
-      "title": "Best supermarket whisky under £50, expert taste-tested - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1J2a0NQVFdYcHJEY2RFdzZBM21mVEJ2ZXE5UERwN3pnSmdVcmdhRVFUamgtZDVMaUFabmxHa1UxWENzYWxjOFhnWmNsYTZocGxtX1JKaF9OSVZCczBOdWJyS2JhT3k5a09ObWJjX0xlNWRQRGw3ZzFiYXZPMzZqaUtQNVp4VnNQSk4yNUpFUzJrR25yS1NxbHNQZWMtYkFLSXF5S0RyRQ?oc=5",
-      "source": "London Evening Standard",
-      "publishedAt": "2026-11-11T11:08:11Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "2cbeb6c139f3296e351c",
-      "title": "Cedar Ridge Annoucnes Portside II: Triple-Cask Finished Iowa Bourbon",
-      "url": "https://thewhiskeywash.com/whiskey-news/cedar-ridge-annoucnes-portside-ii-triple-cask-finished-iowa-bourbon/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-11T09:41:17Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cedar-ridge-annoucnes-portside-ii-triple-cask-finished-iowa-bourbon-500x256.png"
-    },
-    {
-      "id": "c613c71b639c05414408",
-      "title": "Kavalan continues African expansion with new distribution deal in Ghana - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmNwMWUyX3o1MXdCR184Mm5US0gzdFV1V2FtY2syUlpJNEMtUVJWbzdwamVfSlAxTmszTmNENGZ5UEFJLXhZck81ekZ2MGs0RUxsLUVZaDh6ZnM0TnFCLXNManplMHpKVXJaZGdmMWUyVVZqNTkwTW1MSkczVENVajhxUkpCNXZrazNYWnBvUmlJdWZqbDhVLXltUU1xT2lQbUxGWW5lNHZTd2JWemc?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-11T09:27:32Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b35c5f21ff1c67054022",
-      "title": "Customs hold Pernod Ricard, Diageo Scotch shipments over tariff dispute - Exchange4Media",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBZVFM5bVRtemNEQTE3Y3MxbzFIT01YbkE5cnZLcWEwZV9KRTh4SU1FRndxN04yN096eUpQRXVWZW5rcXE3MEVLY0p0QTlVS285d3plRUdMWFdJM1llcHp6akFkMjFEQ2RKNzdYcUlBdko3dUdXZjZzY2xtQ3VrMHU4SXVBSWRJLVNPVndlajUtUmZVLXp5SUtiOUxtR0pzVG1GRGJKOWY0WGZ0eEhCOTBjajA5X3hqOXhTbndPQXFzSVVCZjlB?oc=5",
-      "source": "Exchange4Media",
-      "publishedAt": "2026-11-11T09:15:18Z",
       "category": "industry",
       "language": "en",
       "region": "international",
