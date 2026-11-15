@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-15T11:49:43.681412Z",
+  "updatedAt": "2026-11-15T13:00:30.154351Z",
   "count": 120,
   "articles": [
+    {
+      "id": "0bac2a2ae5b840995cc2",
+      "title": "The £95 Ardmore Single Cask That Brings Together Whisky, Manchester, And Charity",
+      "url": "https://thewhiskeywash.com/whiskey-articles/the-95-ardmore-single-cask-that-brings-together-whisky-manchester-and-charity/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-15T12:30:44Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-95-ardmore-single-cask-that-brings-together-whisky-manchester-and-charity-500x256.webp"
+    },
+    {
+      "id": "8a4af19ae19d968bea01",
+      "title": "中国でウイスキー投資熱が再燃、成功の見込みはあるのか？―中国メディア - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91WVBEMFJsb05BR0hTUWxvc1BmRFFoMGRPODlzYlZxNFVDU1lMMUVOd1hEUGJlOVJnRExnMHFTal9xbXdjbWFrb0dJZDNVWW9kM2tWRFZSTmhEUFR5OHBVYW1udWItYXI5NXc?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-15T12:00:01Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "778085f38e67a3d83f6f",
       "title": "Laila Gohar brings flavor and memory to Highland Park’s new whisky - ABS-CBN",
@@ -15,10 +37,10 @@
     },
     {
       "id": "e970f7bf41b5a26403e7",
-      "title": "イオン、ウイスキー「響30年/21年」「山崎18年」「白州18年」「マッカラン25年」を店舗限定で抽選販売 - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nLW1OX0FLTXhpa1VrVGNRMXMyVVhuTXB0TGpwNGNZUGozSnRkQ1RTVUtQSWU0ZVZScjdSU19wYmI2U0xwVDBfMW1zc0JWOVl1eWJ6c0xqSHR2cGdwLVpF?oc=5",
-      "source": "千葉テレビ放送",
-      "publishedAt": "2026-11-15T08:11:33Z",
+      "title": "イオン、ウイスキー「響30年/21年」「山崎18年」「白州18年」「マッカラン25年」を店舗限定で抽選販売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QQmQ4LVJsd2JVQm93aWp3UGwzWG94UVRXSUk5d1phNmt6UjI5UnJpQVdNc29RX1V5Z1ctTFVjY0tpVXNweWdfcWVldmQ3NEl6Y0VtbGwzdDZvSm84ZW81M0ZkdVRHck52eFE?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-15T08:00:00Z",
       "category": "limited",
       "language": "ja",
       "region": "domestic",
@@ -55,6 +77,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c0a8beb899eb67aa41ca",
+      "title": "世界最高峰のジャパニーズウイスキー「山崎」の真髄を銀座で体感。「THE YAMAZAKI EXPERIENCE IN GINZA」が期間限定で開催中 - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MXhzNnN5UUpxWkUyc3BfRC1uN3JoZHRHb1I3VkJqVnlaY3BzM3lMRW1FQnVucmZpUzRWTG1OU3AySUZnWUs4X1FNOUtyQnYxSmhvUWlR0gFbQVVfeXFMTl9sclpfVm9ZbE9WZ2phX2ZxZG1iLUs5MU9tVDctTE5Fc2pHV1JGSnl3WG81MURfaFpWSkZLS3V4eGdMb0VPNk12cWxVTUpCY1VfTnp6UGhwQmNqNA?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-14T16:15:49Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1287,39 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "68afd2c5c5ec89e2edca",
-      "title": "Whisky Advocate - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OSHlvVmhvZHU4UzlseW5QQVV5b2VneEZzVHo3Qm5KMWd3aTNzdmc1VFBrbDMwNGFDVzRYRnRZVWh6b0lPazJWQm1pWS1QcTg2OVE?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-11T08:17:12Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1275b273d0a510c1d01a",
-      "title": "Hibiki Japanese Harmony x Chiso: Kimono creativity meets whisky mastery - Prestige Online - Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWJpVzY3dGRrVjFfTEFyaGNFOW5BZDBfR1hEOFdlcURyaGN1VjktbDRlS2JPbXVrUS1KWDA3aDVoZ3R4NjBLUjFrMjkyb2pEV3kxN3g5dDQ2TDRITERBMnJvWFg3UnRNcUowOFhOWm4yOVVELTVMcDNnMkR2MEtUT2s1TkQ4MmNIVk5CckNBdV9EWjNVc1F0bDZDd2tmX2pzb0N5TzYtRmxiM00tTV9ITVUtZVJSd3NpSnJyXzlqN3VpOW_SAcgBQVVfeXFMTUxoSHdfM3BreUlaUkRpT2hyRWlhLXJoc01jcUFHb1YyVkdPOVUzOVZQWDc4NllHQWZVOTlvZjJOTlRfeko5c1hUR0lGVm9kZ2VvZ29LUXNDa29fc1ByTzFsUk16THUyeXVLZS1YZUdKbXUxUmlibHlyUGxQMGpTX1NlQkRDa3RnaGRMUmJybHh0MXgyVVNWMUN4TWVQdDROQmZMTE5SdnVWSnU5bDBmWVpCdU9HdVNwanBmUVNRa3dBd3ZsQ1hibmg?oc=5",
-      "source": "Prestige Online - Singapore",
-      "publishedAt": "2026-11-11T08:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "aac9f9ec84c45550deef",
-      "title": "ウイスキー「響21年」やイチローズモルトの“20周年ボトル”などが当たる「福みくじ」受付開始（グルメ Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XMzNpRUF0bk5YVGdDYkd2S1FmMkpibXZhT01KWWtuYWwzTW9xd2NfOEFEWjZpekxna21MYzM0a1JTa2lIMUpTcmZHSjhpTXMzYU5ESFZ6dWJJQTBRMUZscmJ0X3c5VHNvUHhrNTdPM0xBc2hRTlY1N0h0YzNRNkE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-11T07:31:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
