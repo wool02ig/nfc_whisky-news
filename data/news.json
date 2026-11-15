@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-15T07:12:14.666664Z",
+  "updatedAt": "2026-11-15T08:16:07.746327Z",
   "count": 120,
   "articles": [
+    {
+      "id": "85d47000e01d0b87ea34",
+      "title": "イオン、ウイスキー「響30年/21年」「山崎18年」「白州18年」「マッカラン25年」を店舗限定で抽選販売（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHa1NieER1RlhYMk5KV29TWkQzN28ycXhhRE5yX1pvWVhXZHoybWkxczJScU96ejhUd0NtZVQzZmJTZWxid2ZFd18ybVd2UlRHNWlpYTdaNFJsSjd1ZGRQbzd4Z3BYdFZKajJxQXZZS3dRS0FhN0FiN1VFRTBxWms?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-15T08:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "d49675065c9766cb1d20",
       "title": "小諸蒸留所初のシングルモルト「KOMORO ORIGIN」、全国23店舗のプリンスホテルで提供へ 初回販売は世界で4,000本のみ - 観光経済新聞",
@@ -22,6 +33,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c0a8beb899eb67aa41ca",
+      "title": "世界最高峰のジャパニーズウイスキー「山崎」の真髄を銀座で体感。「THE YAMAZAKI EXPERIENCE IN GINZA」が期間限定で開催中 - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MXhzNnN5UUpxWkUyc3BfRC1uN3JoZHRHb1I3VkJqVnlaY3BzM3lMRW1FQnVucmZpUzRWTG1OU3AySUZnWUs4X1FNOUtyQnYxSmhvUWlR0gFbQVVfeXFMTl9sclpfVm9ZbE9WZ2phX2ZxZG1iLUs5MU9tVDctTE5Fc2pHV1JGSnl3WG81MURfaFpWSkZLS3V4eGdMb0VPNk12cWxVTUpCY1VfTnp6UGhwQmNqNA?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-14T16:15:49Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -449,6 +471,17 @@
       "source": "https://www.barrel365.com/",
       "publishedAt": "2026-11-13T08:15:25Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "efbc7b6dfddd0c64b31a",
+      "title": "鳥取・境港発、妖怪ラベルの限定ウイスキーが登場！千代むすび酒造が「妖怪シリーズウイスキー」2種を大正橋売店限定で7/4(土)新発売 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tc0tKOUh4UnZHbjVxWnNaZF9oVEZqNUd6SkdLTHhVckpQNnJoYmxadXdUNGdYS1JXRUN1bXlFSzNqZ0xST25Bbkk3UThDVkhsS1E?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-13T08:00:00Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1059,17 +1092,6 @@
       "imageChecked": true
     },
     {
-      "id": "52039f29506b9c722176",
-      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PX0J6YTJiYTlWYUxVdzM5ZUh3UWFMQzhIVmtfeXQ5QnB1YzQ2bzBENWJ1bktFYXNEblZUUURNSExVYV9FbFRQekxjeFRzQTExRGc?oc=5",
-      "source": "山陽新聞",
-      "publishedAt": "2026-11-11T17:03:30Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "0f901bf8e6bb9e3e34a4",
       "title": "Commerce and Finance Ministries Meet to Resolve Scotch Whisky Dispute - Asianet Newsable",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnYtdF84aS0yMU1MLThvZUhMb001aV9Wc2lxT0VVUjQwYmV3ejZiWVV5Rjl4Q3JLcVM0UFBkV19Hc29adUxPbHhsTFpDNnFPVlNrWXEwQWR2ZWd3a3oyYkF2UFpYMTg0SldDRzNYbWgxYmh3Y3F6WFpDSENNb25RZDhxX0Vja0U5X2hJcFk4WnlIM3FyNFRucVZFdUtYWUlfWHMtX2dpVU5rNllZXzlHX1FudEpMbktUck1WTHN3X0x1X21jSnBSXzFNQdIB0AFBVV95cUxPOV9ldmpBWTBORGIzbXNMTWRsV0p1RW9PMkxnbTZ3cno4VDFVOGlTZTQ4bzdxcDZhQ2VlRkt6NUJ2ZWd0Q0xvTDRxMUQyaVJhRXFwYzRKVnEzZVVLM3owdkpBdC1GVTJCNWNKTlVkN29kMmRSMkNtbUVqdkpmTUpsTWc4V0NicGpuZUplMXZkbTRISmRPZ28wOG9DWGV0MEd5UG1HX0txdng2V053amxzYXV0d2dwOHRLQTVrMHc1Rk9qS3hZS3d6S2Q5VzhSTFNy?oc=5",
@@ -1298,28 +1320,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "73a8c34df720b91fee54",
-      "title": "India-UK trade deal hits tariff hurdle: Customs seeks 150% duty on bulk Scotch, shipments held at ports - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOVRnSmR3X09tODViQnJEY1FIaVlMMWpOX1BCOUgtc2VOZG5QNUI0WVRmMHVMT1lNeWUzU3RkMkZSTzk0blNpbXRudG5ZTlVkWDhlcnFscEVaZ2FWNDlrd3FrcjZDeVpXZXpBaW1NdXlJTW5BeDFHdWVWNUF0WmFaR2RpMmhNN0Riam5ZSmgwYnI3djcxVnhnNDEtN0lkajRnY3hNVnBnRFptLWF5eXlXdzhob1k5OHlKY3RraWlObFprN3lBTy13MGxZS2lpYVhudnk5SlRWeG9yb1V2dUVZV3FVUjgtODQ3N182a3NRbVI0Mkpid3FCM3R4X0F0MHfSAYQCQVVfeXFMUGdtR0U2VU4wU2xtUkI1aWFLbjg4VThCWTY1WHp1VHhWS0RMcUh2aC1HelJ4WUprNmw1b0FPYnlvQnZ2aUdEdXZnc2kzME1PVHlxckM1NU4ySXgzcFBsWERKeVpySE5rbWFKUThsT21RZ01raEdhUmNZcjNVb1VvUHNEVXZ1dlRMUDlsbXFWVE4wMEFNLWtPUnRJajFPT1M4bllUdHdMUmg2SlhnbEotU01GdnpneGNJRHFWS1NpUEYweVQ2MXV2M25XdUp3dXRqQ2VJNUFyS00zNi1DQWRqYnBwMnh3WTZEdTIzSDd6TlJJWDM4X2pXazVUNlVsTGFtQmNvdUQ?oc=5",
-      "source": "Business Today",
-      "publishedAt": "2026-11-11T07:21:53Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9096752b1bec37700eef",
-      "title": "India-UK trade deal faces early test as customs hold scotch imports over tariff row - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQnUtTzRiREQ3TmtkS3pKUG1oaVl1ek9GZVVtWUJEd3dmNXJvdTFOeDg3MWNuVXVSekkwbUM3VVp0eXJzbFlESnZkMmhUSjU5bkQzSHpfemZDaGlZdTkwX3UxaldSQVMtdlMtZThCRXZsakR5bEJiNTJhalc0eVdybm1URnAtM29tdnpmRklXbFZNbm0zdU92V3NQb0NIRjVIYVlRTEpuS1RHN28zQk9Sb29qazF1Vm9RejNWdHppOGJFVGtLaDlUdkpzNjJEaDFuRWFaVEYxeFdJQi1vUm5HV2NJNkx2YzlLVFNQcmtwZ241Z0MtU2ZFel9OWEVJQdIBgwJBVV95cUxQelQtT3J3akZZaDVTWnR1aER5MGRoSnN3ZlprTTYxM2xUbWJGNlBvdl8wQzBwVVl1cm5pdTFTTm13VkdBTFBjMFlNb1BZTjI1bm96UmRaOGVKNW9DZ3h6cUp0SmE0a1FjS1ptTmNNV0JlVDlreXRVS2VmQUZySWMwVmhGSHNoSkZhLWxSdm9CZmQwMFlKUzVaTzU1c3hQS0NmOHZCcHVFeFh3aUl6X3NPdDF6bGx0RU5DbXNKZGRPZUhZQTlGTl96X1pIdGlhazJKRVpyeW5BRFlXcmM1TWExejNiTzdPRVNWTHp2V2N1eVBFd08wSG1vVnhIbk9DR05UYmhJ?oc=5",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-11T07:17:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
