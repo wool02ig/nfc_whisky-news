@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T05:58:39.329268Z",
+  "updatedAt": "2026-11-15T07:12:14.666664Z",
   "count": 120,
   "articles": [
     {
@@ -1004,6 +1004,17 @@
       "imageChecked": true
     },
     {
+      "id": "5584c25e7ef029572e99",
+      "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16Ull5WWdQd2xMRE9PM1pOTUdFUDd2SGxreHd5UlkzWW9FSVN1Mjk4bjJJcUJ5SHRLd1hKUDRIWE9teU1aZ3oyY2FScVZucEdKeFpnVzVNcnF3SDhoUlNKNTJGSHY2QjZUYmVUd081YmhSQQ?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-12T02:15:49Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "7e107292234dfd550366",
       "title": "India Seeks Resolution to Scotch Whisky Import Duty Dispute - GK Today",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVltVmNHVFVCcFU1OXhuT0J5Uk9SZjl1X0c4dXhpZXNtSHo3amsyekFhRXRzcnExakY4OTI1QXkxaTg5cTFlODB5Z1JHa2EzYUxRaW1LU2dpZzZXYkhEVTBlOXRtcGJvY2RLYzlxOVQ2cDI5aGR5c1hXenRmeHFBTGFOR2ZtM2hGX05F?oc=5",
@@ -1021,17 +1032,6 @@
       "source": "Walker Plus",
       "publishedAt": "2026-11-12T01:30:37Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "5584c25e7ef029572e99",
-      "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSmd6b0Fmb3VrWFRFWFBLeS1EeDdxRWh3c1Z5VHBXTkJocTd6SVNPZHUyamU5NjFLQV83NEtzaklFUXZ5S0Y5OHFZZjUzREFRSk1Oa0lmcmROWE51N2h5LUQ4R2xxTXU1T1E?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-12T01:00:02Z",
-      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1056,6 +1056,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "52039f29506b9c722176",
+      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PX0J6YTJiYTlWYUxVdzM5ZUh3UWFMQzhIVmtfeXQ5QnB1YzQ2bzBENWJ1bktFYXNEblZUUURNSExVYV9FbFRQekxjeFRzQTExRGc?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-11T17:03:30Z",
+      "category": "new",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a0f9a497a1ee6f064a82",
-      "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZNnNYV3ZkQ3BwR3ZaalFuX0Y4Q0JLakFBMVJSNnk3TmdQU0lPTlh6RlVUcHVmQWJvRWpIbnFuWXhYcGZnbGN6Z0RCZUJUZy1QTVEtaUI2Y0hLS3l4S05LeDdiWWdkS1lYX1hN?oc=5",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-11T07:16:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
