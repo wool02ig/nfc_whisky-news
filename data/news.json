@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:43:12.585317Z",
+  "updatedAt": "2026-11-15T01:15:08.910376Z",
   "count": 120,
   "articles": [
     {
@@ -125,9 +125,9 @@
     },
     {
       "id": "e8d4ead8ce535ddad77d",
-      "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Northern Scot",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtSU3BFcTZoVEt4WUdrOERaY0ZqaGo5dzBNNGRELVFNZC1jUkJHYmhWRE9QZEppWHZidGQ1c3lVdmtMQTZidFBzQ1pXZHVtT21ZSWZvQ1RHaDRmcFVVWTg3UnhsWFJWR0ktTm9rbXA3Zm5fOHJSQ2NaXzhwYk1aaG9QeDlzbnhtTzdOUEdrOTBwXzktaFhNalhaVkk3SnJjVHdYTmlIc1g?oc=5",
-      "source": "Northern Scot",
+      "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Grampian Online",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWVncEZ1emg3Nkp6dENjalZ5cFlPdXlsU1V0RXZ4UHk4bVEzYU1PbXI4bWQxaVFfSzRKMUk5VmdCWXZJcXc5bkRlQXR1Vzk0U1JpcVZ0TnJjRURXX1ZOQ0oxcENyZUVCQkdtSDB1dlpjd1V5RU8xTWtGSDZreG1zZFpsQmdjOGNvOXhDelBwaXhMVjVlSlJSTi1ub2lHa1RGbTIxeVcxN3NfUQ?oc=5",
+      "source": "Grampian Online",
       "publishedAt": "2026-11-14T05:30:00Z",
       "category": "distillery",
       "language": "en",
@@ -542,17 +542,6 @@
       "imageChecked": true
     },
     {
-      "id": "4f24a1c67fe2fa7e5214",
-      "title": "The Macallan ends its “A Night on Earth” series with a New Orleans-inspired single malt whisky - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE5RVEgtZVFsd2t0NTBDZ1RSRFJMMFYtcFBkYjE5T0VZVmp0ZEVEeDV3UFlJQmhGVlBORXg2S3ZSWjhuT2pVd0thenRKWXhteWt4V01Za1FzUkxjMWtnQmpRZ2RLTlFFTGVRXy1ETFlmVlJ5Q2FGbEVCYWg1X1pRX1ZTZWhhRUd5ZWFmUWNyX1c0SHE5eEE?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-12T22:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "f4d21ef104340a24479c",
       "title": "The End of the Road for Hedonism - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VS0NYMHNqQzdWMmN3SUNuRVd5SkI2N0w3ZUtDbmZPYkpiMF9faTBUbFhEaURmUUM5LU9USWxCYUN1WEFUVHlDeHAxS0xrTXhLOFprakFoVHhfLW5ueGNJY0JYQ1pYcEhRTkozdQ?oc=5",
@@ -918,7 +907,7 @@
     {
       "id": "3f5c6949e9859a36b4f6",
       "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IV25KMmRVVndyQ1BERjhCWEEtN3RvWW1lS282ZW83dUt5TmFSMkVLZFBJUXU5MEdpbXJrTU94QXk4eE9ZQnhNbXZxclRCc0pvWUlOb3dBbHpjd280TVJIYktZSHlod2NDbXluWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
       "source": "J-CAST ニュース",
       "publishedAt": "2026-11-12T08:45:00Z",
       "category": "new",
@@ -1309,6 +1298,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a0f9a497a1ee6f064a82",
+      "title": "【伊勢萬】こだわりのウイスキーを、もっと自由に楽しむ一杯に「神路ハイボール」11月12日より東海地区で先行販売 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZNnNYV3ZkQ3BwR3ZaalFuX0Y4Q0JLakFBMVJSNnk3TmdQU0lPTlh6RlVUcHVmQWJvRWpIbnFuWXhYcGZnbGN6Z0RCZUJUZy1QTVEtaUI2Y0hLS3l4S05LeDdiWWdkS1lYX1hN?oc=5",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-11T07:16:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
