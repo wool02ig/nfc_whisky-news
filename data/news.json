@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:02:12.557643Z",
+  "updatedAt": "2026-11-15T03:58:52.746017Z",
   "count": 120,
   "articles": [
     {
@@ -11,17 +11,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c0a8beb899eb67aa41ca",
-      "title": "世界最高峰のジャパニーズウイスキー「山崎」の真髄を銀座で体感。「THE YAMAZAKI EXPERIENCE IN GINZA」が期間限定で開催中 - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MXhzNnN5UUpxWkUyc3BfRC1uN3JoZHRHb1I3VkJqVnlaY3BzM3lMRW1FQnVucmZpUzRWTG1OU3AySUZnWUs4X1FNOUtyQnYxSmhvUWlR0gFbQVVfeXFMTl9sclpfVm9ZbE9WZ2phX2ZxZG1iLUs5MU9tVDctTE5Fc2pHV1JGSnl3WG81MURfaFpWSkZLS3V4eGdMb0VPNk12cWxVTUpCY1VfTnp6UGhwQmNqNA?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-11-14T16:15:49Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1320,6 +1309,17 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "be71ad25de3c39abe6e4",
+      "title": "EXCLUSIVE: India holds Pernod, Diageo Scotch shipments as investigators seek higher tariff - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2dKQl9URVgwZzRNcjdPZWtXVDNPd1gyR2QxY3V2d294UWRqUm5CcnAxSm5hOXh6SjRyYzMzQ1ZCQXo3a1p3MW5Jck9NMEtabkRmMHpYU1lCeHp1cFNEOUlXRHItMnlOZnJleFdRbndsdkpQOXFleUJGQWVfWnlyMUtxak5TblhrLVUwQWktT2F1XzZuNjYxNHhhZENtcTlLcDFtRkNXR3luaU1CUldLUVNoRkhWZm1FT0xzSHZUQ2Q?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-11T06:43:09Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     }
   ]
