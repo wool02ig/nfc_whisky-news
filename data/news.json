@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-15T03:58:52.746017Z",
+  "updatedAt": "2026-11-15T05:01:46.388742Z",
   "count": 120,
   "articles": [
+    {
+      "id": "d49675065c9766cb1d20",
+      "title": "小諸蒸留所初のシングルモルト「KOMORO ORIGIN」、全国23店舗のプリンスホテルで提供へ 初回販売は世界で4,000本のみ - 観光経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STnRadlM2bFRYRWFnTjFJekN5Nkw2Tk5hbUJ3UTgxMkRTU2F0T3ZYeUJvWmR5TmRITk5YTGx0WmFlOVhmdE5Lemk1d3N4VzM5M25TRg?oc=5",
+      "source": "観光経済新聞",
+      "publishedAt": "2026-11-15T04:01:02Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "b565ff09a49ab676b23c",
       "title": "The 14 Best Whiskeys To Buy At Costco - Mashed",
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "be71ad25de3c39abe6e4",
-      "title": "EXCLUSIVE: India holds Pernod, Diageo Scotch shipments as investigators seek higher tariff - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2dKQl9URVgwZzRNcjdPZWtXVDNPd1gyR2QxY3V2d294UWRqUm5CcnAxSm5hOXh6SjRyYzMzQ1ZCQXo3a1p3MW5Jck9NMEtabkRmMHpYU1lCeHp1cFNEOUlXRHItMnlOZnJleFdRbndsdkpQOXFleUJGQWVfWnlyMUtxak5TblhrLVUwQWktT2F1XzZuNjYxNHhhZENtcTlLcDFtRkNXR3luaU1CUldLUVNoRkhWZm1FT0xzSHZUQ2Q?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-11T06:43:09Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
