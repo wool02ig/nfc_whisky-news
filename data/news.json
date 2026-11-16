@@ -1,11 +1,44 @@
 {
-  "updatedAt": "2026-11-16T15:15:19.353336Z",
+  "updatedAt": "2026-11-16T16:48:03.401557Z",
   "count": 120,
   "articles": [
+    {
+      "id": "fde64c41b0c7175bdfeb",
+      "title": "Scottish Whisky Awards 2026: Six distilleries compete for top prize as Glasgow ceremony approaches - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0xycUJTTHhsTkh2dk5XbUNZMnkzc1lsbVJPRWpva0ZoOVpwZmYxZG5VeHNBRWFjRkt3d3oyeUFqNHJia1BmUHJNMHZhYUt0LVFMNmluYk10bW9GN1poZzRnbDJWOHZwRDFUeGRZNDFldVBpNzdTYTJlVVNseF9lX1ZUSThOOXZoaC1zYy14MTNWdmlNeHBqQTFZV0Z6U0NZOGdXWURLdnZBLVU3c3JOU1VJUVFwTFE2c1FfVF9DczVkVmc2MU1vSXgycUlyX3pn?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-16T16:32:28Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "d97de29aa87091a32832",
+      "title": "【北陸新幹線で約2時間】「野沢温泉蒸留所」の絶品クラフトジン＆ウイスキー蒸留所巡り 山里の魅力も徹底レポート - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HcWV0RXJ6QnVvVDZ4THBkM2ticVlpQlIzQlJpZ1dpekVIT2ZnWklfQmJkemxPNEdQMUdUSThEbmlkcVJUaVBYZUJhcUVEaFJNMEFGSmNmR2hRU0pqTWlvU29qUUZKX1VBUWMyT0Fn?oc=5",
+      "source": "au Webポータル",
+      "publishedAt": "2026-11-16T15:09:35Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "f08ee0eed4a0c583754b",
       "title": "ウイスキー「響30年」が希望小売価格より6万500円安い“39万6000円”でAmazonで抽選販売 - グルメ Watch",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3dE9vRkdwc2Q2Z0JNWEVXZkgwZWJYdEdQV2lnMExWeTIxN1ZYUTNMcU5hQ0xUWHB1YnUyTk5zME90ZjRWTGpwV1N6OEFxZXJNOFNhV0FxM1F3U3lQaVMxV3RHUTRvY0pYblVLWW5TQUxwd2c?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-16T15:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "402ae93758ee35e65f87",
+      "title": "長濱蒸溜所、ピーテッドモルト2種をブレンドした「アマハガン ウイスキーハイボール」を限定発売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWkpybDRoZVJzNDVOci1JbUZPbVA2UzdYTE5MS241M1RDNTJhUWJKT2VNWjNqVlk2TEhxREVfQ3pZUmVNMXpqajdPMzdBNkMxOFA5ZVdLN2ttU0pONGJwS09MOE42dmdXcWc?oc=5",
       "source": "グルメ Watch",
       "publishedAt": "2026-11-16T15:00:00Z",
       "category": "limited",
@@ -47,6 +80,17 @@
       "imageChecked": true
     },
     {
+      "id": "4d19148420f47c2ea2ca",
+      "title": "Rare Find Unveils Final Whisky Releases of 2026",
+      "url": "https://thewhiskeywash.com/whiskey-news/rare-find-unveils-final-whisky-releases-of-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-16T11:26:11Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/rare-find-unveils-final-whisky-releases-of-2026-1-500x256.png"
+    },
+    {
       "id": "f6679b3db313ddbdf6cb",
       "title": "India expects imminent resolution to Scotch whisky tariff dispute - The Drinks Business",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTBqcmVlMzBpc25qeFVjN0x1bHVDY2RrMVlxOGpzOU5BS054WW94R3kyR3VXNmY3OWJVNzBvY0VwOTNabHc2OXU5RmVZT0VvdFlPcnY3Mk1XZDRqWURfd3RpVWVOcklwZGtKWFpkX25lckhSdEYtVEQyUkRVVHZvRWxfYl9YQ3F6eGFYdXBJRWtkMU0wWE9qMEtyMWlSOFNMU04ydW5MUWZpRFJm?oc=5",
@@ -67,6 +111,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "31b866c410e9caae3586",
+      "title": "Breckenridge Distillery Launches 2 Mile High Whiskey Club",
+      "url": "https://thewhiskeywash.com/whiskey-news/breckenridge-distillery-launches-2-mile-high-whiskey-club/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-16T10:39:05Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/breckenridge-distillery-launches-2-mile-high-whiskey-club-1-500x256.png"
     },
     {
       "id": "35dd9ca16bbdcbc3d121",
@@ -111,6 +166,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "6f01d92a664f586d95e3",
+      "title": "Cedar Ridge Distillery to Open Des Moines Whiskey Lounge in April 2027",
+      "url": "https://thewhiskeywash.com/whiskey-news/cedar-ridge-distillery-to-open-des-moines-whiskey-lounge-in-april-2027/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-16T08:37:27Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cedar-ridge-distillery-to-open-des-moines-whiskey-lounge-in-april-2027-1-500x256.png"
     },
     {
       "id": "316a8c48566414916db1",
@@ -1048,6 +1114,17 @@
       "imageChecked": true
     },
     {
+      "id": "2f5895882cc957ee9d15",
+      "title": "A Lifetime Of Whisky Collecting Is Going Under The Hammer, Here’s What Caught My Eye - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmZ0xSbndlekFlMmNzZnd5YWh4c3dpVlBDUW8tdlFOeTMzSHBBeERMbkZDUXdhM1d5R3JJR3dhM3hyV2loOWQ5dDV1Qng?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-12T13:03:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/a-lifetime-of-whisky-collecting-is-going-under-the-hammer-heres-what-caught-my-eye-500x256.png"
+    },
+    {
       "id": "2edeee3fcaedf1d10bea",
       "title": "Rare Scotch whisky to make Asian auction debut in Hong Kong - The Drinks Business",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2R1RVNtMl9sTHViM0Zvc0NQUG1rUHBZZXF1VzBZQWJNWEpEMndaUnRNd09BNnpDODFmTkgzWjZWY3A5dXpvTGhPVURjeDZpekJaaGZLYmxhTU1yNjgxMjkzTGwxR0pzU1R4dzJrdjNSb19MNldGdWY3UFdzVHVTd3lfcUR5VkRSLUFVZldaZUNJa2g4T29YbC1YSFdkWF9qaWc1dQ?oc=5",
@@ -1068,17 +1145,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "2f5895882cc957ee9d15",
-      "title": "A Lifetime Of Whisky Collecting Is Going Under The Hammer, Here’s What Caught My Eye",
-      "url": "https://thewhiskeywash.com/whiskey-articles/a-lifetime-of-whisky-collecting-is-going-under-the-hammer-heres-what-caught-my-eye/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T12:30:24Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/a-lifetime-of-whisky-collecting-is-going-under-the-hammer-heres-what-caught-my-eye-500x256.png"
     },
     {
       "id": "dfbb39ce623693f8fb97",
@@ -1255,72 +1321,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/westland-whiskeys-latest-garryana-american-single-malt-launches-nationwide-500x256.png"
-    },
-    {
-      "id": "ed55c2047020f9b54a78",
-      "title": "Ten Thousand Years in Your Glass: The Secret Life of the Peat Bog - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03WDhKMndYNHloSVRfeXNIeG1RblhvZWZ4WGxuZjNELTZncU9HWXhNSVBVRTJ3ZTFkamRsdktoNVNMYkVzYWIwcmluVEI?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T09:18:28Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "784313cd977a77358ed6",
-      "title": "Scotch Whisky Duty Dispute: India-UK FTA Tariff Talks Held - Kalinga TV",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMEJlLTVIY1dkb0JRT04ya0N1dDdfc2ZTVmNXbDd2dVZ6RlA5dGtCeUFpdXhMdEdaZlpyYUVtSElBUXk5ZDEtb3RnWjcta2NFSl9SZlBFdWxQdTBZZDIyVVJFdXpEWk93eU54WmFSdDF2V0IxVGVaaGw3SkZMVHFMa285ZmxWNy0wSWdlZXJ6SVRyTHM?oc=5",
-      "source": "Kalinga TV",
-      "publishedAt": "2026-11-12T08:59:43Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1748ba6349d4fc057d6c",
-      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05VTdWeEhaVGUwRDFtVjVQRk9PZGFzVzZYME1DX0Itb1lpLVlWQmNtTGZZbnNHUDh1eTZaVm9QVTRzU2JqMGNzOF9COHFKQUl4Z3NhMFJxODRPMllJem4xU05LeGpBVnllWVBlYS1fZTlqMG8?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-12T08:48:21Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "3f5c6949e9859a36b4f6",
-      "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
-      "source": "J-CAST ニュース",
-      "publishedAt": "2026-11-12T08:45:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a1494c8a295df0d34fca",
-      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100％、 292本限定をCAMPFIREで11/13先行販売 | LOERKE international株式会社 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUkVheDh6ODl4ZWlvem9SdVJNNHZWQkhKcnEzM1VDV3JlUWw1TXlKTTNlOEJMWW5EcUh0WHdBMlgxVmprTUdGeFAxT3NjZw?oc=5",
-      "source": "アットプレス",
-      "publishedAt": "2026-11-12T08:45:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "53487dfcd7e63dd1f66b",
-      "title": "Glengoyne launches new vintage release - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFpGVDAyTFRZeTNIQ29oSmNkTDRqcGpWUFVOWVFPUFRRMGNJOW9XdXhDRVB6SFptYTM3OEZQVDBsTC1LOVV4ajFRT2V0cDJGMnVqSENYYnNsWnFqMy04RHlOU2NVYkZPaUxPc3l4Z3lrVFZrT2pocnRPbGtJcnV5NF9n?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-12T07:52:28Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     }
   ]
 }
