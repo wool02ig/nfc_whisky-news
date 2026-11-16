@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-16T19:03:41.374486Z",
+  "updatedAt": "2026-11-16T20:03:34.663487Z",
   "count": 120,
   "articles": [
+    {
+      "id": "d7a1f7b1ef25b7491fd4",
+      "title": "Just in time for Christmas, 10 new bourbons, whiskeys to try this month - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16VlNEeVJPVWtsUEFNd2x0Ml9VNXZlNUpGQ3FTYnoyWmJUQ1BNY3FneFpBd0xQYmFDWUQ1U1Q0Rlk2am9mMTRaVXYxeF9PblpCNDhzSUZTWHFKQ1VNbWJyUm5jYmxJUG1LbGR1ajZzS2FNNWZH?oc=5",
+      "source": "Lexington Herald Leader",
+      "publishedAt": "2026-11-16T18:35:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "e65a2e3f1093407c0392",
       "title": "Tomatin Releases Three Single Cask Whiskies For Lunar New Year - The Whiskey Wash",
@@ -9,6 +20,17 @@
       "source": "The Whiskey Wash",
       "publishedAt": "2026-11-16T17:24:25Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3ddfe6525b129092cdaa",
+      "title": "The Perfect Thanksgiving Dinner Aperitif - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94UTFNQjZjcGo3RDIyem9BQzYzV0JUdnRRR2Y2Tm5lTUVWTFR5bXZ6N19tS2VqaFN3X3RWTkNpdHlxeTdKR2RSZ1FOSmpXMTluZHN2NGtWOVFuUl82N1gyT1dYUXF5UQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-16T17:06:27Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ09QM25WUmFkNGhjLXJRWFFLZndkVUJyMXEzcjRSZ0ZsY1FQQmN5cGxWSFZxWTV5NU5ZSEFZaE9rN2pGOFNXREp4MFpSRmpFVVhnVG5ZNk43UTdNNzJnOHR5VHY3MzduMDRRUmd6c01JVC10OWRYOEFZcER6cVNNUDNjRTJQY3FNZloxQ3R5c3JsUFlkWDRzNHRJWUc5OWlqbXFoQjQ5WXhzcVEtd2hTR2hGSzV3SEF6SU5rUmoxcG9aOC14dzFscHdjd2dRMk9sZGc?oc=5",
       "source": "www.feast-magazine.co.uk",
       "publishedAt": "2026-11-12T10:40:58Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "91a6acce722529c6adf3",
-      "title": "Baltimore distillery wins best whiskey at international competition - The Baltimore Banner",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1hfRUlNWGJyOG9XV0VpeHdydVBNdGxLOVpCRFNNcC1HRFk3Y2Z3Vk9pTWFQNmtjYjQxcmlWaTZDNTFEMVg0STg3STAwVGh4ZnY0eHdRSVdsYkJLdW5FUFBjTWFHZlh2eDloUkhYUHZ1RFN2V0psQlB2TG5GMHRra2d4S2E4ZGJ0eWM1UGlweEdMei1ldXVDMGc1YnBvTmZUVkFwRkx0eGxQUQ?oc=5",
-      "source": "The Baltimore Banner",
-      "publishedAt": "2026-11-12T10:30:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "cb3b542bfeef2e980e68",
-      "title": "Whisky Journey returns with more delicious drams - Lifestyle Asia Hong Kong",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU256YUVvR2pXWjdsSE92Ry1SVUNTR3lwLWJxdldpRXI3djdhQ0Q4SmpFMGlYSFEzUkJZZktPOXVWSFZqbVVZZFpBYVNpdEstNWdtaFV0RVlxQ2NHMmgwNXBYWEtlZEZJMjdXbk1hSE9YOXk1NmJfSnp4dFRxX3dHb0l4Wk1UVUJnd3gyckVVWVpGUTl2OWc?oc=5",
-      "source": "Lifestyle Asia Hong Kong",
-      "publishedAt": "2026-11-12T10:23:39Z",
       "category": "industry",
       "language": "en",
       "region": "international",
