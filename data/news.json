@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T04:22:55.229244Z",
+  "updatedAt": "2026-11-16T06:27:14.936251Z",
   "count": 120,
   "articles": [
     {
@@ -75,6 +75,17 @@
       "source": "Infoseek",
       "publishedAt": "2026-11-15T12:00:01Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "8b063cc079a505865513",
+      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-15T09:01:14Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -411,10 +422,10 @@
     },
     {
       "id": "b9803a1d401fdd70342a",
-      "title": "Scottish whisky veteran honoured with lifetime achievement award - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbG1DTnJyWDlWa3lxMk90Tzdxam1uQ0hFd1djanNONE9JY0Fzcm04aC10alNmRG42WkExdFJPNUpMYnh2Qm9TX2NrenJkWC1JYkNWeUJfcDl0enR3cFBHN0Zobzg2SnR6bE44WmlwQklvbFpWMzFNaTRZVk5LYVlBUXQyYy1YcnZBRkx6X2x4dzVYQzluR2RDbHBOZkgxZw?oc=5",
-      "source": "The Herald",
-      "publishedAt": "2026-11-13T14:26:38Z",
+      "title": "Scottish whisky veteran honoured with lifetime achievement award - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2hPaXRpMnF3MHRfTWEyRXZtd0FoaUl5OFBBSEpzYWVoaDZsWWhMVzE4Q1psc3FUbUxYNDZFYURId1o5bGFZZVlOaUdUNHlpbjdVbFJINDBtb2h4eUZVUkpnZUpEMS1KWTVzUFFxMWtkQ3luMTU4ZG9yeG5MZzhEejMzTmxQRXVzcEE?oc=5",
+      "source": "Yahoo News UK",
+      "publishedAt": "2026-11-13T14:25:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -601,7 +612,7 @@
       "title": "Wharf Distillery swaps folklore for a timestamp with single-cask English whiskey - City AM",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93QVlURHVaNEdoM0F3ck4tTVdZOENJTmtlZ01lcV9Fejkyc2djSkdnTy1PYXFlcTVRZFdNX3BOSWZvbDZEYTRrdlRibndwdTc3MzBjci1PQzJWYjY1bHRwTld5bzBmVmxmR2hjR2N6QkN2UGlSQ2l3?oc=5",
       "source": "City AM",
-      "publishedAt": "2026-11-13T09:11:52Z",
+      "publishedAt": "2026-11-13T09:12:39Z",
       "category": "distillery",
       "language": "en",
       "region": "international",
@@ -1125,23 +1136,23 @@
       "imageChecked": true
     },
     {
-      "id": "3f5c6949e9859a36b4f6",
-      "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
-      "source": "J-CAST ニュース",
-      "publishedAt": "2026-11-12T08:45:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "a1494c8a295df0d34fca",
       "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100％、 292本限定をCAMPFIREで11/13先行販売 | LOERKE international株式会社 - アットプレス",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUkVheDh6ODl4ZWlvem9SdVJNNHZWQkhKcnEzM1VDV3JlUWw1TXlKTTNlOEJMWW5EcUh0WHdBMlgxVmprTUdGeFAxT3NjZw?oc=5",
       "source": "アットプレス",
       "publishedAt": "2026-11-12T08:45:00Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "3f5c6949e9859a36b4f6",
+      "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
+      "source": "J-CAST ニュース",
+      "publishedAt": "2026-11-12T08:45:00Z",
+      "category": "new",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1224,17 +1235,6 @@
       "imageChecked": true
     },
     {
-      "id": "8b063cc079a505865513",
-      "title": "サントリー「バランタイン」から4種類のシングルモルトウイスキーが数量限定で新発売！ - Walker Plus",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EZ253cWk1Wnh4dUR5VnZVQ01EaXRyZkJWSE85VE1wQTZTVnF5eHVXU2RaSjQxTlRDVE94ZGFQd1haNkpZRUdpOXVkUzNSWlRzd1VvRkFR0gFbQVVfeXFMTU9xR1o4ZURBemllT3U2OWM4YlpMcl9qNW16ZDY0U0p1SWNjdWZBUWlNY2dnZVBoazZSMklTblYxbmpKdjMybE9NX0czZXhGRHhxaUJiQ1FoZGpiaw?oc=5",
-      "source": "Walker Plus",
-      "publishedAt": "2026-11-12T01:30:37Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "5584c25e7ef029572e99",
       "title": "『ウイスキーガロア』12月号、スコッチ最北の地へ！ 驚きの新旧10蒸留所を徹底リポート - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSmd6b0Fmb3VrWFRFWFBLeS1EeDdxRWh3c1Z5VHBXTkJocTd6SVNPZHUyamU5NjFLQV83NEtzaklFUXZ5S0Y5OHFZZjUzREFRSk1Oa0lmcmROWE51N2h5LUQ4R2xxTXU1T1E?oc=5",
@@ -1265,17 +1265,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "52039f29506b9c722176",
-      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PX0J6YTJiYTlWYUxVdzM5ZUh3UWFMQzhIVmtfeXQ5QnB1YzQ2bzBENWJ1bktFYXNEblZUUURNSExVYV9FbFRQekxjeFRzQTExRGc?oc=5",
-      "source": "山陽新聞",
-      "publishedAt": "2026-11-11T17:03:30Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1318,6 +1307,17 @@
       "source": "Fred Minnick",
       "publishedAt": "2026-11-11T14:33:17Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "5260a1d3eca1091b1c30",
+      "title": "Fettercairn launches its latest Distillers’ Secret release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHlUelhJMEViVWVFeDVTVDM3WnRZc2Y4bXJmdVZGUTE5SGt6TVBiZDduaHVJZlZQRkk1QTdWZjdjcmNvcTZaVUVmeHdyYXg3UU9hREJiX21ySnJJYVcxbkNSUGRlSVhrcU9FRnBPRS1xaU5yMjlkVWM2eTJ5S1pTNlZka1BlLXl0aVIxNW5ldElSZkV5bmlzTTFHdw?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-11T12:59:15Z",
+      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
