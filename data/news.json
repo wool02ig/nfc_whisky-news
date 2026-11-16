@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:55:16.999106Z",
+  "updatedAt": "2026-11-16T23:50:24.804897Z",
   "count": 120,
   "articles": [
     {
@@ -184,6 +184,17 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHc1dE1rcm96ajBrQWxxeHBudDdWLVZ0Vld6WjV5UUZFZDBudmtvM3h6ZGU0SU16NDV3R0RDTXpZZVZUUXVmRVdPVVJ6Y0lXWEhZSDQtQ3FncFFMMXVBR1hmR255S3lZcGwyVk9CSGJya1dLZzJmWG9hN01iRTUwRjlDb0NnU2IzdV9KMmhzdHpZVTFMQlE?oc=5",
       "source": "Scottish Licensed Trade News",
       "publishedAt": "2026-11-16T10:59:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6f3997c2434a9a0588a2",
+      "title": "Chivas Regal brings Charles Leclerc's 16-year-old whisky to India - https://www.manifest-media.in/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSENaQTMzY1FtWDdPNkpFdHV0UG9vYkRwRFZzbWw1RWhjVDU2QlpONFpaUDUzbnd5a0lHajhyejZ6ZVYzR3pCYWRUZWhEaFVEb2JtT1gtdjQ3SlF1R0lFb2psMndDcWhMR285dTRRdlZXN1pKMzFDUUlwLXM3Qmw2eVByUXB2VkN0V1VLcHQ5eldvV0dfa2EtWTNXaVJ4VTh3OUJOcXNtUWtKUjVjOUFMREphMkRMV0U?oc=5",
+      "source": "https://www.manifest-media.in/",
+      "publishedAt": "2026-11-16T10:56:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1114,6 +1125,17 @@
       "imageChecked": true
     },
     {
+      "id": "76a14156a487453ef998",
+      "title": "Westland Whiskey’s Latest Garryana American Single Malt Launches Nationwide - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1RWQjRZSHpxeHBkWkVwRXVCTWVjME9PQVV5bURQMnJLUVJVVWFoVk5JZDRHcXdUbDBvUzFhcENqQjdwZGVIYkkzZlJ3dHFzVFVZNDV4d3JVRFBwZ2U5LWppUXFjaXlWZVNVVFZ4dE9XRVNic3FGUF9ZTGtIYUNpUzlPcjZ0dmxBWGhMbzExbGNKR1lQZUFSUHMxemFMVmdTbHVhSkNDNVIzR0xKRlA0U01LMC1hdw?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-12T17:00:25Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "0bb9ad32afec972ebf60",
       "title": "Lagg Distillery Announces Quarter Cask Small Batch Single Malt - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVZNUkF4M0hHS1lxcXE4RzdDdEg1dDdpZ1QxbF90anpJc2tzNUkybjlYbzFwYWkwTkFGUGVjdWxOSGc2ekhNNWZCVDhRZE5Tcng5aUtocVJqUVJ1TklXNkZCVjJ1b29reUZyX3dHYXFUTTRqc3lzZmx1a2RKcGtyOW5nck1zTlVicFlVZ1RWbmtaZTlwNGRFVFBiZzU3UmVkQkNJQ3d3?oc=5",
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "7e563a229abc26337e09",
-      "title": "World's Best Scotch Whisky: Glenmorangie Wins Top 2026 Award - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUY2UXByaVNDemRadURfT01qR3FYeVd4TFNpYjZ5TGV2bU9LbEw0ZnpFRUdzQmRCZ2ZJWUZrYlNqbXphUWdjYmJobDJlNVpnZGFteXZtekJ4SW8xekRsQ2V5NWxEY1owX3Rma3had1F1RElkeTZ6VWpYb1BMUE5ETWxPMVFXRFFSN3BWby1hN1RRZUhJa2dzWHY4VFExaG15R2I0aXhDbHpZOFlqdENxdHUtUTY0NEUwV1E?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-11-12T11:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9d757d9aa4dde57dbe08",
-      "title": "Chattanooga Whiskey Unveils Honey Hot Toddy Bourbon Just In Time For The Colder Months",
-      "url": "https://thewhiskeywash.com/whiskey-news/chattanooga-whiskey-unveils-honey-hot-toddy-bourbon-just-in-time-for-the-colder-months/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T10:53:30Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/chattanooga-whiskey-unveils-honey-hot-toddy-bourbon-just-in-time-for-the-colder-months-1-500x256.png"
     }
   ]
 }
