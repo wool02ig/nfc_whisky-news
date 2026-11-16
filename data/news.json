@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-16T20:03:34.663487Z",
+  "updatedAt": "2026-11-16T20:57:35.632325Z",
   "count": 120,
   "articles": [
+    {
+      "id": "61cca316d0e2cc0f103c",
+      "title": "Inside Keepers of the Quaich, Scotch Whisky’s Most Exclusive Gathering - Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnRucGQtUTIyREx4QlBmbHFRYWp1VktmVTFpelk3RWZHVmdWWXQ5dUF4YXFrbnRlbWdDQzIwMngtVXRCNmlWdTkzUnRiWEdxNlFUMm5vVVRLbkw2dkxlaERZc2x3RGl2RXV4X0dsSTRFdXlYWHV2MmVfaWNnRmFySTlZTGlILXVmdFBmUFBsbDdMZDhxTVVBOTQ4ajBQOERvcTZOUw?oc=5",
+      "source": "Men's Journal",
+      "publishedAt": "2026-11-16T20:05:00Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "25beb2f886dd2779b739",
+      "title": "A very Saskatchewan whisky returns to Lumsden after three years - SaskToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcG14RHV3VGhuZldpck9BMGZuZkt6bkNqRVVvNUFMNmNGREFpZ1BfMTBxWXljMUhTRm1TMDdOYS0zVWllSHk2Yk9nQ1ZNR3JWQUR0NXNVZFVUVGFwbEFZeEJPaFl6LUFxM0toTXlZTFB1UF91TkppV0pHZFp1QkM4RDVmSFdlbHVqTHZYcFRXTmgyMHI2NmQ3U205Um1QdkdmbW5scThiVkNLaXBiVnlYckt4eUVOSGF2NkVESjF5UQ?oc=5",
+      "source": "SaskToday.ca",
+      "publishedAt": "2026-11-16T20:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "708de9b0abd487e5dd7f",
+      "title": "Barrell Craft Sweet Peat Is A 22-Year Old, 142-Proof Blend Of Scotch And Canadian Whisky - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0d6dGY3bENrNDFqQzFISUFKY1lod3BBRnc5c0VxNnZsc2RISGJjc3FJbV9JSmRaN3MyNVBFWnBKa081V2wwbDFGOGFmYXI3cTloUHctbjdvNXVDVXRjbzVjakMtanAzVTNFY3FvS3ZFTmt6OUloQVZVVDE2aThPQVo4eV9pVkV6QURCaXJkbUJfVlNlazFpQVFfVTdrcnFnYkV3Q3V4cnMtT192SFE1VGpBVzFRTnIzUjIzczFBMTlRT3dWUC1aaUZTX1B0eWdWYlBRdA?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-16T18:58:11Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "d7a1f7b1ef25b7491fd4",
       "title": "Just in time for Christmas, 10 new bourbons, whiskeys to try this month - Lexington Herald Leader",
@@ -42,17 +75,6 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-11-16T16:32:28Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "708de9b0abd487e5dd7f",
-      "title": "Barrell Craft Sweet Peat Is A 22-Year Old, 142 Proof Blend Of Scotch And Canadian Whisky - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0d6dGY3bENrNDFqQzFISUFKY1lod3BBRnc5c0VxNnZsc2RISGJjc3FJbV9JSmRaN3MyNVBFWnBKa081V2wwbDFGOGFmYXI3cTloUHctbjdvNXVDVXRjbzVjakMtanAzVTNFY3FvS3ZFTmt6OUloQVZVVDE2aThPQVo4eV9pVkV6QURCaXJkbUJfVlNlazFpQVFfVTdrcnFnYkV3Q3V4cnMtT192SFE1VGpBVzFRTnIzUjIzczFBMTlRT3dWUC1aaUZTX1B0eWdWYlBRdA?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-11-16T16:28:20Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ1ZQRmNWeThhbllCUjlzZVhNaWFyUktqS3BiQUo0V1RVOUZuc2g1SU92b09xc2JQQkc0eW5uSGxpM25PT2F5YTBBYXFkUGQwaWNMYW10OE1Jd0hMUEo1UWlwU0VTdkYwdnhsenFqQ0hBMTJ0NFBYVFVMZW5xcW1ZeUZKUFNFSzZmWExZc19GSHg1RlQyaGhEUktWZjg4OUR6ZlJ0YTlB?oc=5",
       "source": "The Drinks Business",
       "publishedAt": "2026-11-12T10:46:49Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5921807e536e6c65b0da",
-      "title": "Amber Restaurant marks 25 years with whisky flights chosen by its own team - FeastMagazine",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ09QM25WUmFkNGhjLXJRWFFLZndkVUJyMXEzcjRSZ0ZsY1FQQmN5cGxWSFZxWTV5NU5ZSEFZaE9rN2pGOFNXREp4MFpSRmpFVVhnVG5ZNk43UTdNNzJnOHR5VHY3MzduMDRRUmd6c01JVC10OWRYOEFZcER6cVNNUDNjRTJQY3FNZloxQ3R5c3JsUFlkWDRzNHRJWUc5OWlqbXFoQjQ5WXhzcVEtd2hTR2hGSzV3SEF6SU5rUmoxcG9aOC14dzFscHdjd2dRMk9sZGc?oc=5",
-      "source": "FeastMagazine",
-      "publishedAt": "2026-11-12T10:40:58Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8c268dd4a164e73d3211",
-      "title": "Amber Restaurant marks 25 years with whisky flights chosen by its own team - www.feast-magazine.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ09QM25WUmFkNGhjLXJRWFFLZndkVUJyMXEzcjRSZ0ZsY1FQQmN5cGxWSFZxWTV5NU5ZSEFZaE9rN2pGOFNXREp4MFpSRmpFVVhnVG5ZNk43UTdNNzJnOHR5VHY3MzduMDRRUmd6c01JVC10OWRYOEFZcER6cVNNUDNjRTJQY3FNZloxQ3R5c3JsUFlkWDRzNHRJWUc5OWlqbXFoQjQ5WXhzcVEtd2hTR2hGSzV3SEF6SU5rUmoxcG9aOC14dzFscHdjd2dRMk9sZGc?oc=5",
-      "source": "www.feast-magazine.co.uk",
-      "publishedAt": "2026-11-12T10:40:58Z",
       "category": "industry",
       "language": "en",
       "region": "international",
