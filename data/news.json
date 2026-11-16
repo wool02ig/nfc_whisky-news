@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-16T09:47:57.822350Z",
+  "updatedAt": "2026-11-16T11:30:59.749982Z",
   "count": 120,
   "articles": [
+    {
+      "id": "f6679b3db313ddbdf6cb",
+      "title": "India expects imminent resolution to Scotch whisky tariff dispute - The Drinks Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTBqcmVlMzBpc25qeFVjN0x1bHVDY2RrMVlxOGpzOU5BS054WW94R3kyR3VXNmY3OWJVNzBvY0VwOTNabHc2OXU5RmVZT0VvdFlPcnY3Mk1XZDRqWURfd3RpVWVOcklwZGtKWFpkX25lckhSdEYtVEQyUkRVVHZvRWxfYl9YQ3F6eGFYdXBJRWtkMU0wWE9qMEtyMWlSOFNMU04ydW5MUWZpRFJm?oc=5",
+      "source": "The Drinks Business",
+      "publishedAt": "2026-11-16T11:17:54Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "cd3947ef10225bff6936",
       "title": "Scotch whisky travel retail: The £3.2bn duty-free battle - City AM",
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "52039f29506b9c722176",
-      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PX0J6YTJiYTlWYUxVdzM5ZUh3UWFMQzhIVmtfeXQ5QnB1YzQ2bzBENWJ1bktFYXNEblZUUURNSExVYV9FbFRQekxjeFRzQTExRGc?oc=5",
-      "source": "山陽新聞",
-      "publishedAt": "2026-11-11T17:03:30Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     }
   ]
