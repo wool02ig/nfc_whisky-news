@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-16T06:27:14.936251Z",
+  "updatedAt": "2026-11-16T09:47:57.822350Z",
   "count": 120,
   "articles": [
+    {
+      "id": "cd3947ef10225bff6936",
+      "title": "Scotch whisky travel retail: The £3.2bn duty-free battle - City AM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4RW5nWW5lZUVsN0xhSGd0SlRXV2c3TF91ckUxd25OczVSTnM4Qkd3N0tJaUZwblhJSWRkdlJfUFFmdkVtTnZVYU5sSUtlcDdWcHVRNDlVTWVadXRyZkhWaQ?oc=5",
+      "source": "City AM",
+      "publishedAt": "2026-11-16T09:06:28Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "316a8c48566414916db1",
+      "title": "ウイスキー「響17年」の“ノンチルフィルタード”や山崎・白州などが当たる「招福ウイスキーみくじ」発売 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNV9kU0lINVVZdzU0OTBNUUltTVZrcW45djNsal8zYng4N0RSdl9qYlRyUlEzRkNHbERCUjU3ZXduTXN5VXM2cGlMeUloU1laWGRORHhIdktEeEdWMTR6V25nSTkzOFpGVWc?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-16T08:35:47Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "b0bf885476c637ea52ba",
+      "title": "Whisky Abbey Finds its New Parish in Port Melbourne - Drinks Trade",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQak1XVWsxVmZ1RkZ0eVIxM2IyRVNUeVdpVzdUYWNDempQbHBRUUZJNXhXZHc3ZF9aYVA4b2lvd2M2Z3BBOG80WlJnSFZIR3YzRG1VWTduanNJYVRLWlhvRGM3bmpSZzNuOXl0dU1tYnQzZ0JiTk9NTE10aUNRcU45V0FQZms4WVVlUDVtU3VZbzlfdw?oc=5",
+      "source": "Drinks Trade",
+      "publishedAt": "2026-11-16T08:20:33Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "35dd9ca16bbdcbc3d121",
+      "title": "Keeping the whisky flowing - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YejVBRm0zSlJLQkVhVksyTXBlLWZLLThVV1IxcTFoWWpaNFRDVExxWi14RFB3eEhQY3UtU3NkWkFaNmphYTRQMDI1QkZyeVBITEFQdW1hUnpHTF9MWHVSc01ObkNjV1RfNWY3aTV4NmVyWjJ2T2JV?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-16T07:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "abf7290d4dc1f39c176a",
       "title": "TRIGUN MAXIMUM’s Vash and Wolfwood Reunite for New Official Whisky Collection - Essential Japan",
@@ -1136,23 +1180,23 @@
       "imageChecked": true
     },
     {
-      "id": "a1494c8a295df0d34fca",
-      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100％、 292本限定をCAMPFIREで11/13先行販売 | LOERKE international株式会社 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUkVheDh6ODl4ZWlvem9SdVJNNHZWQkhKcnEzM1VDV3JlUWw1TXlKTTNlOEJMWW5EcUh0WHdBMlgxVmprTUdGeFAxT3NjZw?oc=5",
-      "source": "アットプレス",
-      "publishedAt": "2026-11-12T08:45:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "3f5c6949e9859a36b4f6",
       "title": "北極圏の神秘を味わう。ノルウェー「ビヴロスト」新作ウイスキーがCAMPFIREに登場 - J-CAST ニュース",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaellvd2ZiUkwweXhtYUhURVVrRzRPTzJac0xuVjhSdWhSS2hMa2Q2N0xOYV9RZW83UjBZckNRSE1XQjhfVGJ6WU15TnBPN2d1b0s4NE5JLXJnT1ZmOFd3WmJSazhhcjdFOWpv?oc=5",
       "source": "J-CAST ニュース",
       "publishedAt": "2026-11-12T08:45:00Z",
       "category": "new",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "a1494c8a295df0d34fca",
+      "title": "【北欧神話×ノルウェー北極圏】世界最北端の蒸溜所の 新作ウイスキーが日本初上陸 世界初の北極産大麦100％、 292本限定をCAMPFIREで11/13先行販売 | LOERKE international株式会社 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TUkVheDh6ODl4ZWlvem9SdVJNNHZWQkhKcnEzM1VDV3JlUWw1TXlKTTNlOEJMWW5EcUh0WHdBMlgxVmprTUdGeFAxT3NjZw?oc=5",
+      "source": "アットプレス",
+      "publishedAt": "2026-11-12T08:45:00Z",
+      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1268,58 +1312,14 @@
       "imageChecked": true
     },
     {
-      "id": "0f901bf8e6bb9e3e34a4",
-      "title": "Commerce and Finance Ministries Meet to Resolve Scotch Whisky Dispute - Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnYtdF84aS0yMU1MLThvZUhMb001aV9Wc2lxT0VVUjQwYmV3ejZiWVV5Rjl4Q3JLcVM0UFBkV19Hc29adUxPbHhsTFpDNnFPVlNrWXEwQWR2ZWd3a3oyYkF2UFpYMTg0SldDRzNYbWgxYmh3Y3F6WFpDSENNb25RZDhxX0Vja0U5X2hJcFk4WnlIM3FyNFRucVZFdUtYWUlfWHMtX2dpVU5rNllZXzlHX1FudEpMbktUck1WTHN3X0x1X21jSnBSXzFNQdIB0AFBVV95cUxPOV9ldmpBWTBORGIzbXNMTWRsV0p1RW9PMkxnbTZ3cno4VDFVOGlTZTQ4bzdxcDZhQ2VlRkt6NUJ2ZWd0Q0xvTDRxMUQyaVJhRXFwYzRKVnEzZVVLM3owdkpBdC1GVTJCNWNKTlVkN29kMmRSMkNtbUVqdkpmTUpsTWc4V0NicGpuZUplMXZkbTRISmRPZ28wOG9DWGV0MEd5UG1HX0txdng2V053amxzYXV0d2dwOHRLQTVrMHc1Rk9qS3hZS3d6S2Q5VzhSTFNy?oc=5",
-      "source": "Asianet Newsable",
-      "publishedAt": "2026-11-11T16:30:41Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5007da51db79fe2449eb",
-      "title": "English vs. American Oak: How the Wood Shapes the Whisky",
-      "url": "https://thewhiskeywash.com/partner-content/english-vs-american-oak-how-the-wood-shapes-the-whisky/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-11T16:00:44Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/english-vs-american-oak-how-the-wood-shapes-the-whisky-500x256.webp"
-    },
-    {
-      "id": "577b99f033e91622184a",
-      "title": "Fettercairn Collaborates With Scottish Rum Maker To Craft Rum Cask Finished Whisky",
-      "url": "https://thewhiskeywash.com/whiskey-news/fettercairn-collaborates-with-scottish-rum-maker-to-craft-rum-cask-finished-whisky/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-11T15:33:35Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/fettercairn-collaborates-with-scottish-rum-maker-to-craft-rum-cask-finished-whisky-1-500x256.png"
-    },
-    {
-      "id": "691ade6a59e675b81503",
-      "title": "Buzzard’s Roost Announces New Cigar Rye Whiskey - Fred Minnick",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0RqbnZiNkVtdHMxZlZyb2s0c01xMm5VQ0FjT3AtTDBrcmhIRW10UTBvc08xQlNTVmtISjU3TFFwbnQxRE9QN3IxREVsN3ZGTG5XdDVGcURXSGU4MmpCZG1BYmlNTldEMW5INHRyOVROXzdCcS1STFNYMDRPR0tQX3d5YmdHbjJXRnMyQTdpOA?oc=5",
-      "source": "Fred Minnick",
-      "publishedAt": "2026-11-11T14:33:17Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5260a1d3eca1091b1c30",
-      "title": "Fettercairn launches its latest Distillers’ Secret release - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHlUelhJMEViVWVFeDVTVDM3WnRZc2Y4bXJmdVZGUTE5SGt6TVBiZDduaHVJZlZQRkk1QTdWZjdjcmNvcTZaVUVmeHdyYXg3UU9hREJiX21ySnJJYVcxbkNSUGRlSVhrcU9FRnBPRS1xaU5yMjlkVWM2eTJ5S1pTNlZka1BlLXl0aVIxNW5ldElSZkV5bmlzTTFHdw?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-11T12:59:15Z",
+      "id": "52039f29506b9c722176",
+      "title": "【新商品】松井酒造、初の菓子商材/「マツイウイスキーチョコレートセレクション」を新発売！ - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PX0J6YTJiYTlWYUxVdzM5ZUh3UWFMQzhIVmtfeXQ5QnB1YzQ2bzBENWJ1bktFYXNEblZUUURNSExVYV9FbFRQekxjeFRzQTExRGc?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-11T17:03:30Z",
       "category": "new",
-      "language": "en",
-      "region": "international",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     }
   ]
