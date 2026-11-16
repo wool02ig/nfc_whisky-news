@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-16T16:48:03.401557Z",
+  "updatedAt": "2026-11-16T18:08:33.133030Z",
   "count": 120,
   "articles": [
+    {
+      "id": "e65a2e3f1093407c0392",
+      "title": "Tomatin Releases Three Single Cask Whiskies For Lunar New Year - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajBicUVNcldjLTdLVjB5aFdXNXpzUnlvRHJrTXlUeU4xRVF6MElOY0xHeFlHOHcxTWVlTTE5SVNfeXZvRWpRSmt2cFEtaEpUMDZHaDZhT1ZIaDBlOEVwc3BMVWd5M2p0enJWT3pIQUlYbjkzS2plTEZGVEtqVmthaFA3QmJ3bTNvbktWdDluN1VoTWRjbHp0RnBpM01ZdExUVmRxbk5R?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-16T17:24:25Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "fde64c41b0c7175bdfeb",
       "title": "Scottish Whisky Awards 2026: Six distilleries compete for top prize as Glasgow ceremony approaches - ScottishNews.com",
@@ -9,6 +20,17 @@
       "source": "ScottishNews.com",
       "publishedAt": "2026-11-16T16:32:28Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "708de9b0abd487e5dd7f",
+      "title": "Barrell Craft Sweet Peat Is A 22-Year Old, 142 Proof Blend Of Scotch And Canadian Whisky - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0d6dGY3bENrNDFqQzFISUFKY1lod3BBRnc5c0VxNnZsc2RISGJjc3FJbV9JSmRaN3MyNVBFWnBKa081V2wwbDFGOGFmYXI3cTloUHctbjdvNXVDVXRjbzVjakMtanAzVTNFY3FvS3ZFTmt6OUloQVZVVDE2aThPQVo4eV9pVkV6QURCaXJkbUJfVlNlazFpQVFfVTdrcnFnYkV3Q3V4cnMtT192SFE1VGpBVzFRTnIzUjIzczFBMTlRT3dWUC1aaUZTX1B0eWdWYlBRdA?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-16T16:28:20Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -58,6 +80,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/diageos-special-releases-pause-is-a-chance-to-put-whisky-drinkers-first-500x256.png"
     },
     {
+      "id": "f6679b3db313ddbdf6cb",
+      "title": "India expects imminent resolution to Scotch whisky tariff dispute - The Drinks Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTBqcmVlMzBpc25qeFVjN0x1bHVDY2RrMVlxOGpzOU5BS054WW94R3kyR3VXNmY3OWJVNzBvY0VwOTNabHc2OXU5RmVZT0VvdFlPcnY3Mk1XZDRqWURfd3RpVWVOcklwZGtKWFpkX25lckhSdEYtVEQyUkRVVHZvRWxfYl9YQ3F6eGFYdXBJRWtkMU0wWE9qMEtyMWlSOFNMU04ydW5MUWZpRFJm?oc=5",
+      "source": "The Drinks Business",
+      "publishedAt": "2026-11-16T12:42:57Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "92643da4d3d9de6406fd",
       "title": "The Best Bourbon Under $30: One Beats Bottles Twice Its Price",
       "url": "https://thewhiskeywash.com/whiskey-articles/the-best-bourbon-under-30-one-beats-bottles-twice-its-price/",
@@ -89,17 +122,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/rare-find-unveils-final-whisky-releases-of-2026-1-500x256.png"
-    },
-    {
-      "id": "f6679b3db313ddbdf6cb",
-      "title": "India expects imminent resolution to Scotch whisky tariff dispute - The Drinks Business",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTBqcmVlMzBpc25qeFVjN0x1bHVDY2RrMVlxOGpzOU5BS054WW94R3kyR3VXNmY3OWJVNzBvY0VwOTNabHc2OXU5RmVZT0VvdFlPcnY3Mk1XZDRqWURfd3RpVWVOcklwZGtKWFpkX25lckhSdEYtVEQyUkRVVHZvRWxfYl9YQ3F6eGFYdXBJRWtkMU0wWE9qMEtyMWlSOFNMU04ydW5MUWZpRFJm?oc=5",
-      "source": "The Drinks Business",
-      "publishedAt": "2026-11-16T11:17:54Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
     },
     {
       "id": "92fe4b1714cc3513337e",
@@ -1299,28 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "1f081b8e33a779b62e82",
-      "title": "【11月13日発売】有名チョコブランド新商品まとめ！ゴディバ「ミルクチョコレート マカダミア＆ヘーゼルナッツ ショコリキサー」830円・ロイズ「板チョコレート[ウイスキーレーズン]」ほか - えん食べ [グルメニュース]",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDhPTHMwWEFDVDFLVE56Sjh4aTN4dERCb1ZpMHRxdld5REFyWjEwaFJLaS0wM2lMbDN4T0V2ZmdlNnF0MGRnMGxKajAwTnZNa0tWdEVHWjkxd0NDMk5rTlNHNGJUZW1WNUtOSVYxZFVBWTZaa01OTXdGdHNJdHFZalUway02SXBmbng1VFZJZXZfd9IBlwFBVV95cUxNajB0anpPd2NuNEdJZ1BpS3NmMGlXcEdqQzZwRGRPWmtDb09oRWVxUm9iR2NwaEJGMVpuUTF0cVBscjRGZW9sbVFIaThIUDdNMC1ISGlMcERmLTFhZzlzTjN6dlNFQ1Z6TmVZZkxRZUFKQ2JLWVRQb094QUt1cHVJa1pxb3NKNFFhVWdCWGxHUy1BUGJqUmhv?oc=5",
-      "source": "えん食べ [グルメニュース]",
-      "publishedAt": "2026-11-12T09:45:00Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "76a14156a487453ef998",
-      "title": "Westland Whiskey’s Latest Garryana American Single Malt Launches Nationwide",
-      "url": "https://thewhiskeywash.com/whiskey-news/westland-whiskeys-latest-garryana-american-single-malt-launches-nationwide/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T09:29:33Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/westland-whiskeys-latest-garryana-american-single-malt-launches-nationwide-500x256.png"
     }
   ]
 }
