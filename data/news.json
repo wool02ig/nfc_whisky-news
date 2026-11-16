@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T18:08:33.133030Z",
+  "updatedAt": "2026-11-16T19:03:41.374486Z",
   "count": 120,
   "articles": [
     {
@@ -231,6 +231,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "1dcf9615f8d434b0ca57",
+      "title": "響17年 ノンチルフィルタードが当たる！「招福ウイスキーみくじ」全466口で登場 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0taHp2ZmZSWFE5M00ydXI0SXA2ellBNk5tYmFKcTBiUzhkRkJTNWwxUThtNzRaYjdpUGRmeEVvZU9aN2FPTXF6OGdJRTN2XzJEcUVyNG81RVo1MVZDZU9MdkZZUkQxTmY4a2c?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-16T06:00:02Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1306,17 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU256YUVvR2pXWjdsSE92Ry1SVUNTR3lwLWJxdldpRXI3djdhQ0Q4SmpFMGlYSFEzUkJZZktPOXVWSFZqbVVZZFpBYVNpdEstNWdtaFV0RVlxQ2NHMmgwNXBYWEtlZEZJMjdXbk1hSE9YOXk1NmJfSnp4dFRxX3dHb0l4Wk1UVUJnd3gyckVVWVpGUTl2OWc?oc=5",
       "source": "Lifestyle Asia Hong Kong",
       "publishedAt": "2026-11-12T10:23:39Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "7b006653099104b3b352",
-      "title": "More than a dram: the Hebridean island rethinking whisky cask ownership - The Spectator",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNczNtZDduZU9xTHFuNU9vU1FDMUxCTHFYZG9tYkNhbjh1QTVaY1VIVTQ0ODFSd25DQmtYVk9Cc0J0bGx1b25sNkdyZjhzd2M5RWxmUlUyT3BZTGNGdXZJWWR6ZlFxYjFxUkhDdjhwTVpGcm9lbEFYYW5UMHEzTkhvWXpNQllOSHRkbkRPbE9PNnBSbVc2WGk2Xy05cXVqZnh6QWZmcGRISk1KeVk3bWgxeEhR?oc=5",
-      "source": "The Spectator",
-      "publishedAt": "2026-11-12T09:53:21Z",
       "category": "industry",
       "language": "en",
       "region": "international",
