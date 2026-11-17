@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-17T20:13:43.456994Z",
+  "updatedAt": "2026-11-17T21:01:34.276650Z",
   "count": 120,
   "articles": [
+    {
+      "id": "cdbe66851a235987aa19",
+      "title": "The Reveal Has Begun! - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jRExVTFdYMnJ2RzB4QXh0SVRzTnQ4U2N1dkx4LXl3RjhFTUFPWjVwU3FpYTRoZlVCNWFrYndRSi16OXV4cFBwS1ZwRkRGQjA?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-17T20:20:56Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "9c9c8c5b11ced1594571",
+      "title": "大阪大と連携ウイスキー発売 若鶴酒造、２４日から｜経済｜富山のニュース｜富山新聞 - 北國新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wa0NCd25zb0RHTmZaaVo0elFHdFFCV01EVWpVcmVFU01FWVlxS0ZodWhKZ3VYUXFDcVZpcnEwVmVqOXdQaHo5cGJfdy16NnRHRUhGNXMzWQ?oc=5",
+      "source": "北國新聞",
+      "publishedAt": "2026-11-17T20:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "b7106aff52bd74c50c79",
       "title": "Bernheim 10 year old 20th Anniversary - Whisky Advocate",
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOR1FqWmE5bFdHT1hBV2xYMDQtX3NFTlZtcG9SMU5waVRvbWt1LVJhcUwtWnpZN2t3RThVN2M3bDJBT00zeTRjTk1yaXdyekl5N1hTcDBvcFQ2Y2lWMHlub0pWdVdfZ1RNSDBYYnFVdzRETXJ6U3NEUms5eGZmdnc0eE44LXNFaTVPYzYybjFiUTdlbE1uR1BITHNxSDBISDBOZ1g1OFRSLWhkWWp6WGg3UW9Cem9wWnlfQXE3VnpuQzZpdUNDSEtjN3JJOVpOYlNMdkRiZGNWRld3VEVWRzE1WWIxTWNXTE9hLUZJalJqNHozaWJvR3VoN0NkRXVBbFh6b2xXdGxGVlhwd9IBjwJBVV95cUxNbEcycF9qdVZMUUlfbWhZS0RMZGxTeU5nR3lYcGNYbE82eDI2c2tVVTFKSkFXWkdPaENrRWVVdzFsTjFScVhGOXNRaDZBVGxOdmVVR0ZfNlRJcnFLZkdxQUs0R0s1c255YUE5UHQ1OENHcjVlNXJKbm1wRlE0YnZmQVA1WE03Wm9vYWVSYU5GWnZXS3dIcFNkTmE0WFZ6MWhVVk40b1pveDhkMDR3NXFxVWljUXhMMW9xOUhUWm5nMjJqQUtuVFBLazkxdkdMQkM4NFpmTVZhOEd6RFl1TGNtbnB5REIxRjRERzRZYkRqWThfTE9ZRHBqX09Fd2ZZX3ZUX0xGRzUydENTZGhsaFVz?oc=5",
       "source": "The Times of India",
       "publishedAt": "2026-11-13T10:41:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "544ab8280251660ee513",
-      "title": "Scotch whisky import dispute likely to be resolved 'very soon': Commerce Secretary Rajesh Agrawal - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0FLWkxsWWpGN0VDUzdpZW1yMFpWcU5sdTVLdllVWDF6NVloV1djMTlEVjVYdFJlSTBHZFBTdWhCWUJPN1NGS1h1XzAxLTZiZTFGd1dBal9GZHJPdG9rYnZrcUVyblcwUzZ1bGtvdGFLNFYzWDdfRGMzaVA2YjN3MDRRRkZleURORFBZLVl1SnNuMVZ6cUgyZDdQV2FkLXNIWFFuT0dPMk4yMkp5MHVaeTMtd3VOSUxYUHBsekhxMFhiLUtqQTJQUFpQN3pTQUxDQ3BRaDVma3NWZ2wyakE?oc=5",
-      "source": "ANI News",
-      "publishedAt": "2026-11-13T10:27:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "dc80a9101e2965d308de",
-      "title": "One Man’s Quest to Create the Perfect Whiskey Glass - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWFpaU9HVVZnRndaTFIzM3lCeV9KbTRLZ1d4aUx1alh0aW1jS1ppWFFDOURveVRDaWNzSzZCOEptbnRDZ1NxeHNBU0hOMnhHTm5JNEx3OHU0bWhmMzBWTjlEcGloVGg0T0xDNVdrVEt5Zy15UzJ0VkJXRHhEeUlIazB0dkZabDlaTGd0Tw?oc=5",
-      "source": "The New York Times",
-      "publishedAt": "2026-11-13T10:03:25Z",
       "category": "industry",
       "language": "en",
       "region": "international",
