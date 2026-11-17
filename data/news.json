@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-11-17T09:11:27.690792Z",
+  "updatedAt": "2026-11-17T10:16:19.066835Z",
   "count": 120,
   "articles": [
+    {
+      "id": "cab635e661fdb3afb562",
+      "title": "Edinburgh whisky fan pips wife to be crowned blind-tasting champion - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaE1rcWFkMFRWMEFGWVVoRmJ4R21leHRKa19SaHdmNWxlSGY3WGVBRmNPYzJTLTlsV2pIak9maF9rSG5NVTR2REdpMkZVZUxadl9YaDlIaEdBS0N0enl6cEJGb0E3cUROcnhkYjhFREprYVJYem94YU1PeXU2TWpLXzBPeU5wZmd4c1dlY05qLXlrUXRwcU5fWUlnQXRWTjZNd1hkREJyQ3lwcnlpeFRnWGVEN21tOVY0ZjBfUjVlQ0Y3bDB4UUpESVZ6NWtMNDNpUkI3UWxQY0lXUjBuSGhzSmZaMWdoX1lHQ0hVR0JaS0pWMkdfV3dmQg?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-17T09:56:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "5f1e9afcead4ddfe59f7",
+      "title": "Radico Khaitan Welcomes the Festive Season with its Limited-Edition Festive Pack for 8PM Whisky Brings seasonal flair to 8PM Premium Black with Limited-edition festive design, now available across stores in India - India Education Diary",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPR0RSbzI0TWpjTTVtSU5HaE1ycVVlRS1BQjl6al8xV0U0X0w1U2tpR3RzbnBMV2NIaVltWVRaRnQ4T281Nk1OYmphWjRMSjc2MW1YNEVqTks1eG1QLXlqTnZSLVhlVk5qODFienV2N1FZQnU0Mk1Vejh0RkRmM2JNRVJiZ2JRYmJ6M0dCYlFrbFNzTWJNNlh3UVZrNVJZZHpibmQ3LVBld2MyZjZHeE54a1dGMlpOUmRoOWR5Rkhvb00zYlBJY3RDTktEQVBhdVp6eTdWVFNnV0pmclhsMEJhdG1wdy1sUnBzZ0ViMUIzMUdQZk82MkUzSnY3OWhKcHl6b1JlUnVUTl95LVRuUHk1dmNQM1E2V3Rvek1KS0xmbUdQUmgwNUlIaWswTUkwckJITWhJcmVwM0NUaFZQVC1yWjNSemZXREw5ZWo0dUxaRlo?oc=5",
+      "source": "India Education Diary",
+      "publishedAt": "2026-11-17T09:25:23Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "614061fde8379bc1b55e",
+      "title": "Council of Whiskey Masters Names 12 New Masters in Scotland",
+      "url": "https://thewhiskeywash.com/whiskey-news/council-of-whiskey-masters-names-12-new-masters-in-scotland/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-17T09:19:51Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/council-of-whiskey-masters-names-12-new-masters-in-scotland-1-500x256.png"
+    },
+    {
+      "id": "aca8884c9a6eac6f5135",
+      "title": "Blue Run Texas Butterfly Bourbon: Lone Star Limited Edition",
+      "url": "https://thewhiskeywash.com/whiskey-news/blue-run-texas-butterfly-bourbon-lone-star-limited-edition/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-17T09:17:09Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/blue-run-texas-butterfly-bourbon-lone-star-limited-edition-500x256.png"
+    },
+    {
+      "id": "b46446a567c149a27278",
+      "title": "静岡市葵区の「十山ウイスキー」 今月下旬に第５弾シングルモルトウイスキーを発売 - 静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RWjlDMjVkM210T3o5SUxBNVlXaW9Nd0M2YTdFNWVhQWppeWxGSm5NSlVFS3psZ2FyNkk2QVJWMXpWcE9aamRPSUJoa2h4UQ?oc=5",
+      "source": "静岡新聞DIGITAL",
+      "publishedAt": "2026-11-17T09:15:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "684379c206e17c83ee07",
       "title": "Radico Khaitan Introduces Limited-Edition Festive Pack for 8PM Premium Black Whisky - Indian Retailer",
@@ -198,6 +253,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6ec93e6bfe7b580b77cd",
+      "title": "入手困難ジャパニーズウイスキー「山崎」「響」が気軽に買えるのはいつ頃に！？品薄の理由などサントリー広報に聞いてみると「去年まで増産できなかったが…今年は！さらに来年以降は！」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ) - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13UTBUc184VC11b2k1ekFLZzlzbXNZMEdMaVp4S0FfeERzenVmSUtWTlBWQ1M4NkFqSTJDbGxMc3JkemhSSGozLVM3UEJXLXlTSVNXOXI1U2psSUtMQ21zYXZjZjlLZw?oc=5",
+      "source": "TBS NEWS DIG",
+      "publishedAt": "2026-11-16T17:25:15Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1252,72 +1318,6 @@
       "source": "Whisky Advocate",
       "publishedAt": "2026-11-12T22:38:51Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4f24a1c67fe2fa7e5214",
-      "title": "The Macallan ends its “A Night on Earth” series with a New Orleans-inspired single malt whisky - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE5RVEgtZVFsd2t0NTBDZ1RSRFJMMFYtcFBkYjE5T0VZVmp0ZEVEeDV3UFlJQmhGVlBORXg2S3ZSWjhuT2pVd0thenRKWXhteWt4V01Za1FzUkxjMWtnQmpRZ2RLTlFFTGVRXy1ETFlmVlJ5Q2FGbEVCYWg1X1pRX1ZTZWhhRUd5ZWFmUWNyX1c0SHE5eEE?oc=5",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-12T22:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f4d21ef104340a24479c",
-      "title": "The End of the Road for Hedonism - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VS0NYMHNqQzdWMmN3SUNuRVd5SkI2N0w3ZUtDbmZPYkpiMF9faTBUbFhEaURmUUM5LU9USWxCYUN1WEFUVHlDeHAxS0xrTXhLOFprakFoVHhfLW5ueGNJY0JYQ1pYcEhRTkozdQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-12T19:32:26Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f7e00b85cc51bad6276b",
-      "title": "Historic Scottish whisky company unveils rise in turnover to £19m - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1Vhd24ydTVHVHZrU1NJUDFmcFNlRVVDTnR1eUUzb3F1UlZPc3B1dy1USERpdWFuckFzN1RBMjZxczdZZW1UQWVuaEJObkFVVWtsOEJTb1VPc2xzSmdTMkoySTh5S01FOGtqYjJKVnNCc3hRUmpFWU5mMmlxeFE2SFkwcGkyOG5xcTNHLVJiUHBoRHJ0UjM5SU1QQQ?oc=5",
-      "source": "The Herald",
-      "publishedAt": "2026-11-12T18:30:46Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1e3ca1e21b74aa72f97a",
-      "title": "India’s Scotch tariff tussle: Why cheaper imports are opportunity and threat for Indian whisky makers - SME Futures",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS1c4akZDVGlXWlZPZDVQYWdtdHFuZkhrYnRNMWNRM1JnUFdRUmtyVlk0Q1dxSzIzby1kUjFSdlhRNnZWV0t6Q1U1bDVsd0ZOeU83M2VtMnRkaE9PZFRfVnJmWWFzejYxR3dUYnkzbE5fME94SlFYMVI0ZmlGYjZkZXhjOGRKaGpsS1J5QndFbHBuUTZjUkxnWHFmYmZrOS1FYkttbTdna0pRLW11bUpqdU85c1dLWGRzWFExVjBnWWU?oc=5",
-      "source": "SME Futures",
-      "publishedAt": "2026-11-12T17:36:56Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "76a14156a487453ef998",
-      "title": "Westland Whiskey’s Latest Garryana American Single Malt Launches Nationwide - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1RWQjRZSHpxeHBkWkVwRXVCTWVjME9PQVV5bURQMnJLUVJVVWFoVk5JZDRHcXdUbDBvUzFhcENqQjdwZGVIYkkzZlJ3dHFzVFVZNDV4d3JVRFBwZ2U5LWppUXFjaXlWZVNVVFZ4dE9XRVNic3FGUF9ZTGtIYUNpUzlPcjZ0dmxBWGhMbzExbGNKR1lQZUFSUHMxemFMVmdTbHVhSkNDNVIzR0xKRlA0U01LMC1hdw?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T17:00:25Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "0bb9ad32afec972ebf60",
-      "title": "Lagg Distillery Announces Quarter Cask Small Batch Single Malt - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVZNUkF4M0hHS1lxcXE4RzdDdEg1dDdpZ1QxbF90anpJc2tzNUkybjlYbzFwYWkwTkFGUGVjdWxOSGc2ekhNNWZCVDhRZE5Tcng5aUtocVJqUVJ1TklXNkZCVjJ1b29reUZyX3dHYXFUTTRqc3lzZmx1a2RKcGtyOW5nck1zTlVicFlVZ1RWbmtaZTlwNGRFVFBiZzU3UmVkQkNJQ3d3?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T16:59:36Z",
-      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
