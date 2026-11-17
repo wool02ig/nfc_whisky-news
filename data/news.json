@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-11-17T07:28:26.087562Z",
+  "updatedAt": "2026-11-17T09:11:27.690792Z",
   "count": 120,
   "articles": [
+    {
+      "id": "684379c206e17c83ee07",
+      "title": "Radico Khaitan Introduces Limited-Edition Festive Pack for 8PM Premium Black Whisky - Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd25QUUwwa0tpcXo3WlRGZlBPd2pmYmpfT0JsekhVajRBT3pYamgtT0c3bmNVMVJDa2hmaW1aS0YwRXpxWTFlMVllbXZSQU1mMFB4VWptZFVBY3lfRDQ5RUk1MVlxb3lqOFdEaHZjYjVXbnlCbi1vMnBDT3YxbllBTjVETHU2Z0hxeS1Xd19SbVBmNGxGRkpqTk9fVlNUY1pyT05iRTc5YVB3UUlWZk5jT3lkRlF4WDZ3c3diejg5RHVYU1d4d3d3dkJjczQ0U01lOHAtUjJra0I3Sjg?oc=5",
+      "source": "Indian Retailer",
+      "publishedAt": "2026-11-17T08:26:25Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c2be04a3d5d68ad2f488",
+      "title": "Tomatin launches a trio of single cask whiskies to celebrate Lunar New Year - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3dHMmhyRGpvRmdSeFR5SUJPam9iY0hUbkI0V000dVBYYmZFazlIU2dfZXZRbWE1QUhkM1c2QUhucmMzUWE2Q2ZSa1JLVFZvYk5QVlY3RmJDNVV1a0htRU9GQlFQTExiQXdUUWhUNGNfOUlnX2FaQVh3V2F6QUozanVmRHFFY09HbVNKNm9DRmgxWkFRRk5leHhlNVEtbDhPZm51VnZwUkRRZjlKZWt0d0JIQQ?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-17T08:08:14Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "38da83df679fd4366902",
+      "title": "【セブン限定】7年以上熟成のバーボンハイボールが273円から! 「ジムビーム ブラックソーダ」発売 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IQWlJdFVlR0FUcHc3YU1zdENpTkhMM2dXYnN0cDJnV253MDZwbHRaUTBXOElTd0JFbE44ZGdKRFgwT2dkc3I1enNfZ09CbFB5R0UzWGhrdzlFanhyRUY3Xw?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-17T08:05:08Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "9c79d47ef20cecf68f50",
+      "title": "“スモーキーを極める” 三郎丸蒸留所 世界的酒類品評会でジャパニーズウイスキー部門の最優秀賞を受賞 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53cXdxLTBCa3BVbEgtWTBYWERENHdOS1B4NU5xUlZnZWhkc3hVUHBCNUFTRElpdG5qZnlGT1BQNHM1R1Bxb3BzYV93MTE0QXRVVXk5NWRVVXV0dkVuV0QyaHNETXl2YVRjVE53?oc=5",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-17T07:46:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "4d2839a7a83cc9e022d9",
+      "title": "原料と熟成樽の異なる2つの商品をリリース、馬追蒸溜所が3年熟成シングルモルト・ジャパニーズウイスキーを発売 - @DIME アットダイム",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEaC0yZnc4TzJwNklIVE9HZUJwLUNLWEYwQ2VHQjBhdDdGSWhra0VzMkNXUlh0UWN2dmVLVWo4djREMXFD?oc=5",
+      "source": "@DIME アットダイム",
+      "publishedAt": "2026-11-17T07:01:59Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "61da06b87f7cd294d2e8",
       "title": "サントリー（株）がスターヒルファームウイスキー２０２６を数量限定発売へ - Dellows News",
@@ -707,6 +762,17 @@
       "imageChecked": true
     },
     {
+      "id": "51c02f435aee791de4b5",
+      "title": "ジャパニーズウイスキーの新たな１ページとなるか 独学から始めた実力者が挑んだのは清流「仁淀ブルー」、蒸留所の急増で競争は激化 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zdkxWakVJT0owclB0ejlES1hqYWFQT3BCYW93Vk5Vc21PN28tckliaDczMmhUTnY4SWh3SVYtS280WExxVG1ELWYxLThkOWZqSnc?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-14T08:00:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "e8d4ead8ce535ddad77d",
       "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Northern Scot",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtSU3BFcTZoVEt4WUdrOERaY0ZqaGo5dzBNNGRELVFNZC1jUkJHYmhWRE9QZEppWHZidGQ1c3lVdmtMQTZidFBzQ1pXZHVtT21ZSWZvQ1RHaDRmcFVVWTg3UnhsWFJWR0ktTm9rbXA3Zm5fOHJSQ2NaXzhwYk1aaG9QeDlzbnhtTzdOUEdrOTBwXzktaFhNalhaVkk3SnJjVHdYTmlIc1g?oc=5",
@@ -1255,72 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "a67bc6bf5cf5ebf8c3c4",
-      "title": "Pursuit Spirits Honors Veterans With Joint Operations Bourbon",
-      "url": "https://thewhiskeywash.com/whiskey-news/pursuit-spirits-honors-veterans-with-joint-operations-bourbon/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T16:28:47Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/pursuit-spirits-honors-veterans-with-joint-operations-bourbon-1-500x256.png"
-    },
-    {
-      "id": "49c3e18f565b68165e77",
-      "title": "Speyside whisky crowned world's best at 2026 competition in San Francisco - The Herald",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWExucjd1b0RRRHkxd2d4RXJvVXZxRC1lNHBtZ3RKeFU4SjBHWFVDN01TN2I5UkVXdkRsSXN1RlJPa2d6cWU2QXg0SDN5bERPeEpEQ0lPUC1Cc1JhTVhzMWlUcFd5NXI0VXFkTFpIa2dvaFlha01MQ1JYZ1pFODM0SkxuVFlTdmJSb3k2aC1ILUdNeUJNWDJxZnNQYw?oc=5",
-      "source": "The Herald",
-      "publishedAt": "2026-11-12T15:48:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "e60980eb6d7ed7196b4e",
-      "title": "“スモーキーを極める”三郎丸蒸留所 シングルモルト三郎丸シリーズ最新作「三郎丸IX（ナインス） THE HERMIT（ザ・ハーミット）」発売 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UHRBUDRQc3d0U2p5V1hYd3RTR1lvTlQwV29kRmRuZkxnMmNXSnF0UTE0YTljeGNTMk9FTk5TRFh6Q1RSRkZKS21HejlrRmhGaEp0Y1oydl9GYzZhbjhqbzR4RVI0WXlTLW9KWFI0SDJ1Zw?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-12T15:40:00Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "cb4025d5f5717b9640b9",
-      "title": "Fettercairn launches partnership with Matugga Rum for Distillers’ Secret No 2 whisky - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ05tRkx0SjhLUVZJWVJhTUhwZWszNVVMNV94a1NtYnVHbG40Wi1vNTl1ZGotMkpCSDNnOERLY3hwVVFqbUhjNG9HQS1BWlp1d2xraFlMbFhXakV6SDZaV1E3a2VoWngybUlxald4VzNkdG5YYVZUTE9qVHV6WDRlMzJWUU9qdjZBQWs3OGxKMnMtNFFZZHU3X2NXNUxxRWlaQWJSN21GX2d4Sy1QOGpORmFBdkRSYk9iNHZDa3VyUURZMU43VE9kVFNwYzRqejRhQUwxV0dUVjZaZ3FBRlpSekUxOHNDUnR4Y0E?oc=5",
-      "source": "The Scotsman",
-      "publishedAt": "2026-11-12T15:36:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1beacdf125dd6b1fd323",
-      "title": "Blue Note Bourbon Brings Back 17-Year Barrel Proof Bourbon",
-      "url": "https://thewhiskeywash.com/whiskey-news/blue-note-bourbon-brings-back-17-year-barrel-proof-bourbon/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T15:17:33Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/blue-note-bourbon-brings-back-17-year-barrel-proof-bourbon-1-500x256.png"
-    },
-    {
-      "id": "f04e551d7c2ef6c2ce18",
-      "title": "Garrison Brothers Cowboy Bourbon Review",
-      "url": "https://thewhiskeywash.com/whiskey-reviews/review-garrison-brothers-cowboy-bourbon-review-2026/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-12T15:00:12Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/garrison-brothers-cowboy-bourbon-review-500x256.webp"
     }
   ]
 }
