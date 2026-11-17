@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-16T23:50:24.804897Z",
+  "updatedAt": "2026-11-17T01:20:27.139421Z",
   "count": 120,
   "articles": [
+    {
+      "id": "16ef06b7fa49304d510b",
+      "title": "Fettercairn 16 year old - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ocVJJZ2JiQ2x5YkxkSElRdERoSXo2Y3JxV0tBaHE2SVh6cGF6aVI5Q0pXXzlZNUlidVc4MHRrS1ZQazJvQ19TVUg3TjhmTHVzUHdFM2FGZDZ5UGRlSjk5WEpDOWRIY2hVcTJJMzVVdDRXcmM?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-17T00:29:03Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "61cca316d0e2cc0f103c",
       "title": "Inside Keepers of the Quaich, Scotch Whisky’s Most Exclusive Gathering - Men's Journal",
@@ -1307,17 +1318,6 @@
       "source": "Larder Magazine",
       "publishedAt": "2026-11-12T11:23:00Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4bf91e78d3b0fcf81e98",
-      "title": "World’s Best Scotch Whisky: Glenmorangie Wins 2026 Top Shelf Award - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUY2UXByaVNDemRadURfT01qR3FYeVd4TFNpYjZ5TGV2bU9LbEw0ZnpFRUdzQmRCZ2ZJWUZrYlNqbXphUWdjYmJobDJlNVpnZGFteXZtekJ4SW8xekRsQ2V5NWxEY1owX3Rma3had1F1RElkeTZ6VWpYb1BMUE5ETWxPMVFXRFFSN3BWby1hN1RRZUhJa2dzWHY4VFExaG15R2I0aXhDbHpZOFlqdENxdHUtUTY0NEUwV1E?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-11-12T11:00:00Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
