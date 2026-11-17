@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:08:55.075925Z",
+  "updatedAt": "2026-11-17T19:10:36.701322Z",
   "count": 120,
   "articles": [
     {
@@ -201,22 +201,22 @@
       "imageChecked": true
     },
     {
-      "id": "9c79d47ef20cecf68f50",
-      "title": "“スモーキーを極める” 三郎丸蒸留所 世界的酒類品評会でジャパニーズウイスキー部門の最優秀賞を受賞 - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53cXdxLTBCa3BVbEgtWTBYWERENHdOS1B4NU5xUlZnZWhkc3hVUHBCNUFTRElpdG5qZnlGT1BQNHM1R1Bxb3BzYV93MTE0QXRVVXk5NWRVVXV0dkVuV0QyaHNETXl2YVRjVE53?oc=5",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T07:46:00Z",
+      "id": "4d2839a7a83cc9e022d9",
+      "title": "原料と熟成樽の異なる2つの商品をリリース、馬追蒸溜所が3年熟成シングルモルト・ジャパニーズウイスキーを発売 - @DIME アットダイム",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEaC0yZnc4TzJwNklIVE9HZUJwLUNLWEYwQ2VHQjBhdDdGSWhra0VzMkNXUlh0UWN2dmVLVWo4djREMXFD?oc=5",
+      "source": "@DIME アットダイム",
+      "publishedAt": "2026-11-17T07:01:59Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
     },
     {
-      "id": "4d2839a7a83cc9e022d9",
-      "title": "原料と熟成樽の異なる2つの商品をリリース、馬追蒸溜所が3年熟成シングルモルト・ジャパニーズウイスキーを発売 - @DIME アットダイム",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEaC0yZnc4TzJwNklIVE9HZUJwLUNLWEYwQ2VHQjBhdDdGSWhra0VzMkNXUlh0UWN2dmVLVWo4djREMXFD?oc=5",
-      "source": "@DIME アットダイム",
-      "publishedAt": "2026-11-17T07:01:59Z",
+      "id": "9c79d47ef20cecf68f50",
+      "title": "“スモーキーを極める” 三郎丸蒸留所 世界的酒類品評会でジャパニーズウイスキー部門の最優秀賞を受賞 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BeHd3dU9zZHFqdDJFT2t6T0ptb2xrUjJWQXAtSGxfeHhHaWprUXJOclVEbGVGVHFOYXRpTUR2bkRhdVpGR0ZiT3g3QjltUGNfM18wWkkxSENDa2JsMHVVdVhNeXRQbktHOHc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-17T07:00:01Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -322,6 +322,17 @@
       "imageChecked": true
     },
     {
+      "id": "25beb2f886dd2779b739",
+      "title": "A very Saskatchewan whisky returns to Lumsden after three years - SaskToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcG14RHV3VGhuZldpck9BMGZuZkt6bkNqRVVvNUFMNmNGREFpZ1BfMTBxWXljMUhTRm1TMDdOYS0zVWllSHk2Yk9nQ1ZNR3JWQUR0NXNVZFVUVGFwbEFZeEJPaFl6LUFxM0toTXlZTFB1UF91TkppV0pHZFp1QkM4RDVmSFdlbHVqTHZYcFRXTmgyMHI2NmQ3U205Um1QdkdmbW5scThiVkNLaXBiVnlYckt4eUVOSGF2NkVESjF5UQ?oc=5",
+      "source": "SaskToday.ca",
+      "publishedAt": "2026-11-17T00:25:07Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "8b7a723b91d59592ea34",
       "title": "Highland Park Cask Strength Heather - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTY1NnhlTjNzVTFIOGJ1NjRiTjdSLWNXSUtSVFRxUlF5Vk5MRllQSjRSX0phY3hYWGN6LWtqZzZURG5TeDIwMnRMWTZiRWhCeU54Rkx4dWJMS24wQ3Rub005MDRFU3FtMGs3NnVRcjk3R3ZrTXRHNlBiYTRCaGlHUnFrTQ?oc=5",
@@ -350,17 +361,6 @@
       "source": "Men's Journal",
       "publishedAt": "2026-11-16T20:05:00Z",
       "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "25beb2f886dd2779b739",
-      "title": "A very Saskatchewan whisky returns to Lumsden after three years - 620 CKRM",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUFjckNvNG94ZWtiZGtsRzRualhvVVhUOENHSFh6S25kbmNyY043YThRbHZpZjV3a0VtUjdjU2NmSGpOWEpHeDRTbzVTdjRXeFlJckNxZXFOVHg3eE9pdE1raGRuUGpJQXJ5Q0FSOFUzaXhrRlBmb01OcmllSHhmT2kwSDZhVmZ1NEg3TlQyNWRjd0ZZWHV0SDBtVnk2S2hn?oc=5",
-      "source": "620 CKRM",
-      "publishedAt": "2026-11-16T20:00:00Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
