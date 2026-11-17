@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:04:09.657751Z",
+  "updatedAt": "2026-11-17T17:12:45.397988Z",
   "count": 120,
   "articles": [
     {
@@ -45,17 +45,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/which-weller-bourbon-is-best-four-bottles-put-to-the-test-500x256.png"
-    },
-    {
-      "id": "635ac004deb619be4090",
-      "title": "“スモーキーを極める” 三郎丸蒸留所 × 大阪大学地域の未来を応援するウイスキー「緒方洪庵」2種を発売 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5alBsVzduVE9VelNmQk85aG44ZnNhQjNSV1NtNWJkY2lUUFhVdXhZbHVjNGI1Y25JNVBiWS05RXR2aUpHeWxCVWdrYjJQQzVtQ1FUZi1RanJTMldUdDBZRENiQVItVG0y?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-17T12:21:26Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
     },
     {
       "id": "96bc0976674ceb3a9139",
@@ -251,6 +240,17 @@
       "source": "au Webポータル",
       "publishedAt": "2026-11-17T03:47:07Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "635ac004deb619be4090",
+      "title": "“スモーキーを極める” 三郎丸蒸留所 × 大阪大学地域の未来を応援するウイスキー「緒方洪庵」2種を発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KN2RPTUdGYUhxTXJKTFBtRHEyY0FINS1xTkk4cUdFVEc4UjdnQk84dTVFNWJuZjVWOWR6M1hHdEhJRTlTT2tyRmhFazBZQklSNmRnbnR3THN4RWQ1Z1ZrTlo5YlZFOUI4a3c?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-17T03:00:02Z",
+      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
