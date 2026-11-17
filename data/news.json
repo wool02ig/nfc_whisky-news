@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:01:34.276650Z",
+  "updatedAt": "2026-11-17T21:59:31.787345Z",
   "count": 120,
   "articles": [
     {
@@ -366,17 +366,6 @@
       "imageChecked": true
     },
     {
-      "id": "25beb2f886dd2779b739",
-      "title": "A very Saskatchewan whisky returns to Lumsden after three years - SaskToday.ca",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcG14RHV3VGhuZldpck9BMGZuZkt6bkNqRVVvNUFMNmNGREFpZ1BfMTBxWXljMUhTRm1TMDdOYS0zVWllSHk2Yk9nQ1ZNR3JWQUR0NXNVZFVUVGFwbEFZeEJPaFl6LUFxM0toTXlZTFB1UF91TkppV0pHZFp1QkM4RDVmSFdlbHVqTHZYcFRXTmgyMHI2NmQ3U205Um1QdkdmbW5scThiVkNLaXBiVnlYckt4eUVOSGF2NkVESjF5UQ?oc=5",
-      "source": "SaskToday.ca",
-      "publishedAt": "2026-11-17T00:25:07Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "8b7a723b91d59592ea34",
       "title": "Highland Park Cask Strength Heather - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTY1NnhlTjNzVTFIOGJ1NjRiTjdSLWNXSUtSVFRxUlF5Vk5MRllQSjRSX0phY3hYWGN6LWtqZzZURG5TeDIwMnRMWTZiRWhCeU54Rkx4dWJMS24wQ3Rub005MDRFU3FtMGs3NnVRcjk3R3ZrTXRHNlBiYTRCaGlHUnFrTQ?oc=5",
@@ -405,6 +394,17 @@
       "source": "Men's Journal",
       "publishedAt": "2026-11-16T20:05:00Z",
       "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "25beb2f886dd2779b739",
+      "title": "A very Saskatchewan whisky returns to Lumsden after three years - SaskToday.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcG14RHV3VGhuZldpck9BMGZuZkt6bkNqRVVvNUFMNmNGREFpZ1BfMTBxWXljMUhTRm1TMDdOYS0zVWllSHk2Yk9nQ1ZNR3JWQUR0NXNVZFVUVGFwbEFZeEJPaFl6LUFxM0toTXlZTFB1UF91TkppV0pHZFp1QkM4RDVmSFdlbHVqTHZYcFRXTmgyMHI2NmQ3U205Um1QdkdmbW5scThiVkNLaXBiVnlYckt4eUVOSGF2NkVESjF5UQ?oc=5",
+      "source": "SaskToday.ca",
+      "publishedAt": "2026-11-16T20:00:00Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
