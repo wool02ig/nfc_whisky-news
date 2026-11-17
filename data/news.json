@@ -1,13 +1,24 @@
 {
-  "updatedAt": "2026-11-17T13:18:30.728829Z",
+  "updatedAt": "2026-11-17T15:00:10.247573Z",
   "count": 120,
   "articles": [
+    {
+      "id": "813e491ab99b7a7a53fb",
+      "title": "What We're Drinking: Dalmore 18 year old Cigar Malt Signature Reserve - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LbmpDWFNFM2hjbWxiclRtNVVkNTk0cHZoeHQ5UzlIQUdBSFA0ektHbWlmZHYxNEVvZkhNVmU0bF90MGZZa1c0Q1lDWUloajBacEd0Z2VRMWI1Q1kzTnVTX05lemd5Y2ZQNXlmaWRJVGZTYzRnc1RqRFUzWWhQQQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-17T13:53:14Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "fd9930a4c1093f36654c",
       "title": "Raasay Distillery makes whisky with Champagne yeast - The Spirits Business",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalZNanJMeW51WjBpTm41R2dCR0ZZU204TXJfZ2J5UFFxVHkxX2V5X1pMVjRZNXNFbG11X3lEYTlzYXhfTUhZVFBJVVQ5VFUtM0hWWnpoVU5VUVJHUlpxMjhnVWFrX21fWDRWaEJ0Z2ROS01HN1FfRW1wbmRYYi1XYlF3R21XalpXZDZhUUZPV1JYUFVZd182WDVIWQ?oc=5",
       "source": "The Spirits Business",
-      "publishedAt": "2026-11-17T12:54:37Z",
+      "publishedAt": "2026-11-17T12:54:02Z",
       "category": "distillery",
       "language": "en",
       "region": "international",
@@ -36,6 +47,17 @@
       "imageChecked": true
     },
     {
+      "id": "96bc0976674ceb3a9139",
+      "title": "「Top Shelf Awards 2026」にてジャパニーズウイスキー部門最優秀賞受賞 - 若鶴酒造株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RRVZaMjRJN1h6TnhSdklLT0d2Z092TDI3OVB3bkY5cVBDT29DMlRwV09UdXJzUGtlckw3TTY5X2tadjJpWHFic2VGTTZuNldUem1ybTZkT3BCeFNSdmJWWlBEYXFSZnI1WmtXRzY1cEtjQi1YZV9Cbzd3?oc=5",
+      "source": "若鶴酒造株式会社",
+      "publishedAt": "2026-11-17T11:39:20Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "7db22d68f7cef10775e4",
       "title": "【三郎丸蒸留所×大阪大学】未来を応援するウイスキー「緒方洪庵」誕生 - 若鶴酒造株式会社",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPczlNWTI5cnJWVEdveWlxVUlLRFUwdW9pazdEZ1JuMnRxMm1nVUozOFBFanBFUmJiaFJQRGdXQU52ajFJZGNkWUotUGV5WDdfRldmSXZWQnN2T01qYVB2OE5EbkQ5ZldObjhRQmRTdXVPZ3phNjZTb00zemNMZTNQMA?oc=5",
@@ -45,6 +67,17 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
+    },
+    {
+      "id": "961a868e709d3c95be7e",
+      "title": "Glen Moray Launches Whisky Bauble Gift Set for Christmas",
+      "url": "https://thewhiskeywash.com/whiskey-news/glen-moray-launches-whisky-bauble-gift-set-for-christmas/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-17T11:15:54Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/glen-moray-launches-whisky-bauble-gift-set-for-christmas-1-500x256.png"
     },
     {
       "id": "4df6e8206bc76d58ef41",
@@ -630,6 +663,17 @@
       "imageChecked": true
     },
     {
+      "id": "f9ff6797e7edf563b93c",
+      "title": "Teacher’s Launches 12, 15 and 18-Year-Old Highland Single Malt Scotch Whiskies in India - Aabkari Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDljT1RuTXJnX2oxQTRkNTBBNE5lNThiSEFsRHhqTC15Tzl3OGpaSF9Bd1Y3cFowOExuTjZUOXA1dTFSc3l5aDBDcnVPbExNbTRrM0JRa3IzNEJjM1dIMVMyNk5TTXVLTVk5VFJSQVRaZHdhUGVUaEpnWDh6VnZuY0gtQ3BkYkVkaEZnTnJCeWt1djRhbHR6NkZ6WXFqN3JaOFc0?oc=5",
+      "source": "Aabkari Times",
+      "publishedAt": "2026-11-16T03:43:54Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "abf7290d4dc1f39c176a",
       "title": "TRIGUN MAXIMUM’s Vash and Wolfwood Reunite for New Official Whisky Collection - Essential Japan",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOem1TOG5UTTdjS0Vtczc1clBSOUw4bjdJZGxXZ0UtRVc3S3c4eXpuOW93bERsMmRqRHRaUmNOS1ZMdjY0bTlBY2EyeV9FWmtMdko3am5FMHhHUmFaZm5jdTBmWlJ2RHlXaTRvdW42V1ZKVXNtNkFkTkMtMkJpQmxkN2JCN2RNQ2J1eFZvMDRqSGRDbURtaVRlVWZtRUpZd0NTWVVPV1pNZDRjNHdvUHU0?oc=5",
@@ -1158,17 +1202,6 @@
       "imageChecked": true
     },
     {
-      "id": "f9ff6797e7edf563b93c",
-      "title": "Teacher’s Launches 12, 15 and 18-Year-Old Highland Single Malt Scotch Whiskies in India - Aabkari Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDljT1RuTXJnX2oxQTRkNTBBNE5lNThiSEFsRHhqTC15Tzl3OGpaSF9Bd1Y3cFowOExuTjZUOXA1dTFSc3l5aDBDcnVPbExNbTRrM0JRa3IzNEJjM1dIMVMyNk5TTXVLTVk5VFJSQVRaZHdhUGVUaEpnWDh6VnZuY0gtQ3BkYkVkaEZnTnJCeWt1djRhbHR6NkZ6WXFqN3JaOFc0?oc=5",
-      "source": "Aabkari Times",
-      "publishedAt": "2026-11-13T11:40:04Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "ebea6b63f47e357acd80",
       "title": "Kinloss launches exclusive 29-year old whisky to celebrate its 100th anniversary - Jewish News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUI1aHczeWp0WlVBSnlaSS1hZzJraHVnTzl6SnA4R051UC1Zc0JzMVpUbDNpTkk0SnhCVzNIUm9taG1NZ0p4Y1hwcGlIb2RQTmdCQnNOWDBRWHZpb2pCai1WQ2U1WGVOZzNaYmtXNHZvVjliVUN0SXpPQzJ0TjJTRFp0ZUg0b3RuYmV0alV3NWZkUmpiX0wzX3dTQ2ZONzNDWHhQLWhsdXEtb1R6MW5F0gG0AUFVX3lxTE9Ed29sel9LUUJUY09HUXdTQ2N1X2tqWk1VbXJ3ajVwY3hBdnJFQnh1WnBaOUhMc1B0YlltdWpsZlhKUURoY0pZejZlSmk4WVkwSThHcU9sREpSZ3VKY3puVmNmbDlUV3lWdHNEUnFjeDZzMUNzT1dkTGNOd2FLVmVHV0cwV00zeUVaV0dBLUhUaWFISE5EaTF3Qm9NVElNN3lfVHlFZnhVOWlrbVFoYy0xdnp3Ng?oc=5",
@@ -1285,39 +1318,6 @@
       "source": "https://www.barrel365.com/",
       "publishedAt": "2026-11-13T07:59:44Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "72f7c405e232df0c7542",
-      "title": "The Glasgow Distillery marks the launch of new Community identity with exclusive release - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0E1TEVyQ2w3bVBEQU9ibnM1V3BjVldlTS1tZnVQeTI2WkVXUThKcEZFSUVGajJyWUI0N3MtOUdoQi1OOHdvRUhTbFdWeEcycE03Z19rTGtWN254TjlpdmQ2RWRXX2szRDdieEpjeFozdmpNWm1VOHhpN0dHV2dLbG5nZm9SRWgybFl6SWVTc0RhTzZ6cEoxOGtWOXV1X3FoRFRXWFlxV1gyQmQ4cnFwd3lTTnFPeFFxNm84ckgwMHNqV0Ff?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-13T07:26:08Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a907ffc75260391b7d9f",
-      "title": "Bulk Scotch whisky imports held up at Indian ports: Commerce, Finance ministries meet to resolve dispute over duties - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQN2tUUWRYcEpEN2pDRHEteERaT2dKQVZiaFVVM0dTY2lScVB3eUk0V1ZhWmFfenNHbHVhVGU4WXRVNTFaamNqLXNnczhSWmh6WGpnZzNlcWpFWVR2Wm82aWxNdUNuN0FsSElmaGNCaWNSNlNDRmRNcGMzVXlNUlFxYjVuOFV6WWV4QTRkRV9LYy10TlZlR3liVG5SMHk5NnlkVzYwbXFpS3N5Um1zZjBUOWtyR0ZLT3RxdUJESkVObmRPeEtjSWU1OC1FYmtJOFY1c1k4NjNZNUp6eko5MXp0aldFdEZuTzBUTWgtOEVVTTZ3RTB6MV80YmtiaFBDNknSAYQCQVVfeXFMTmljR3JrYzcxdFFpYTE4V2g4cGNZczN5X2xJSThZUnFBdTBkZnNJNlpTS3NQV2pKQmtnTDFrRFRPVGN2bWNtQUhEdHlBaG4ta2ZISlEzLVJQNGNwNkxoYV9zanlHSkNwZ2ZyLWhBNUt2dnB6a1ZBQWZZSGNuR0kxZGREdXJBajhvYWNpd0RlalBNX09QbDRhRXYzbjF3dmtYdWVaTDEyYzQya3I0dTY4N2JTNGpvRm1ZbnRvcW54dWVjMUwzd3psbGVGdzIwaWlxa3M3MjZKZTkwRHc0VEVGd3Boc0EwMXFCUkxKcTloZHA2UTZ6MkYwc0FTcG1DelNjTWNEVGE?oc=5",
-      "source": "Livemint",
-      "publishedAt": "2026-11-13T06:42:57Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "015427881a59b4ba619f",
-      "title": "【Amazon.co.jp限定】白州18年に挑む。ウイスキーみくじ第15弾 ４６６口限定 10月5日販売開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DRndNRndoaG5SUUp3MlZPb0o1WHRLb09EdjdFMUladFdFYzd5Tnh2emxpWHEzQjhkLTlhS2R0M1RrRHNmVDlCdlhZMVhwcXhKZ2wzdGJPeWJudkdDSDQtb1k4cUJTcHE5eXc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-13T06:00:01Z",
-      "category": "limited",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
