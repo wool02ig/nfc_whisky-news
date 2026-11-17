@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-17T15:00:10.247573Z",
+  "updatedAt": "2026-11-17T16:04:09.657751Z",
   "count": 120,
   "articles": [
+    {
+      "id": "080f89e1a7914b5ed5ad",
+      "title": "ウイスキー「白州 2026」とマスターズドリーム24本のセット、クーポンの値引率が7％から10％になって“2万1974円”に - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEUEstVDk3WmdUU1d5X3N6U3lIVEpnVkJEZ25VeFJBMUtKZlRxQWkwT1RsRUw3LVNPRFlLbnpObE1IN25pRXEzWGh1b1lhUWdMZmpZUmphSm5OTDhpQWhodkVFcHhuLTlSVmoyNmczUnk3SU0?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-17T15:00:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "813e491ab99b7a7a53fb",
       "title": "What We're Drinking: Dalmore 18 year old Cigar Malt Signature Reserve - Whisky Advocate",
@@ -839,6 +850,17 @@
       "imageChecked": true
     },
     {
+      "id": "f55c185e6868f7c63efc",
+      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdzMkRNYTFjSUN1VXd1R3NLcU55OE9SVkRPcElMV25ITFVUTmNwbnBrRy1ZWmR5amFqWW5DbVRYR0dZd0hoQkxpdzctV2EyWmxUc2dEaENhX3hNdVR0Q0Z3NWxDV2lQNlZoX01qc0JXYVhkSlllQ01TMmJWeWJPOEhaVjdTVG1Ub3hmcURxTG15X2dFOUFHTG9LOGRJOGxsNWZHYkVOT3ZZUUtIR2xnRjZ6UEx0Qm45YkxDNjZ3dGpSUkpTaVFr?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-14T15:25:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
+    },
+    {
       "id": "5cc659d5c582b455319e",
       "title": "Heaven Hill Lost Nearly 100,000 Whiskey Barrels in a Fire. 30 Years Later, What Survived Is in a $325 Bottle - Inc.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmZtUENrS1c2VW05LVU4QjBmUjRFQzFVS2o2SkFzaEgxNHlyNkF5SGJzbmV2NXQwV3d0NHduMHpOMnBSd0l2RVVsYXRPUWJyalpGdWowMXF6b20xRFloWUFpLVNZQTBmSUx3MWV0dHhEVC1fQjdUNjRkQ0VXNDVYNlJyc3YyYTJrT2NMWUR6VmYxTWlqcEVWd1E4WkkyZ01iWjVidkFpZW95cW42YW84ZjFLNmZUT0o1dXR0bHQ2TUx4bzB0RVE?oc=5",
@@ -870,17 +892,6 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "f55c185e6868f7c63efc",
-      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map",
-      "url": "https://thewhiskeywash.com/partner-content/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-14T14:30:22Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
     },
     {
       "id": "49b03d4b45b4c1a0bbda",
@@ -1307,17 +1318,6 @@
       "source": "山陽新聞",
       "publishedAt": "2026-11-13T08:00:00Z",
       "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "8f501408787e700ba8e6",
-      "title": "佐世保の梅ケ枝酒造が3年熟成のジャパニーズウイスキー「長崎」を発売 - https://www.barrel365.com/",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFMEZCU0RqeGhqaktFbjdPWXQ5RFU1R1ZLWjlMcFNzZGNYWjh2UzZ0dFU5Ymc3MVVYQ1liRkRVQU9aVkVaa1pJTmd5Yw?oc=5",
-      "source": "https://www.barrel365.com/",
-      "publishedAt": "2026-11-13T07:59:44Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
