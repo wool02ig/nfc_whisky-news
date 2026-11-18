@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-11-18T16:10:14.560960Z",
+  "updatedAt": "2026-11-18T17:15:16.564725Z",
   "count": 120,
   "articles": [
+    {
+      "id": "77f7e63241346068cc85",
+      "title": "The GlenAllachie Releases Asia-Exclusive Whisky For Lunar New Year",
+      "url": "https://thewhiskeywash.com/whiskey-news/the-glenallachie-releases-asia-exclusive-whisky-for-lunar-new-year/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T16:49:21Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-glenallachie-releases-asia-exclusive-whisky-for-lunar-new-year-500x256.png"
+    },
+    {
+      "id": "7382f5d44667416872fb",
+      "title": "Buffalo Trace’s Most Anticipated Whiskey Release of the Year Introduces a Distillery First - Gear Patrol",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWS15VHJfQTNsSENzcGg0NDVrZUF0QWh3RTJCaDRTaTlQSWN5QU1uU2xwTUppV0h3X1V4VXNNRmRVM2VuaDlaeVAwS3QzRURCQUxLZVJGWFNRYk1Nbm9IMHBCMGlPZ3pWSG5ZTFpKUVp4emc0aVpZaF91VmJ1WkZUVEV5SEhGNjQ5UW1lbC1Zc2dmMERmOEN3eG1zamZJT1lwenQwSEszYTZHZw?oc=5",
+      "source": "Gear Patrol",
+      "publishedAt": "2026-11-18T16:46:47Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3f5169539a1711b719ba",
+      "title": "Michter’s 25 Year Bourbon Returns for First Time Since 2023",
+      "url": "https://thewhiskeywash.com/whiskey-news/michters-25-year-bourbon-returns-for-first-time-since-2023/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T16:42:42Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/michters-25-year-bourbon-returns-for-first-time-since-2023-500x256.png"
+    },
+    {
+      "id": "d8c7116df7fcb576cbeb",
+      "title": "Green River Pays Tribute To Historic Clay Tile Rickhouses With New Distillery Select Release - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjlEc1FLbUNRcko3amZoUmw2THlLdFZOVk8xNXNFM3FGOXpqMWptajdZS0NEVUFEMUt0c0pKMkdROVBzOVNPYWJra3JYU0pIR1RqdGRnNE84YVRJUEYteW5hSEVBbXhPbUdYdl9WR2N2SmhYaGM1YVBGZkZLTExlcks3VkV4VndIQ01naUJEUDVsajhiNVJaUDNfYWZDTUFXQTMyWS1lYXdaWEhsVF9ORk5QdVdvREIxenh1SmhoS1BvaF8tZzFsamhNQXF3dw?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T16:33:14Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "b009a6b8e92925838032",
+      "title": "Ad Gefrin Announces Crǣft Series 2 After Sell-Out First Release - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTlNLXdfY3llU1pfTy14LTdQbGJzdjIzdTY1M1hjM2J3NTlOSjBLQlMwWjhJZFBJWWJMV1QwMTVVZXduU2V5STNqNmpoSmN0cWQ3ZWZpbU1iQW1vY1UtbUl2MnpDRWJJcXFKYzVkUHFXMkFXM01iMjBVUmRyQ09rLWU1ZndjZ3JXUkRjTnM3ZEctaEpINWdGZVdWWjdtdVRCbTZES0diWFB0ZDA3R0E?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T16:22:17Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "24f124165dffc3f0aeb0",
+      "title": "Christmas 2026: The 10 best Scotch whiskies for under £100 - including the ‘ultimate festive dram’ - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU3UzVDdWYUp0MXh4SzB5bF81MXVtZDNWa2VlLVNlQlIwdG1yMzdETWdWQkpkbHJXSEJ0TWJwVnh5QXlaWUxoMjI1STR1aWxrdExVcGMwbFlxOEk1cWpOZHd2ZE5qdTlSX21PWlBjVG1Xb0hKbGo5NTFNcnB1cVpUNnM0MEkwTHFBUUM0MTl0NHRwWWZOSFFCNDhaMG9wM1FWbGVra2tQb1ItMlhGN1pfcnFES2dqNHNOWVVWaXc4bjFLenZnbmVjOFhPeUp0X0Y3eE1yNUtjRGxkNmZ0dXFZM3B0dXpEYlBqazlQZWl1ejE3ckwtd3pSUQ?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-18T16:07:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "d43b7fa122901cdb9c46",
+      "title": "Isle of Harris Releases 10 Year Old Single Malt With Whisky Bars of Scotland",
+      "url": "https://thewhiskeywash.com/whiskey-news/isle-of-harris-releases-10-year-old-single-malt-with-whisky-bars-of-scotland/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T16:05:19Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/isle-of-harris-releases-10-year-old-single-malt-with-whisky-bars-of-scotland-1-500x256.png"
+    },
+    {
+      "id": "2b5d56b4d06fd5a71635",
+      "title": "Scotch Whisky’s New Image—World Class 2026 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1kyVEhuMTRLcWE2VEdaQk1RbnFWWFdHZm1ZS280a0RDM0Q2NVR1aEJLendLUU5tclVqZVVCNG92QzZiOHNZZEtVbWZZbDZBdXBhODFVUU9Rd1dONDJ5VVJKdFBKMVluZEVhQTRCVmFEY2tUX1R0N3ZHdGtMOFFYVHV2Z3ZvanJmM3NfVGFYTzZzdHUwenhLUFdrZDF2aU0?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-18T16:03:27Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "135e3be2240e84bb08fd",
       "title": "India imposes 162.5% duty on bulk Scotch imports despite UK trade pact - The Tribune",
@@ -25,17 +113,6 @@
       "imageChecked": true
     },
     {
-      "id": "2b5d56b4d06fd5a71635",
-      "title": "Scotch Whisky’s New Image: World Class 2026 - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1kyVEhuMTRLcWE2VEdaQk1RbnFWWFdHZm1ZS280a0RDM0Q2NVR1aEJLendLUU5tclVqZVVCNG92QzZiOHNZZEtVbWZZbDZBdXBhODFVUU9Rd1dONDJ5VVJKdFBKMVluZEVhQTRCVmFEY2tUX1R0N3ZHdGtMOFFYVHV2Z3ZvanJmM3NfVGFYTzZzdHUwenhLUFdrZDF2aU0?oc=5",
-      "source": "Forbes",
-      "publishedAt": "2026-11-18T15:00:04Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "4cda77449be1d0b86d38",
       "title": "Sailor’s Home Irish Whiskey Enters UK With CVH Spirits",
       "url": "https://thewhiskeywash.com/whiskey-news/sailors-home-irish-whiskey-enters-uk-with-cvh-spirits/",
@@ -52,6 +129,17 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMTNxUXd4b05ZV2x4alNMSXZ5eVdaOUlDYWgtQW45dk5HWmo0OGw3UmFETHR3elJDc1d3RmdBSHoyRzdXOElOeTRsc3BhUlRxSk95VG5hMzlYUllIM0tGWUJaQ2hSMzJqWmJpNjh4Q1k0OWFrLW5rNHgtdGZheWZ6ZXRnNEVnVFhhVzF1Z2ZDMjg0amp0S0k2TmNkMjFpNUtJQ3ZiSGQ4b3Q0amFjX2dDZ3lhQTdWeTlxR3d5cWk4UFUzSVI0OTIxOFNMYW44NW5tRzRwM2ZESVN6aXNWWTVsNjlNZ2UtcE5fbGlJcmxNcGo0Q2_SAfgBQVVfeXFMUE1hRzg4WHJsWDBubm12QkZkU3p3R3UxN2RLdFdyRjBQbFV5SG1jWjJpTjF5d2k0Y21VUUEtaTZrRDdRbkw5eFpaTU5zN2dkWkUzVlB2RGtXVmdiNmFIdEI0dVREUUdZZHBmZHNiS1R1OXFSZ0xRZi1fQTE4NzZwbzJ3Rm51QS14emszVWQ3VEpCMktiQnRfYm5ncG1YVHk0OU5qNUVoZEdPaXJzQ0ZHX0Z4c0NkSHZRYXJ5X1pQX3JYandxdnVhRHRGallHZ2ZmVWx5Qkc4WmFvV2ZPVEk4cUY3SVRDeXo0N1ctQTlIbVJBdXRnajFHbXM?oc=5",
       "source": "Livemint",
       "publishedAt": "2026-11-18T14:48:38Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "98c7e2b3e842ec7d0652",
+      "title": "The 2026 Buffalo Trace Antique Collection Is Here, With a Much Older Thomas H. Handy Rye - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fck16T25tbnpLOTR3dVU4clR6S00yRGptdUNwYjA1TFNtRWZPZFBISFBRenE3LWZucGNBYUtLREp1bUpicldyN0dTSzVkbk9MaGhUVFJWam5FS3pLdlBKT29ObF9JS01JR0NJLWttdFQwM0VoY015eHhGRQ?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-18T14:36:46Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1229,94 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUZNUzJuVUJ2MDdtOFBjQ294NldSREJ0REJYOEY2WHdOLWtXSmp3WnNWRWdEaGJ3S2lRTXpsaERoTWhSXzFHd2g5UXpucm0yd1BrbnhwTkFfZW4zUmw3R2c1YkhKYXJReGt3Uk5DRDBNNnJsb2ZUVEV1QXUwN1hocXhOdGNuS3E2bV9feG44cGp2UlpVclJZSGhXYmt6UUdKbnpIUjV0WmFKTXQtRENzNkRPMVBvTDk5VU1vR3hoYTkxQ1N2djdN?oc=5",
       "source": "ABS-CBN",
       "publishedAt": "2026-11-15T08:55:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "e970f7bf41b5a26403e7",
-      "title": "イオン、ウイスキー「響30年/21年」「山崎18年」「白州18年」「マッカラン25年」を店舗限定で抽選販売 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QQmQ4LVJsd2JVQm93aWp3UGwzWG94UVRXSUk5d1phNmt6UjI5UnJpQVdNc29RX1V5Z1ctTFVjY0tpVXNweWdfcWVldmQ3NEl6Y0VtbGwzdDZvSm84ZW81M0ZkdVRHck52eFE?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-11-15T08:00:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ad953d9c67ac9c4d8ca1",
-      "title": "Great Northern Distillery cut jobs and suspend whiskey production as gas price doubles - Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLWlZQ0dzNzJJZkdYSFBiYlREQUk2ZGpFV2w5ejFkNFJQV0ozVlRCd2V2elZUdTdpb3A5NDhUTjdzUGZMVTFrVC1LOUFZejJsNkZZWXlYMnFRcnlIUXduMXZDZ3ZnSkNvZTNzY3AtSlRXSHdNbkxUYWdiYUxXWUpxTGkwVW9jRVVvQWZEdUdac2tEaHA5SUxhdkI5Qm84b3J6d1FtX0pUdG1sYXNoWnk1bWk5ZFZmbklHSW55eU9MaldyNG81cWYwcjJUb2JTRXkzSEdmOG9sb09lZW0xOWNCemJWX25BbW9nTWc?oc=5",
-      "source": "Irish Independent",
-      "publishedAt": "2026-11-15T05:30:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d49675065c9766cb1d20",
-      "title": "小諸蒸留所初のシングルモルト「KOMORO ORIGIN」、全国23店舗のプリンスホテルで提供へ 初回販売は世界で4,000本のみ - 観光経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STnRadlM2bFRYRWFnTjFJekN5Nkw2Tk5hbUJ3UTgxMkRTU2F0T3ZYeUJvWmR5TmRITk5YTGx0WmFlOVhmdE5Lemk1d3N4VzM5M25TRg?oc=5",
-      "source": "観光経済新聞",
-      "publishedAt": "2026-11-15T04:01:02Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a7c1f8eab04b96b68168",
-      "title": "誕生10周年の津貫蒸溜所で感謝祭 地元の大麦を使った特別ウイスキーも限定販売 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JWFJmY2phbFVMYm5qSlI0UkJBS25CYzJYcDlRSkdfWjcxc0RabTBKZTc2ZGpCV0FIc0FhSGR3aERfVmZDNjR1ZERnZU84WmVjMk5qbUNIWGdUNC15X01wbEJkRTVoZU9OWkFhZnd3XzktUnItVW5HWXBnZlTSAYIBQVVfeXFMTnA2U0lVM3AtS0dCOS1qb1RzRTF3X24tazcxLVVQV0xkSWFRSTM3cVh6cm1MUmNiYUZ0VWxHaGxhdGN1b0R2M2x5MzFoSlBEdkRxQjhVcUpMNU4wVWNOMmpmM0hfQWFYZFEwbHZ0QWlueDFrRC1oeS1qc1poemdQNThxQQ?oc=5",
-      "source": "ｄメニューニュース",
-      "publishedAt": "2026-11-15T02:47:00Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "e3a683adee2edf0b2cb6",
-      "title": "誕生10周年の津貫蒸溜所で感謝祭 地元の大麦を使った特別ウイスキーも限定販売（KKB鹿児島放送） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSXk5NmVGN3RNLTRNOEV6OWw3LXNCcUNNcmJRcVFUNFdKNzI1UG5INWtReDNKTklxQ1I3NzNYVS1maWcwUWVTRHBORExmd1pQNXZWRVpGQUpDT3NKRFluUHZWTGhURWluYVNSTjBGeHVfb1phUDVTRUQzNlNnYWc?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T02:46:57Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "b565ff09a49ab676b23c",
-      "title": "The 14 Best Whiskeys To Buy At Costco - Mashed",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YVJiWjVkVVVVc0Z1VUlfYjYzMmVnUVNKT0J3Ym5DNHJ2bE1oeXJEZFVSRW04WUh2b3p5TGxLbFNLWnlRYUtETk9KNGQzbzRkNUZtSG05SWJXSWZEelhBLVl3?oc=5",
-      "source": "Mashed",
-      "publishedAt": "2026-11-14T17:23:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f55c185e6868f7c63efc",
-      "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdzMkRNYTFjSUN1VXd1R3NLcU55OE9SVkRPcElMV25ITFVUTmNwbnBrRy1ZWmR5amFqWW5DbVRYR0dZd0hoQkxpdzctV2EyWmxUc2dEaENhX3hNdVR0Q0Z3NWxDV2lQNlZoX01qc0JXYVhkSlllQ01TMmJWeWJPOEhaVjdTVG1Ub3hmcURxTG15X2dFOUFHTG9LOGRJOGxsNWZHYkVOT3ZZUUtIR2xnRjZ6UEx0Qm45YkxDNjZ3dGpSUkpTaVFr?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-14T15:25:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/cardronas-the-falcon-inside-the-10-year-journey-to-put-new-zealand-whisky-on-the-map-500x256.webp"
-    },
-    {
-      "id": "5cc659d5c582b455319e",
-      "title": "Heaven Hill Lost Nearly 100,000 Whiskey Barrels in a Fire. 30 Years Later, What Survived Is in a $325 Bottle - Inc.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmZtUENrS1c2VW05LVU4QjBmUjRFQzFVS2o2SkFzaEgxNHlyNkF5SGJzbmV2NXQwV3d0NHduMHpOMnBSd0l2RVVsYXRPUWJyalpGdWowMXF6b20xRFloWUFpLVNZQTBmSUx3MWV0dHhEVC1fQjdUNjRkQ0VXNDVYNlJyc3YyYTJrT2NMWUR6VmYxTWlqcEVWd1E4WkkyZ01iWjVidkFpZW95cW42YW84ZjFLNmZUT0o1dXR0bHQ2TUx4bzB0RVE?oc=5",
-      "source": "Inc.com",
-      "publishedAt": "2026-11-14T15:06:32Z",
       "category": "industry",
       "language": "en",
       "region": "international",
