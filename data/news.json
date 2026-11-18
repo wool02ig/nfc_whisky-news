@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-11-18T07:31:01.556045Z",
+  "updatedAt": "2026-11-18T09:13:54.188275Z",
   "count": 120,
   "articles": [
+    {
+      "id": "eeca9a209af4c992ee56",
+      "title": "The Best Scotch Whiskies From Speyside, The Highlands And Campbeltown, According To The Global Drinks Awards 2027",
+      "url": "https://thewhiskeywash.com/whiskey-awards/the-best-scotch-whiskies-from-speyside-the-highlands-and-campbeltown-according-to-the-global-drinks-awards-2027/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T09:05:59Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-scotch-whiskies-from-speyside-the-highlands-and-campbeltown-according-to-the-global-drinks-awards-2027-500x256.png"
+    },
+    {
+      "id": "9841984a3a0558e7c82e",
+      "title": "Global Drinks Awards 2027: The Full List Of Whisky Winners",
+      "url": "https://thewhiskeywash.com/whiskey-news/global-drinks-awards-2027-the-full-list-of-whisky-winners/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T09:01:29Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/global-drinks-awards-2027-the-full-list-of-whisky-winners-500x256.png"
+    },
+    {
+      "id": "9ff6611cff8d5a3d9237",
+      "title": "World’s Best Single Malt Scotch Whisky-According To The Global Drinks Awards - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1ltSEJxVUJhY3cwS1BtVDBRUjhWeDVzdTBtSnI0WkVaRnZiYVcxeTB4Z3h2UDlhbjM1T1dJZjFCVFFwVHdJV2hFSjhhQmZFUFJMdFV4bGdoZEZrQkFGZDVkMS1mUHM2c3lYOThBaDdlUjlob3dPY0ZVX00wOFY2RFVtTk44LXlGZGNkVnMxemdkUkxUM0lyMk00RGdzVUdoSGFmS0xfX1pyXzlRR0xUaHI5N3BCTHZLVWJnc0VORGRDOW4tT2NJ?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-18T09:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "919bb6f7fcee9122efd9",
+      "title": "The World’s Best Blended Scotch Whisky-According To The Global Drinks Awards - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYU9NVS04NmlxX29GYkc4MXpZVVZ4YzFlNGRyeWF3Wk5TOVVicTB5bVZVVVJNTS1NWWJPbFlhd1ZtQjBiTFh1S3A3b3NrUHhaN3VFS0FyQzdDbGxKRmVwR0x2UnBhcm5pUU54LXAyWUp6eXd1MHVya0VBMzl5UTIzekNaTTlfQXd4MXNBTWF0R0NJZTBjQ2g3cXVnRzJ1YUtMYm9KV0RtRDM5T01kdi1zd0JIOVI3bmNqX2tJZmNUTkZJM3BOWjNR?oc=5",
+      "source": "Forbes",
+      "publishedAt": "2026-11-18T09:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "e5bbf78e79274f9fb07a",
+      "title": "サントリー山崎蒸溜所でウイスキーの熟成に使った樽で貯蔵した梅酒「超完熟梅」がAmazonで在庫復活！ - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BYWw4NldmMzByTi1UeGl2ODZXanpISlRfb2dHc3JOSlptbjU5U0ZSbUpQRjdBZ0V0dVRqb0VxSF8xU3hpRTJvcnlDSHFLQmd4MDIwVG9CbU1PQlNNWWlacm1faENVek5sb3lWeVZoenlzSUk?oc=5",
+      "source": "グルメ Watch",
+      "publishedAt": "2026-11-18T08:05:19Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "5f1e9afcead4ddfe59f7",
       "title": "Radico Khaitan Welcomes the Festive Season with its Limited-Edition Festive Pack for 8PM Whisky Brings seasonal flair to 8PM Premium Black with Limited-edition festive design, now available across stores in India - Odisha Diary",
@@ -839,6 +894,17 @@
       "imageChecked": true
     },
     {
+      "id": "0bac2a2ae5b840995cc2",
+      "title": "The £95 Ardmore Single Cask That Brings Together Whisky, Manchester, And Charity - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR1FKeUNQdzBKTjdyOGpWSEFHS3RTNG9va2N1NG4zOUxRUHNveHBVNkNoMjJXZC1qMXdsTVQ0QlZPUURIZm16VFg5NC1NMlZtRTdQcHEwU0Q2b256ejJYSkNaS2plYUNkd0NDVVFNNi1JTUlRRWRTM1NoekdWV0dBNV8tLUxiaTlpREk1cElST3doZy1KVUp2RHItcm1NV1hKQkJ2dFZxc1k2aUZVTGhkbDdDZnJ6UnpNNGtrQ3BLUQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-15T12:58:30Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-95-ardmore-single-cask-that-brings-together-whisky-manchester-and-charity-500x256.webp"
+    },
+    {
       "id": "3246b8239124083693de",
       "title": "Scotch at the docks tests India-UK trade arrangement's tariff concessions - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVmlLZmZ2ZmVHS3h2eVFkTjZMX2NHRUVDQ29wZWgxVDhCbEphNVlfUHdwWjNwV3NoWDBzTTA3WEkzWFU4bGFNM3hqTC0zNEpqSm9LZGFFY3c2RmZ6UUZ6V29NRzR4RUp6ajY2Y01JOVdYTXNaaU8zN2o3a01jLU1kcV9rTlUzMXFkWTVRUnpJdmN6dWhwblpRc2l2QndVekRYYTNqejk2WnJ3U2FqWDFWbjg1WGNhcTlKc1l0d0tDMlRFbkdEb3o3OHpYQlkxZ1gwcS1wZFRrR0FBVFHSAeABQVVfeXFMTk8yNjNsUUZnS0hmeURFZFhRTFBJbTZRdUI5bURNQV9lV09YYzdpNTJ3bDNsZXJfQ2FFUkl1M04wVXJ0LUhUelVpa1JDaDVGTzF1eDBxN2xXNEFKMFg4UGg1WFcySWl3amF5Ukl4SmlMRHI1MWNrcVU1N3VLYnplWHdzdy0xa0lfNXNoVlR2VndPMkJ4TVI3d1NCV283M09CcXVQTWlIWUR4bENGZ2huOXBlYnVXWHRYeXptOG0xa2xUc2ZZT3VtcU1vd0pwZExZU2hJdTFrbmNtQ0lJNU93eWc?oc=5",
@@ -848,17 +914,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "0bac2a2ae5b840995cc2",
-      "title": "The £95 Ardmore Single Cask That Brings Together Whisky, Manchester, And Charity",
-      "url": "https://thewhiskeywash.com/whiskey-articles/the-95-ardmore-single-cask-that-brings-together-whisky-manchester-and-charity/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-15T12:30:44Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-95-ardmore-single-cask-that-brings-together-whisky-manchester-and-charity-500x256.webp"
     },
     {
       "id": "8a4af19ae19d968bea01",
@@ -1262,61 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjFWS3JpVng3MHFBaUpjR3FOcWNHMmZFTGNzdUwtdXhTS09xSXFaOWMxLUlwS2czZ3QxcTJuWGxhclZGN3NRY1NWY3FQT1gwMzNBZnNOLWt3SV9qMlFVSkYxTml2NHZqSG1HZXBhSXkwb202NC1zWkNLQ0tMRTl4Y1RtZll5blJSRjlkUGlhYS14WDdIazZ4SjF3WlFjbHFESTN4YmlLbGNoQy1QUUp5dGxRam52d2hZYURWdlBsaUU?oc=5",
       "source": "DRAM Scotland",
       "publishedAt": "2026-11-13T13:56:58Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "04093fd2c5def947231f",
-      "title": "India will respect duty concessions on Scotch whisky imports from UK: Commerce Secretary - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEhyRlRtY25ZZFFEWDVVVWZFLXRxbXdTTjdGNmE3RmpKNUk1MnlvdFFMTEVBVFEzOC1hVjBtR1FOaGJaTjk4a29GcXV1dlBPSEx1SWNoRFVZblctTnlCdHo2VFpfMjZWZkFGcEoyZ1RHRHpxX1QyazVhWV9xcTVMZHJCT2NCQTB1T3NDVVVKeUtXRjlTNEw3OGtXSC1vQ3lxQ1pkcXlwMWl4dnZxQlRkU2VnZ1ZaZE1uT3pfRWIxQlVEUdIBxwFBVV95cUxQOGVHcEtYcVhaRTR6UXgtWGpIRUhzM3JvNzN6NWc0aG1Ga29KNlRUU2pOUUJyQWJ5enY0U1pxLUFCdmw3bndMelQ0bWFSZndYZGdzblpsV0ZXb19Cd2tuT3lyYlNTWFlONTFBN0FHVE9tcXRLNzBlNnlHVG5maU55RENRQ0JXeHEtRjhHMGUycVU1VkZQTm1DMXNScDRfSW5RY0hieHpJcUFGNkhOeExLbjVuaXM0NkMzSndKUVktU013czVobF84?oc=5",
-      "source": "ThePrint",
-      "publishedAt": "2026-11-13T13:45:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "843f8d0646a066fd2e79",
-      "title": "Commerce Ministry hopeful of resolving scotch whisky disputes soon - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm9NQ3B2ejY5TTZUMzRpdElBR0ZJdTN1dFlLQW9GLXZnVTQwell5eFpsZFBHQTR2OVVma0tPLVEwQTNxVEhTN2JLMjlsU2dsdkdwSk5ReXJJYm9MalhrNDltd2ZKcFNsSUZvLUU2OTlOUUg1UGNhcWRRVUZrMi1QS2pHbGRtSlBXbjNEQUJnSUpNd2ItdjZzeGZMQ3NkSUcwYWdlY3JQSHVlVmMyQlgtSThBTElIZUNPdW1tcnVfZ29sZWxnTFctcTloUQ?oc=5",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-13T13:32:01Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d4d75ea3cb4dfd0e64ea",
-      "title": "FTA tariff for Scotch only for specified items, clarifies Govt - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXA0eWVkLUxYZkV0bnlsQzFsckhQTFJPZzZ5U0dkV29IV3k5amd2RHNBNzJMMy1yRGhtZTdBXzlISEVicTU4N1ZJS2JSUFRiLTAweW0zQldrRnpIMGtRSzdLQW9YcXFtQWhDV21WdkNTZGRFV2hRemJVSlZmSEt5Sng3RkFVS2pWTVBrd3QyQ0dXeDRBVEkweU41RG8xVnZTZmUzQW1UYUV5Zkk4TE9NV1VOWmkxY3I3Z0htbmtpUU11U0ZtNFFN0gHOAUFVX3lxTE1TNXBvMjM4WFBDNGo2OXZGMGdoeDV4ZjJDTENsWEUzRFBDa01hOEQzVkZPZGktY2hkc1RJSE4xUndJelltRUtVREZLNklzNVZpMm5Wa1c4SmxRQUNrMXVCbEJILUM0SHFlTU9jSk9ZZVJteDZSTlVqanVBS3Y0eW1PeVlVM0NKYmNoUlVuNzc4QUxUS3VrZTlqSnFmckhPRFpuUUw0cG56LVJWSG1UX1BZTkFMcFBEejZFTzhCZThud0g2eXZadHZ2SE4taUR3?oc=5",
-      "source": "The Financial Express",
-      "publishedAt": "2026-11-13T13:04:13Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "b5a03bdb8d555ecfdf20",
-      "title": "Hoisting a Dram in the Big Apple - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42ZnFVRlFUUXMzUmx3dl9xaWtkR2RQTEF2cjEyS0hhbXR3dFAzZEFHdFVfcVI0UUJ1ZWdoWmlkQTdLRlo4V3RORFR6amVPT1VjUDVjWU5QR2N6bmt2Q1JGMTlGdDNtbE83QklrNGlVWFR3bTY2YVFtZWxVWQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-13T12:17:31Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "f83993b9b15e5878fb47",
-      "title": "India will honour duty cuts on Scotch imports from UK - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmZqeTlVYmdSbFplWklZNFFIODBrTzlYQVdaTU1ueUVZVnJTRURzNjBmNkQ2MWVkLUNHTkVaZnJIWXlsYlV5eHV2Zjl1ZlA5R2ZEOW85X25fNHhPOWxJbkN6R0FaUkhtSkdOVVViODlzOWpjU2g2b1pOLVJmQTZQbWREbGp1enNxbWtURDl0SncyZy1nTzhockJHQmdOU0xr?oc=5",
-      "source": "Deccan Herald",
-      "publishedAt": "2026-11-13T12:12:34Z",
       "category": "industry",
       "language": "en",
       "region": "international",
