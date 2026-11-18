@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:58:46.901789Z",
+  "updatedAt": "2026-11-18T04:03:25.009312Z",
   "count": 120,
   "articles": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "id": "b8a15b9ef9784c6c652d",
-      "title": "「エニタイムウイスキー名古屋」 5年目迎えファンに定着 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmZVhLMlRrWmFFM0V0cFhnR252SDF0TXZoMU52cFZ3Ul9JWHhPeFZyUUZDd1VkTFRWTFYxQWJBbkhXdE9qOHFCeVMxQUlidkd6OFpUZUtEOEdxaWc4SjhQWlZB?oc=5",
-      "source": "Infoseek",
+      "title": "「エニタイムウイスキー名古屋」 5年目迎えファンに定着 - 食品新聞 WEB版",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tc3lXZ1JyNkRWdzNsbElqa0xZbkV2T0IzZFVJRFZjZzMwbVRsUEhySlBVMDJJSTRUNGFKRkJOd1l0TzlzdlEwYmt4c3MzMkx5eFBSMlB4MG1FSFhOS0FVdA?oc=5",
+      "source": "食品新聞 WEB版",
       "publishedAt": "2026-11-18T01:58:00Z",
       "category": "industry",
       "language": "ja",
@@ -1092,6 +1092,17 @@
       "imageChecked": true
     },
     {
+      "id": "1aab781802b581f5dde1",
+      "title": "Centre assures UK of honouring bulk Scotch duty concessions - Spiritz",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWg0YTExY280ZnY1cld6S01mdzRlT045YWktRVQ4YnJFeGxNaXFIWXZpUUw0d2k0OEZ2OVlxSnF0LWNNMFgxVmVzQm5JOExHcGtaNzN6bldVVnlSZm9Vd1dGdlktNnZWVHYxM0ZSLXF6bGVGTTdYWmVmbXI5YWFEWi0tdlVYRDBwUDBqYW5pcWZSQktsWnY2T29rTDNHV3RB?oc=5",
+      "source": "Spiritz",
+      "publishedAt": "2026-11-14T05:21:18Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "63896410b15f3e393a61",
       "title": "【茨城・八郷蒸溜所】200年の酒造りの系譜を継ぐ、日本ならではの『日の丸ウイスキー』！ - safarilounge.jp",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Pd2dvaFpFcGQxLUdWTlc5Y0FtOThIVVVpVnhBWlpNeEZKYU5mOE80R0lPSy12RkVmdXFHV3NBM3ZGaU44LXA1X2d6WFBwWWdZSFBObXFFOXhkeVFhZlByUWF3NEx4blIwbk9wTVpKMzJCSnM?oc=5",
@@ -1307,17 +1318,6 @@
       "source": "Business Today",
       "publishedAt": "2026-11-13T12:06:06Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9d0a12b40b4a4921276c",
-      "title": "Inside the Kythe distillery and owners’ plans for old style Highland malt whisky - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVFdTM1NkYmZUOVRvZGx1Zzk1ZEVoY1UyVXZpSk8zQ1BDdjRDTl9vc3JzRlhvUG1Oa2tWR2U1S0JGUV9OWDFyY01WZFdSTi01dVRVZUtFWUVMdEZLTFlhZTJBb1kwd09uT0sxRlJyR3RhODRBcjNrVmNlYXBJa3BSbTM3YU1RakU2WHB4b1ctckxWRnJfS1d5QmZLLXdQMHVMUlJWcVJESURHOTY3ZkNkbnhQOGdSUjZLd2pERG14Mnhkc3VMc2hnOGlJUUJhOEkwWHpybDRPak8yYkJDMnBlYlRTRHU?oc=5",
-      "source": "The Scotsman",
-      "publishedAt": "2026-11-13T11:49:00Z",
-      "category": "distillery",
       "language": "en",
       "region": "international",
       "imageChecked": true
