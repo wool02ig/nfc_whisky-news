@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-18T01:25:42.878075Z",
+  "updatedAt": "2026-11-18T02:58:46.901789Z",
   "count": 120,
   "articles": [
+    {
+      "id": "0ed2138151a3cd168bfe",
+      "title": "“日光街道”蒸留所から限定版2種 - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OVUpZN3BBajhaVEhxZDRrcTNMcU91d0FJeVRybUZic09tOWRWTlQwZ2J0c09EaC1GcHdfcFd6a2NYSFJNTFp5RHh6cV9KY3hTRFN4ODJobk9sc3BDWEE?oc=5",
+      "source": "下野新聞社",
+      "publishedAt": "2026-11-18T02:32:42Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "b8a15b9ef9784c6c652d",
+      "title": "「エニタイムウイスキー名古屋」 5年目迎えファンに定着 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmZVhLMlRrWmFFM0V0cFhnR252SDF0TXZoMU52cFZ3Ul9JWHhPeFZyUUZDd1VkTFRWTFYxQWJBbkhXdE9qOHFCeVMxQUlidkd6OFpUZUtEOEdxaWc4SjhQWlZB?oc=5",
+      "source": "Infoseek",
+      "publishedAt": "2026-11-18T01:58:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
     {
       "id": "bc3d345c0266c1449bc1",
       "title": "ウイスキーたるで熟成、芳醇な香りの日本酒 山形県酒類卸、きょう「遊佐コネクト」２種限定発売 - 山形新聞",
@@ -894,6 +916,17 @@
       "imageChecked": true
     },
     {
+      "id": "a7c1f8eab04b96b68168",
+      "title": "誕生10周年の津貫蒸溜所で感謝祭 地元の大麦を使った特別ウイスキーも限定販売 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JWFJmY2phbFVMYm5qSlI0UkJBS25CYzJYcDlRSkdfWjcxc0RabTBKZTc2ZGpCV0FIc0FhSGR3aERfVmZDNjR1ZERnZU84WmVjMk5qbUNIWGdUNC15X01wbEJkRTVoZU9OWkFhZnd3XzktUnItVW5HWXBnZlTSAYIBQVVfeXFMTnA2U0lVM3AtS0dCOS1qb1RzRTF3X24tazcxLVVQV0xkSWFRSTM3cVh6cm1MUmNiYUZ0VWxHaGxhdGN1b0R2M2x5MzFoSlBEdkRxQjhVcUpMNU4wVWNOMmpmM0hfQWFYZFEwbHZ0QWlueDFrRC1oeS1qc1poemdQNThxQQ?oc=5",
+      "source": "ｄメニューニュース",
+      "publishedAt": "2026-11-15T02:47:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "e3a683adee2edf0b2cb6",
       "title": "誕生10周年の津貫蒸溜所で感謝祭 地元の大麦を使った特別ウイスキーも限定販売（KKB鹿児島放送） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSXk5NmVGN3RNLTRNOEV6OWw3LXNCcUNNcmJRcVFUNFdKNzI1UG5INWtReDNKTklxQ1I3NzNYVS1maWcwUWVTRHBORExmd1pQNXZWRVpGQUpDT3NKRFluUHZWTGhURWluYVNSTjBGeHVfb1phUDVTRUQzNlNnYWc?oc=5",
@@ -1285,39 +1318,6 @@
       "source": "The Scotsman",
       "publishedAt": "2026-11-13T11:49:00Z",
       "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ebea6b63f47e357acd80",
-      "title": "Kinloss launches exclusive 29-year old whisky to celebrate its 100th anniversary - Jewish News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUI1aHczeWp0WlVBSnlaSS1hZzJraHVnTzl6SnA4R051UC1Zc0JzMVpUbDNpTkk0SnhCVzNIUm9taG1NZ0p4Y1hwcGlIb2RQTmdCQnNOWDBRWHZpb2pCai1WQ2U1WGVOZzNaYmtXNHZvVjliVUN0SXpPQzJ0TjJTRFp0ZUg0b3RuYmV0alV3NWZkUmpiX0wzX3dTQ2ZONzNDWHhQLWhsdXEtb1R6MW5F0gG0AUFVX3lxTE9Ed29sel9LUUJUY09HUXdTQ2N1X2tqWk1VbXJ3ajVwY3hBdnJFQnh1WnBaOUhMc1B0YlltdWpsZlhKUURoY0pZejZlSmk4WVkwSThHcU9sREpSZ3VKY3puVmNmbDlUV3lWdHNEUnFjeDZzMUNzT1dkTGNOd2FLVmVHV0cwV00zeUVaV0dBLUhUaWFISE5EaTF3Qm9NVElNN3lfVHlFZnhVOWlrbVFoYy0xdnp3Ng?oc=5",
-      "source": "Jewish News",
-      "publishedAt": "2026-11-13T11:24:00Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9a5c6bcfed0e28b13e66",
-      "title": "Government Hopes to Resolve Scotch Whisky Import Issue Very Shortly - Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnotOWFOYVFvWGF5SWhQVHBtNDRpcUxSdlV1TDVRQ0lvWWRoQTF5TW1lSld5aTI1Tk5wOTF1T2E5OE91MWJPOHd2VldkeWdVX1p3d0tuYVpzdVppcHlRUlp5TVlDZ2ROck0xTUpfc2RRaUYyQWZxYTRNVndSSlRlTlczVEwxMDB2MUYzN2lkNGdobWhFb09WaTdxZnRQRE9zYUpnNGotYVR2c3FCODM0SWhMdmJUUGhoMWxjSE9WR0tmMm9ZZ3hUOdIBzgFBVV95cUxPNTNqQ1dheWNScWtCaGQ4bzl2VXY3Ym5ieFN3NEJMYVJ4OG9IQ000YVl3ZXVlUzJvZDA5amltc1hMM2prUW44dDJKZU4wSUdtMno4SmFNd2x6VUVST3ZvcDR6cUdkY1JPMnBBUHpRWmFFZUJRTDlyYzhlNkw0TlY3TEFTSTE5OXJHSEdEU0ViR1FQVXh3eVFnM3REb09KY3ZFX0xyYlhKamQ4RUVSaUdYV09hbG5oaElLWm1zSFNnT084TGt0MV91NTNQSm1BZw?oc=5",
-      "source": "Asianet Newsable",
-      "publishedAt": "2026-11-13T11:00:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "413138373d9ee1c54cee",
-      "title": "India to clear Scotch whisky import blockage, says Rajesh Agrawal - NewsBytes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUtHRUR4MkhyQWhQZGxsNDNRR2MyU0I1a3BpcjFJeUszcVlJSzBGR3pkUFJlLWhQRHFIYWo5RkxUM29QQnV3TnA0TVFaZmxidlliY0xYV0l0SVJ4dFJXbW1icGItVXZLQW9MU3BGaGFOVGRBaVh3cmNWTS1Ga1ZLREVYcEJJendnQnBodm5ZSlV2Q0dWTDBkMnpTTHA1THVPRVZwSnAwd3NYU2Q5YUE?oc=5",
-      "source": "NewsBytes",
-      "publishedAt": "2026-11-13T10:50:18Z",
-      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
