@@ -1,16 +1,60 @@
 {
-  "updatedAt": "2026-11-18T11:17:20.055466Z",
+  "updatedAt": "2026-11-18T13:23:42.186505Z",
   "count": 120,
   "articles": [
+    {
+      "id": "b431d1799893ba672276",
+      "title": "4 Whisky Advent Calendars Actually Worth Opening in 2026",
+      "url": "https://thewhiskeywash.com/partner-content/4-whisky-advent-calendars-actually-worth-opening-in-2026/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-18T12:30:09Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/4-whisky-advent-calendars-actually-worth-opening-in-2026-1-500x256.webp"
+    },
+    {
+      "id": "978512f14bead4048333",
+      "title": "The Macallan Unveils New Year-Inspired 'A Night on Earth: The First Light' Whisky in Nigeria - Brand Icon Image",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkVCdkY2QmhoY3Q1WjBmbUdpcHpzdHhMWnZFTERHeHk1a2VMdUk3aV9KTzlsQmNLX2RpUVNYZ3ljcXZ2ajRUQV90YnJpWGVWZWtDQnEwcUE1dklaV2w3ZloxMm8xUFM0V1pTZmQtV0tBODVuLWI2YTRCd05zcnhLYTUtamd4UU1Namc?oc=5",
+      "source": "Brand Icon Image",
+      "publishedAt": "2026-11-18T12:28:00Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "b77c7294fbb9a513e6ec",
+      "title": "Isle of Harris Distillery brings its first 10-year-old single cask to Scotland’s whisky bars - DRAM Scotland",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRzhodThZU0NLZkhHTGdLa3hDYnpCd0xFaW1DOXA1aUcwWnVNMU5EZ2FENHQ1ZEhaVVExOVZFZ2g5RnJDQmx4TWNYZVVEU1NCbEdmVUtiaWxpVDZDbnNPRDJsTnQ0dENFbHpjYTdQTlJCbWEzejB3ZXdNMlNZR0xaUjVLZnZJVkpLNlVmdDdHNUJfYnU5R0FMVkltZTVFSTNhWGR5X2lLeFNqbzllVUpNZ2JWS3ZpM0FYU19nMktNSGRBMG4weTlnZkF3?oc=5",
+      "source": "DRAM Scotland",
+      "publishedAt": "2026-11-18T12:12:51Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "0443fa102835114db0af",
       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-18T11:07:43Z",
+      "publishedAt": "2026-11-18T11:30:46Z",
       "category": "limited",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "b5f69d3192d30a450b96",
+      "title": "ウイスキーの銘醸地・スコットランド生まれの厳選した原酒から生まれた、金箔舞うウイスキー「燦凰 -SAN OU-」が生まれた理由 - イザ！",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGo2ak1CZEdrWTBkYTltS0QwT2o4TTdCMDhyNXFFZDdXaGxIdEI2aUZQRTEtTVNuOHpJUWVxRGhjbklNNTZ4bTk4YWRKNjJzeVhsa2lLd3BBa0dGWmZtb21VNEkxdmZhVmxDd19ub09RVGtqZWhFeVMxTWlFSDB2cTB3?oc=5",
+      "source": "イザ！",
+      "publishedAt": "2026-11-18T11:30:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -31,6 +75,17 @@
       "source": "Scottish Daily Express",
       "publishedAt": "2026-11-18T11:01:00Z",
       "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "388c2c3ae71575c7b893",
+      "title": "Bowmore & Avolta launches exclusive single cask whisky at Heathrow - Spiritz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkp0bWI5VER3bkJsZ3piNU1JTVQ0dFNvc1VHZ01pS0YwMXNJdXlGVUIwdFFBMjBscDNGSEE3X1FkckppUVdLX0loVkVFMDdEeDUxV2UxcnZwNnNGMDlmVmV1UnNWa0xWV1lRYnMyRXRHWnhWM3gyeWFSSTBoTG9WbG9xR2NlekFQSjNYUEJ6WEFrX2VHZjVtRGN0UXZYV3hyd05ZSTRBUQ?oc=5",
+      "source": "Spiritz",
+      "publishedAt": "2026-11-18T11:00:39Z",
+      "category": "limited",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -113,12 +168,34 @@
       "imageChecked": true
     },
     {
+      "id": "cc057645944a3e4c49e1",
+      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」を2026年11月30日（月）に決定 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZbFJJaVFTX3ljX00zZUpGVmtlX0Zyc2plaVNEcTNXTzJ3SnRyc2xnSVlXUldja3B2TUxRWFhSM0xrdkNzOEl5U3I2X0MtWTJtNkZPaS1BeUpzenRZdDFUb21XRnF1Uk5IejZj?oc=5",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-18T08:16:00Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "e5bbf78e79274f9fb07a",
       "title": "サントリー山崎蒸溜所でウイスキーの熟成に使った樽で貯蔵した梅酒「超完熟梅」がAmazonで在庫復活！ - グルメ Watch",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BYWw4NldmMzByTi1UeGl2ODZXanpISlRfb2dHc3JOSlptbjU5U0ZSbUpQRjdBZ0V0dVRqb0VxSF8xU3hpRTJvcnlDSHFLQmd4MDIwVG9CbU1PQlNNWWlacm1faENVek5sb3lWeVZoenlzSUk?oc=5",
       "source": "グルメ Watch",
       "publishedAt": "2026-11-18T08:05:19Z",
       "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "a367b739935f6bd43e5a",
+      "title": "88年の時を刻むウイスキーが、アートになる。ダニエル・アーシャムとザ・バルヴェニーが描く、クラフトの新境地（PR） - Pen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JT2J2ZFk5MFNiTF80dkJ1cGltRnRDbjVZY214NFZkZExfaEpTRmZseEJmMFhkMzUtRjJwbGFiVnRQS3l2NnZpN0ZTQ0VBYkJkUDF2S1ZFeVM?oc=5",
+      "source": "Pen Online",
+      "publishedAt": "2026-11-18T07:45:29Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -132,17 +209,6 @@
       "category": "limited",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "cc057645944a3e4c49e1",
-      "title": "野沢温泉蒸留所、初のシングルモルトウイスキー「Barrel Hall Series」を2026年11月30日（月）に決定 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vZXVnaTdGc19hS1hUOEhqOWM0cWJkLTc3Z1Q1Y28yeERyV1FRTmhsSkhJZHlSZEwxMVpxdy1lTlVHWVZqZENKX3lsWGF5eGZkWHFCS0huMmd1XzRJaGF3eERBYVVEUzJpcUE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-18T06:04:04Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -179,6 +245,17 @@
       "imageChecked": true
     },
     {
+      "id": "34aa206153d0c5153e0f",
+      "title": "No. 10: Bernheim 10 year old 20th Anniversary - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWSi1SLUlmemYtRmdrMm1NVF9HWFd4TDJURFc2YTdJSmpqeS1ZZ2dmVWt4Q1FDS3BhVEhMUjkwRVBDVGlGNlhKaVpXdXBXblpYVHhEMA?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-17T20:33:28Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "50e6ae6d8a98c71007e6",
       "title": "No. 8: Little Book Chapter 10 “All the Wiser” - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2bGJfdjQ3WWFFbUtHRUFwVjdmZFFHZTlxRU5iQ0dUWjB5Qjh0YmVPQ3NNWEtyZERqUmFJUlNIcGY5MXJNeFNybTVnV2pnck9hWkU0?oc=5",
@@ -209,17 +286,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "b7106aff52bd74c50c79",
-      "title": "Bernheim 10 year old 20th Anniversary - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGRYVlJfSG00TDJZaWFEU2FjN0wtM2tfNVhqUlloZ3ZuTHBkeGtmaVFaR1lRYi1WaFpqR0lHbGNqN1lpZEJ2QmI3czE0N1JCeTFTSmUyOGpKeUxhNW5xcE9JdXZEM2p2OXM1UU9hYXpnZmlqdTRHYTdzeGFxaU4yYVRlUERiQQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-17T18:56:43Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     },
     {
@@ -1092,17 +1158,6 @@
       "imageChecked": true
     },
     {
-      "id": "c0a8beb899eb67aa41ca",
-      "title": "世界最高峰のジャパニーズウイスキー「山崎」の真髄を銀座で体感。「THE YAMAZAKI EXPERIENCE IN GINZA」が期間限定で開催中 - ウォーカープラス",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MXhzNnN5UUpxWkUyc3BfRC1uN3JoZHRHb1I3VkJqVnlaY3BzM3lMRW1FQnVucmZpUzRWTG1OU3AySUZnWUs4X1FNOUtyQnYxSmhvUWlR0gFbQVVfeXFMTl9sclpfVm9ZbE9WZ2phX2ZxZG1iLUs5MU9tVDctTE5Fc2pHV1JGSnl3WG81MURfaFpWSkZLS3V4eGdMb0VPNk12cWxVTUpCY1VfTnp6UGhwQmNqNA?oc=5",
-      "source": "ウォーカープラス",
-      "publishedAt": "2026-11-14T16:15:49Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "f55c185e6868f7c63efc",
       "title": "Cardrona’s The Falcon: Inside the 10-Year Journey to Put New Zealand Whisky on the Map - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdzMkRNYTFjSUN1VXd1R3NLcU55OE9SVkRPcElMV25ITFVUTmNwbnBrRy1ZWmR5amFqWW5DbVRYR0dZd0hoQkxpdzctV2EyWmxUc2dEaENhX3hNdVR0Q0Z3NWxDV2lQNlZoX01qc0JXYVhkSlllQ01TMmJWeWJPOEhaVjdTVG1Ub3hmcURxTG15X2dFOUFHTG9LOGRJOGxsNWZHYkVOT3ZZUUtIR2xnRjZ6UEx0Qm45YkxDNjZ3dGpSUkpTaVFr?oc=5",
@@ -1224,6 +1279,17 @@
       "imageChecked": true
     },
     {
+      "id": "c0a8beb899eb67aa41ca",
+      "title": "世界最高峰のジャパニーズウイスキー「山崎」の真髄を銀座で体感。「THE YAMAZAKI EXPERIENCE IN GINZA」が期間限定で開催中 - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MXhzNnN5UUpxWkUyc3BfRC1uN3JoZHRHb1I3VkJqVnlaY3BzM3lMRW1FQnVucmZpUzRWTG1OU3AySUZnWUs4X1FNOUtyQnYxSmhvUWlR0gFbQVVfeXFMTl9sclpfVm9ZbE9WZ2phX2ZxZG1iLUs5MU9tVDctTE5Fc2pHV1JGSnl3WG81MURfaFpWSkZLS3V4eGdMb0VPNk12cWxVTUpCY1VfTnp6UGhwQmNqNA?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-14T08:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "e8d4ead8ce535ddad77d",
       "title": "Moray whisky distillery owner presented with prestigious industry lifetime achievement accolade - Northern Scot",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUtSU3BFcTZoVEt4WUdrOERaY0ZqaGo5dzBNNGRELVFNZC1jUkJHYmhWRE9QZEppWHZidGQ1c3lVdmtMQTZidFBzQ1pXZHVtT21ZSWZvQ1RHaDRmcFVVWTg3UnhsWFJWR0ktTm9rbXA3Zm5fOHJSQ2NaXzhwYk1aaG9QeDlzbnhtTzdOUEdrOTBwXzktaFhNalhaVkk3SnJjVHdYTmlIc1g?oc=5",
@@ -1255,72 +1321,6 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "a992bc807fe1815ea065",
-      "title": "「未」発売 町内で限定抽選販売 厚岸ウイスキー、きょうから応募受け付け【厚岸町】 - 釧路新聞電子版",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxNE5PMnZKMVlpeUd1UmQyMVFIVG5IWlR6SG03cW9OMjhMTEY5by1rMFYzSm51LWc5MURBdE0yYWFJaUhhMXBZRUF6WjkyZm9nSlc0?oc=5",
-      "source": "釧路新聞電子版",
-      "publishedAt": "2026-11-13T19:03:57Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "dcb07f9e42f685250c62",
-      "title": "News Notes: New Johnnie Walker Film, 2Bar To Stay Open During Bankruptcy & More - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVDRiVS15cC1uNEJHdDhvbE1TTTZXU3dMTVU5MGdWX1FLZllkdm04ellEMFBocE1YRVNTTHdmdTdQQV85bi1uNG05VEZLTzlhcXRrZGNIdEt4Qm9OWkZFc3VhNEkxV3c5bXN3QzNteU5YQkdISkU1V1RndWJtV2ozeFgwc0NGckk?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-13T16:56:26Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "9062ae1c9ca551943076",
-      "title": "The Glasgow Distillery Unveils 1770 Tequila Cask 10 Year Old & Local Merch - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRPS3NrbDJ1QXUxSVJqN2p1eVA4RUNTV1Rvc1VYNXVwdDdPejBNblZLbWk2cWI1ZTFOZ1lpbzhmYmtUNTJwTE8tbmVJLWFya3hfcDE0WmNNdHZ4LTgzbFBmT0JSeEpWSHdiMnRNaVRhdHEyaUJ2RE5iLTg4XzNhMjVkcnRzYmJWb3oyaW9zaDhlcFcxQzFxMGZ6SjFpSnJRLWpjbG5DN3RaZXllYjcxSXpOTQ?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-13T16:56:22Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c8ba6181a0a28282452f",
-      "title": "Cathead Distillery Launches Old Soul Estate Collection - The Whiskey Wash",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUx2QlRNYWgzeUlFREJmYkxXaWRLeXdZNDJ2ODhOQ0Q0cGkwTVJsZXlwLXN1a1RRdjkxcUFHajczRjIzLWVxSFRwNzY5Q0FicGl5b1FSV0ZUcVctSXhzb2c5Q3BGOFhWX3p4dzAxSEhHQVVaMnpPNnpkeENiSjQ2ODkxOXlOZU8tc3JTTVQ3azhaaDlBWUI2LUVsUQ?oc=5",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-13T16:56:22Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c0980df718d1d316aee6",
-      "title": "Whisky Watch: Aberlour 14 and 21 Year Old, Blue Note 17, Garryana & More - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVThiMXFjaG8xWXUyTU44bWR5MDRFMHNzeDQyN1FIbW1xcWwzc25FWXdxaFVWRFJIQzVXMG1xS21uc0ZZeGZBSFRkLV8xNnY3N2ZuT0NLYlV0NkJJVEZfT2RVcXd2N0tPZE80bXFYVUtCTk0zOERINEp0cGx4OGdZNkJfaUNBbG5DdG1QOXlCU3o?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-13T16:49:47Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a8400efd6a9d6b9dab1d",
-      "title": "Mark V Whisky Expands to Chandigarh and Uttarakhand",
-      "url": "https://thewhiskeywash.com/whiskey-news/mark-v-whisky-expands-to-chandigarh-and-uttarakhand/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-13T16:26:04Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/mark-v-whisky-expands-to-chandigarh-and-uttarakhand-1-500x256.png"
     }
   ]
 }
