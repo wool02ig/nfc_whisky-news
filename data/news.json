@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-19T12:06:38.812140Z",
+  "updatedAt": "2026-11-19T13:26:43.552621Z",
   "count": 120,
   "articles": [
+    {
+      "id": "72e9b13d091beee3f508",
+      "title": "Chivas Regal unveils 16-year-old limited-edition Scotch whisky with Charles Leclerc - IMPACT Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaU4tMG9wZkllSzM1MmtKbkV0Y0hJTkE1LXZKR1pNc0NDelBiUlFqa04wTlBZSUZpUjRXOUlyVHpRYXNKNjdNV0hhcmZRNzBiNHZrV0g4S3d1NXFSZ0hIQ08zaVJtZ1hPNzlXaHM0WUk1ZnJxQ3RkT1ZrQ2dXVTZsWEx0SjROWEJIUEs4NWU4bmdnUXA4UDR2dzZ0ZWNVbVQ1ZjVVZnk0QllTcnJSay1FUms4MUdEaWxWbUU4RzIzb1FNVzdRbmtUaExtYjNaVEU4UFdGeEln?oc=5",
+      "source": "IMPACT Magazine",
+      "publishedAt": "2026-11-19T13:19:43Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7c5b099e8466a1b238d7",
+      "title": "Centre works to resolve Scotch import deadlock over UK trade pact provisions - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQejdfeWdORmRWTUdjM3dGc1F2VlZIMkVTLUhEdHdiR2o4M3M2NnY1ZXcwUEdBTXByMzBDTEM3b2JaVDNYcThMWXhlVnA4VjJOZElNaFBISnFyRVRmVWlMcEdHN0thbUZ6T3dJcURwWGdZdGhlbHM5TWotLWZOUDJOMlJMWHQwNTNnR3VPTjA1VU1Hay1hdzdlMjVDQmR2Z1FKS3h2SlNDeUNMbDFsR21TWHM5VnF2SV9iUmpPTkJMZWpFWmdaYXVvTG130gHPAUFVX3lxTE0xYkU1My1CcVBLSnJGMXJxZkw2ei1abW00UHRHaDhEb3pLWl9mRjl5Z1pXQmFzd3FjSE0zdk12VTBWWEo0ZmVwYV9malpCNUdFTW5KOGlrR3Iyd2dxajRFMDBWcFFLY05MUnZvd2I3WG9BRl9BdVpQY3dfclJFd0plcWVaWG00QWVoTlQ3RnZmU3NOUEZWaDdJZG1SdktFVGFyWG5BWUFkRW9HcGx0ZHAyY3QxNU53bTFLRHBSWGl6OF9YMUZVVUpfc1IzSk9VZw?oc=5",
+      "source": "Moneycontrol.com",
+      "publishedAt": "2026-11-19T12:54:02Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "2beb70bbcc372c429546",
+      "title": "Elsham Wold Distillery expands whisky range - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVldsZzJoN05oRE5Oc2JTVFN0TmwwRUQ2ZWpMbGdBQjJkSF9zVS1vWVhLZ3dyREVmSFhEbmMwOFpjR1NhZ0J3NmlOV2tjZ1ctZ2FNVV92a25DOWpLS0pGNlEyR19WWkctaHJPUlJjRF9LUHpVeGdscEFBRHU2a01NMXZwQU53cFBhR2M0YjN1TnI?oc=5",
+      "source": "The Spirits Business",
+      "publishedAt": "2026-11-19T12:31:04Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "7616b3a6756439bebb5b",
+      "title": "Limited edition £600 whisky jerry can cabinet back by popular demand after sell-out success - The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNejJQSjVtSGl4TUhGMzdvRDZqdHQ1NHJVWUQ1ZWREc2RIalRoNWNvX0wzMGRHaS1ya0M0QmVsZW5VbHJHVFFaelZxVUUzOVFzTnQ5U1Mya2dReWUySU91aDZwVzRzeVczbU4tYjFZdHJfWjg0ZWQ5ajdEUTUtUmdPSURvaWxYdGNRNFpVdVY3cHdQcW1ucURIZGRSRkNxS3kySEcydlotZG1MTExQaDIzRkNjQnZtckY3bS04OXg0RGFITDBoYUhCMlRFNlV6VF9mZTV5d0FUQUJTeUQ3Z1NnSmRNcGZSbVRxWFVnNHg0UjlnUGJNMnl4WnYzbkEtOWlJV2cw?oc=5",
+      "source": "The Scotsman",
+      "publishedAt": "2026-11-19T12:08:00Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "c7a2de97ee190df57622",
       "title": "White Peak Distillery launches latest release in support of the UK high street - The Whisky Wire",
@@ -11,6 +55,17 @@
       "category": "distillery",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "aa8bfeac414e643d0b04",
+      "title": "YOSHIKI、三郎丸蒸留所と初のウイスキー3種を共同開発 20日発売 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tcVlWNktIMUJhN3pMVjRXVHZXOEhKUmpnaHNUWkZlbVBzUWU3UEZQZVg1NmV3T0twWlQtUURzRjN0NkNmUW55ZmlBSm4yeDVxa2UtbzFxZ1licmt0LURzbUdETkVMZw?oc=5",
+      "source": "RBB TODAY",
+      "publishedAt": "2026-11-19T11:11:32Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -36,6 +91,17 @@
       "imageChecked": true
     },
     {
+      "id": "35bdbed1da63f5a09477",
+      "title": "「Y by YOSHIKI」×「三郎丸蒸留所」 スペシャルコラボレーションウイスキー発売決定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJQmEzNXVjU1RmUF9uLTNQTENIVnFmREt5UUJSdDlleTJ3bVFXTm5JLXlnQUZQNWQ0RVBUMXNHSThnM2ppV2pEZ2U5YUpHRUdHQmVCOTlFdkk4d20zTjV6UTNDd1kwb0tkWkE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-19T11:00:17Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "206a97434d309f8a77ee",
       "title": "Hensol Castle Distillery debuts whisky after three-year maturation - Larder Magazine",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbU5KZFNqYkFYRTdTYUpQWnBhWF9SNEpnZ0F3cVE0Z1pXYjBCMDBFWXFNT2tMSlBLejMyVjFQaWZuNmd4eWtpemJ4U3ZKS0pTNnZCUTU2SDBFVlVKR3JOdmNFLUduR2RLazRUUktyV1dMOGY4NVRhYm1KV0F4S2RfYmdMUGNNel9mNXl5cmdmTWlPMTBpQ3c?oc=5",
@@ -55,6 +121,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "a9ecb7f1b10c805b137a",
+      "title": "ナパ、フランス、そして富山へ。 YOSHIKI 世界的評価を受ける三郎丸蒸留所と初のウイスキーを発表！ 1862年創業の若鶴酒造・三郎丸蒸留所と約3年をかけて共同開発 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PMlNna1ZQUWZIUkJPUlF0VExvc3Bsc0d0R1IxdGpVUk9temVzdTlMbU45OFl3N3JWRVJiXzluOXRJU2x1TmYzd1lSNkxLbEtBRVBublNiMXc2dGtLLTZKWkFSOXVDMDJlZHc?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-19T10:35:43Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -91,11 +168,11 @@
       "imageChecked": true
     },
     {
-      "id": "98d6bc2dfd7bf4ea70b7",
-      "title": "YOSHIKI、初ウイスキープロデュース「我ながら傑作」構想３年も「アルバムに比べたら…」 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RQXRZMkJqdmVVSEE0blVwWUh3LVJxMGtQc1laR0FpWHdaWUo1QmhXN1FZcjJRMElDVFBPQzZjY0hkRDlpekpNZGE3OXZtOWRhV0ZYc0t2WU94RHViTWRR?oc=5",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-19T09:38:11Z",
+      "id": "3b5c2266704fdca9c702",
+      "title": "YOSHIKI、初ウイスキープロデュース「我ながら傑作」構想３年も「アルバムに比べたら…」（日刊スポーツ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51NDhGaV9QY3g3TU5ZRXB4NUxVX25jNDdOcmw1S0syYl95WDNBdXBZa09fMUQtYWFSS01Gc014THBORWhtbkdlc2Z1bkFJSFlubkxHN21RNkNBNXBUbTVma0RsaEN3ZjVPU1hvRnc4RmRUclptLW1XTXVMMVpoT0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-19T09:38:12Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -108,6 +185,17 @@
       "source": "若鶴酒造株式会社",
       "publishedAt": "2026-11-19T09:37:59Z",
       "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "d2745fabe8562bb16b8d",
+      "title": "YOSHIKI、作曲とウイスキー作りの“共通点”を語る 自身初の挑戦…富山・三郎丸蒸留所とコラボ (2026年11月19日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBeHVzUlBpd0FoeGo1d0ExS1Zqc2U5SjZOOWVmeTg3ZmJzeDVRVXdIcFpOcUpqNHRCWnhYVjh3WlY2NFJadDFkeFBTUGdURjRoMDkydXU2STI3d2RLS2c?oc=5",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-11-19T09:23:25Z",
+      "category": "distillery",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -184,6 +272,17 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPb3d2QXFMZGd4OFV0cjlpWHRFNE0yWVp1NVBXVm1wUk5EYkZYLWVGNVdmbGRaNUpWdTZOS0FZX2pmNlkxQzh5V3RzN2RnRG4tMmlKeFlWNjJDX1lhZnhkRDNmM2RvdjN0SkhWVDJ0NUxISlllT19RSkRPdFp2TUk?oc=5",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-19T08:03:16Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "9d23a9c400ded956ec85",
+      "title": "YOSHIKIさん手掛けた初のウイスキー 砺波・三郎丸蒸留所とコラボ 20日から販売｜社会｜富山のニュース｜富山新聞 - 北國新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xQWxHTXFWeWRQUFRxWEZVZUM1T2RRWk5fOHQ5Q1BvdW1JUWc5NXFkeVlhaE5NZVYzbEhhUDczWDcwenZmU1FCNGdBY21OZkpsc0pDT194WQ?oc=5",
+      "source": "北國新聞",
+      "publishedAt": "2026-11-19T07:50:00Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -1221,105 +1320,6 @@
       "category": "new",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "b3d163578784f1b8475f",
-      "title": "バーボンウイスキーNo.1(※)ブランドである「ジムビーム」からセブン-イレブン限定のハイボール缶「ジムビーム ＜ブラックソーダ＞」11月24日（火）より数量限定で全国発売開始 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ucGRIQlNKdHV0dkdubHJDc1RWUHpUV0RfTFFXQVhBUkhZRlF2LUJsYmR6aXBvWWpUYVo2RGt5MVZNNktyLTNUNmZZWWVKVDhyY21qek96S0hKYXF5d0JxUWNCWHBIZnV3cHc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-17T01:30:02Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "f6b63f8d82b946a15dfd",
-      "title": "No. 15: Sazerac Rye Full Proof - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SdjJTZEJvaEVjYnlsaG9ING5GN0J3YkZtWk5NQVNGcTlxQ25wZ1I3T1FWcTdNSlRwcFhTbzlGZGltckVQWkd6M3ZBclpVWjd4SzlvYQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-17T00:53:38Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5cbd245de2a4d4cd3c9e",
-      "title": "Sagamore 8 year old Bottled in Bond - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU0ZtZFZ1dlNOb2tOa1ZqLVBpUDBFcExKa3hvSjl3VWtfU1VSbTNqMmFhVXNTaEFVUVQyaTZmMGNsdlpsdUg1MEwzcVJkU3NBWTJDYkdFTTdOLWU3S1p3ZFdONDEwaTJFSG5ST2IzMFhNcGNzRndfR0lwSVdPd0JSSWZncw?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-17T00:35:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "317c4a42ff58cc2e9ab5",
-      "title": "No. 12: Blue Run Blueprint Series - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tXzRHczAtT29OWnQyaUlqMWRTVnA3V0ZjaG51TXo4SnBCOGUtSXl5ZndidTN3aFU0TzRwcGxoWGFnRmN1TVZydG8xN1FteGV0LUxkcQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-17T00:34:45Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "16ef06b7fa49304d510b",
-      "title": "Fettercairn 16 year old - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ocVJJZ2JiQ2x5YkxkSElRdERoSXo2Y3JxV0tBaHE2SVh6cGF6aVI5Q0pXXzlZNUlidVc4MHRrS1ZQazJvQ19TVUg3TjhmTHVzUHdFM2FGZDZ5UGRlSjk5WEpDOWRIY2hVcTJJMzVVdDRXcmM?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-17T00:29:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "8b7a723b91d59592ea34",
-      "title": "Highland Park Cask Strength Heather - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeTY1NnhlTjNzVTFIOGJ1NjRiTjdSLWNXSUtSVFRxUlF5Vk5MRllQSjRSX0phY3hYWGN6LWtqZzZURG5TeDIwMnRMWTZiRWhCeU54Rkx4dWJMS24wQ3Rub005MDRFU3FtMGs3NnVRcjk3R3ZrTXRHNlBiYTRCaGlHUnFrTQ?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-17T00:23:03Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "033fa98bfaa46a521876",
-      "title": "Scottish Rum Meets Highland Whisky: A New Era - www.upscalelivingmag.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalk0Tmd1N0t1aU5GSWRPMHRuQVZmcFgtbFVRd1BidEJYOHMzRjZQcUcyZ3dQS2drWUdwNGhoMW1pOTI5OUNHaFpSY2xMQ2lNWWExLWZNQTZrVnQ2MGQwZWFvdVdSUVJpZGpvWXFmbzJrQ1RSdm9SZkpEdjB5eU01YTZzcW90TEgwTzJmcVhnRGNIeDVrNHBKWTZzRkFzdGhNd3JEQQ?oc=5",
-      "source": "www.upscalelivingmag.com",
-      "publishedAt": "2026-11-17T00:03:57Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "61cca316d0e2cc0f103c",
-      "title": "Inside Keepers of the Quaich, Scotch Whisky’s Most Exclusive Gathering - Men's Journal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnRucGQtUTIyREx4QlBmbHFRYWp1VktmVTFpelk3RWZHVmdWWXQ5dUF4YXFrbnRlbWdDQzIwMngtVXRCNmlWdTkzUnRiWEdxNlFUMm5vVVRLbkw2dkxlaERZc2x3RGl2RXV4X0dsSTRFdXlYWHV2MmVfaWNnRmFySTlZTGlILXVmdFBmUFBsbDdMZDhxTVVBOTQ4ajBQOERvcTZOUw?oc=5",
-      "source": "Men's Journal",
-      "publishedAt": "2026-11-16T20:05:00Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "25beb2f886dd2779b739",
-      "title": "A very Saskatchewan whisky returns to Lumsden after three years - SaskToday.ca",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcG14RHV3VGhuZldpck9BMGZuZkt6bkNqRVVvNUFMNmNGREFpZ1BfMTBxWXljMUhTRm1TMDdOYS0zVWllSHk2Yk9nQ1ZNR3JWQUR0NXNVZFVUVGFwbEFZeEJPaFl6LUFxM0toTXlZTFB1UF91TkppV0pHZFp1QkM4RDVmSFdlbHVqTHZYcFRXTmgyMHI2NmQ3U205Um1QdkdmbW5scThiVkNLaXBiVnlYckt4eUVOSGF2NkVESjF5UQ?oc=5",
-      "source": "SaskToday.ca",
-      "publishedAt": "2026-11-16T20:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
