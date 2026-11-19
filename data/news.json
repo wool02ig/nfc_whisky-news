@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-18T23:57:00.567045Z",
+  "updatedAt": "2026-11-19T01:22:25.737577Z",
   "count": 120,
   "articles": [
+    {
+      "id": "ed61d2e0059b0d2cf6b8",
+      "title": "Scotch whisky casks: Inside the overlooked cask trade - City AM",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQ3RHQmF4a2JzSUJiM2IzclVDWTJxVzRCb1JCUm9jTkNJOWlTbmFfcm1ZaFozeklaRXFnY2tHSVd3UHdBcGtmajl3Sy1jWmtIaUEycUZLRjA3dFlKQVZaRTRB?oc=5",
+      "source": "City AM",
+      "publishedAt": "2026-11-19T01:00:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "0443fa102835114db0af",
       "title": "EXCLUSIVE: India to charge bulk Scotch imports 162.5% duty and tax amid UK pact standoff - Reuters",
@@ -850,6 +861,17 @@
       "imageChecked": true
     },
     {
+      "id": "b5f7fb2d8a87ae2a8081",
+      "title": "大阪大学と若鶴酒造、緒方洪庵シリーズ初のウイスキーを発売 - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TeUloQkNIbGd3WGZSMnhXUTIzS0xDeUtrWmpsbU1yMFlmNXVQc0lNZ3BQRE52a1Y1aS0teFlycjNiT2Fvb3A4?oc=5",
+      "source": "Dellows News",
+      "publishedAt": "2026-11-17T03:00:02Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "6bb01f43b8e4fc4c145d",
       "title": "瀬戸内の自然の中、希少なミズナラ樽で熟成させた『シングルモルトジャパニーズウイスキー瀬戸内 ミズナラカスク』11/24(火)より新発売！【セトウチディスティラリー】 | 株式会社三宅本店のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdV81cjJlb2M4N2o5Skp5TmVVaEpiQ3YtRTFoQnFDT3RsT21fdnVpRTNjY21LZXpjZW80M0hFeTh3YmdMcmRmTnh0ZTYtTDVGQS0zWEZiRHR6dWd6RXRfX01WUlFsZkt4bkE?oc=5",
@@ -1295,28 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOem1TOG5UTTdjS0Vtczc1clBSOUw4bjdJZGxXZ0UtRVc3S3c4eXpuOW93bERsMmRqRHRaUmNOS1ZMdjY0bTlBY2EyeV9FWmtMdko3am5FMHhHUmFaZm5jdTBmWlJ2RHlXaTRvdW42V1ZKVXNtNkFkTkMtMkJpQmxkN2JCN2RNQ2J1eFZvMDRqSGRDbURtaVRlVWZtRUpZd0NTWVVPV1pNZDRjNHdvUHU0?oc=5",
       "source": "Essential Japan",
       "publishedAt": "2026-11-15T23:40:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "6d6d88af4ea6e240704e",
-      "title": "道産のコーンウイスキー誕生 原料こだわり、5年かけ商品化 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSbzNqSWZTTXpsc3pxa2liYjR5aE10d3pUaWdlLXhIVUNGQXVDZDM2MGY0OWdlZW9FVFJvejMzX2oyeHZjeDdJSnl6UWJNNFFTbHNFYXFLTTdRZmVlaXZfVHUyTThVTmtLODI3elRyeXo?oc=5",
-      "source": "Excite エキサイト",
-      "publishedAt": "2026-11-15T23:03:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "ff839d310871ee5cf383",
-      "title": "Taste Test: This Fantastic New 18-Year-Old Bourbon Is Destined to Be a Collector’s Item - Robb Report",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdG9QMEY3QXp5cTZQNndfXzFTNkJ2TzBGYTJjZ2JfbE8xelBlUGFTcWNGZ1JNR0VwLXk1cjlNOVN2RENBekZ6UlFuM1AtSVY4dE9sOGdHYWlHTXJFMWFKRDZ2RDZmeVlIc05pLUxQVl9FaUU4dVp2bGF5aDFoUjFKZnliR01yZWhrWjNncWI3dGp3Y2RrSDlOZlFlOXhEeEpDd1JhYnJwb1pSOVFm?oc=5",
-      "source": "Robb Report",
-      "publishedAt": "2026-11-15T18:00:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
