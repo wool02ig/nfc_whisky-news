@@ -1,13 +1,35 @@
 {
-  "updatedAt": "2026-11-19T16:10:33.930672Z",
+  "updatedAt": "2026-11-19T17:15:18.873860Z",
   "count": 120,
   "articles": [
+    {
+      "id": "5b29a9b13da077a76f1c",
+      "title": "Laphroaig & Danish Fuel Offer Jerry Can Bar Cabinet and Whisky For Christmas",
+      "url": "https://thewhiskeywash.com/whiskey-news/laphroaig-danish-fuel-offer-jerry-can-bar-cabinet-and-whisky-for-christmas/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-19T16:10:50Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/laphroaig-danish-fuel-offer-jerry-can-bar-cabinet-and-whisky-for-christmas-500x256.png"
+    },
     {
       "id": "8c8679a304164bd95a0c",
       "title": "Michter’s announces the return of its 25 Year Old Bourbon - The Whisky Wire",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORXNFaTVwc3hYbXNnWENuYndFTDlGSFlxRnFNWXBPVldaTnBKQzlYLU92blZvR3Rzcnpib29YODBhMno0UFhaU2xaMVJHNEcyUXNZX3VxY1psWUE4LUpDTkFIMnVqcGNiZ3JnWUpybXJfTm5aU2VnRkNwbm5hdUhjblZOUURRQzhXbHBKNTdqMFVGUXJSdFFkUFp3?oc=5",
       "source": "The Whisky Wire",
       "publishedAt": "2026-11-19T15:58:40Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "c988c6414b3bf449580e",
+      "title": "Aberfeldy 18 year old Sangiovese Red Wine Cask Finished - Whisky Advocate",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjVMdDlQYllZbGE3a2RXUTc0Tm1jOUdSaEdHNGVaNks0WTlNZFRVZVJvLXRTTnZOSWxQSlpTZTBmaklGWERldkVIZG1TWUNDVXdUZjJHWFRXTXZDaEFNUU1aSG5kUElqVDFYNWxfZXZmT3BTeHM1Zk1QWC1WczNjV2lCTTAzNlE5dUNweTRsTGFWaUVTS0ZmMEQ2c2NNZw?oc=5",
+      "source": "Whisky Advocate",
+      "publishedAt": "2026-11-19T15:06:40Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -53,6 +75,17 @@
       "source": "The Herald",
       "publishedAt": "2026-11-19T14:41:53Z",
       "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "31c5399f36b89dc733d1",
+      "title": "#MCExclusive | A customs classification dispute has left bulk Scotch whisky shipments stranded at Indian ports, with importers facing an effective duty of 162.5%, higher than the 150% levy they paid before the India-UK Free Trade Agreement. The trade pact, i - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejAtN2N1Q1llUUhFa1R2VXRUUVNpNk5sMG5sZGU2OWRkaXRqREZxOUNvQ19LUlVtTEZpUUYxSl9GcktwMTQ1NjZBZm5MUUFuTlBCWHVzLUtxQ254LUhiVlVSU3E5YjJ0cHNIcFI2QUM4ZXpGbDAxNzBsb3RwXzZ1cHFXMThSTmo3bEhpMTdOb3lDaVpIdmxEMk9McXV5WXc2Rk4tMWpZbXNZYVFPU0YtZWs0SQ?oc=5",
+      "source": "LinkedIn",
+      "publishedAt": "2026-11-19T14:41:36Z",
+      "category": "limited",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -161,7 +194,7 @@
       "title": "Hensol Castle Single Malt Welsh Whisky is officially here - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZG91TXk4aTN5WFdsekVKV1JyZm1wak1mTk5sTk55X2doREllcDBJaWQ1aDJSME9WTTlaUFY5UnNKNFNXaTN3azA0d2lYY0otVV93VU1qVy01WVhQZng4MV9EQUNQX09VazlHUU9lTkxyd3dWQ1ZwMzE3cEtxcTQ2MFVLM3dDeXpGUzE2bw?oc=5",
       "source": "Retail Times",
-      "publishedAt": "2026-11-19T11:00:42Z",
+      "publishedAt": "2026-11-19T11:04:05Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -218,6 +251,28 @@
       "source": "PR TIMES",
       "publishedAt": "2026-11-19T10:35:43Z",
       "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "08822ea1481e67b2927a",
+      "title": "House of Hazelwood To Auction 58-Year-Old The King’s Measure Scotch At Bonhams",
+      "url": "https://thewhiskeywash.com/whiskey-news/house-of-hazelwood-to-auction-58-year-old-the-kings-measure-scotch-at-bonhams/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-19T10:04:13Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/house-of-hazelwood-to-auction-58-year-old-the-kings-measure-scotch-at-bonhams-500x256.png"
+    },
+    {
+      "id": "3b06a661333f2a116429",
+      "title": "YOSHIKIさんがウイスキー開発 若鶴酒造と異色タッグ「こだわったのはスモーキーさ」 世界各国で販売へ 富山 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSjIycWRxbVpSMEdadnBoV1QyWVBCSlp1ejRSZEpmLWJOUHI0VE5NUDJQUVB3eTlXbDFzSFBudDdwdjVmdm5YR3FCZVp3dXAtdmVzX3hfUTN6Vk5yeFJPNjFjT05KRTg?oc=5",
+      "source": "TBS NEWS DIG",
+      "publishedAt": "2026-11-19T09:59:00Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -300,6 +355,17 @@
       "imageChecked": true
     },
     {
+      "id": "25582aa62ada67ed4b1e",
+      "title": "Wyoming Whiskey Introduces Saddle Up Santa In Time For Christmas",
+      "url": "https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-19T09:23:18Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas-1-500x256.png"
+    },
+    {
       "id": "7d1803c28bbfb208cdc3",
       "title": "YOSHIKI、ウイスキーブランド発表「我ながら傑作だな」（サンケイスポーツ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOHltVGNOVlNabkloRTdEVU9RRHN6dDZwdUpZUlNTbFIxVEdZdHdkWVREREVzakd3V2NiZngyMmNCZjl0aGMtVm1TWWlZRUdPNWRvWW1fSUlwNENMVFFKR2o2OGozQnlIcUt3V1dkbXY0dTlab0R1dG02TUlLeVE?oc=5",
@@ -342,6 +408,17 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
+    },
+    {
+      "id": "35bbb67093523cf99591",
+      "title": "Loch Lomond Study: Scottish Whisky Pride Outpaces Drinking",
+      "url": "https://thewhiskeywash.com/whiskey-news/loch-lomond-study-scottish-whisky-pride-outpaces-drinking/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-19T08:39:23Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/loch-lomond-study-scottish-whisky-pride-outpaces-drinking-500x256.png"
     },
     {
       "id": "a899f73394bd0339d856",
@@ -840,10 +917,10 @@
     },
     {
       "id": "b431d1799893ba672276",
-      "title": "4 Whisky Advent Calendars Actually Worth Opening in 2026",
-      "url": "https://thewhiskeywash.com/partner-content/4-whisky-advent-calendars-actually-worth-opening-in-2026/",
+      "title": "4 Whisky Advent Calendars Actually Worth Opening in 2026 - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDNwenVSWTQyTEVaMVNXcDc3akd4Ni1xR3AtR2JwQ1lPcDhPTHRfWjRFRm5ONkp0ZEpOZmZqSHhCZHlOZzNIZDFMa2IyZDFFWjVvU3VSb0RTNC1ya2tqZm5pVWlUZ3NVYS1WdzMtQnBPNFVVckpYbFhWSmk4UnBWX0toYWtaNEItMmNRZGwzNUZZaTFhRUNSLW11YVJPVktLUnc?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-18T12:30:09Z",
+      "publishedAt": "2026-11-18T12:39:03Z",
       "category": "distillery",
       "language": "en",
       "region": "international",
@@ -917,10 +994,10 @@
     },
     {
       "id": "660bb63059eb51f1ab42",
-      "title": "The Best Scotch Whiskies From The Lowlands, Islands, & Beyond, According To The Global Drinks Awards 2027",
-      "url": "https://thewhiskeywash.com/whiskey-awards/the-best-scotch-whiskies-from-the-lowlands-islands-beyond-according-to-the-global-drinks-awards-2027/",
+      "title": "The Best Scotch Whiskies From The Lowlands, Islands, & Beyond, According To The Global Drinks Awards 2027 - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTJEVjYydTJ1eUZmS2VGeHlSWXF5RzBWc2JUdjZXdHA1WHhEUnZqakI0TDdxODNtbmpXZWpWT2k5dFVqOWxzOUhPZGVkTW91YjRrZ3ZLWWp0Rm5acnRlOWFZc3ZUUXJIQ0Q2ZTRwaHdnWHhaenVtLUgtRjFSeS1oeFRJZ0FwSENaWmc5Wi1YQXdhSURxcjJHQkFGVzBwd3p4cUd1NWVTSWV1ZlNKZ2NSTlUwMFU1Q25KNHJmSDg3elJfWDRQdFQwTG1udDB5aDJUa0wwM1AtLTd5SmM?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-18T10:20:03Z",
+      "publishedAt": "2026-11-18T10:42:18Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1241,83 +1318,6 @@
       "source": "The Whiskey Wash",
       "publishedAt": "2026-11-17T10:45:20Z",
       "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "cab635e661fdb3afb562",
-      "title": "Edinburgh whisky fan pips wife to be crowned blind-tasting champion - The Scotsman",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaE1rcWFkMFRWMEFGWVVoRmJ4R21leHRKa19SaHdmNWxlSGY3WGVBRmNPYzJTLTlsV2pIak9maF9rSG5NVTR2REdpMkZVZUxadl9YaDlIaEdBS0N0enl6cEJGb0E3cUROcnhkYjhFREprYVJYem94YU1PeXU2TWpLXzBPeU5wZmd4c1dlY05qLXlrUXRwcU5fWUlnQXRWTjZNd1hkREJyQ3lwcnlpeFRnWGVEN21tOVY0ZjBfUjVlQ0Y3bDB4UUpESVZ6NWtMNDNpUkI3UWxQY0lXUjBuSGhzSmZaMWdoX1lHQ0hVR0JaS0pWMkdfV3dmQg?oc=5",
-      "source": "The Scotsman",
-      "publishedAt": "2026-11-17T09:56:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "614061fde8379bc1b55e",
-      "title": "Council of Whiskey Masters Names 12 New Masters in Scotland",
-      "url": "https://thewhiskeywash.com/whiskey-news/council-of-whiskey-masters-names-12-new-masters-in-scotland/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-17T09:19:51Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/council-of-whiskey-masters-names-12-new-masters-in-scotland-1-500x256.png"
-    },
-    {
-      "id": "aca8884c9a6eac6f5135",
-      "title": "Blue Run Texas Butterfly Bourbon: Lone Star Limited Edition",
-      "url": "https://thewhiskeywash.com/whiskey-news/blue-run-texas-butterfly-bourbon-lone-star-limited-edition/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-17T09:17:09Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/blue-run-texas-butterfly-bourbon-lone-star-limited-edition-500x256.png"
-    },
-    {
-      "id": "b46446a567c149a27278",
-      "title": "静岡市葵区の「十山ウイスキー」 今月下旬に第５弾シングルモルトウイスキーを発売 - 静岡新聞DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RWjlDMjVkM210T3o5SUxBNVlXaW9Nd0M2YTdFNWVhQWppeWxGSm5NSlVFS3psZ2FyNkk2QVJWMXpWcE9aamRPSUJoa2h4UQ?oc=5",
-      "source": "静岡新聞DIGITAL",
-      "publishedAt": "2026-11-17T09:15:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "a92f72b996b0c4937cff",
-      "title": "Shamshabad: Former distillery worker held over fake whisky sales - Hyderabad Mail",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTAtT1F2WnJwNG1SRFJjSU8zOW9VVHJLU0lRaDVMS1FZRjFTUUg3VWdFeVNrNGtRc0VDTEZlUExGOFpTZjJYRnFlSGxEN3JlVUVHdUV5a2MyZVlpdEZqMWhjRFIwNm55ZkhvMWZHQ3BNbzNjNHR0NmU0bFg2Qk1yT2RHbmt2b0lsRVc0?oc=5",
-      "source": "Hyderabad Mail",
-      "publishedAt": "2026-11-17T09:06:37Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "684379c206e17c83ee07",
-      "title": "Radico Khaitan Introduces Limited-Edition Festive Pack for 8PM Premium Black Whisky - Indian Retailer",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd25QUUwwa0tpcXo3WlRGZlBPd2pmYmpfT0JsekhVajRBT3pYamgtT0c3bmNVMVJDa2hmaW1aS0YwRXpxWTFlMVllbXZSQU1mMFB4VWptZFVBY3lfRDQ5RUk1MVlxb3lqOFdEaHZjYjVXbnlCbi1vMnBDT3YxbllBTjVETHU2Z0hxeS1Xd19SbVBmNGxGRkpqTk9fVlNUY1pyT05iRTc5YVB3UUlWZk5jT3lkRlF4WDZ3c3diejg5RHVYU1d4d3d3dkJjczQ0U01lOHAtUjJra0I3Sjg?oc=5",
-      "source": "Indian Retailer",
-      "publishedAt": "2026-11-17T08:26:25Z",
-      "category": "limited",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "c2be04a3d5d68ad2f488",
-      "title": "Tomatin launches a trio of single cask whiskies to celebrate Lunar New Year - The Whisky Wire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3dHMmhyRGpvRmdSeFR5SUJPam9iY0hUbkI0V000dVBYYmZFazlIU2dfZXZRbWE1QUhkM1c2QUhucmMzUWE2Q2ZSa1JLVFZvYk5QVlY3RmJDNVV1a0htRU9GQlFQTExiQXdUUWhUNGNfOUlnX2FaQVh3V2F6QUozanVmRHFFY09HbVNKNm9DRmgxWkFRRk5leHhlNVEtbDhPZm51VnZwUkRRZjlKZWt0d0JIQQ?oc=5",
-      "source": "The Whisky Wire",
-      "publishedAt": "2026-11-17T08:08:14Z",
-      "category": "new",
       "language": "en",
       "region": "international",
       "imageChecked": true
