@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-19T04:05:25.998944Z",
+  "updatedAt": "2026-11-19T05:14:18.461571Z",
   "count": 120,
   "articles": [
+    {
+      "id": "2533298cabb083be6a7a",
+      "title": "Customs Classification Dispute Pushes Duty on Bulk Scotch Whisky Imports to 162.5% Despite India-UK Trade Agreement - Juris Hour",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYVc5TW5aYlo5c2dsNnloZmkwVHJ2ZC1ZemVPRHlwS3JIR2NRQ0hmR1Y1dUhVbWhhcUFkc19QWTNBUk9taVlSRTV1M3lHRExUczZ3bWtORzVqZ0Vxc1V0NHZqbnBYOGRQOE5Yb3MtN0JnZVJuU2duTkdQNUlCeXFlM2ZlQy1uQkFYMUtzY1JaZnJ6aWhzMkdCM0VXNmNMcDdXQVc2OVlFLWJmZXBjSlZJVEM4MjA4cDg?oc=5",
+      "source": "Juris Hour",
+      "publishedAt": "2026-11-19T04:44:42Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "6690121138081c601d7e",
       "title": "India imposes 162.5% duty on Scotch whisky imports - Operativ Məlumat Mərkəzi",
@@ -927,23 +938,23 @@
       "imageChecked": true
     },
     {
-      "id": "6bb01f43b8e4fc4c145d",
-      "title": "瀬戸内の自然の中、希少なミズナラ樽で熟成させた『シングルモルトジャパニーズウイスキー瀬戸内 ミズナラカスク』11/24(火)より新発売！【セトウチディスティラリー】 | 株式会社三宅本店のプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdV81cjJlb2M4N2o5Skp5TmVVaEpiQ3YtRTFoQnFDT3RsT21fdnVpRTNjY21LZXpjZW80M0hFeTh3YmdMcmRmTnh0ZTYtTDVGQS0zWEZiRHR6dWd6RXRfX01WUlFsZkt4bkE?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-17T01:30:02Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "b3d163578784f1b8475f",
       "title": "バーボンウイスキーNo.1(※)ブランドである「ジムビーム」からセブン-イレブン限定のハイボール缶「ジムビーム ＜ブラックソーダ＞」11月24日（火）より数量限定で全国発売開始 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ucGRIQlNKdHV0dkdubHJDc1RWUHpUV0RfTFFXQVhBUkhZRlF2LUJsYmR6aXBvWWpUYVo2RGt5MVZNNktyLTNUNmZZWWVKVDhyY21qek96S0hKYXF5d0JxUWNCWHBIZnV3cHc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-17T01:30:02Z",
       "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "6bb01f43b8e4fc4c145d",
+      "title": "瀬戸内の自然の中、希少なミズナラ樽で熟成させた『シングルモルトジャパニーズウイスキー瀬戸内 ミズナラカスク』11/24(火)より新発売！【セトウチディスティラリー】 | 株式会社三宅本店のプレスリリース - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdV81cjJlb2M4N2o5Skp5TmVVaEpiQ3YtRTFoQnFDT3RsT21fdnVpRTNjY21LZXpjZW80M0hFeTh3YmdMcmRmTnh0ZTYtTDVGQS0zWEZiRHR6dWd6RXRfX01WUlFsZkt4bkE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-17T01:30:02Z",
+      "category": "new",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "b0bf885476c637ea52ba",
-      "title": "Whisky Abbey Finds its New Parish in Port Melbourne - Drinks Trade",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQak1XVWsxVmZ1RkZ0eVIxM2IyRVNUeVdpVzdUYWNDempQbHBRUUZJNXhXZHc3ZF9aYVA4b2lvd2M2Z3BBOG80WlJnSFZIR3YzRG1VWTduanNJYVRLWlhvRGM3bmpSZzNuOXl0dU1tYnQzZ0JiTk9NTE10aUNRcU45V0FQZms4WVVlUDVtU3VZbzlfdw?oc=5",
-      "source": "Drinks Trade",
-      "publishedAt": "2026-11-16T08:20:33Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
