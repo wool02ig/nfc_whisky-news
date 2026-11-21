@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-21T03:58:14.655677Z",
+  "updatedAt": "2026-11-21T12:37:15.292855Z",
   "count": 120,
   "articles": [
+    {
+      "id": "916f91a6eb5922a9a565",
+      "title": "Single Malt vs. Blended Scotch: Which Offers Better Value At The Same Price?",
+      "url": "https://thewhiskeywash.com/whiskey-articles/single-malt-vs-blended-scotch-which-offers-better-value-at-the-same-price/",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-21T12:30:42Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/single-malt-vs-blended-scotch-which-offers-better-value-at-the-same-price-500x256.webp"
+    },
+    {
+      "id": "bcabba42a69516962256",
+      "title": "India-UK trade deal tariff dispute delays clearance of bulk Scotch whisky imports - Exchange4Media",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT0hwRTZvNmFwYnVDN3E5OWJrdlM2cTBXRjdvdUZQbFNIcVhUSWIwV1RhMWxEQ0hIdm5VOWFYNnhHeHV1ZjQ0QlRZNVJMUUZReHhvQkU4M2xlSWNHVW1UcjBEdzRVV0xyQlJtZVcxSE1ZRkxoVy1BTTNDc0FmR1RDazZZUmczbHlRQks4YXVYYllzYnZIUWJRNFlZSHVHS1NGMm0wNGs5dFluY0s0NjVLUkdfdlZybGJfeUZuc3BTdUs0MGdnTG1tNVZvdEhfNnpkQzhuZEhB?oc=5",
+      "source": "Exchange4Media",
+      "publishedAt": "2026-11-21T05:54:29Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "fde64c41b0c7175bdfeb",
+      "title": "Scottish Whisky Awards 2026: Six distilleries compete for top prize as Glasgow ceremony approaches - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0xycUJTTHhsTkh2dk5XbUNZMnkzc1lsbVJPRWpva0ZoOVpwZmYxZG5VeHNBRWFjRkt3d3oyeUFqNHJia1BmUHJNMHZhYUt0LVFMNmluYk10bW9GN1poZzRnbDJWOHZwRDFUeGRZNDFldVBpNzdTYTJlVVNseF9lX1ZUSThOOXZoaC1zYy14MTNWdmlNeHBqQTFZV0Z6U0NZOGdXWURLdnZBLVU3c3JOU1VJUVFwTFE2c1FfVF9DczVkVmc2MU1vSXgycUlyX3pn?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-21T03:31:36Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "903ada32bc8587bebd19",
       "title": "The best smoky single malt Scotch whiskies to sip this holiday season - The Manual",
@@ -19,6 +52,17 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRVo4bVdkVEFxSXU5bUxnaW1vMW55WmJwcEJDZHBUdy1IZGtfcGZSVFlWMlJOT3hUdmFZaUtHd2hqb2hBa2xCYWVkZUJEckNzeEs1VlI0N2hJVEVBUk56blA3Wk93OTJaX2lkV2o1dWVIZ1hwUEU4TjJRYnYwdFlLdHVySy1BVl9yYXpCVDdnTXRuYjc0YkpOdVZhMW5KeDZDaE42ZTl1VmdWZjFxWlRlUUlJdUZZdzJnVlVON3kwSUdlVWo1V1ZvTG8yUTZzOUlqWHdyUXNELVVhVTjSAeABQVVfeXFMTkk2WU5Kand4U2pzX3NwRVdGbDFuOGFYOXBTZXU1Mk9pLU9fdjIxTU80VDczQmdWLTdfcWtWMm9XczFpSU8wWmptb0RTSmlZcjVZemhybHVYQWhwTlhVWTNoNnVvLUxaSllwWHZVSzJRS3JmODdwX3NTYmZwSFJ1cllLaEZfYk9RYnVMTGx1a0dBVjRseWs3UmtCWDRnamlPOEMycHg5X01LY1RxRGo1cWVoVW9WX1VTWmVBNkxHVmI3Y0N2bUVGQWZDaXF6UU10SzNUSnRldGhfbTRRM0dXUnU?oc=5",
       "source": "The Times of India",
       "publishedAt": "2026-11-21T02:15:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "d36e98bd7bbcd3a6f63a",
+      "title": "This 12-Year Blended Scotch Is One Of The Smoothest On Store Shelves - Tasting Table",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk5JY2Jxa215VEtTLV9WRlRkdUhlN3dYdjc5SHVlRG5oaWpKcDBlMHBrTlpMWE1acUtyeUgwb1lpQXA3M0l0M3M0eGplZ1dweWtSUjhTSktleGNzS2F1SXZvaVlVU1VrN2Y0a3JqNFcwRDlPaEJZNWJWZFlRMm5FN2NmTk1LTzBqR3NMQXV6SXdkclBGT3FXckRGcnJHWDRkZl9GdkVnX3FqUQ?oc=5",
+      "source": "Tasting Table",
+      "publishedAt": "2026-11-21T02:00:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -179,6 +223,17 @@
       "imageChecked": true
     },
     {
+      "id": "6b912a258051b5b232cc",
+      "title": "Hensol Castle Single Malt Welsh Whisky Is Officially Here - Luxury Hospitality Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOElLVnBQMzJ4dTVqM2YxbTVOeHR4bVZjSTRPV3lSMkNDSnNZZndEQ0JlVzl2OGZscXdsdHdkTm5VblBSSkZBd3dsZlQzQW5fX21KalFDdmo1eU9RcW0zQVdXQ0k2SEtDR1kwOUlhLXI2MGdMcEpzUEI2dmJxc0JuWjBDTmtGZ1NPUF9r?oc=5",
+      "source": "Luxury Hospitality Magazine",
+      "publishedAt": "2026-11-20T13:52:24Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "0f1b9d2152232b019ebd",
       "title": "Scottish family-owned whisky maker unveils rise in turnover to £29 million - The Herald",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVktHMTNvRm95Mk5CTzZUQkpmeEJvc29uUWFoU3RpVnJ3ck51SkxaRFFFLXBVbFFyT19Fc1g4MnJ4OTN4MFdlcFpDUVEwYXJUMktzT1dDTVNMakJHMV80cWs0MUd1VTFkZ0t4UXZJZ3pOZWxyaGE3b1ljbjlDN0U2WlEyaTdXbk51eU1MYTFOYXpEVGVfNnZuZGtJTV9OdWZheDZLUA?oc=5",
@@ -295,6 +350,17 @@
       "source": "The Whiskey Wash",
       "publishedAt": "2026-11-20T10:22:50Z",
       "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "6207faf6d7bf8dff355c",
+      "title": "Harrison Ford whisky among 130 contenders at Scottish Whisky Awards 2026 - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFVldDZvYnMxLWMtQmxUXzlMcWhNTktSYWQydjE2cGt0ak5hcmRhUUl1RkdoeVQ0WDB5VWVneVBqNDlsRnliWWppNWtPVTNGc3k2SjRKWFN2c2F2Rl83U1lmcWFtbk04cTlGWTJiTnlEVHRTcDY5TUdJb3JwNHNyV3NxUHctVUtQNm1BNGVfNkxvOW1WUDJVMUpmaWxLQnVTU0kyYnNlR04wZWVkaVJZ?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-20T10:05:08Z",
+      "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
@@ -421,6 +487,17 @@
       "imageChecked": true
     },
     {
+      "id": "5c90494f118d375f59b8",
+      "title": "ThunderDonk debuts Kiwi Classic Series with Hokey Pokey whisky - Inside FMCG",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakZFRXk0TE0zWDFLN2xQM2x1NVFVNS0teHo2TWpheXp5S0dVYjZ6ZEcxN2dQVjlFeTV5bXdQOVVaY2UzX0o4ckU1eWEzTjdYTjRxYW93Z2FtRDdzUHpqNXM1ZXRDdUdvNFFzclhRcExaQ29vT1FhbWRQWV9uWDFKRy1FaFRBb2c2SU4wSG9WY0dNdGtUWDN3QnoxTV9vOWhfN0E?oc=5",
+      "source": "Inside FMCG",
+      "publishedAt": "2026-11-20T06:35:45Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "b779168d4fc56a1c5db3",
       "title": "【リーガロイヤルホテル東京】新年の運試しに！人気のウイスキーボトルキープ権を獲得できる「福ボトル」 さらに、1名様のみが手にできる「超福ボトル」 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03LW12MXVvUWZVcHRIMjFXZU9neVJtRm5HYkh5WWJ6RWh0SkVVcGxEZjl5WjJGT0tnSXlDaU9aNURaeldTMEVubm9oQU1uRzRiM0h0b1ZpWmZkaXBQQTB1eVJ2M1hwaG0zVHc?oc=5",
@@ -484,6 +561,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3457106cab4af74bcf34",
+      "title": "YOSHIKI、作曲とウイスキー作りの“共通点”を語る 自身初の挑戦…富山・三郎丸蒸留所とコラボ - 新潟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zYWMtT0FScy1lUGNITjhLMmtEdkE0Y29JRzMwcTYzcUNSaU81UXdSYkowWEtiLW5sM05mblRZc0JiXzUtaVZjMUFfLTdSVWg2V3lSYXZMYXA3X1c1Qmc?oc=5",
+      "source": "新潟日報",
+      "publishedAt": "2026-11-20T03:00:42Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -916,17 +1004,6 @@
       "imageChecked": true
     },
     {
-      "id": "6b912a258051b5b232cc",
-      "title": "Hensol Castle Single Malt Welsh Whisky is officially here - Retail Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZG91TXk4aTN5WFdsekVKV1JyZm1wak1mTk5sTk55X2doREllcDBJaWQ1aDJSME9WTTlaUFY5UnNKNFNXaTN3azA0d2lYY0otVV93VU1qVy01WVhQZng4MV9EQUNQX09VazlHUU9lTkxyd3dWQ1ZwMzE3cEtxcTQ2MFVLM3dDeXpGUzE2bw?oc=5",
-      "source": "Retail Times",
-      "publishedAt": "2026-11-19T11:04:05Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "649df46721e82dfeb2e2",
       "title": "India hits Scotch whisky imports with 162.5% duty in trade pact dispute - STV News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZMWXkxZG1vQzk3bHd5WmVfZU91Ml9qa19mNzF6N0F3dE1YMFZtQ25SOUMtNm81XzVFMWxKVGd0WjF3OTZtYnQ2czdDTzVBV2s1cm9OMFp4S2lDdjBkWDhZREFTTjhRZnhfTWhyVnhBZE1mNV9fMGFsUlVVT29zaHhIZjFwanJIZlJPNTE4NGl6ekttRTRVbUY3d0ZZdHUx?oc=5",
@@ -944,6 +1021,17 @@
       "source": "PR TIMES",
       "publishedAt": "2026-11-19T11:00:17Z",
       "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "ca58a295a6da58f5c3fb",
+      "title": "YOSHIKI氏との初コラボウイスキー、11月20日から先行発売 - Dellows News",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuTFVvSkRYX295SEhEUW44SWl6bG1HYVgwdzhGNUR0VnNvWDZTaGg3NU1ENG0zcnFzeEpCUHRLT3N1cHdleFhR?oc=5",
+      "source": "Dellows News",
+      "publishedAt": "2026-11-19T11:00:17Z",
+      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -1191,17 +1279,6 @@
       "imageChecked": true
     },
     {
-      "id": "fde64c41b0c7175bdfeb",
-      "title": "Scottish Whisky Awards 2026: Six distilleries compete for top prize as Glasgow ceremony approaches - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0xycUJTTHhsTkh2dk5XbUNZMnkzc1lsbVJPRWpva0ZoOVpwZmYxZG5VeHNBRWFjRkt3d3oyeUFqNHJia1BmUHJNMHZhYUt0LVFMNmluYk10bW9GN1poZzRnbDJWOHZwRDFUeGRZNDFldVBpNzdTYTJlVVNseF9lX1ZUSThOOXZoaC1zYy14MTNWdmlNeHBqQTFZV0Z6U0NZOGdXWURLdnZBLVU3c3JOU1VJUVFwTFE2c1FfVF9DczVkVmc2MU1vSXgycUlyX3pn?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-19T07:20:46Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "0b6c6d3b6e10fb77b1e7",
       "title": "Scotch whisky prices in India at risk? UK rushes to resolve 162.5% import duty dispute - Business Today",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVURnVk9tdUZDYmJqV1FLVTVHN1VNRzBad3g0WlVjVS11T2dSRzFFLW5ubG41YmFoOXY1UllKZVVrUUYwWHJYdF9mNnptTHhOUlJiN3c1ZG1idTRDQzVlN3RyZnlUODBUYjFlRUdPZXlmOEpwNWE2ZF80R0NtS0FXbTZhakQyWXRMZHM5VXh0MUwwdlJ1MmJkeHU2Vm82djZZMHZhZ1FadkF4VkNyMVk3QUV3NDB0SHRlZ3dMODdja1ctajBxNDdJSWFTUVBDVXdJdjF3eW9SbldZR0VIckFlMEhETmcxbVHSAewBQVVfeXFMT3ZMM1l4NWF3ODRRZFBWTjlBbFVNMFp1ZFNwcE4ybUVUZFk2aXNwOXR1UTVQaGQwbXdQRk9Pb1VHaEJPNnJ2TkhJVlZocERlMTJKYzRwd0RxSk5tY1FQNGMyQmp1OExsUU5SZEpfRDQtamU5WGFETTNfNFZiZE40c0lGcFhyemVFUTJ5cXlCQk1hTzdPR18yWjItb2E1ZXRtQXVqR0toNk5QVmhTWnliRkZTLUF0amdVVmg1M2YtdzVQaDVsN2ZycmRBUkxRaUxYRlBGQTlZMzN2NkJLMU1teXMzT1JCNDdheHJ6dVU?oc=5",
@@ -1240,83 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbG5ZYUU2dmNaWUx2MjM0blYyR1Z3VzZoUjVKSk92M1NiamRibWlpTTBZYnNtUmZfd012a1JmbXZoMUpGOVYzWHYtMkNyU0FRNy1LeTNlc0xVbjllNVRId2c1QVJMdXM3RzYzaTFEQWc4RU1QRE1mS0NJTGJNRFRCQi0zLUNIa21Cb3ZYWQ?oc=5",
       "source": "Operativ Məlumat Mərkəzi",
       "publishedAt": "2026-11-19T03:18:40Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "64f60bfc77efd6dc6949",
-      "title": "ライウイスキー主体のブレンデッドウイスキー「 MARS THE RYE STYLE 」11月下旬より新発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzWHc5bmNOZFM1bmFiaWNsRE45ZndMNUJxNXZCQ1hDQ0FLRW03ZW5KQjBqbWYzanhqOTRTZVA5SWtoazlBQ1Rsb0syRDdlNjlDT3BhQnBZOWpBRjdSdFE5Y1V1LVU3eWR3bHc?oc=5",
-      "source": "PR TIMES",
-      "publishedAt": "2026-11-19T03:10:01Z",
-      "category": "new",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "cec6fb25e18f69dda92e",
-      "title": "Highland Park’s new 17-year-old whisky brings art and flavor together - The Post Ph",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaGU2N3RfVjBkeXpYbTFaRDRBVHpYeklmWWRjSXBYYjgtaC1abTBKdXg3X3RsdHA2eVBTUmdxQjJvSmI3R0ZLZXNpc0lrV0tjcHJObTJCMHA3ODNfYnloVFZBMVZnWXhqVXpKVjZjQTlOR2dfYmJibHk1enlaXy1uLVhR?oc=5",
-      "source": "The Post Ph",
-      "publishedAt": "2026-11-19T03:02:44Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "fd32434253b5cd3d5b73",
-      "title": "ビックカメラの福袋「2027年福箱」でウイスキー「響21年」「山崎18年」「白州18年」など抽選販売 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tbjhSU2xZRUtzSGIxSkp4VXVEUGRuZWxZaEZKTGE2SXA2XzFhc1VwMmlIUEpvR2lBSVEtUTUzNHExWmJNd2NMeWttcXlERmNJV0JtcGpPd2RyVUFrMGtJaXNObXgwZnZLU3JjWDlrUkhnazBLcXZYcQ?oc=5",
-      "source": "グルメ Watch",
-      "publishedAt": "2026-11-19T02:59:39Z",
-      "category": "limited",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "3a73a67f17f5fbcf46b9",
-      "title": "UK seeks urgent resolution of Scotch whisky tariff dispute with India - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcTcxVGVpRmNDVzAtN2JHclZzUEdQYnFSWW5aSEpma3NWakR0U241Z2dLdUp5Tnc5cS1CXy1BelRNMkRhNTA3TEk0a2lyLU8wTzdpSDNTVTU1QUkxMlhFSG5Tb0hMLWZ0bkNITV9VVkRCejJ4RmhubkkwWDJIdERlQ0sxbTFkX0kwci1WekxYNGVsSW5xVGczYWlWMEJmWDhsRmtUYU1mMnJtVE9GTjZucEFsUE1qUkYtcElzTU4zZEVZbk0tYnd3MUxEVE1BdTjSAdQBQVVfeXFMTjFvaWx6NVg5ZTlFbHBEVTNRN2NqVFQyNTZIYndJTHN2ejF5bHdfb2E3OUNkRTlRbVE0R3dyMHF1aU15OG9PZ0JCNzBEbkNoYWQ0OTNSaTZnRWE5THlwWUdaQWtsTzlvWDFKSE9qREtFSHpnSV9SWUVDM1Bmb1FyTkZ4a0k5Yi05Rm03cURTbmpNam1IRjdmcUZqZjBIOG8xVjAwQUVmdXR6TTBhdlEtS21GamZxeXlnR01EWXFFdUpHaG13Mi1oUDZJbTdUUC12bzA1bEc?oc=5",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-19T02:29:22Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "5bc94c5c69dd283b5102",
-      "title": "Scotch whisky casks: Inside the overlooked business - City AM",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQ3RHQmF4a2JzSUJiM2IzclVDWTJxVzRCb1JCUm9jTkNJOWlTbmFfcm1ZaFozeklaRXFnY2tHSVd3UHdBcGtmajl3Sy1jWmtIaUEycUZLRjA3dFlKQVZaRTRB?oc=5",
-      "source": "City AM",
-      "publishedAt": "2026-11-19T01:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "ed61d2e0059b0d2cf6b8",
-      "title": "Scotch whisky casks: Inside the overlooked cask trade - City AM",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQ3RHQmF4a2JzSUJiM2IzclVDWTJxVzRCb1JCUm9jTkNJOWlTbmFfcm1ZaFozeklaRXFnY2tHSVd3UHdBcGtmajl3Sy1jWmtIaUEycUZLRjA3dFlKQVZaRTRB?oc=5",
-      "source": "City AM",
-      "publishedAt": "2026-11-19T01:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "93984668cabe5c1bdf92",
-      "title": "UK says ministers urgently working with India on tariff dispute for Scotch whisky imports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1hmb256SjVmcVJudTZkZ0ZEbWtFZF8zamktckplMjBFUjVUMVVQUzRnaXFpSXJzdFZyVlJUcFlybkNvcXlQc3ZTTzgySXpybDZBb051Y0hEWjhnbVJybklIMUNVRDlCOGpLSXU3NU9YV0dmV21hS3otUlFQbTdjc3kzNG1EajhOX3k1NzVFd042d3AybDNFdkMxUUtfVVc5OEtNMjU2THprSGFkNjJPZm9yUUY0R3YxRGkw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-18T18:14:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
