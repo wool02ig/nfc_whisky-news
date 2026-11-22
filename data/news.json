@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-22T07:58:46.474324Z",
+  "updatedAt": "2026-11-22T16:15:37.967689Z",
   "count": 120,
   "articles": [
+    {
+      "id": "07bc3da14f0e22ea6275",
+      "title": "Scottish Whisky Awards Finalist Focus: Dornoch Distillery - DRAM Scotland",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjYwZmdFWHJDQmJ0b18xUEhLNnVsYlhTQlUtdXNzTjdJZ1cxcDNiZEZFejF1TjhIZWZ1QTFEMHVReG0zNUtaU0twbFhBXzhuLWtqSWduVGU3NW8tbmZEMnZOZHVJWFpqalFNNTlZSnpZWWdFNmNFS3BTY0NhR0tXSE42Ui14ZF80U2hXaVBGblRUcDZ1R09oNDdhSQ?oc=5",
+      "source": "DRAM Scotland",
+      "publishedAt": "2026-11-22T12:58:42Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "5f92ca5d517b7f4a4632",
+      "title": "Elsham distillery releases whisky which has been maturing for years - Grimsby Live",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUdhajdjeEVyRHpBbGJjMzVkQkx0WTdQaVhVOHRzTHRiaGt4NFJSUkhkWXNWTG0xR3VyWnJXYUNWVzd5Y0lYS1FZZ19Ja1BtSHFJOG1SWEU1UEhkRU5QOHJWQ2xEY2ZsYW8yUFMzaGVxb1NuREI2NGhTSF9DTG9KdDdYM1lxcXRWNko0dTBBcEF4WWd2MlA4bThGa1F6c2PSAaQBQVVfeXFMT0dZeVhZUlFFNVVFUGF0MmpTODJGTXd5SzhrV184QWMyU3g1SzhwNHZxMkhpQTktdE1OeFo2a0hnR19GQjV6c3hyNUIxYlRMTnE2QVRma1lucUt3eHFCMEpNQkFpZ29mRjFlX0xJdGVJU2xLZ3RoM3dQejVRWl9jX3JONUF4bW5qR2xmQ2Z0Q3FhbUMzSWdTaDlqNkRyVThaQU10TjU?oc=5",
+      "source": "Grimsby Live",
+      "publishedAt": "2026-11-22T11:53:00Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "5b1836dcccc292b6660f",
+      "title": "Gifting a Whole Cask of Scotch Whisky - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmMwcmJkU2NtaUYyLWJlMmROaWhlRkZfQzdoT000Z2NTWGMyVkNXS3cwUnpSRXpmdjFrVUIwcHFvQ3FWcjZVSWxJQVlZQnZMTUlibVJsVjNSSlp5WkFRRkQ5Y29QNk5YZUxvNmJQaWxJQ2c3OUVMbS1XUUZOaUxwN2I4V0JnMG4w?oc=5",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-22T11:32:32Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "3920210c5dcdb2a6d561",
+      "title": "Nordic folk artist Gealdýr releases exclusive music tied to a limited-edition whisky - Chaoszine",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGtKZHAwcThVMHNEcUVNU0RRN3M2MnlFN0g2OFgtcXdhdmZ6OEtyamZzWTVGb1FfUWswWndIZy1wRUZ4a0lXWldzMGpNQ1NMNG9kWkNiV2RhQkQtQ2ZFQUFxUU9LRnQyYm1pVXVRTGlUbVJhcjhUVUZTX1I3SlI4NmtLSTZLQlYwRDBhLUVCOG9mMWxFNDNtcWR4VXFqcVNyYTJWRk1DSlItS0E?oc=5",
+      "source": "Chaoszine",
+      "publishedAt": "2026-11-22T09:58:15Z",
+      "category": "limited",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "3186c7af72c9a1eb7708",
       "title": "第３弾ウイスキー「哲」はワイン樽追熟原酒ブレンド 西堀酒造（小山）が発売 - 下野新聞社",
@@ -22,17 +66,6 @@
       "category": "industry",
       "language": "en",
       "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "fdeb86cf4fd8fc41016f",
-      "title": "わずか7分で2種完売！！！「あっという間に完売」「値段すら見れなかった」YOSHIKIウイスキーが驚異のメガヒット - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TczRVZGY2MnpRdk4wbjZqR0JfY3F5TnZjMklxLTk1YVNoa3NacnpTVkVuN01IOE9mSHQ1NDI2Y05MRGlLNGluektoQ0k0MWRCUFNUZGs4NEdsUzFFbkpZOHNBSzNvbXVPdjBHdTJB?oc=5",
-      "source": "au Webポータル",
-      "publishedAt": "2026-11-21T21:41:27Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -89,6 +122,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/single-malt-vs-blended-scotch-which-offers-better-value-at-the-same-price-500x256.webp"
+    },
+    {
+      "id": "fdeb86cf4fd8fc41016f",
+      "title": "わずか7分で2種完売！！！「あっという間に完売」「値段すら見れなかった」YOSHIKIウイスキーが驚異のメガヒット - GourmetBiz",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5dS02TllZOGNqM29TUkZKTjNRS0p2VUFwbmx4RzNmWjQyZHJUWTFsem5jRTBYb3NMWXg0bjNoNE53bHpYczRuV1Bn?oc=5",
+      "source": "GourmetBiz",
+      "publishedAt": "2026-11-21T11:08:47Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "c039503fd1c26b917b89",
@@ -174,17 +218,6 @@
       "source": "ニコニコニュース",
       "publishedAt": "2026-11-20T21:51:18Z",
       "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "2570e3c8bef8031852e1",
-      "title": "【楽天市場ブラックフライデー】山崎18年が当たる！「豪華ウイスキーみくじ」第164弾、全466口で販売開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEOWs0Yk1BQm4xaFpwa0ltbHdLOWd3dXhhOXlBeGE0UjRTRVhwbVZ2ZjFWcDhHVG9pQk4zY2NaWGtEM1ZZdlJqdTRsTzNub0VHSEZzdkdJSnJtMUhYaGN3aV9vV2RyeVR2?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-20T19:15:26Z",
-      "category": "industry",
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
@@ -366,6 +399,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-whiskey-for-a-manhattan-ranked-rye-or-bourbon-500x256.webp"
     },
     {
+      "id": "7bd2a7af265da9a2250e",
+      "title": "XJAPANのYOSHIKIさんと共同開発 若鶴酒造が新しいウイスキー発売 富山県砺波市 - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtQVBJZjJKRjNRSkZrbDFsMnp3Ynh6X2lNWjJ0VXlrNWNTMEVRTEEwNmR6NG5xVUZBQjNxMW12eGQ5V0NyakVGUlltdw?oc=5",
+      "source": "TVer",
+      "publishedAt": "2026-11-20T12:17:45Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "6da03413bb868a22104f",
       "title": "Heaven Hill Bourbon Launches First National Ad Campaign",
       "url": "https://thewhiskeywash.com/whiskey-news/heaven-hill-bourbon-launches-first-national-ad-campaign/",
@@ -408,17 +452,6 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/pinhook-vertical-series-bourbon-11-year-follows-sfwsc-win-500x256.png"
-    },
-    {
-      "id": "7bd2a7af265da9a2250e",
-      "title": "XJAPANのYOSHIKIさんと共同開発 若鶴酒造が新しいウイスキー発売 富山県砺波市 - 日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGEyWF94UXR4OURzeFl4UVc2YldjdkpUQmFJTEdxVnZ1dVRaYktCaGt2SVBBdkFpd0FyLUlrenJMZnF1ZVVDOFVRMmJKblRHUWlRWHNXZ1NQYThUVjVQemNhdlZQdUh3aHNEb1BGVHJ4aVluczFRc1hrY0tPU3lOTkhLcVplbjg?oc=5",
-      "source": "日テレNEWS NNN",
-      "publishedAt": "2026-11-20T10:49:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
     },
     {
       "id": "cf590cb94552e2870e6d",
@@ -531,8 +564,8 @@
       "imageChecked": true
     },
     {
-      "id": "0de60550c3cdd45547aa",
-      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 | YOSHIKI PR事務局のプレスリリース - PR TIMES",
+      "id": "28f7d5da2dcb3a26a7f3",
+      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbnUwOEJLcnJNbWFZa2ZpNkFUaXRxWlpBY1haMkhST1dkOEx4QzVDaTA3bFhMU3FaMjI5WWlJWmV3ZVZocnVGUXgwS0FhVDhTSG9ONVJvYngtcjlmeHVCWUt0c005QWhtbGc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-20T07:37:13Z",
@@ -542,8 +575,8 @@
       "imageChecked": true
     },
     {
-      "id": "28f7d5da2dcb3a26a7f3",
-      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 - PR TIMES",
+      "id": "0de60550c3cdd45547aa",
+      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 | YOSHIKI PR事務局のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbnUwOEJLcnJNbWFZa2ZpNkFUaXRxWlpBY1haMkhST1dkOEx4QzVDaTA3bFhMU3FaMjI5WWlJWmV3ZVZocnVGUXgwS0FhVDhTSG9ONVJvYngtcjlmeHVCWUt0c005QWhtbGc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-20T07:37:13Z",
@@ -594,6 +627,17 @@
       "category": "new",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "2570e3c8bef8031852e1",
+      "title": "【楽天市場ブラックフライデー】山崎18年が当たる！「豪華ウイスキーみくじ」第164弾、全466口で販売開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNEdsa0hUZTl1MUhmLTk2QzdiR19TSTI3SnRrTjhNZGpBRG00TXlhbldKMDFfR2o3N0ZjdEhLQVhrdmZfMXRhWkFGQXlnN2EyQVJJcnpRc1BFUUdQcm1HYnVFUDFIRXdqUEE?oc=5",
+      "source": "PR TIMES",
+      "publishedAt": "2026-11-20T06:00:02Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -1276,50 +1320,6 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7d1803c28bbfb208cdc3",
-      "title": "YOSHIKI、ウイスキーブランド発表「我ながら傑作だな」（サンケイスポーツ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tOHltVGNOVlNabkloRTdEVU9RRHN6dDZwdUpZUlNTbFIxVEdZdHdkWVREREVzakd3V2NiZngyMmNCZjl0aGMtVm1TWWlZRUdPNWRvWW1fSUlwNENMVFFKR2o2OGozQnlIcUt3V1dkbXY0dTlab0R1dG02TUlLeVE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T09:08:31Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "b70ed84e2204d54bff62",
-      "title": "Saved by the Still: How Whiskey Distilling Threw the Whales a Lifeline",
-      "url": "https://thewhiskeywash.com/whiskey-articles/saved-by-the-still-how-whiskey-distilling-threw-the-whales-a-lifeline/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-19T09:00:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/saved-by-the-still-how-whiskey-distilling-threw-the-whales-a-lifeline-500x256.webp"
-    },
-    {
-      "id": "61947667118007fcb4b6",
-      "title": "GlenAllachie unveils 12-year-old whisky for Year of the Goat - Larder Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkhQTFpkYVF3Z1JDVjdJREI5dGhPWEZ1c2Y5X2c5SF83ck1kekg2ejBxbl9jTGZiYWN4TGVPNmdRNGRtaExaWTh0UFgtclZ1TVJ5VDE2RUFjdVAzb0w0ZGljbmxDNzJqTDVTOFB1N2tld1RFMlhkWHpfdjRDWHZXc0FFcXVsWjJfNC03Zl9B?oc=5",
-      "source": "Larder Magazine",
-      "publishedAt": "2026-11-19T08:48:00Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "387c9d4cdc30880bb195",
-      "title": "Scotch Import Duty Dispute: Why Are United Spirits, Radico Khaitan and Other Alcohol Stocks Under Pressure? - Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRl9oZWpHV21tOWo3c2JxRHVWYVk0NmdHWVo2VWVPQ180TEpmSWtfbjVQUkJDTTZ1b3dNSUFuRS1OS1RFUFlHeWNSbXpLYTdrbXJpekxFQWFYTVBad1ozZkpCZ2dIcFhTeGJIV3NSdjJmOGZubFlaUnBxY2l5VUZoSi1RV1NIc2lLcTM5RlZIYjNxbmVYZ01QUllfcXVULTVkNVNzT0Nvb09sdlFvZGV0OG52LUJ6OU5FLVFRM1ZQbndYWW9EYlF6UW9HMG9lZlR2Z3llaVN0Z3BoU213ZUlreGVvd2FSdw?oc=5",
-      "source": "Trade Brains",
-      "publishedAt": "2026-11-19T08:45:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
