@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:05:29.996885Z",
+  "updatedAt": "2026-11-22T00:19:13.099460Z",
   "count": 120,
   "articles": [
     {
@@ -34,6 +34,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/single-malt-vs-blended-scotch-which-offers-better-value-at-the-same-price-500x256.webp"
+    },
+    {
+      "id": "fdeb86cf4fd8fc41016f",
+      "title": "わずか7分で2種完売！！！「あっという間に完売」「値段すら見れなかった」YOSHIKIウイスキーが驚異のメガヒット - GourmetBiz",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5dS02TllZOGNqM29TUkZKTjNRS0p2VUFwbmx4RzNmWjQyZHJUWTFsem5jRTBYb3NMWXg0bjNoNE53bHpYczRuV1Bn?oc=5",
+      "source": "GourmetBiz",
+      "publishedAt": "2026-11-21T11:08:47Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "c039503fd1c26b917b89",
@@ -1309,17 +1320,6 @@
       "category": "industry",
       "language": "ja",
       "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "fde64c41b0c7175bdfeb",
-      "title": "Scottish Whisky Awards 2026: Six distilleries compete for top prize as Glasgow ceremony approaches - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0xycUJTTHhsTkh2dk5XbUNZMnkzc1lsbVJPRWpva0ZoOVpwZmYxZG5VeHNBRWFjRkt3d3oyeUFqNHJia1BmUHJNMHZhYUt0LVFMNmluYk10bW9GN1poZzRnbDJWOHZwRDFUeGRZNDFldVBpNzdTYTJlVVNseF9lX1ZUSThOOXZoaC1zYy14MTNWdmlNeHBqQTFZV0Z6U0NZOGdXWURLdnZBLVU3c3JOU1VJUVFwTFE2c1FfVF9DczVkVmc2MU1vSXgycUlyX3pn?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-19T07:20:46Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
       "imageChecked": true
     }
   ]
