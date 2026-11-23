@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-22T21:49:42.282230Z",
+  "updatedAt": "2026-11-23T02:43:33.258609Z",
   "count": 120,
   "articles": [
+    {
+      "id": "6207faf6d7bf8dff355c",
+      "title": "Harrison Ford whisky among 130 contenders at Scottish Whisky Awards 2026 - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFVldDZvYnMxLWMtQmxUXzlMcWhNTktSYWQydjE2cGt0ak5hcmRhUUl1RkdoeVQ0WDB5VWVneVBqNDlsRnliWWppNWtPVTNGc3k2SjRKWFN2c2F2Rl83U1lmcWFtbk04cTlGWTJiTnlEVHRTcDY5TUdJb3JwNHNyV3NxUHctVUtQNm1BNGVfNkxvOW1WUDJVMUpmaWxLQnVTU0kyYnNlR04wZWVkaVJZ?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-23T01:44:56Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "07bc3da14f0e22ea6275",
       "title": "Scottish Whisky Awards Finalist Focus: Dornoch Distillery - DRAM Scotland",
@@ -47,6 +58,17 @@
       "imageChecked": true
     },
     {
+      "id": "e706556ac3879f683dc4",
+      "title": "Caol Ila 12 vs Caol Ila Moch: Why an Age Statement Isn’t Everything in Whisky - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUZtdkNYWTVTTTVHUDUtakdPVTc3TUZ2LXh0TFpraEpaWXJoaUp1RG5jLXZZR3h4OEFnRW11M0JPREhhbVJZVkRObkN3TlI0bEplWE1HdTgwX3Vfbmd6M2RuYlllNzRldWMxVnlLNVU0TUtWUFlpYi1KM3BkQjNac05vQ25BY2JsdjRYc2VkRlhWN1hfc1ZGUXQtbzBGT2x4bkRwVGZhclRmd2M0OWVpNVFNNA?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-11-22T08:40:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "3186c7af72c9a1eb7708",
       "title": "第３弾ウイスキー「哲」はワイン樽追熟原酒ブレンド 西堀酒造（小山）が発売 - 下野新聞社",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SbjBONDAzUWFKZUh1aVJqMGs5N3VkSjZDaHhjMnJMdlpjSnh2M294Y3NDeWtkYmFGaWNCb1UzOER1M3I1SXR3UFdKdWdWNUEydFp2MTNBVlROYTQ?oc=5",
@@ -74,6 +96,17 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6ZXhUekMyd1hvVDlWNnpoTk5HZDN2alJaTmtINkhiVGR4T0tlN2FEanRCV0hlSDdjS0hQSmNtYjFtTUVSY3dacjZiSjZGRk9qWVBsTEtYa1V1VU1PSTJKUg?oc=5",
       "source": "https://thedailywhisky.com/",
       "publishedAt": "2026-11-21T19:14:52Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "d291bdf2d9b25fa0926f",
+      "title": "The U.K. grants protected status to English whisky - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY212UzFWb2JyLVFLaEdzRzFsTVIyb3JmR0JobXBXWWhEWVAxYUJsWjZ4NTNEWWxMaEN1a05pMFVGYVo4TTNqQWFEdGswMHk3Z19hMHNLb3JCamhKS01iYmozYzNGdjRwUnZQbGoxQ3hnR0NRemRNZkY2Z05UbXVibWpEZXNlYnY1WWU1MFBhendiYlc1X0pmRHlBNNIBoAFBVV95cUxQV1hXMW16ckdob0hXUWdQOVhvWnYyQWJ5dnhtYzZkNHkxZ00tX1Ftbk5HSHRoWWF5U2FyZUNnUGRIRFVmeW9JdTF3eVotVEd4N21oTXo5Sk44MDVCa3ZyZkpPcW1XcmFxMDEwTGNyVHdQcTZqM2pUZkZvNjlRQlV1eVNjaWxKQTlQbmlfX3lSbWRCb3pPbFlqdHJkdzJSR3l1?oc=5",
+      "source": "Vinetur",
+      "publishedAt": "2026-11-21T16:17:58Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -143,6 +176,17 @@
       "category": "industry",
       "language": "en",
       "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "efbc7b6dfddd0c64b31a",
+      "title": "鳥取・境港発、妖怪ラベルの限定ウイスキーが登場！千代むすび酒造が「妖怪シリーズウイスキー」2種を大正橋売店限定で7/4(土)新発売 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tc0tKOUh4UnZHbjVxWnNaZF9oVEZqNUd6SkdLTHhVckpQNnJoYmxadXdUNGdYS1JXRUN1bXlFSzNqZ0xST25Bbkk3UThDVkhsS1E?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-21T08:00:00Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
       "imageChecked": true
     },
     {
@@ -289,6 +333,17 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/saltire-rare-malt-unveils-14-year-glen-garioch-scotch-1-500x256.png"
     },
     {
+      "id": "35e5d2ae74488b82ebd4",
+      "title": "Whisky Gift Idea: This Exceptional Single Estate Whisky Has a Sweet Surprise in Store - Whisky Monkeys",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTZsbkg3Y2JPcnYwcUtRQ2o1ZElVT1JjMmpPUk12OUV0Nk1qOWstSVoycS12UEEySk0yNzR1dnFDdWdWenNSOS0tSmo3cjJqVnItVUo1OUIzM2xNQm1CSG1NXzZWWV9IYVpKdkdSRTNpaUhZX1l5alFkdUYzNnRndDJaV0hFQVhxd193azJrTnV2QjB3TTVGNzdKZ28wRkpDQUVteGR3eEVyLV9rZnZBb3BSdFlNRi1lLXlrS3IzSQ?oc=5",
+      "source": "Whisky Monkeys",
+      "publishedAt": "2026-11-20T15:50:00Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "9cfe402185303bd490b5",
       "title": "CRN57 18 Year Old Blended Malt Scotch Whisky Review",
       "url": "https://thewhiskeywash.com/whiskey-reviews/review-crn57-18-year-old-blended-malt-scotch-whisky-review-2026/",
@@ -349,17 +404,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckRqa0Z5V2QzcWtjRTE4SVpwTlAzNVZjaTBpN0RzV3Q2TGg2LW9ncE40dWRYZUhBeWZRakJGWkZ6MlZSSS11WEowdEphTFY0Smk3T3dmQWY4ZHVmTzFJY3lVNE1fY3ZsSEVPZUMxTXFTVDRQY3RmNkszaHI2SXdqa21MTURtalB4eVJLR1pjMndQZGdvNU9ZVkIwU2R4eFVENTIxV2dvNW1MZDFjYnY00gG0AUFVX3lxTE16X2s4Vk1UejkzSzAxUlRhNUdhSU5NdlNoal9LSzg5ejdPdzBrb0RodzhMT19tYWZpRzZTXzdzYkpMWDBYNDh5amxuTzJLWE96MkR4bjVtanJNbi1HQTlEbmRsVXBVR01NV24yeFk4YURra1BzcjVxbEt4OUNFTFlvOG5abjI4SGhMUndyQlVkUlZDZTY2TVhLenVvVmlLUFNDWG00VVN2NS1OTE9SZ3JNZHlJQQ?oc=5",
       "source": "Rediff MoneyWiz",
       "publishedAt": "2026-11-20T14:19:38Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "6b912a258051b5b232cc",
-      "title": "Hensol Castle Single Malt Welsh Whisky Is Officially Here - Luxury Hospitality Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOElLVnBQMzJ4dTVqM2YxbTVOeHR4bVZjSTRPV3lSMkNDSnNZZndEQ0JlVzl2OGZscXdsdHdkTm5VblBSSkZBd3dsZlQzQW5fX21KalFDdmo1eU9RcW0zQVdXQ0k2SEtDR1kwOUlhLXI2MGdMcEpzUEI2dmJxc0JuWjBDTmtGZ1NPUF9r?oc=5",
-      "source": "Luxury Hospitality Magazine",
-      "publishedAt": "2026-11-20T13:52:24Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -498,17 +542,6 @@
       "imageChecked": true
     },
     {
-      "id": "6207faf6d7bf8dff355c",
-      "title": "Harrison Ford whisky among 130 contenders at Scottish Whisky Awards 2026 - ScottishNews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFVldDZvYnMxLWMtQmxUXzlMcWhNTktSYWQydjE2cGt0ak5hcmRhUUl1RkdoeVQ0WDB5VWVneVBqNDlsRnliWWppNWtPVTNGc3k2SjRKWFN2c2F2Rl83U1lmcWFtbk04cTlGWTJiTnlEVHRTcDY5TUdJb3JwNHNyV3NxUHctVUtQNm1BNGVfNkxvOW1WUDJVMUpmaWxLQnVTU0kyYnNlR04wZWVkaVJZ?oc=5",
-      "source": "ScottishNews.com",
-      "publishedAt": "2026-11-20T10:05:08Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
       "id": "21a59808248109bbdbdd",
       "title": "井川蒸留所のウイスキーをダムで貯蔵 温度や市と度が違う場所で熟成の変化試し3年後の商品化目指す - テレビ静岡",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3aFJuNUZQaG5QVHpRSDRTQjltd2Zoekc1blpST3hhZ1ZLUTNxQjZqalo1ZHlEVWhZOTFJeXU4ZHl0b2ZqT1lIbldkZEFpWTZUcWFYWnNKcV9kM2h1NmJHbDBrTQ?oc=5",
@@ -569,6 +602,17 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2ctSm1LODBoQVlfMzBPUXZzazFrVG1JWHFPVUtMelhRLVdNemh6WG12ZkdVSE5qeUgyeWRlVkk3SHpYd1JTWTl3aWFVRE12X1dxVV9wTWRxMlVNQ3llYTVTeW1sdERFem9HU3RFa2x5aXcwZjNyTjg0TVNzemowMWxfOXh0aURUNThYU2Fvb0xDLXUwM0l0aHJ3?oc=5",
       "source": "Spiritz",
       "publishedAt": "2026-11-20T08:18:22Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "633447c5b82d1937b168",
+      "title": "Wire Works Gather 2: White Peak's Recharred Over Smoke - https://thedailywhisky.com/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FcXM1Yzl1c2VxX0xmNWxBQV92SU93NWdKbFdTdWI4YXBUUmVJRklrWTRlTnNmTnJETElBOUNCVmhDTmxFbWRzSTkwLWMwd3pLUFhhRHlmZXlVMnl0SUU0UlNSMmRERGxUcjRVaWgzMHdpOHdPV2UxY0lB?oc=5",
+      "source": "https://thedailywhisky.com/",
+      "publishedAt": "2026-11-20T08:02:27Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -839,17 +883,6 @@
       "imageChecked": true
     },
     {
-      "id": "d3b31faf89f57acacdd2",
-      "title": "秩父ヘビリーピーテッドの25周年記念ボトルが当たる！「福来ウイスキーみくじ」全466口で登場 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUcGFtV1h6ejVrdGZvejF0M0ZNZThzMVJmUnUxMEE5dDczd3duMWlqS09BckFGeWFHVnB6UWZDbHBVV2x2cFJNbEhOc1NiY0Q5RU9nVGNtOEJTZTRtbDJtSDdfbUEwOXlseGpWdHI4UEh1V2cwYmZjRA?oc=5",
-      "source": "ニコニコニュース",
-      "publishedAt": "2026-11-19T19:15:15Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "17a47ece799a35d8610d",
       "title": "Wyoming Whiskey Launches New Holiday Series with Saddle Up Santa - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3o3SjFIR1VrbF8yQ1NPTk50NkstVENWRDNPd0RKdUJrR1ljN2dBWnpsdGRldl9xamo4NXpMcWl5Sjc5dG9tTkNLQXphOE96eFhlQld3ck1oSTVBTlpDdzU5b3FCTkZxeXJRNHFHTEoyM01qTkhPV0RyVl9SdzE3VzdrMEdCLWxuMjVhc19Ud1VzbUpKVnFwTi14Z2x6MXVuMG1YUWl5cw?oc=5",
@@ -914,6 +947,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/house-of-hazelwood-to-auction-58-year-old-the-kings-measure-scotch-at-bonhams-500x256.png"
+    },
+    {
+      "id": "2d911e362fa282ebb697",
+      "title": "Dissent over new English whisky GI - Drinks International",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iZjA0WmhqUlNIT2w0X3FQSUtOOEozZUZyRmdWYTdua0c3endHZlFoQVk5WVBISDZPSFV3dEs4WUc2UFJkbUxHdmk2VW9vLWx2UThnYjY4dWFWSFFhTGM3aV84eXlJX0lt?oc=5",
+      "source": "Drinks International",
+      "publishedAt": "2026-11-19T17:08:14Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
     },
     {
       "id": "a9ca32c24e5665858ada",
@@ -1008,7 +1052,7 @@
       "title": "Bardstown Bourbon Company Brings Rare Whiskey Back into the Spotlight with Oak Encore - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnFKb0ZyVTlieGRtUTlwM1dHUnVrZF9HaGpGTENWNU9UTXVyUHo1aHZKVFQ4RUo2LWw1d3RNMHlkUElNWExva2VXa0ppeVdRQzJfWFQ5X1dzZjAyN1NISklJVmVsU2JpakgwZ0tjYUFVSnFoZXNBV0l3bXlDR0F3T0pMS1RLR2RodWpuRG5vbkZJTzdyZmhpZWVMTk10azVLRFNDRDljQzQyZUloT1FLOGVnS0xfWGs2eDhTNG1POFhic3BWRlNoNDc1VVJSYl9xTFJvRzRxQVZLUQ?oc=5",
       "source": "Business Wire",
-      "publishedAt": "2026-11-19T15:04:19Z",
+      "publishedAt": "2026-11-19T15:00:00Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1180,6 +1224,17 @@
       "imageChecked": true
     },
     {
+      "id": "6b912a258051b5b232cc",
+      "title": "Hensol Castle Single Malt Welsh Whisky is officially here - Retail Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZG91TXk4aTN5WFdsekVKV1JyZm1wak1mTk5sTk55X2doREllcDBJaWQ1aDJSME9WTTlaUFY5UnNKNFNXaTN3azA0d2lYY0otVV93VU1qVy01WVhQZng4MV9EQUNQX09VazlHUU9lTkxyd3dWQ1ZwMzE3cEtxcTQ2MFVLM3dDeXpGUzE2bw?oc=5",
+      "source": "Retail Times",
+      "publishedAt": "2026-11-19T11:04:05Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "649df46721e82dfeb2e2",
       "title": "India hits Scotch whisky imports with 162.5% duty in trade pact dispute - STV News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjZMWXkxZG1vQzk3bHd5WmVfZU91Ml9qa19mNzF6N0F3dE1YMFZtQ25SOUMtNm81XzVFMWxKVGd0WjF3OTZtYnQ2czdDTzVBV2s1cm9OMFp4S2lDdjBkWDhZREFTTjhRZnhfTWhyVnhBZE1mNV9fMGFsUlVVT29zaHhIZjFwanJIZlJPNTE4NGl6ekttRTRVbUY3d0ZZdHUx?oc=5",
@@ -1266,61 +1321,6 @@
       "language": "ja",
       "region": "domestic",
       "imageChecked": true
-    },
-    {
-      "id": "98d6bc2dfd7bf4ea70b7",
-      "title": "YOSHIKI、初ウイスキープロデュース「我ながら傑作」構想３年も「アルバムに比べたら…」 - 日刊スポーツ",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96cDNwaElqdEJieG8yblpjaGxYZWhadkJQa2dwUHJhMFNhTXN0Nm5qcUhHMUIwN09nZHhvcGk0UElUZmQ0bGRYYnd6RXllck0zQ2R0cDBpWDlmZ0w4T3NKSDN5MEo3Zks5NnAwc3IwLXNzQ180ZUtR0gF_QVVfeXFMUFd3NC10amkteVpNWGg5c2c3UHNPd29TSGo4YXdLVzM5bUFqMU9SSHZCeVhFaVpSR19hc0o2LURWUDlONjRVZmJVZndZdTJCODRpT19Ha2J1X2FvQk9jdEJqSDJDYXJla09YYUdPZzcyWnRicEVkUmFKVkVIVnpWNA?oc=5",
-      "source": "日刊スポーツ",
-      "publishedAt": "2026-11-19T09:38:15Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "30a73960e5142d98f145",
-      "title": "【Y by YOSHIKI × SABUROMARU】 スペシャルコラボレーションウイスキー発売 - 若鶴酒造株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2RlSVJ6bzFqZFB5THRMd0JjT242WVFtZV9FWloxSkRwREs4cW5UdVBmbXdXWWpKeVg4aGVWRG9QRVNZQnRaZkRrS0J4c2JGbmtxQ1gyeDRuT3JOWjZmdDhPNlVkbjFMV3k4b1k3TjNOMkh5cE9UTzBhSUVpb3RoWU1n?oc=5",
-      "source": "若鶴酒造株式会社",
-      "publishedAt": "2026-11-19T09:37:59Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "7dde6fab54f301dc9db0",
-      "title": "Billy Walker Honoured with Prestigious Award After Five Decades in the Scotch Whisky Industry - Whisky Monkeys",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGR3LTJMQzk2dm5ESVBrSkh4Nkdiak5kQTVkRzNZX0VCR2M2a09YYXlzSktTbHRNMTc5ODBvaEFJeGMyR05TVGJId054NDNCY3NsaHc4OUpCZ2tYdUJOVkthaUt2elJFUzZ3WFdLbzl2Um1uck5xWFRONjVqZXppOFE1cUpjSk1Cb0htOFhRNFFXaVhxd1NaLW1Od1V2MUwwaC1ROVdYcWlNQ2VvNGppeVcybUU1LTl2bFJDQXBaazBVR3VIWmc?oc=5",
-      "source": "Whisky Monkeys",
-      "publishedAt": "2026-11-19T09:37:00Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "d2745fabe8562bb16b8d",
-      "title": "YOSHIKI、作曲とウイスキー作りの“共通点”を語る 自身初の挑戦…富山・三郎丸蒸留所とコラボ (2026年11月19日掲載) - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBeHVzUlBpd0FoeGo1d0ExS1Zqc2U5SjZOOWVmeTg3ZmJzeDVRVXdIcFpOcUpqNHRCWnhYVjh3WlY2NFJadDFkeFBTUGdURjRoMDkydXU2STI3d2RLS2c?oc=5",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-19T09:23:25Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "25582aa62ada67ed4b1e",
-      "title": "Wyoming Whiskey Introduces Saddle Up Santa In Time For Christmas",
-      "url": "https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-19T09:23:18Z",
-      "category": "new",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas-1-500x256.png"
     }
   ]
 }
