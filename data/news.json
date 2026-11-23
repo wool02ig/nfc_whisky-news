@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-23T02:43:33.258609Z",
+  "updatedAt": "2026-11-23T12:34:30.082376Z",
   "count": 120,
   "articles": [
+    {
+      "id": "a835d52da608ee214d42",
+      "title": "Ad Gefrin teases ‘Viking oak’ whisky - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0Z1XzZXR0J5SHFOZGcwY2didDVoVXZSMlVSX2QtSHp5cjJUc25tdjFKdUM1YVZ0TXI1SEY1Z1IzM0R2QkxER0lJMFltYVRqYlh3ZXpRLWE4MXJuaW11Q3JvTDQ2ck1tX1hFc1lqbGR4NzZldGdBYWQ5SGlET0pqRlVNNlE?oc=5",
+      "source": "The Spirits Business",
+      "publishedAt": "2026-11-23T12:25:39Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "4cb296f5033fff8d6854",
+      "title": "Saltire Rare Malt launches new festive release - The Whisky Wire",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUhQSzhwUjZHQTNkUlJnNkZKdnQ5SnItQXhielhYYkJGODdWV3kyYmpsaW92cU05ZFJub1BIOFBocmJYOWF1YXFtWnJCUWd0VEwyX05INVZfcm1ybjh3WVdiQThPWHFXTjFyNk9Ca0tEOW9WWUpfTW1DRDhCXzVRUnJneVpBb3pVUTczdw?oc=5",
+      "source": "The Whisky Wire",
+      "publishedAt": "2026-11-23T07:19:44Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "b40099cc587ceb689cd9",
+      "title": "India Imposes 162.5% Duty On Bulk Scotch Imports, Triggering UK Trade Pact Dispute - Trak.in",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1A1U1MwaDZQdHBHeTFQbFc5dkxtWk92LWtwUjE4ZkV6a0tBdUR0ck01X2Y5MVYtRExuUU82Sms2OVN4cjVjR0pZYy1YSGx1Z3dOeEU1d2lLY1FSeXhxQ1BmMEVNeXh6VWxTRi1FeWFsbWFwYU1MQ1o0a3JDSzUxWXFYRDJJVzYwb1JFb2hTaU9ZejZhekcwOTNCUlVUOVkwVDhkQXQ2R0M?oc=5",
+      "source": "Trak.in",
+      "publishedAt": "2026-11-23T01:58:31Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "6207faf6d7bf8dff355c",
       "title": "Harrison Ford whisky among 130 contenders at Scottish Whisky Awards 2026 - ScottishNews.com",
@@ -91,6 +124,17 @@
       "imageChecked": true
     },
     {
+      "id": "fdeb86cf4fd8fc41016f",
+      "title": "わずか7分で2種完売！！！「あっという間に完売」「値段すら見れなかった」YOSHIKIウイスキーが驚異のメガヒット - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TczRVZGY2MnpRdk4wbjZqR0JfY3F5TnZjMklxLTk1YVNoa3NacnpTVkVuN01IOE9mSHQ1NDI2Y05MRGlLNGluektoQ0k0MWRCUFNUZGs4NEdsUzFFbkpZOHNBSzNvbXVPdjBHdTJB?oc=5",
+      "source": "au Webポータル",
+      "publishedAt": "2026-11-21T21:41:27Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "909df4372829f798b363",
       "title": "Best Irish whiskey 2027: Redbreast 27, Teeling and Jameson lead Ireland at the Global Drinks Awards - https://thedailywhisky.com/",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6ZXhUekMyd1hvVDlWNnpoTk5HZDN2alJaTmtINkhiVGR4T0tlN2FEanRCV0hlSDdjS0hQSmNtYjFtTUVSY3dacjZiSjZGRk9qWVBsTEtYa1V1VU1PSTJKUg?oc=5",
@@ -157,14 +201,14 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/single-malt-vs-blended-scotch-which-offers-better-value-at-the-same-price-500x256.webp"
     },
     {
-      "id": "fdeb86cf4fd8fc41016f",
-      "title": "わずか7分で2種完売！！！「あっという間に完売」「値段すら見れなかった」YOSHIKIウイスキーが驚異のメガヒット - GourmetBiz",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5dS02TllZOGNqM29TUkZKTjNRS0p2VUFwbmx4RzNmWjQyZHJUWTFsem5jRTBYb3NMWXg0bjNoNE53bHpYczRuV1Bn?oc=5",
-      "source": "GourmetBiz",
-      "publishedAt": "2026-11-21T11:08:47Z",
+      "id": "6d5fe6ce38c78bbb523b",
+      "title": "Indias Scotch Whisky Imports From UK Surge Fivefold To $59.28 Million In H1FY27 - Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1B3QVRpQnhqRFdqQzRRdU9vZHlJM2pFZEc2dVRFVVNlU09oOVBFY3lHQUJnTFIxVEdheGZwOElBN0pCR1oyYzFpLS1KQjJQdUNZY0pFbFRISXRJbVFIWHhZVV9hZllnNV9ieEo5U2NVYXppRjRYSldoT001MC12YVM3dnhtLTRQazlHSm9FbEtQaEdJR1BwSy1MZmUyYjBYUVp4SXZwc3pxV09pcmpsSkFmR3luOVd2dWfSAb8BQVVfeXFMTWRRaW1mTmdramVmMWNTR0hHdDBSSVdXSW9kcGRFc0xLY0V3T1FFeHI3NkxwUFdvc0lXeWpCNWx4cWYtX0o5eGVJTW5HMUVSQjBPXzRpWGd4M2dXRW1WbWpfR243VjFTX080UXlFZ1RFRHBGUFFqd2p4WTA5R1QtTWVhVlJqSk9ReTlXUU1kaXhETTNibHVRM1N3bEFzTGNOWExtOEpXLWVZRXdVMzB3RTNzQWhiODU2bnRFcTNSNE0?oc=5",
+      "source": "Free Press Journal",
+      "publishedAt": "2026-11-21T11:21:14Z",
       "category": "industry",
-      "language": "ja",
-      "region": "domestic",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -275,6 +319,28 @@
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "de2cd32bae511555439e",
+      "title": "India moves to resolve Scotch duty row under UK trade deal - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeDZIVjBaNFRjMTBENVFtQXlneHlHeWdzd2dHdXlOcmZDZlZXbDNyZ0E1UXg5ME13cktLbUFXeWVZYm51YzQ4d0ZNT2VjNDJLT3Y3REo3S3Uwa2lJUFg4WXJZSDlYTXhTNzFnV0dJcUJBX2paY2lHSnphSENBWnR0YVVHNkpjYnBzOGVtN2VISl81TFBCNkVaWjE0YmtENW95SXRXT3FmNVVFc0NQajdVajlNWV9DR1JJM0xfYk95aXdrRjlKSlVGazBjdzVodkdGMjFENmtB0gHbAUFVX3lxTE93eWo3Z0tXX25sZXg5eExnM1Y2STBSelFCNW1TTkJYcDJqZFd1WWllU2RSaW04Z0xnQ1p0QURkc21ZSnJGOUFNdld0ZWRIU05tRTZ6WjRCR1AwOWt3bVEzejBxbGpfdVktSE1jSk9hdDZJakRURVBNeUd4NDFtTmdhd2I2VmxWenoxSnJzdHZVbEZCZ3NvR2t0Z1A0Q2ZtVHJuejRGS2lZVzlJT0xEb29OREhOd0hZdUs5cFdRbUFURGQ1eEluRUFSaGpBbWZUeTVoeHV5VE03WU5vVQ?oc=5",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-20T19:27:23Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
+      "id": "2d199276316b86aa92f8",
+      "title": "Govt seeks to resolve scotch import issue under CETA - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZU5BYXUzSC1VOXdIY0dHY0ZGNTlwbWNMMXZxTGh6WmYtWEpjVldUS1lVNEQ0cm5hMGpUOUhnb21RamE3Z05heVFDem1ja0t6SXFZdjJDLWpYSVBHaEtuMHAzemtyTEFSQ1M5VGVWZHl1T3ZadS1ybko1RU1yTW9LWlJPVVBWbkdva3lWaG1sVTdpcUVKSVdFU2NFVGtrLVNqd0tudmxWakNOLUZWSXfSAbQBQVVfeXFMTThjeURJU2txWXpBa084V2hGQnV2eHI0ejJmX0Vsc2VVNzlKR3d4a1dzX2R5SWItSk1NS09GWkt3amNUcW56ZllSUExBTjBiT3lGSDZEdkFyeE1QLWRLX2xyWjVzUTJYMmVwUUNtVkhNd0FPUDBmcDkzc3h5QkpBOWludE50dmIzSTRLZE8zNGVfTENBVURMcWtrUG0yQk9LS09HMHhHY3VVWDlMTjVXdm9vT2No?oc=5",
+      "source": "The Financial Express",
+      "publishedAt": "2026-11-20T19:18:23Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
       "imageChecked": true
     },
     {
@@ -465,17 +531,6 @@
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/the-best-whiskey-for-a-manhattan-ranked-rye-or-bourbon-500x256.webp"
     },
     {
-      "id": "7bd2a7af265da9a2250e",
-      "title": "XJAPANのYOSHIKIさんと共同開発 若鶴酒造が新しいウイスキー発売 富山県砺波市 - TVer",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtQVBJZjJKRjNRSkZrbDFsMnp3Ynh6X2lNWjJ0VXlrNWNTMEVRTEEwNmR6NG5xVUZBQjNxMW12eGQ5V0NyakVGUlltdw?oc=5",
-      "source": "TVer",
-      "publishedAt": "2026-11-20T12:17:45Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "6da03413bb868a22104f",
       "title": "Heaven Hill Bourbon Launches First National Ad Campaign",
       "url": "https://thewhiskeywash.com/whiskey-news/heaven-hill-bourbon-launches-first-national-ad-campaign/",
@@ -518,6 +573,17 @@
       "language": "en",
       "region": "international",
       "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/pinhook-vertical-series-bourbon-11-year-follows-sfwsc-win-500x256.png"
+    },
+    {
+      "id": "7bd2a7af265da9a2250e",
+      "title": "XJAPANのYOSHIKIさんと共同開発 若鶴酒造が新しいウイスキー発売 富山県砺波市 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGEyWF94UXR4OURzeFl4UVc2YldjdkpUQmFJTEdxVnZ1dVRaYktCaGt2SVBBdkFpd0FyLUlrenJMZnF1ZVVDOFVRMmJKblRHUWlRWHNXZ1NQYThUVjVQemNhdlZQdUh3aHNEb1BGVHJ4aVluczFRc1hrY0tPU3lOTkhLcVplbjg?oc=5",
+      "source": "日テレNEWS NNN",
+      "publishedAt": "2026-11-20T10:49:00Z",
+      "category": "industry",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
     },
     {
       "id": "cf590cb94552e2870e6d",
@@ -630,8 +696,8 @@
       "imageChecked": true
     },
     {
-      "id": "28f7d5da2dcb3a26a7f3",
-      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 - PR TIMES",
+      "id": "0de60550c3cdd45547aa",
+      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 | YOSHIKI PR事務局のプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbnUwOEJLcnJNbWFZa2ZpNkFUaXRxWlpBY1haMkhST1dkOEx4QzVDaTA3bFhMU3FaMjI5WWlJWmV3ZVZocnVGUXgwS0FhVDhTSG9ONVJvYngtcjlmeHVCWUt0c005QWhtbGc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-20T07:37:13Z",
@@ -641,8 +707,8 @@
       "imageChecked": true
     },
     {
-      "id": "0de60550c3cdd45547aa",
-      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 | YOSHIKI PR事務局のプレスリリース - PR TIMES",
+      "id": "28f7d5da2dcb3a26a7f3",
+      "title": "YOSHIKI 初のウイスキー、誕生日に登場 オンライン先行発売から57分で全3種完売 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbnUwOEJLcnJNbWFZa2ZpNkFUaXRxWlpBY1haMkhST1dkOEx4QzVDaTA3bFhMU3FaMjI5WWlJWmV3ZVZocnVGUXgwS0FhVDhTSG9ONVJvYngtcjlmeHVCWUt0c005QWhtbGc?oc=5",
       "source": "PR TIMES",
       "publishedAt": "2026-11-20T07:37:13Z",
@@ -806,17 +872,6 @@
       "imageChecked": true
     },
     {
-      "id": "a9ecb7f1b10c805b137a",
-      "title": "ナパ、フランス、そして富山へ。 YOSHIKI 世界的評価を受ける三郎丸蒸留所と初のウイスキーを発表！ 1862年創業の若鶴酒造・三郎丸蒸留所と約3年をかけて共同開発 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lbk9FbDhYZVFJUXFuRGF5UEJaQk8xMEhnSTFlZlV4ZEdpYUwtZ21JVDU2U21KYnk0bUNpSGpsN1A0NG1ZdXVOQ2xjMVQ1SWkwZTIzMGc0M2FJX1MtVEhaWS1aTjZhZTFjQ0R2c3pEX2x1QQ?oc=5",
-      "source": "Infoseek",
-      "publishedAt": "2026-11-20T00:15:36Z",
-      "category": "distillery",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
       "id": "c9f086bf482abcf317a2",
       "title": "YOSHIKI、富山・三郎丸蒸留所とコラボウイスキー発表 20日正午から数量限定で先行販売 - https://mediadogs.jp/",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVksxa21haGdYUWxwRnVpTkJZbE00YmhIMlNJbHVTUVdvMXlYbjRhVXd2Q0E5LVdrYVZ2UXFxejVFMUtCUE16cXpBUnNXYTFhRGRvelBhQkVleTAwSlU1Z2RlcTN6dl9ERkE?oc=5",
@@ -894,22 +949,22 @@
       "imageChecked": true
     },
     {
-      "id": "e8e9056287439c9835b1",
-      "title": "Customs should review classification of bulk Scotch whisky imports: GTRI - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFN6NnFvRUF4M0NEMDJjdFA2VE1LbXU1UjFIVFdsWkVBNEk0eW1yazNVY1ZjSGpCcEp4WjhtRHpIQkx4T29PX3Vnc3J1M3JiU2pqNEZKdkFGQ3BCaTVIQlpPX0dWV3cza1kxWUQ0azNvNG1sNzdOOTBCX19xZVpndGFHMDlDdjhzVW5mUXFaLXBrUW44anhyRUxKLUxZSENkVlNJZXQ3Ny1OVTREMHFkSWIzbWxfSnk4TmpHNU45RjdSM3dFZ3c0X0o3THRNcy1DSlNvT9IB2gFBVV95cUxQcFYtS19hSWpUeWQzUW8zQnpiT1V2VkVFLWVBMW5GZkxtaTJYM0tORC1XWnV4cjN6cW1FQW51N3VXWjNON3otdk9KblFNajgzR2hFRGJnT1Qzb0Itb3FsWDlEY1A2aGMwdFU3clJTVXh6MzZPT1duNGQ5T1ptcGVTbjlvYUlvbjNLYk9JRWRBRGQxR1lYWEJGWWpoaWRLS1kzSVlmeGhwT2dzUmJNLWgyM0s3ajE5VlBNR3FSOFhDdWxZb2RqM2QzQUoxTXVkOWdVc2JCRVdCQ1l0dw?oc=5",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-19T18:11:59Z",
+      "id": "b8886e4f5131462bb04a",
+      "title": "GTRI urges Customs to reconsider stand on classification on imports of Scotch whisky in Bulk Spirit form - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDRuQ1p3M0MxTXdQNXhKdDFEWmdwcXk1bjhFUGJ3VGtfMzNQRUpXYk5GbWp1a2lzRlEzNW9Ia2o5QjdZLWlWclRhOVNMc05SOGxqNUp2SFRiLUl6VC1WeGRTWE8xQTVLU2laSXBTWHJWdHNnalRzSmMwYnAyaVNzMXV1czdkbTB0dnp5dHRuNHpweWRlYTJLaXlfR2pEUjduTERubWo5STh5N242Q3Q0UWRnbm5LQlpmMjNNUm5KX0ExdEdjOFBjZFdEczhxajNka1h6S2JKbGlIRHd5ZEgzRzJIcVDSAeoBQVVfeXFMUGtRZDV4SG5pWEl5VThxUlRUN3pER2ZfXzBXSkMxQ0NCYlNYenVIRXRmXzM0VWhoQ3ZhYmJlc2RrYmllemh3SVV2cmVNN0ZRbjg4NEtGZ2p6eWNOc2NzWlR0SGVReEFUSjFRZW1NcS1fbjl1QzJyeFlFX3hjOWtPU1ZpelM1X3hhdHVHUUZYc25MMVJmYm5aTHcteWRTODhyampRdnNjSjNnUlJRQjkyVjMyN1lFckowQVN5cjNjWkp2b3BwTjRfc2g5VVA3bzZtYU5QcXBIVDQ0eVAzem1YLUZTZFFHZ3BjbGR3?oc=5",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-11-19T18:01:55Z",
       "category": "industry",
       "language": "en",
       "region": "international",
       "imageChecked": true
     },
     {
-      "id": "b8886e4f5131462bb04a",
-      "title": "GTRI urges Customs to reconsider stand on classification on imports of Scotch whisky in Bulk Spirit form - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDRuQ1p3M0MxTXdQNXhKdDFEWmdwcXk1bjhFUGJ3VGtfMzNQRUpXYk5GbWp1a2lzRlEzNW9Ia2o5QjdZLWlWclRhOVNMc05SOGxqNUp2SFRiLUl6VC1WeGRTWE8xQTVLU2laSXBTWHJWdHNnalRzSmMwYnAyaVNzMXV1czdkbTB0dnp5dHRuNHpweWRlYTJLaXlfR2pEUjduTERubWo5STh5N242Q3Q0UWRnbm5LQlpmMjNNUm5KX0ExdEdjOFBjZFdEczhxajNka1h6S2JKbGlIRHd5ZEgzRzJIcVDSAeoBQVVfeXFMUGtRZDV4SG5pWEl5VThxUlRUN3pER2ZfXzBXSkMxQ0NCYlNYenVIRXRmXzM0VWhoQ3ZhYmJlc2RrYmllemh3SVV2cmVNN0ZRbjg4NEtGZ2p6eWNOc2NzWlR0SGVReEFUSjFRZW1NcS1fbjl1QzJyeFlFX3hjOWtPU1ZpelM1X3hhdHVHUUZYc25MMVJmYm5aTHcteWRTODhyampRdnNjSjNnUlJRQjkyVjMyN1lFckowQVN5cjNjWkp2b3BwTjRfc2g5VVA3bzZtYU5QcXBIVDQ0eVAzem1YLUZTZFFHZ3BjbGR3?oc=5",
-      "source": "CNBC TV18",
-      "publishedAt": "2026-11-19T18:01:55Z",
+      "id": "e8e9056287439c9835b1",
+      "title": "Customs should review classification of bulk Scotch whisky imports: GTRI - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUVJ1MUQ4eVlWNmo2bURSazJXSWpuOVZhZjZkdHhQTWd0YzZfOV9MRmI1UVZoLVRFSm9obGRzRUlaR2IzT2w1WnVUMWxWLUNIRnZaZU4tS3JCMi1fWHNEZGlCSEh5V3Fuclc5bWJId2JldzRSSEVkeTFTUlNOZlN0NDRFSnNPSHVPR3FpakxVeXFENS04MWt0RDJHRDdXNFFLaXFCTEVBZ25ZYjhDVUpuOXdCWG96enZfc1otOFd6LWF0ZzRnZmhpVERoVkpmd3ZXd0pYcVFFWklfOVUwRXN6ZXUtOF8xeUXSAewBQVVfeXFMTnFqbkNsc2FDd3NKVzVzRFp6RHJMUW8wT2ItZ25rOTFyZHZQU3Z4cTJwNnUtRF9XaFl2VEM5bEZLaE10T0ZrUkF4SFd0amszVElOeU1wTV9yMU5qb3REXzFnVzU4TWhFdEd0aFNQNXdEWGJ5dzQzVlVTMnFVWXdCOFNsSHByTkpYQUJ3OWw2TGZuTHVfeENlN0FTY3ZEck1aT3AwTVpZXzliZVhaNzNfVURXZF9xXzBtYW44c0RZNVE3Q19La2RVbk41T0ZLZzdhYVprWXo5N1RabGk5Y3l2SDgtNmxnNVFlUXdmaWM?oc=5",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-19T17:38:58Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -1262,61 +1317,6 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuTFVvSkRYX295SEhEUW44SWl6bG1HYVgwdzhGNUR0VnNvWDZTaGg3NU1ENG0zcnFzeEpCUHRLT3N1cHdleFhR?oc=5",
       "source": "Dellows News",
       "publishedAt": "2026-11-19T11:00:17Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "206a97434d309f8a77ee",
-      "title": "Hensol Castle Distillery debuts whisky after three-year maturation - Larder Magazine",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbU5KZFNqYkFYRTdTYUpQWnBhWF9SNEpnZ0F3cVE0Z1pXYjBCMDBFWXFNT2tMSlBLejMyVjFQaWZuNmd4eWtpemJ4U3ZKS0pTNnZCUTU2SDBFVlVKR3JOdmNFLUduR2RLazRUUktyV1dMOGY4NVRhYm1KV0F4S2RfYmdMUGNNel9mNXl5cmdmTWlPMTBpQ3c?oc=5",
-      "source": "Larder Magazine",
-      "publishedAt": "2026-11-19T10:53:00Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "4c59d4255a5f6e460c05",
-      "title": "India raises bulk Scotch whisky tariffs to 162.5% amid trade dispute - The Drinks Business",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYm9ldkZZV0lYZnI1LUVZb1U5NDVoRHdqdk1ic2hiWnlfWGxlSVpzNl9EcmtNNWFZYVZGanBraXNzUlRqaHNOYlVrVXdEX3BXN3FlR0RMN2NwSzE1Y3Y4NkpxZ3BhdFc3VFp3dnVyVXJCbHBlcmtBWmNPdDRVWmZ4bmY1SlhTTE9sbV9tcF9HRjh2OVZaSU4xa1h6MnN4ZTdmeTJ1eGd6aFNQNnB1TUZN?oc=5",
-      "source": "The Drinks Business",
-      "publishedAt": "2026-11-19T10:50:10Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "3b06a661333f2a116429",
-      "title": "YOSHIKIさんがウイスキー開発 若鶴酒造と異色タッグ「こだわったのはスモーキーさ」 世界各国で販売へ 富山 - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LSjIycWRxbVpSMEdadnBoV1QyWVBCSlp1ejRSZEpmLWJOUHI0VE5NUDJQUVB3eTlXbDFzSFBudDdwdjVmdm5YR3FCZVp3dXAtdmVzX3hfUTN6Vk5yeFJPNjFjT05KRTg?oc=5",
-      "source": "TBS NEWS DIG",
-      "publishedAt": "2026-11-19T09:59:00Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "d14656a1405fed569167",
-      "title": "YOSHIKI、作曲とウイスキーは似ている「数学」カクテル「ラスティーネイル」は「知らなかった」（日刊スポーツ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kcW52MngtTjY5dy1iaERTM2R4WUFaaEp5NHNQRlRwYWdJamZKcVlNSzVTeDctalB6b1lXVURmOGd1VXBfZ1NERDhJcFhEanp1THA3Q1hlUjlsVHp3al9leTJNZ0pkUV9wYlk4U2xDUUxBWm44Xy1vZlg2UnJ0S3M?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T09:56:33Z",
-      "category": "industry",
-      "language": "ja",
-      "region": "domestic",
-      "imageChecked": true
-    },
-    {
-      "id": "1246405725566fded8a9",
-      "title": "YOSHIKI、約3年の時間をかけたコラボウイスキー発売！「まあ、アルバム（発売までの期間）に比べたら短いですよね」 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hYUgxMUNBS1czUFFzQ1B1SkE1YzZKYV91b3p3ci1Ha2FFZUNNZmNINmstVmUwUFRWb2ItMllybkx3U2d3bUd3ZUdmT1d4QlpHN013d0pZWjVOamJqYVFUUVJKSlBJZGo2UUtqMGRuVlRodHl1a3hTVE5Ybk9qQUE?oc=5",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-19T09:42:15Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
