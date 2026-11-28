@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-27T19:56:48.214593Z",
+  "updatedAt": "2026-11-28T02:40:08.455750Z",
   "count": 120,
   "articles": [
+    {
+      "id": "60c1d10510a9bf009b0f",
+      "title": "YOSHIKI、富山・三郎丸蒸留所と初のウイスキーを発表。「Y by YOSHIKI × SABUROMARU」全3種が誕生 - PREMIUM JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12d3FMY1l5SnktQXNxNjlXWTVCbDk2TzZ3TThjNDRlbzZhRE9CUXQxVjh3RmFJX3FDOEVBMVZ2VnE1WnZHbWZzOXB3b0tFLTQzTzRjbXJUemFYalpNUlE?oc=5",
+      "source": "PREMIUM JAPAN",
+      "publishedAt": "2026-11-28T00:57:38Z",
+      "category": "distillery",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
+      "id": "3f8bcd8891fa2026e768",
+      "title": "11 whiskies that won gold at the 2026 Scottish Whisky Awards - ScottishNews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFREaWwxNmwzNnBHZGRvVEVVX25MbHFCYWFHMS1QX3Y4MXQ5Vl9vY285dmpxX1R4T2hGaVR2Sks0LU5HUlZ5WjNDSV9TS1NubzcyUlo4cmROaUtfQjU2ZTJkZHg2UHVlOHc4NWdCRmJuSjF4Z1VkZFVocmJnV2dOSzBOajFyWWJIWFRNM05aR2dWZ01nVHU2ZFc1dkJVUjA?oc=5",
+      "source": "ScottishNews.com",
+      "publishedAt": "2026-11-27T22:04:52Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
     {
       "id": "63e67c89adbd56cb38e2",
       "title": "Wemyss Malts Launches Blending Workshop at Kingsbarns Distillery - The Whiskey Wash",
@@ -47,6 +69,17 @@
       "imageChecked": true
     },
     {
+      "id": "79f9b9caf3ee67b799f1",
+      "title": "How The Borders Distillery Is Reviving a Forgotten Approach to Blended Scotch - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakQzRDVmSDk5ZV93aEkyVGdxajlGaG5oR0FXM0xNUldnbmVwLUhQY0t4WUU5SXNvcmRMa0N0WjFsM0NuNjZsaEV0eksxeExXM3Z4dnB0MHRJcnpWZDNHNXQ0MFhtNGdyV2Y2V3VHOTFRZ3loTTNPVk5IR1V4X2JRMU5ta3QyRTlKbVhCM1Iyd2swN01yaDZhbGlRb19qbXJId3o3RkhkNUtNY0VEMUZOWmJ0QXBEbHJNUF9mRU8zOA?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-27T16:12:02Z",
+      "category": "distillery",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/how-the-borders-distillery-is-reviving-a-forgotten-approach-to-blended-scotch-1-500x256.png"
+    },
+    {
       "id": "60d012096d4310e90ed1",
       "title": "Scotch whisky distillery Old Pulteney turns 200 and celebrates with two very special whiskies - Whisky Monkeys",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPejZrMmFreDRCMWFOaHlSWFJfSmF1dVdPX1h6OEFoMGpsUmdQYUd1Z1VOV3dTOS1pc3RiV1F2WHItYW9uRUlYRmJqX1Z5MEsyTExRVjl4ZGxxYzBMbnZNMTM2b1lEZXM4Ny1EOGhnZWt1cGtha2ptSTRBYTJiZzBTSXZ4QlhSSlZTS184S1lJQ3p5X3JjSUdXalBBTUJ2aDN1dmVBN1pTbmRuNGVPMXRoQk5VR3BLazRoYmwwbjRCaGc1OW55OElydDV3aw?oc=5",
@@ -56,17 +89,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "79f9b9caf3ee67b799f1",
-      "title": "How The Borders Distillery Is Reviving a Forgotten Approach to Blended Scotch",
-      "url": "https://thewhiskeywash.com/whiskey-articles/how-the-borders-distillery-is-reviving-a-forgotten-approach-to-blended-scotch/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-27T15:55:14Z",
-      "category": "distillery",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/how-the-borders-distillery-is-reviving-a-forgotten-approach-to-blended-scotch-1-500x256.png"
     },
     {
       "id": "c401dd1c825ddca9a920",
@@ -92,10 +114,10 @@
     },
     {
       "id": "4228045f6d818011cc3c",
-      "title": "Getting to Know Sailor’s Home, the Irish Whiskey Brand From Limerick",
-      "url": "https://thewhiskeywash.com/whiskey-articles/getting-to-know-sailors-home-the-irish-whiskey-brand-from-limerick/",
+      "title": "Getting to Know Sailor’s Home, the Irish Whiskey Brand From Limerick - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTgzZHRkNjI3LUZpdFFnVzlJYzFmME5OY3FoZlFIU1MzM2VxakhROXRRR0pSTVloSFlQVVdhUTRjcWR2NlI0V0YtZXJVbnVhX1pUZlY3NmwtZWQxVEtITXpySUNLZ1FUajJ5MkNXS1NZSGZ4MzNnaVUya2F4anVIT0dORGRxdDFQVVdWMWdZb3V4VmNFSUVGbVpVTngyRG8xeTFlbkhrVzlrclpUSEx5dQ?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-27T14:30:44Z",
+      "publishedAt": "2026-11-27T14:44:16Z",
       "category": "industry",
       "language": "en",
       "region": "international",
@@ -256,6 +278,17 @@
       "imageChecked": true
     },
     {
+      "id": "c0a8beb899eb67aa41ca",
+      "title": "世界最高峰のジャパニーズウイスキー「山崎」の真髄を銀座で体感。「THE YAMAZAKI EXPERIENCE IN GINZA」が期間限定で開催中 - ウォーカープラス",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MXhzNnN5UUpxWkUyc3BfRC1uN3JoZHRHb1I3VkJqVnlaY3BzM3lMRW1FQnVucmZpUzRWTG1OU3AySUZnWUs4X1FNOUtyQnYxSmhvUWlR0gFbQVVfeXFMTl9sclpfVm9ZbE9WZ2phX2ZxZG1iLUs5MU9tVDctTE5Fc2pHV1JGSnl3WG81MURfaFpWSkZLS3V4eGdMb0VPNk12cWxVTUpCY1VfTnp6UGhwQmNqNA?oc=5",
+      "source": "ウォーカープラス",
+      "publishedAt": "2026-11-27T01:58:35Z",
+      "category": "limited",
+      "language": "ja",
+      "region": "domestic",
+      "imageChecked": true
+    },
+    {
       "id": "920e191b159a5dcc3612",
       "title": "【先行解禁】100%東京由来ウイスキー「東京モルト」｜世界に１樽 200本限定 - CAMPFIRE (キャンプファイヤー)",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBbGsyaTByYlBnME53WHJvZGtjMlh1dzZZWTU3eFY4a1cxejBwTjBhSVhTbHF2QVlLZUFVYzJaNHVmOUZ0SlVnNVZza0JDSHFGaG9V?oc=5",
@@ -389,10 +422,10 @@
     },
     {
       "id": "5213bc6e0bedf12a7d6c",
-      "title": "The Next Generation of Scotch: Discovering Scotland’s New Distilleries Through Independent Bottlers",
-      "url": "https://thewhiskeywash.com/whiskey-articles/the-next-generation-of-scotch-discovering-scotlands-new-distilleries-through-independent-bottlers/",
+      "title": "The Next Generation of Scotch: Discovering Scotland's New Distilleries Through Independent Bottlers - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcG1qcHNySmQ2TnpjS3JvZnVHdmx3ZEpnUVRpdGVweWYwNC1fLWZJbVRpYlFmZDlRdkxKUTJGczh0U1c5SzRnYXhtZlZYc243ekl0WWZ5MEdJOGV0cml2S2dKSjR1ZWthWllkbEVqMktGTnowMGZiT1RLVDlvMHdFVDZ3aDdlaWNjelhieUV1QXp4YUhkUnpwZGU0ZkJkbFppenY0dDNjdmFjTnRHWUhmMnA3WG5pNU9ueGtXb1VzaGtQODE4NEVwNkQyNHBtM3l1QjdYRXNYQVhVUQ?oc=5",
       "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-26T14:08:12Z",
+      "publishedAt": "2026-11-26T14:13:09Z",
       "category": "distillery",
       "language": "en",
       "region": "international",
@@ -432,6 +465,17 @@
       "imageChecked": true
     },
     {
+      "id": "c9404982e471ff68df9f",
+      "title": "Brora’s £19,500 54-Year-Old Tests a Cooling Rare Whisky Market - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbi1CLXp0VHFCQUxmTFVQQTNUYVJXSXZCcWxLOE9aVk1XX3B1ZF92dE9CLXZwdVV2X0dhaERwUVpDVkFJUlVxUHZOcm1OVy1iY19ZZW5IbFRyTGhDZlRUUjZ1MWRHWVpNS1loZFZ6MUJTQkxxem9ncW1hNGgxZFhnUWp4cS1JM1RpOFNGOUJpZWNCSVZ0RDRQZmp4N2t6MUo2TzFFaXNCTQ?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-26T12:44:50Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/broras-19500-54-year-old-tests-a-cooling-rare-whisky-market-500x256.png"
+    },
+    {
       "id": "764a391e7f0191426833",
       "title": "A Scotch distilled while Nixon was in the White House is finally for sale: Brora's $22,000, 54-year-old single malt is limited to 120 bottles, and five will arrive in hand-painted Goyard trunks - Luxurylaunches",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vbEVyLUU4ZnRJQ19uZ3pEaFJwTTNtVWVuVklURXZnSWFqbmp4cXdwSlcyeko4WFFudTg3b1M3Nk80a29yYnV6a2lFU2NCUy03MXZBTHFXMnNMV1c3aHRna00tZlNlaHotT2pnU1RTRzhMVjA?oc=5",
@@ -441,17 +485,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "c9404982e471ff68df9f",
-      "title": "Brora’s £19,500 54-Year-Old Tests a Cooling Rare Whisky Market",
-      "url": "https://thewhiskeywash.com/whiskey-articles/broras-19500-54-year-old-tests-a-cooling-rare-whisky-market/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-26T11:53:24Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/broras-19500-54-year-old-tests-a-cooling-rare-whisky-market-500x256.png"
     },
     {
       "id": "72f5b882d6d7bab292d5",
@@ -619,11 +652,11 @@
       "imageChecked": true
     },
     {
-      "id": "58ae6ece735a2a11044c",
-      "title": "新ウイスキー蒸留所が完成 “シングルモルト”を製造 小学校跡地を改装｢当別蒸溜所｣ 北海道当別町 ｜ ニュース - ＳＴＶ札幌テレビ 放送",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1ZndEQyQ0lwVFRSRFJPSTB0M3RNdDlwOFM3MXZSY2xSVGRpMFlFWGZDeV9sdGdjZ25LR1k4amMwUGdwUEFyYUplbUdHU05KRktTekV0aEx3SjRFR1g5S1RKcktHd21YRDFXeWNfRlB5bENfdkd4dUJrR0F3OVdJZW9B?oc=5",
-      "source": "ＳＴＶ札幌テレビ 放送",
-      "publishedAt": "2026-11-25T23:15:00Z",
+      "id": "aaedd68454a9c8cb02c8",
+      "title": "新ウイスキー蒸留所が完成 “シングルモルト”を製造 小学校跡地を改装｢当別蒸溜所｣ 北海道当別町 - TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iS2JfUTVJVDlnMTQ3SVZ4bWZ4TlRlaGZMMk5ycU1NZDlUN3cxU3VCNDVaRWo4SnJFdjJ4MHpLeEZwSjhkclZRX2dLMA?oc=5",
+      "source": "TVer",
+      "publishedAt": "2026-11-25T23:18:45Z",
       "category": "distillery",
       "language": "ja",
       "region": "domestic",
@@ -664,10 +697,10 @@
     },
     {
       "id": "210b1dbc0ad7e982c878",
-      "title": "長野・野沢温泉でウイスキー完成 山々の水使ったシングルモルト - 新潟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LTWtHN0Y0SHY3QTl4aGRTUndYU0NPZHpXdVZQbGpnYWNuMzVkT0U4OURHT3JlZWpBbGhTVnhTekdRVXF3bVl4YXJwOXQ0X213QXhqVlMtMjJuVjNHZFE?oc=5",
-      "source": "新潟日報",
-      "publishedAt": "2026-11-25T20:22:25Z",
+      "title": "長野・野沢温泉でウイスキー完成 山々の水使ったシングルモルト - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BX1dmNnVGOG56a0lhUlpndVJ2UnhHaTJ1MkRGc214WVJmZmJsdmtCUTlNNWFsYlFMLWJrTHp3Y2JvVEhWUDFUTVRKaDV4MUx0SGc?oc=5",
+      "source": "山陽新聞",
+      "publishedAt": "2026-11-25T21:20:00Z",
       "category": "industry",
       "language": "ja",
       "region": "domestic",
@@ -707,6 +740,17 @@
       "imageChecked": true
     },
     {
+      "id": "beda7cf0bd4fbb28117d",
+      "title": "Tamdhu Announces Year of the Ram 2027 Scotch - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWlwTzVUUEdfdkZpMDFzaWpybDJFVGs3RTJscUxPSGFDVmVlNF9NcmpTMXQwZnNMcHNaOG42M0x3R09taGdsMDgybFV2Z092WWtURzJ3Z003VGFjcEpsaEVIbmx6UTdCeUlobUtzZnNXUkd6RjVSVzZ4bVA1ZFFKdktBRmU1YUE0WDNkaEVB?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-25T17:50:45Z",
+      "category": "industry",
+      "language": "en",
+      "region": "international",
+      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/tamdhu-announces-year-of-the-ram-2027-scotch-1-500x256.png"
+    },
+    {
       "id": "57d9de4f5015280b9e49",
       "title": "The Glenrothes Launches First Private Bottling Programme - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWtTZ1FhekNhMVN4cVp2WDZub1d1R3NfbFdNV3hYbWNNQnU5UEZHdWlhdU5EZkE5V2tfa1pTQjJHcVlVQ2RIcG04WkxJZVBBLUM3UUdBRlIxSUJLSGdoNnFSZHM4M3V2THp2dnhIVzVzdndKa0p3UnBBdlhiazJJaVBEX2NTM01sYVVncGswTHdyblg2WnpqbU5fS0xoQQ?oc=5",
@@ -738,17 +782,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "beda7cf0bd4fbb28117d",
-      "title": "Tamdhu Announces Year of the Ram 2027 Scotch",
-      "url": "https://thewhiskeywash.com/whiskey-news/tamdhu-announces-year-of-the-ram-2027-scotch/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-25T16:46:18Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/tamdhu-announces-year-of-the-ram-2027-scotch-1-500x256.png"
     },
     {
       "id": "ee7e428e146fce5da1ac",
@@ -1083,7 +1116,7 @@
     {
       "id": "ee7ce22b638472deb54f",
       "title": "静岡の山奥に世界唯一のウイスキー蒸留所 海外客が殺到する”薪直火”のヒミツ 3年連続「世界最高峰のウイスキー」金賞 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm5kQ29IODlQVTZoUFhTYWhDNExobURDSElZVVhtdFZlYXc1QzlpRG1FOTFnZ3RwRTJCbkdoZ05lcFRkX0VocWxFaDVPY3U0eXlyWHRKbHJzUXd2Nk5rSkpFYnc5VWNCZVViZzJvazFPWUpkVjE1clVYRmdTSEpHRzhDZkdLMTlO?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XQ1ZjZzZFUFpScVpUMXhvQUU0Q1ZmZ3l5cWxWM3VFWFIxdGtRUm1fUUI1R1F6N2ZfUWJmY2NLa1psZkplQWtCVk1UZlUwWEp6RmZDeVpfa1J5cjFtQjZRaHAzaHh4UUIxdm1LS0xWaE85WWVwV2loUzR5cE9KYlk?oc=5",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-25T04:26:10Z",
       "category": "distillery",
@@ -1224,6 +1257,17 @@
       "imageChecked": true
     },
     {
+      "id": "9b0fc8f983977cc9dedb",
+      "title": "Milam & Greene Port Finished Rye: Holiday 2026 Release - The Whiskey Wash",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcnh2VlVFV2Y5ZENBajRtaUNHRURNYmNsaldXa2tEbVQyNkZyZ0piNFNLUGpfYjR3SDVJYzdUVmoyVjllUTdldUYxcC15d3J0Y0JPcm5wQnFKQ0poOFlCdGJibFB5QW5XaTd4X0pTRFpjZzNWLUhmcDhLSUxCY0VBbFBSNzJ6TXBFYUxiVkxRcFd0Uk15ellB?oc=5",
+      "source": "The Whiskey Wash",
+      "publishedAt": "2026-11-24T15:30:39Z",
+      "category": "new",
+      "language": "en",
+      "region": "international",
+      "imageChecked": true
+    },
+    {
       "id": "1b90c52f89743c12627d",
       "title": "News Notes: Distillery Production Cutbacks Set to Continue in 2027 - Whisky Advocate",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0S25JUU1hWS1DblVDeWF6WVFEMUZSakxJN25nSEVIQUR6RzB3R0Yxb3lTWXNhVFIwZ01PWkxqSkhDam9keExibFdfYnZLSkVORS1INWxGSnZzc3E5a2VROUZ2cnJ1UFNLTHh2ME5KRFc?oc=5",
@@ -1277,50 +1321,6 @@
       "language": "en",
       "region": "international",
       "imageChecked": true
-    },
-    {
-      "id": "d0a6643f6c48bd248a5f",
-      "title": "Pursuit Spirits Traced a Mystery Barrel to Napa, Then Built XS Double Oaked Rye Around It - Whisky Advocate",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RY2JKclRnWGRKNGM3Ykp4NXlQMmtDOWNnWTUtVGhGMGpCS20za09ld21LTTQ5NXR1M01aNzZ6ZHBJaXYxZ3ZGTExkZmhUNHE3NEN2b2Z4OWxkREdMMEZ2TGJn?oc=5",
-      "source": "Whisky Advocate",
-      "publishedAt": "2026-11-24T13:54:43Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "a218d867ad6325aec88f",
-      "title": "India and UK dispute labels for bulk Scotch whisky imports - NewsBytes",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNklVVmVjZmFvNHFyeGRPUEZqZUh0OTBndGhqWXBaOHVNRk1oQzVYaFo0c2pyLU9lX1RLU2Y3NGJqVUpLc2VOVDV2ckRCRFhOb2s2V0NRaVltbGJRcjhKSVVvRmhHb0NtRC12ZF81cVhKWG9QS25rQkpiajZzWGl4S2NzY3lNR3BVYmxsUHBjNmR6Wk5ZbVdhNDJsT3RwV3RWQ3VvbGVHc0RCUQ?oc=5",
-      "source": "NewsBytes",
-      "publishedAt": "2026-11-24T13:05:48Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "1248605c0420edb8f35b",
-      "title": "India-UK trade pact explained: The HS code dispute over bulk Scotch whisky imports - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdFlOWUtPcERRQS1TSzIzLUZDU2FiejVITEZOS0Y3VVRHa0dzcUR3aXgweC1RRkVtRlNPamJlY09sUWFqQ0lVYi1vR0lWNHk2cXJnTmphT1F3aTI3MVFRcEU4XzJnUEhRZGRfSDhlQ0VSN1Zyd0ZlU3dUa0dwZWljQjhlSUtTVkZISGt3MTRXQlZNTEhlRnY2OHhyRGxUem5rY1lWYms0V1RZZjFRQU5yS1puLVFUOVJWVERSNmpTamQ2MTBsVnI1NExSaEJ2TER4QVV3SlRTazc5cEg1WXdz0gHmAUFVX3lxTE5VekFhRTMyU1R6Uk5oaVNkN1hvTHQ5VGR6TWVYdVhzUmtDdnF0RDNNY0NNUWxDazIxbHFuQmJNWkltNnFNMVpMMTMyUG5CZDgwdFBhQy1XLWhSV1Z6cVh6OEc4eXdvdFBwZHMwR2l2UmRyVkpwQnAyTUtrdWpLY2h4WFZFLVRJb3c1d0l0cDkyb3ctMGx4NDVQNXg0X3A2UktXVnlLLUlLQ0xNRXNxaE5hS3lSWnJHNE5xZGZFdVM3MW5UWThJazZBOFdRc3QxT0pxZlJTVnQ0VC1FWGY3dzFJVEo5VnBB?oc=5",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-24T12:47:56Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "imageChecked": true
-    },
-    {
-      "id": "553a3e0ec8c7359f9c7e",
-      "title": "Pursuit Spirits Ends Mellwood Legacy Whiskey Collection",
-      "url": "https://thewhiskeywash.com/whiskey-news/pursuit-spirits-ends-mellwood-legacy-whiskey-collection/",
-      "source": "The Whiskey Wash",
-      "publishedAt": "2026-11-24T12:35:37Z",
-      "category": "industry",
-      "language": "en",
-      "region": "international",
-      "image": "https://thewhiskeywash.com/wp-content/uploads/2026/11/pursuit-spirits-ends-mellwood-legacy-whiskey-collection-1-500x256.png"
     }
   ]
 }
